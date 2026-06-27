@@ -12,8 +12,9 @@ import type { AnswerInput } from "@/lib/practice-session-service";
 import { prisma } from "@/db";
 import { evaluateAndPersistRewards } from "@/lib/rewards";
 
-export async function startSession() {
-  const { session } = await startPracticeSession("maths");
+export async function startSession(formData: FormData) {
+  const subject = (formData.get("subject") as string | null) ?? "maths";
+  const { session } = await startPracticeSession(subject);
   redirect(`/session/${session.id}`);
 }
 

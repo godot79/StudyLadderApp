@@ -1,0 +1,1163 @@
+[
+  {
+    "prompt": "Which word correctly fills the blank: 'I can ___ the birds singing.'",
+    "optionA": "hear",
+    "optionB": "here",
+    "optionC": "her",
+    "optionD": "herd",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word correctly fills the blank: '___ going to the park today.'",
+    "optionA": "Were",
+    "optionB": "We're",
+    "optionC": "Where",
+    "optionD": "Wear",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which of these is spelled correctly?",
+    "optionA": "beautifull",
+    "optionB": "beutiful",
+    "optionC": "beautiful",
+    "optionD": "beautful",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which of these is spelled correctly?",
+    "optionA": "freind",
+    "optionB": "frend",
+    "optionC": "friened",
+    "optionD": "friend",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word correctly fills the blank: 'The dog wagged ___ tail.'",
+    "optionA": "it's",
+    "optionB": "its'",
+    "optionC": "its",
+    "optionD": "itis",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What type of word is 'quickly'?",
+    "optionA": "noun",
+    "optionB": "verb",
+    "optionC": "adjective",
+    "optionD": "adverb",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What type of word is 'happiness'?",
+    "optionA": "noun",
+    "optionB": "verb",
+    "optionC": "adjective",
+    "optionD": "adverb",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What type of word is 'enormous'?",
+    "optionA": "noun",
+    "optionB": "verb",
+    "optionC": "adjective",
+    "optionD": "adverb",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What type of word is 'sprint'?",
+    "optionA": "noun",
+    "optionB": "verb",
+    "optionC": "adjective",
+    "optionD": "adverb",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which sentence is in the past tense?",
+    "optionA": "She runs to school.",
+    "optionB": "She ran to school.",
+    "optionC": "She will run to school.",
+    "optionD": "She is running to school.",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word is a conjunction?",
+    "optionA": "slowly",
+    "optionB": "happy",
+    "optionC": "because",
+    "optionD": "jumped",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which of these is a proper noun?",
+    "optionA": "table",
+    "optionB": "city",
+    "optionC": "flower",
+    "optionD": "London",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the plural of 'child'?",
+    "optionA": "childs",
+    "optionB": "childes",
+    "optionC": "children",
+    "optionD": "childrens",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Where should the apostrophe go in the word 'dont'?",
+    "optionA": "don't",
+    "optionB": "dont'",
+    "optionC": "d'ont",
+    "optionD": "do'nt",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which sentence is punctuated correctly?",
+    "optionA": "i went to London last week.",
+    "optionB": "I went to london last week.",
+    "optionC": "I went to London last week",
+    "optionD": "I went to London last week.",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which sentence uses an apostrophe correctly to show possession?",
+    "optionA": "The dogs bone was buried.",
+    "optionB": "The dog's bone was buried.",
+    "optionC": "The dog,s bone was buried.",
+    "optionD": "The dogs' bone was buried.",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which sentence uses commas correctly in a list?",
+    "optionA": "I like apples, bananas, and oranges.",
+    "optionB": "I, like apples bananas and oranges.",
+    "optionC": "I like, apples bananas, and oranges.",
+    "optionD": "I like apples bananas, and, oranges.",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word means the same as 'happy'?",
+    "optionA": "sad",
+    "optionB": "cheerful",
+    "optionC": "angry",
+    "optionD": "tired",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word means the opposite of 'ancient'?",
+    "optionA": "old",
+    "optionB": "antique",
+    "optionC": "modern",
+    "optionD": "historic",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word means the same as 'big'?",
+    "optionA": "tiny",
+    "optionB": "small",
+    "optionC": "enormous",
+    "optionD": "thin",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word best describes speaking very quietly?",
+    "optionA": "shouted",
+    "optionB": "yelled",
+    "optionC": "announced",
+    "optionD": "whispered",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What does the word 'furious' mean?",
+    "optionA": "very happy",
+    "optionB": "very tired",
+    "optionC": "very angry",
+    "optionD": "very scared",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What does the prefix 'un-' mean in the word 'unhappy'?",
+    "optionA": "very",
+    "optionB": "more",
+    "optionC": "not",
+    "optionD": "less",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word uses the suffix '-ful'?",
+    "optionA": "running",
+    "optionB": "careful",
+    "optionC": "jumped",
+    "optionD": "walking",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which word is a synonym for 'fast'?",
+    "optionA": "slow",
+    "optionB": "careful",
+    "optionC": "rapid",
+    "optionD": "heavy",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which sentence shows that one girl owns a bag?",
+    "optionA": "The girls bag is red.",
+    "optionB": "The girl's bag is red.",
+    "optionC": "The girls' bag is red.",
+    "optionD": "The girl,s bag is red.",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is a subordinating conjunction?",
+    "optionA": "and",
+    "optionB": "but",
+    "optionC": "although",
+    "optionD": "or",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which prefix changes 'appear' to mean 'vanish'?",
+    "optionA": "un-",
+    "optionB": "dis-",
+    "optionC": "mis-",
+    "optionD": "re-",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is a simile?",
+    "optionA": "A word that means the same as another",
+    "optionB": "A comparison using 'like' or 'as'",
+    "optionC": "A word opposite in meaning",
+    "optionD": "Giving human qualities to an object",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What type of sentence is: 'Shut the door'?",
+    "optionA": "statement",
+    "optionB": "question",
+    "optionC": "command",
+    "optionD": "exclamation",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is the adverb in: 'She sang beautifully on the stage'?",
+    "optionA": "She",
+    "optionB": "sang",
+    "optionC": "beautifully",
+    "optionD": "stage",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which of these is a question?",
+    "optionA": "I wonder where she went",
+    "optionB": "Where did she go?",
+    "optionC": "She went outside",
+    "optionD": "Go outside now",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word correctly completes: 'He ___ his homework because he was tired'?",
+    "optionA": "forget",
+    "optionB": "forgot",
+    "optionC": "forgetted",
+    "optionD": "forgotten",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What does the prefix 'mis-' mean in 'misunderstand'?",
+    "optionA": "again",
+    "optionB": "not",
+    "optionC": "wrongly",
+    "optionD": "before",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is most formal?",
+    "optionA": "kid",
+    "optionB": "child",
+    "optionC": "youngster",
+    "optionD": "little one",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which sentence contains an expanded noun phrase?",
+    "optionA": "The dog barked.",
+    "optionB": "The large, fluffy dog barked loudly.",
+    "optionC": "She ran.",
+    "optionD": "He sat down.",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which conjunction joins two equally important clauses?",
+    "optionA": "because",
+    "optionB": "although",
+    "optionC": "and",
+    "optionD": "while",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What does 'reluctant' mean?",
+    "optionA": "excited and eager",
+    "optionB": "unwilling or hesitant",
+    "optionC": "noisy and loud",
+    "optionD": "careful and neat",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is the correct choice: 'I ___ the letter yesterday.'",
+    "optionA": "sent",
+    "optionB": "scent",
+    "optionC": "cent",
+    "optionD": "send",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is an antonym for 'cowardly'?",
+    "optionA": "timid",
+    "optionB": "fearful",
+    "optionC": "brave",
+    "optionD": "quiet",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word uses the prefix 're-' to mean 'again'?",
+    "optionA": "rebuild",
+    "optionB": "ready",
+    "optionC": "remove",
+    "optionD": "really",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What punctuation mark ends a question?",
+    "optionA": ".",
+    "optionB": "!",
+    "optionC": "?",
+    "optionD": ",",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is an abstract noun?",
+    "optionA": "table",
+    "optionB": "dog",
+    "optionC": "joy",
+    "optionD": "run",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What does 'inquisitive' mean?",
+    "optionA": "very quiet",
+    "optionB": "eager to learn or know things",
+    "optionC": "very strong",
+    "optionD": "very fast",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What punctuation mark is used to show someone is speaking?",
+    "optionA": "brackets",
+    "optionB": "speech marks",
+    "optionC": "hyphens",
+    "optionD": "commas",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which sentence contains a relative clause?",
+    "optionA": "The cat slept.",
+    "optionB": "The cat, which was old, slept by the fire.",
+    "optionC": "The old cat slept.",
+    "optionD": "The cat slept quietly.",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What does adding the suffix '-ness' to 'happy' do?",
+    "optionA": "Changes it to a verb",
+    "optionB": "Changes it to an adverb",
+    "optionC": "Changes it to a noun",
+    "optionD": "Changes it to an adjective",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is a modal verb?",
+    "optionA": "run",
+    "optionB": "might",
+    "optionC": "slowly",
+    "optionD": "blue",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence is in the present perfect tense?",
+    "optionA": "She runs every day.",
+    "optionB": "She ran yesterday.",
+    "optionC": "She has run a marathon.",
+    "optionD": "She will run tomorrow.",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What does 'impartial' mean?",
+    "optionA": "unfair and biased",
+    "optionB": "not taking sides, fair",
+    "optionC": "taking one side strongly",
+    "optionD": "very opinionated",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word is a preposition in: 'The cat sat on the mat'?",
+    "optionA": "cat",
+    "optionB": "sat",
+    "optionC": "on",
+    "optionD": "mat",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence uses a colon correctly?",
+    "optionA": "I need: to go shopping.",
+    "optionB": "I need the following: milk, bread, and eggs.",
+    "optionC": "I need milk: and bread.",
+    "optionD": "I:need milk and bread.",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word is spelled correctly?",
+    "optionA": "recieve",
+    "optionB": "believe",
+    "optionC": "freind",
+    "optionD": "wierd",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence is in the passive voice?",
+    "optionA": "The cat chased the mouse.",
+    "optionB": "The mouse was chased by the cat.",
+    "optionC": "The cat is chasing the mouse.",
+    "optionD": "The cat has chased the mouse.",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word is a synonym for 'determined'?",
+    "optionA": "lazy",
+    "optionB": "hesitant",
+    "optionC": "resolute",
+    "optionD": "careless",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence contains a fronted adverbial?",
+    "optionA": "She runs every day.",
+    "optionB": "Every day, she runs to school.",
+    "optionC": "She runs to school every day.",
+    "optionD": "She will run to school soon.",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What punctuation should follow a fronted adverbial?",
+    "optionA": "full stop",
+    "optionB": "comma",
+    "optionC": "colon",
+    "optionD": "semi-colon",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word is spelled correctly?",
+    "optionA": "neccessary",
+    "optionB": "necessery",
+    "optionC": "necessary",
+    "optionD": "neccesary",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word is a relative pronoun?",
+    "optionA": "quickly",
+    "optionB": "beautiful",
+    "optionC": "which",
+    "optionD": "jumped",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence is in the formal register?",
+    "optionA": "Hey, wanna come to my party?",
+    "optionB": "Would you like to attend my party?",
+    "optionC": "Come to my party, yeah?",
+    "optionD": "My party is gonna be great!",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What does 'persevere' mean?",
+    "optionA": "give up when things are hard",
+    "optionB": "continue despite difficulty",
+    "optionC": "move very quickly",
+    "optionD": "speak very loudly",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is a compound sentence?",
+    "optionA": "A sentence with one clause",
+    "optionB": "Two independent clauses joined by a conjunction",
+    "optionC": "A sentence with a subordinate clause",
+    "optionD": "A sentence that asks a question",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word is a determiner?",
+    "optionA": "quickly",
+    "optionB": "the",
+    "optionC": "jumped",
+    "optionD": "happy",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the root word in 'unhelpful'?",
+    "optionA": "unhelpful",
+    "optionB": "helpful",
+    "optionC": "help",
+    "optionD": "ful",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What does 'concise' mean?",
+    "optionA": "very long and detailed",
+    "optionB": "short and clear",
+    "optionC": "difficult to understand",
+    "optionD": "old-fashioned",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence uses brackets correctly?",
+    "optionA": "The cat (black and white) slept on the sofa.",
+    "optionB": "The cat (black and white slept on the sofa.",
+    "optionC": "(The cat) slept on the sofa.",
+    "optionD": "The cat black (and white) slept on the sofa.",
+    "correctOption": "A",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What does a semi-colon do?",
+    "optionA": "Ends a sentence",
+    "optionB": "Links two closely related independent clauses",
+    "optionC": "Introduces a list",
+    "optionD": "Shows possession",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which of these words is spelled correctly?",
+    "optionA": "accomodation",
+    "optionB": "reccommend",
+    "optionC": "environment",
+    "optionD": "miniscule",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What does 'ambitious' mean?",
+    "optionA": "lazy and unmotivated",
+    "optionB": "having a strong desire to succeed",
+    "optionC": "very careful and cautious",
+    "optionD": "easily confused",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is a metaphor?",
+    "optionA": "A comparison using 'like' or 'as'",
+    "optionB": "A direct comparison saying one thing IS another",
+    "optionC": "Giving human qualities to an object",
+    "optionD": "A word that sounds like its meaning",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is personification?",
+    "optionA": "Comparing two things using 'like'",
+    "optionB": "Giving human qualities to a non-human thing",
+    "optionC": "Repeating consonant sounds",
+    "optionD": "Exaggerating for effect",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is alliteration?",
+    "optionA": "A rhyming pattern",
+    "optionB": "The repetition of initial consonant sounds",
+    "optionC": "A comparison using 'as'",
+    "optionD": "A word meaning the same as another",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which word is a synonym for 'contemplate'?",
+    "optionA": "ignore",
+    "optionB": "rush",
+    "optionC": "consider",
+    "optionD": "destroy",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is onomatopoeia?",
+    "optionA": "Exaggeration for effect",
+    "optionB": "A word that sounds like what it describes",
+    "optionC": "Repetition of consonant sounds",
+    "optionD": "A poetic rhythm pattern",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does 'ambiguous' mean?",
+    "optionA": "very clear and specific",
+    "optionB": "having more than one possible meaning",
+    "optionC": "completely wrong",
+    "optionD": "extremely confident",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which sentence uses a hyphen correctly?",
+    "optionA": "She is well known in the town.",
+    "optionB": "She is well-known in the town.",
+    "optionC": "She is well:known in the town.",
+    "optionD": "She is well,known in the town.",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which sentence is in the subjunctive mood?",
+    "optionA": "If I was you, I would stay.",
+    "optionB": "If I were you, I would stay.",
+    "optionC": "I was staying home.",
+    "optionD": "She was quiet.",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does the Latin root 'aud-' mean, as in 'audience' and 'audible'?",
+    "optionA": "see",
+    "optionB": "hear",
+    "optionC": "speak",
+    "optionD": "write",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is a clause?",
+    "optionA": "A type of punctuation mark",
+    "optionB": "A group of words containing a subject and a verb",
+    "optionC": "A word that describes a noun",
+    "optionD": "A word used to join two sentences",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which word is correctly spelled?",
+    "optionA": "accomodation",
+    "optionB": "accommodate",
+    "optionC": "acommodation",
+    "optionD": "accomodate",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does 'tenacious' mean?",
+    "optionA": "easily giving up",
+    "optionB": "holding firmly to something, persistent",
+    "optionC": "very gentle and kind",
+    "optionD": "quick and energetic",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which sentence uses dashes correctly to add extra information?",
+    "optionA": "She ran-quickly to the door.",
+    "optionB": "She grabbed her bag — keys, phone, and purse — and left.",
+    "optionC": "She ran to the — door.",
+    "optionD": "She — ran to the door quickly.",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is hyperbole?",
+    "optionA": "Giving objects human feelings",
+    "optionB": "Exaggeration used for effect",
+    "optionC": "A direct comparison",
+    "optionD": "A word that sounds like its meaning",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does the prefix 'trans-' mean, as in 'transport' and 'transfer'?",
+    "optionA": "before",
+    "optionB": "against",
+    "optionC": "across",
+    "optionD": "again",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the effect of using short sentences in writing?",
+    "optionA": "To confuse the reader",
+    "optionB": "To create pace and tension",
+    "optionC": "To describe something in detail",
+    "optionD": "To slow the reader down",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does 'eloquent' mean?",
+    "optionA": "speaking rudely",
+    "optionB": "speaking very quietly",
+    "optionC": "expressing ideas clearly and effectively",
+    "optionD": "refusing to speak",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does an ellipsis (...) suggest in writing?",
+    "optionA": "The sentence is very long",
+    "optionB": "A pause, trailing thought, or omission",
+    "optionC": "Something is very important",
+    "optionD": "Someone is speaking",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does 'scrutinise' mean?",
+    "optionA": "To ignore completely",
+    "optionB": "To examine very carefully",
+    "optionC": "To speak loudly",
+    "optionD": "To walk quickly",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What does the prefix 'auto-' mean, as in 'automatic' and 'autobiography'?",
+    "optionA": "self",
+    "optionB": "against",
+    "optionC": "before",
+    "optionD": "across",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the active voice of 'The window was broken by Tom'?",
+    "optionA": "Tom broke the window.",
+    "optionB": "Tom was breaking the window.",
+    "optionC": "The window broke.",
+    "optionD": "Tom had broken the window.",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which sentence uses a semi-colon correctly?",
+    "optionA": "She loves reading; she visits the library every week.",
+    "optionB": "She loves reading; and she visits the library.",
+    "optionC": "She; loves reading every week.",
+    "optionD": "She loves reading every; week.",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is a subordinate clause?",
+    "optionA": "A clause that can stand alone as a sentence",
+    "optionB": "A clause that depends on a main clause to make sense",
+    "optionC": "A clause that asks a question",
+    "optionD": "A clause containing only a noun",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does 'ambivalent' mean?",
+    "optionA": "very certain about something",
+    "optionB": "having mixed or uncertain feelings",
+    "optionC": "completely opposed to something",
+    "optionD": "very enthusiastic",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which sentence maintains consistent tense?",
+    "optionA": "She walked to the shop and buys some milk.",
+    "optionB": "She walked to the shop and bought some milk.",
+    "optionC": "She walks to the shop and bought some milk.",
+    "optionD": "She has walked to the shop and buys some milk.",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the subjunctive mood used for?",
+    "optionA": "Describing actions happening now",
+    "optionB": "Expressing wishes, hypotheticals, or conditions contrary to fact",
+    "optionC": "Describing completed past actions",
+    "optionD": "Giving commands directly",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which sentence uses a colon correctly to introduce an explanation?",
+    "optionA": "I need: to go shopping.",
+    "optionB": "There was one problem: we were lost.",
+    "optionC": "I need milk: eggs and bread.",
+    "optionD": "She ran: to the door.",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does 'eloquence' mean?",
+    "optionA": "rudeness in speech",
+    "optionB": "fluent and persuasive use of language",
+    "optionC": "very quiet speaking",
+    "optionD": "confusion in writing",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "In 'Despite the rain, we walked to school', what is 'Despite the rain'?",
+    "optionA": "A fronted adverbial",
+    "optionB": "A relative clause",
+    "optionC": "A noun phrase",
+    "optionD": "A main clause",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does the idiom 'a blessing in disguise' mean?",
+    "optionA": "A problem that cannot be solved",
+    "optionB": "Something that seems bad but turns out to be good",
+    "optionC": "A gift given in secret",
+    "optionD": "A compliment said rudely",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which word is spelled correctly?",
+    "optionA": "seperate",
+    "optionB": "definitely",
+    "optionC": "occurance",
+    "optionD": "disasterous",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the function of brackets in a sentence?",
+    "optionA": "To show someone is speaking",
+    "optionB": "To add extra, non-essential information",
+    "optionC": "To join two sentences",
+    "optionD": "To show possession",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which word is a synonym for 'apprehensive'?",
+    "optionA": "confident",
+    "optionB": "anxious",
+    "optionC": "content",
+    "optionD": "grateful",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the usual difference between 'affect' and 'effect'?",
+    "optionA": "They mean exactly the same thing",
+    "optionB": "'Affect' is usually a verb; 'effect' is usually a noun",
+    "optionC": "'Effect' is usually a verb; 'affect' is usually a noun",
+    "optionD": "Both are nouns",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which sentence uses dashes correctly?",
+    "optionA": "She ran — very quickly — to catch the bus.",
+    "optionB": "She ran-quickly to catch the bus.",
+    "optionC": "She ran to — catch the bus.",
+    "optionD": "She — ran to catch the bus.",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does 'meticulous' mean?",
+    "optionA": "very careless and hurried",
+    "optionB": "showing great attention to detail",
+    "optionC": "very loud and energetic",
+    "optionD": "feeling sad and gloomy",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which sentence uses 'who' and 'whom' correctly?",
+    "optionA": "To who did you speak?",
+    "optionB": "Whom did you speak to?",
+    "optionC": "Whom spoke to you?",
+    "optionD": "Who did you gave it to?",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does 'inevitable' mean?",
+    "optionA": "very surprising and unexpected",
+    "optionB": "certain to happen, unavoidable",
+    "optionC": "very slow and gradual",
+    "optionD": "possible but unlikely",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which sentence is grammatically correct?",
+    "optionA": "Between you and I, it was wrong.",
+    "optionB": "Between you and me, it was wrong.",
+    "optionC": "Between you and myself, it was wrong.",
+    "optionD": "Between I and you, it was wrong.",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the purpose of a rhetorical question?",
+    "optionA": "To ask for specific information from the reader",
+    "optionB": "To create a pause in the writing",
+    "optionC": "To engage the reader without expecting an answer",
+    "optionD": "To confuse the reader",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is an oxymoron?",
+    "optionA": "Exaggeration used for effect",
+    "optionB": "A phrase that combines two contradictory terms",
+    "optionC": "Giving human qualities to objects",
+    "optionD": "Repeating a consonant sound",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does the root 'bene-' mean, as in 'benefit' and 'benevolent'?",
+    "optionA": "evil or bad",
+    "optionB": "fast",
+    "optionC": "good or well",
+    "optionD": "before",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is a gerund?",
+    "optionA": "A verb used as an adverb",
+    "optionB": "A verb form ending in -ing used as a noun",
+    "optionC": "A past participle",
+    "optionD": "A connecting word",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Which of these is an example of a paradox?",
+    "optionA": "The cat sat on the mat.",
+    "optionB": "I know that I know nothing.",
+    "optionC": "She ran quickly.",
+    "optionD": "The sun rose in the east.",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does 'circumlocution' mean?",
+    "optionA": "Speaking directly and briefly",
+    "optionB": "Using many words to say something that could be said simply",
+    "optionC": "Giving a speech from memory",
+    "optionD": "Choosing unusual or rare words",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is anaphora?",
+    "optionA": "Repetition of a word at the end of successive clauses",
+    "optionB": "Repetition of a word or phrase at the start of successive clauses",
+    "optionC": "A comparison using 'like' or 'as'",
+    "optionD": "A word that sounds like what it means",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does 'loquacious' mean?",
+    "optionA": "very quiet and reserved",
+    "optionB": "talkative, fond of talking",
+    "optionC": "angry and hostile",
+    "optionD": "intelligent and thoughtful",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the key difference between 'imply' and 'infer'?",
+    "optionA": "They mean exactly the same thing",
+    "optionB": "'Imply' means to suggest; 'infer' means to draw a conclusion from evidence",
+    "optionC": "'Infer' means to state something directly; 'imply' means to guess",
+    "optionD": "Both mean to state something clearly",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does the prefix 'mal-' mean, as in 'malevolent' and 'malfunction'?",
+    "optionA": "good",
+    "optionB": "fast",
+    "optionC": "bad or wrongly",
+    "optionD": "before",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is a synecdoche?",
+    "optionA": "A type of irony",
+    "optionB": "Using a part to represent a whole, or vice versa",
+    "optionC": "Extreme exaggeration",
+    "optionD": "A comparison using 'like' or 'as'",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does 'equivocate' mean?",
+    "optionA": "To be extremely clear",
+    "optionB": "To use ambiguous language to avoid commitment",
+    "optionC": "To speak very loudly",
+    "optionD": "To change one's mind quickly",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is epistrophe?",
+    "optionA": "Repetition of words at the beginning of clauses",
+    "optionB": "Repetition of words at the end of successive clauses",
+    "optionC": "A comparison without 'like' or 'as'",
+    "optionD": "Giving human qualities to objects",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "In 'It is vital that he attend the meeting', why is 'attend' used rather than 'attends'?",
+    "optionA": "It is in the subjunctive mood, which uses the base form",
+    "optionB": "It is in the future tense",
+    "optionC": "It follows a preposition",
+    "optionD": "It is in the past tense",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does 'lugubrious' mean?",
+    "optionA": "very cheerful and bright",
+    "optionB": "mournful, dismal, or gloomy",
+    "optionC": "extremely energetic",
+    "optionD": "very precise and careful",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is a euphemism?",
+    "optionA": "A type of metaphor",
+    "optionB": "An extreme exaggeration",
+    "optionC": "A mild expression used in place of something unpleasant",
+    "optionD": "A comparison using 'like' or 'as'",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does the suffix '-ology' mean, as in 'biology' and 'psychology'?",
+    "optionA": "the study of",
+    "optionB": "the practice of",
+    "optionC": "the opposite of",
+    "optionD": "the result of",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is assonance?",
+    "optionA": "Repetition of initial consonant sounds",
+    "optionB": "Repetition of vowel sounds in nearby words",
+    "optionC": "A word that sounds like what it describes",
+    "optionD": "Rhyming only at the end of lines",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does 'perspicacious' mean?",
+    "optionA": "very clumsy",
+    "optionB": "having a sharp insight or understanding",
+    "optionC": "very talkative",
+    "optionD": "extremely cautious",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the function of a colon in 'There was only one explanation: he had lied'?",
+    "optionA": "To show possession",
+    "optionB": "To introduce an explanation or elaboration",
+    "optionC": "To link two unrelated clauses",
+    "optionD": "To separate items in a list",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is polysemy?",
+    "optionA": "When a word has only one possible meaning",
+    "optionB": "When the same word has multiple related meanings",
+    "optionC": "When two different words sound the same",
+    "optionD": "When two words are opposite in meaning",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  }
+]

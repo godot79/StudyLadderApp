@@ -14,7 +14,7 @@ const SUBJECTS = [
     key: "english",
     label: "English",
     emoji: "📚",
-    playable: false,
+    playable: true,
     headerClass: "bg-gradient-to-br from-emerald-400 to-teal-500",
   },
   {
@@ -258,6 +258,7 @@ export default async function Home() {
 
                     {subject.playable && (
                       <form action={startSession} className="mt-3">
+                        <input type="hidden" name="subject" value={subject.key} />
                         <button
                           type="submit"
                           className="w-full rounded-xl bg-indigo-600 py-2.5 text-sm font-bold text-white shadow-sm transition-all duration-100 hover:bg-indigo-700 active:scale-[0.98]"
