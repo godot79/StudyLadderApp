@@ -100,8 +100,10 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
   if (sessionQuestions.length === 0) {
     return (
       <main className="flex min-h-screen flex-col items-center justify-center gap-4 p-8">
-        <p className="text-red-600">No questions found for this session.</p>
-        <a href="/" className="text-blue-600 underline">Go home</a>
+        <p className="text-rose-600">No questions found for this session.</p>
+        <a href="/" className="text-indigo-600 underline">
+          Go home
+        </a>
       </main>
     );
   }
@@ -109,7 +111,7 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
   if (completing && !error) {
     return (
       <main className="flex min-h-screen flex-col items-center justify-center gap-4 p-8">
-        <p className="text-xl text-gray-600">Saving your results…</p>
+        <p className="text-xl text-indigo-400">Saving your results…</p>
       </main>
     );
   }
@@ -117,8 +119,10 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
   if (error) {
     return (
       <main className="flex min-h-screen flex-col items-center justify-center gap-4 p-8">
-        <p className="text-red-600">{error}</p>
-        <a href="/" className="text-blue-600 underline">Go home</a>
+        <p className="text-rose-600">{error}</p>
+        <a href="/" className="text-indigo-600 underline">
+          Go home
+        </a>
       </main>
     );
   }
@@ -126,51 +130,84 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
   const { question } = currentSq;
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center gap-6 p-6">
-      {/* Progress and timer */}
-      <div className="flex w-full max-w-md justify-between text-sm">
-        <span className="text-gray-500">
-          Question {currentIndex + 1} of {sessionQuestions.length}
-        </span>
-        <span
-          className={
-            timeLeft <= 10
-              ? "font-bold text-red-500"
-              : "text-gray-500"
-          }
-        >
-          {timeLeft}s
-        </span>
-      </div>
+    <main className="flex min-h-screen flex-col items-center justify-center p-6">
+      <div className="flex w-full max-w-xl flex-col gap-6">
 
-      {/* Question */}
-      <p className="max-w-md text-center text-2xl font-semibold leading-snug">
-        {question.prompt}
-      </p>
+        {/* Progress dots + counter */}
+        <div className="flex items-center justify-between">
+          <div className="flex gap-1.5">
+            {sessionQuestions.map((_, i) => (
+              <div
+                key={i}
+                className={`h-2 w-6 rounded-full transition-colors duration-300 ${
+                  i < currentIndex
+                    ? "bg-indigo-300"
+                    : i === currentIndex
+                    ? "bg-indigo-600"
+                    : "bg-gray-200"
+                }`}
+              />
+            ))}
+          </div>
+          <span className="text-sm font-medium text-gray-400">
+            {currentIndex + 1} / {sessionQuestions.length}
+          </span>
+        </div>
 
-      {/* Options */}
-      <div className="flex w-full max-w-md flex-col gap-3">
-        {OPTIONS.map((opt) => (
-          <button
-            key={opt}
-            onClick={() => void advance(opt)}
-            className="flex items-center gap-4 rounded-2xl border-2 border-gray-200 bg-white px-5 py-4 text-left text-lg hover:border-blue-500 hover:bg-blue-50 active:bg-blue-100"
+        {/* Timer bar */}
+        <div className="flex flex-col gap-1">
+          <div className="h-2 w-full overflow-hidden rounded-full bg-gray-100">
+            <div
+              className={`h-2 rounded-full transition-all duration-1000 ease-linear ${
+                timeLeft <= 10 ? "bg-rose-500" : "bg-teal-400"
+              }`}
+              style={{ width: `${(timeLeft / TIMER_SECONDS) * 100}%` }}
+            />
+          </div>
+          <p
+            className={`text-right text-xs font-semibold tabular-nums ${
+              timeLeft <= 10 ? "text-rose-500" : "text-gray-400"
+            }`}
           >
-            <span className="w-7 shrink-0 text-center font-bold text-gray-400">
-              {opt}
-            </span>
-            <span>{question[OPTION_KEY[opt]]}</span>
-          </button>
-        ))}
-      </div>
+            {timeLeft}s
+          </p>
+        </div>
 
-      {/* Skip */}
-      <button
-        onClick={() => void advance(null)}
-        className="mt-2 text-sm text-gray-400 underline"
-      >
-        Skip this question
-      </button>
+        {/* Question card */}
+        <div className="rounded-3xl bg-white px-8 py-10 text-center shadow-sm ring-1 ring-indigo-100">
+          <p className="text-2xl font-bold leading-snug text-indigo-950">
+            {question.prompt}
+          </p>
+        </div>
+
+        {/* Answer buttons */}
+        <div className="flex flex-col gap-3">
+          {OPTIONS.map((opt) => (
+            <button
+              key={opt}
+              onClick={() => void advance(opt)}
+              className="group flex items-center gap-4 rounded-2xl border-2 border-transparent bg-white px-5 py-4 text-left shadow-sm ring-1 ring-gray-100 transition-all duration-100 hover:border-indigo-400 hover:shadow-md active:scale-[0.98]"
+            >
+              <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-indigo-50 text-sm font-bold text-indigo-400 transition-colors duration-100 group-hover:bg-indigo-600 group-hover:text-white">
+                {opt}
+              </span>
+              <span className="text-lg font-medium text-gray-800">
+                {question[OPTION_KEY[opt]]}
+              </span>
+            </button>
+          ))}
+        </div>
+
+        {/* Skip */}
+        <div className="text-center">
+          <button
+            onClick={() => void advance(null)}
+            className="text-sm text-gray-400 underline transition-colors hover:text-gray-600"
+          >
+            Skip this question
+          </button>
+        </div>
+      </div>
     </main>
   );
 }
