@@ -66,6 +66,16 @@ export async function startPracticeSession(subject: string) {
   });
 }
 
+export async function saveSessionAnswer(
+  sessionQuestionId: string,
+  selectedOption: string | null
+) {
+  await prisma.sessionQuestion.update({
+    where: { id: sessionQuestionId },
+    data: { selectedOption, answeredAt: new Date() },
+  });
+}
+
 export type AnswerInput = {
   sessionQuestionId: string;
   selectedOption: string | null;
@@ -92,7 +102,10 @@ export async function completePracticeSession(
   const answerMap = new Map(answers.map((a) => [a.sessionQuestionId, a.selectedOption]));
 
   const resolved = session.questions.map((sq) => {
-    const selectedOption = answerMap.get(sq.id) ?? null;
+    // Prefer client-sent answer; fall back to DB-persisted value from saveSessionAnswer.
+    const selectedOption = answerMap.has(sq.id)
+      ? (answerMap.get(sq.id) ?? null)
+      : (sq.selectedOption ?? null);
     const outcome = evaluateAnswer(sq.question.correctOption, selectedOption);
     return { sq, selectedOption, outcome };
   });

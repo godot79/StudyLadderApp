@@ -22,6 +22,7 @@ const {
   getDefaultChild,
   startPracticeSession,
   completePracticeSession,
+  saveSessionAnswer,
 } = await import("@/lib/practice-session-service");
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -307,5 +308,50 @@ describe("completePracticeSession", () => {
     expect(result).toHaveProperty("completedAt");
     expect(result).toHaveProperty("shownQuestionIds");
     expect(result).toHaveProperty("progressDelta");
+  });
+
+  it("uses DB selectedOption as fallback for questions not in client answer list", async () => {
+    const session = makeSession();
+    // Q0 has a DB-persisted answer of "B" (incorrect — correctOption is "A")
+    session.questions[0].selectedOption = "B";
+    mockPrisma.practiceSession.findUnique.mockResolvedValue(session);
+
+    // Client sends answers for Q1–Q9 only (correct "A"), omitting Q0
+    const answers = session.questions.slice(1).map((sq: { id: string }) => ({
+      sessionQuestionId: sq.id,
+      selectedOption: "A",
+    }));
+
+    await completePracticeSession("session-1", answers);
+
+    // Q0 falls back to DB "B" → incorrect; Q1–Q9 use client "A" → correct
+    expect(mockPrisma.practiceSession.update).toHaveBeenCalledWith({
+      where: { id: "session-1" },
+      data: expect.objectContaining({
+        correctCount: 9,
+        incorrectCount: 1,
+        unansweredCount: 0,
+      }),
+    });
+  });
+});
+
+// ── saveSessionAnswer ─────────────────────────────────────────────────────────
+
+describe("saveSessionAnswer", () => {
+  it("updates sessionQuestion with selectedOption and answeredAt", async () => {
+    await saveSessionAnswer("sq-1", "A");
+    expect(mockPrisma.sessionQuestion.update).toHaveBeenCalledWith({
+      where: { id: "sq-1" },
+      data: { selectedOption: "A", answeredAt: expect.any(Date) },
+    });
+  });
+
+  it("persists null for skipped questions", async () => {
+    await saveSessionAnswer("sq-1", null);
+    expect(mockPrisma.sessionQuestion.update).toHaveBeenCalledWith({
+      where: { id: "sq-1" },
+      data: { selectedOption: null, answeredAt: expect.any(Date) },
+    });
   });
 });

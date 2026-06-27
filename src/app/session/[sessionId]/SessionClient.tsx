@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { completeSession } from "../../actions";
+import { completeSession, saveAnswer } from "../../actions";
 
 type QuestionData = {
   prompt: string;
@@ -14,6 +14,8 @@ type QuestionData = {
 type SessionQuestion = {
   id: string;
   questionOrder: number;
+  selectedOption: string | null;
+  seen: boolean;
   question: QuestionData;
 };
 
@@ -35,8 +37,18 @@ const OPTION_KEY: Record<Option, keyof QuestionData> = {
 const TIMER_SECONDS = 30;
 
 export default function SessionClient({ sessionId, sessionQuestions }: Props) {
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [answers, setAnswers] = useState<Record<string, string | null>>({});
+  // Restore answers and position from DB-persisted state (survives refresh).
+  const initialAnswers = Object.fromEntries(
+    sessionQuestions
+      .filter((sq) => sq.seen)
+      .map((sq) => [sq.id, sq.selectedOption])
+  );
+  const firstUnseen = sessionQuestions.findIndex((sq) => !sq.seen);
+  const startIndex =
+    firstUnseen === -1 ? sessionQuestions.length - 1 : firstUnseen;
+
+  const [currentIndex, setCurrentIndex] = useState(startIndex);
+  const [answers, setAnswers] = useState<Record<string, string | null>>(initialAnswers);
   const [timeLeft, setTimeLeft] = useState(TIMER_SECONDS);
   const [completing, setCompleting] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -74,6 +86,8 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
         setError("Something went wrong saving your results.");
       }
     } else {
+      // Persist this answer immediately; don't await so the UI advances without delay.
+      void saveAnswer(currentSq.id, selectedOption);
       setCurrentIndex((i) => i + 1);
     }
   }

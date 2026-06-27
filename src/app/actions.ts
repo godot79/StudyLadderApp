@@ -5,6 +5,7 @@ import { revalidatePath } from "next/cache";
 import {
   startPracticeSession,
   completePracticeSession,
+  saveSessionAnswer,
 } from "@/lib/practice-session-service";
 import type { AnswerInput } from "@/lib/practice-session-service";
 import { prisma } from "@/db";
@@ -20,6 +21,13 @@ export async function completeSession(
 ) {
   await completePracticeSession(sessionId, answers);
   redirect(`/results/${sessionId}`);
+}
+
+export async function saveAnswer(
+  sessionQuestionId: string,
+  selectedOption: string | null
+) {
+  await saveSessionAnswer(sessionQuestionId, selectedOption);
 }
 
 export async function updateChildName(formData: FormData) {

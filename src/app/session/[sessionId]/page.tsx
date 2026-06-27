@@ -22,10 +22,13 @@ export default async function SessionPage({
   if (!session) notFound();
   if (session.status === "completed") redirect(`/results/${sessionId}`);
 
-  // Strip correctOption — answers are evaluated server-side only
+  // Strip correctOption — answers are evaluated server-side only.
+  // Pass selectedOption + seen so the client can restore state on refresh.
   const sessionQuestions = session.questions.map((sq) => ({
     id: sq.id,
     questionOrder: sq.questionOrder,
+    selectedOption: sq.selectedOption,
+    seen: sq.answeredAt !== null,
     question: {
       prompt: sq.question.prompt,
       optionA: sq.question.optionA,
