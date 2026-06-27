@@ -21,7 +21,7 @@ const SUBJECTS = [
     key: "geography",
     label: "Geography",
     emoji: "🌍",
-    playable: false,
+    playable: true,
     headerClass: "bg-gradient-to-br from-sky-400 to-blue-500",
   },
   {
@@ -187,6 +187,9 @@ export default async function Home() {
               {child.displayName}&apos;s Study Ladder
             </h1>
             <p className="mt-1 text-indigo-400">Great to see you! Keep it up 🌟</p>
+            <span className="mt-2 inline-flex items-center rounded-full bg-indigo-100 px-2.5 py-0.5 text-xs font-semibold text-indigo-700">
+              {child.levelBand}
+            </span>
           </div>
           <Link
             href="/settings"

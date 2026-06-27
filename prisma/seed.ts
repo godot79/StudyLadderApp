@@ -1,6 +1,7 @@
 import { PrismaClient } from "@prisma/client";
 import mathsQuestions from "../data/seed/maths.json";
 import englishQuestions from "../data/seed/english.json";
+import geographyQuestions from "../data/seed/geography.json";
 
 const prisma = new PrismaClient();
 
@@ -51,6 +52,24 @@ async function main() {
   });
 
   console.log(`Seeded ${englishQuestions.length} english questions`);
+
+  await prisma.question.deleteMany({ where: { subject: "geography" } });
+
+  await prisma.question.createMany({
+    data: geographyQuestions.map((q) => ({
+      subject: "geography",
+      levelBand: q.levelBand,
+      prompt: q.prompt,
+      optionA: q.optionA,
+      optionB: q.optionB,
+      optionC: q.optionC,
+      optionD: q.optionD,
+      correctOption: q.correctOption,
+      isActive: true,
+    })),
+  });
+
+  console.log(`Seeded ${geographyQuestions.length} geography questions`);
 }
 
 main()
