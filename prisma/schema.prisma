@@ -16,6 +16,7 @@ model Child {
   sessions        PracticeSession[]
   subjectProgress SubjectProgress[]
   shownQuestions  ShownQuestion[]
+  earnedRewards   EarnedReward[]
 }
 
 model Question {
@@ -93,4 +94,19 @@ model ShownQuestion {
   question Question @relation(fields: [questionId], references: [id])
 
   @@unique([childId, questionId])
+}
+
+model EarnedReward {
+  id         String   @id @default(cuid())
+  childId    String
+  rewardType String
+  rewardKey  String
+  subject    String
+  sessionId  String
+  earnedAt   DateTime @default(now())
+
+  child Child @relation(fields: [childId], references: [id])
+
+  @@index([childId])
+  @@index([sessionId])
 }

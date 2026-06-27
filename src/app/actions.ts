@@ -6,9 +6,11 @@ import {
   startPracticeSession,
   completePracticeSession,
   saveSessionAnswer,
+  getDefaultChild,
 } from "@/lib/practice-session-service";
 import type { AnswerInput } from "@/lib/practice-session-service";
 import { prisma } from "@/db";
+import { evaluateAndPersistRewards } from "@/lib/rewards";
 
 export async function startSession() {
   const { session } = await startPracticeSession("maths");
@@ -19,7 +21,15 @@ export async function completeSession(
   sessionId: string,
   answers: AnswerInput[]
 ) {
-  await completePracticeSession(sessionId, answers);
+  const completion = await completePracticeSession(sessionId, answers);
+  const child = await getDefaultChild();
+  // Evaluate rewards after the session transaction completes.
+  // Failure here does not roll back the session result.
+  const session = await prisma.practiceSession.findUnique({ where: { id: sessionId } });
+  if (session) {
+    await evaluateAndPersistRewards(child.id, sessionId, session.subject);
+  }
+  void completion;
   redirect(`/results/${sessionId}`);
 }
 
