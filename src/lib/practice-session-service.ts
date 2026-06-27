@@ -32,7 +32,7 @@ export async function startPracticeSession(subject: string) {
   ]);
 
   const shownIds = shownRecords.map((r) => r.questionId);
-  const selected = selectQuestions(allQuestions, shownIds);
+  const selected = selectQuestions(allQuestions, shownIds, 10, child.levelBand);
 
   if (selected.length < 10) {
     throw new Error(

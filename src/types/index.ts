@@ -3,6 +3,7 @@ export type AnswerOutcome = "correct" | "incorrect" | "unanswered";
 export type Question = {
   id: string;
   subject: string;
+  levelBand?: string | null;
   prompt: string;
   optionA: string;
   optionB: string;

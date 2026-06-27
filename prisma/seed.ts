@@ -20,6 +20,7 @@ async function main() {
   await prisma.question.createMany({
     data: mathsQuestions.map((q) => ({
       subject: "maths",
+      levelBand: q.levelBand,
       prompt: q.prompt,
       optionA: q.optionA,
       optionB: q.optionB,

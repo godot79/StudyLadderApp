@@ -90,3 +90,97 @@ describe("selectQuestions", () => {
     expect(result).toHaveLength(5);
   });
 });
+
+describe("selectQuestions — level-band filtering", () => {
+  function makeQuestionWithBand(id: string, levelBand: string | null): Question {
+    return makeQuestion(id, { levelBand });
+  }
+
+  it("selects only from the specified level band when the band pool is sufficient", () => {
+    const bandQs = Array.from({ length: 15 }, (_, i) =>
+      makeQuestionWithBand(`band-${i}`, "Age 9")
+    );
+    const otherQs = Array.from({ length: 10 }, (_, i) =>
+      makeQuestionWithBand(`other-${i}`, "Age 10")
+    );
+    const result = selectQuestions([...bandQs, ...otherQs], [], 10, "Age 9");
+    expect(result).toHaveLength(10);
+    for (const q of result) {
+      expect(q.levelBand).toBe("Age 9");
+    }
+  });
+
+  it("falls back to full pool when level-band pool has fewer questions than count", () => {
+    const bandQs = Array.from({ length: 8 }, (_, i) =>
+      makeQuestionWithBand(`band-${i}`, "Age 9")
+    );
+    const otherQs = Array.from({ length: 15 }, (_, i) =>
+      makeQuestionWithBand(`other-${i}`, "Age 10")
+    );
+    const result = selectQuestions([...bandQs, ...otherQs], [], 10, "Age 9");
+    expect(result).toHaveLength(10);
+    // Result must include questions from outside the band (fallback active)
+    const bands = new Set(result.map((q) => q.levelBand));
+    expect(bands.size).toBeGreaterThan(1);
+  });
+
+  it("uses the full pool when levelBand is not provided", () => {
+    const bandQs = Array.from({ length: 5 }, (_, i) =>
+      makeQuestionWithBand(`band-${i}`, "Age 9")
+    );
+    const otherQs = Array.from({ length: 15 }, (_, i) =>
+      makeQuestionWithBand(`other-${i}`, "Age 10")
+    );
+    const result = selectQuestions([...bandQs, ...otherQs], []);
+    expect(result).toHaveLength(10);
+  });
+
+  it("uses the full pool when levelBand is null", () => {
+    const bandQs = Array.from({ length: 5 }, (_, i) =>
+      makeQuestionWithBand(`band-${i}`, "Age 9")
+    );
+    const otherQs = Array.from({ length: 15 }, (_, i) =>
+      makeQuestionWithBand(`other-${i}`, "Age 10")
+    );
+    const result = selectQuestions([...bandQs, ...otherQs], [], 10, null);
+    expect(result).toHaveLength(10);
+  });
+
+  it("prefers unseen questions within the level band", () => {
+    const unseenBand = Array.from({ length: 12 }, (_, i) =>
+      makeQuestionWithBand(`unseen-${i}`, "Age 9")
+    );
+    const seenBand = Array.from({ length: 5 }, (_, i) =>
+      makeQuestionWithBand(`seen-${i}`, "Age 9")
+    );
+    const seenIds = seenBand.map((q) => q.id);
+    const result = selectQuestions([...unseenBand, ...seenBand], seenIds, 10, "Age 9");
+    expect(result).toHaveLength(10);
+    for (const q of result) {
+      expect(seenIds).not.toContain(q.id);
+    }
+  });
+
+  it("recycles seen questions within the band when all band questions have been seen", () => {
+    const bandQs = Array.from({ length: 10 }, (_, i) =>
+      makeQuestionWithBand(`band-${i}`, "Age 9")
+    );
+    const seenIds = bandQs.map((q) => q.id);
+    const result = selectQuestions(bandQs, seenIds, 10, "Age 9");
+    expect(result).toHaveLength(10);
+    // All returned questions are from the band (recycled)
+    for (const q of result) {
+      expect(q.levelBand).toBe("Age 9");
+    }
+  });
+
+  it("treats subjects with no level-band questions as a fallback (simulates non-maths)", () => {
+    // Questions with null levelBand — e.g. English questions not yet tagged
+    const untaggedQs = Array.from({ length: 15 }, (_, i) =>
+      makeQuestionWithBand(`q-${i}`, null)
+    );
+    // Band pool = 0 questions (null !== "Age 9"), triggers fallback to full pool
+    const result = selectQuestions(untaggedQs, [], 10, "Age 9");
+    expect(result).toHaveLength(10);
+  });
+});
