@@ -12,7 +12,8 @@
       "Bash(cp /tmp/sla-scaffold/public/* /Users/godot/CodingProjects/StudyLadderApp/public/)",
       "Bash(npm test *)",
       "Bash(npx prisma *)",
-      "Bash(npx tsx *)"
+      "Bash(npx tsx *)",
+      "Bash(npx tsc *)"
     ]
   }
 }
