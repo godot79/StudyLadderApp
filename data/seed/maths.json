@@ -1,0 +1,202 @@
+[
+  {
+    "prompt": "What is 7 + 8?",
+    "optionA": "13",
+    "optionB": "14",
+    "optionC": "15",
+    "optionD": "16",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 12 × 3?",
+    "optionA": "34",
+    "optionB": "36",
+    "optionC": "38",
+    "optionD": "40",
+    "correctOption": "B"
+  },
+  {
+    "prompt": "What is 48 ÷ 6?",
+    "optionA": "8",
+    "optionB": "7",
+    "optionC": "9",
+    "optionD": "6",
+    "correctOption": "A"
+  },
+  {
+    "prompt": "What is 25 - 17?",
+    "optionA": "6",
+    "optionB": "8",
+    "optionC": "9",
+    "optionD": "12",
+    "correctOption": "B"
+  },
+  {
+    "prompt": "What is 9 × 9?",
+    "optionA": "72",
+    "optionB": "80",
+    "optionC": "81",
+    "optionD": "83",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 100 - 43?",
+    "optionA": "57",
+    "optionB": "53",
+    "optionC": "63",
+    "optionD": "47",
+    "correctOption": "A"
+  },
+  {
+    "prompt": "What is 6 × 7?",
+    "optionA": "36",
+    "optionB": "48",
+    "optionC": "43",
+    "optionD": "42",
+    "correctOption": "D"
+  },
+  {
+    "prompt": "What is 144 ÷ 12?",
+    "optionA": "11",
+    "optionB": "12",
+    "optionC": "13",
+    "optionD": "14",
+    "correctOption": "B"
+  },
+  {
+    "prompt": "What is 35 + 48?",
+    "optionA": "81",
+    "optionB": "82",
+    "optionC": "83",
+    "optionD": "84",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 8 × 8?",
+    "optionA": "64",
+    "optionB": "62",
+    "optionC": "66",
+    "optionD": "68",
+    "correctOption": "A"
+  },
+  {
+    "prompt": "What is 72 ÷ 8?",
+    "optionA": "7",
+    "optionB": "8",
+    "optionC": "10",
+    "optionD": "9",
+    "correctOption": "D"
+  },
+  {
+    "prompt": "What is 56 - 29?",
+    "optionA": "25",
+    "optionB": "27",
+    "optionC": "33",
+    "optionD": "31",
+    "correctOption": "B"
+  },
+  {
+    "prompt": "What is 11 × 4?",
+    "optionA": "40",
+    "optionB": "42",
+    "optionC": "44",
+    "optionD": "46",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 63 ÷ 7?",
+    "optionA": "9",
+    "optionB": "8",
+    "optionC": "7",
+    "optionD": "6",
+    "correctOption": "A"
+  },
+  {
+    "prompt": "What is 24 + 37?",
+    "optionA": "59",
+    "optionB": "60",
+    "optionC": "62",
+    "optionD": "61",
+    "correctOption": "D"
+  },
+  {
+    "prompt": "What is 5 × 12?",
+    "optionA": "55",
+    "optionB": "60",
+    "optionC": "65",
+    "optionD": "70",
+    "correctOption": "B"
+  },
+  {
+    "prompt": "What is 80 - 35?",
+    "optionA": "40",
+    "optionB": "50",
+    "optionC": "45",
+    "optionD": "55",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "Which of these numbers is even?",
+    "optionA": "13",
+    "optionB": "27",
+    "optionC": "55",
+    "optionD": "42",
+    "correctOption": "D"
+  },
+  {
+    "prompt": "What is half of 64?",
+    "optionA": "28",
+    "optionB": "36",
+    "optionC": "30",
+    "optionD": "32",
+    "correctOption": "D"
+  },
+  {
+    "prompt": "What is 3 × 3 × 3?",
+    "optionA": "9",
+    "optionB": "18",
+    "optionC": "27",
+    "optionD": "33",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 4 × 8?",
+    "optionA": "28",
+    "optionB": "30",
+    "optionC": "32",
+    "optionD": "34",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 100 ÷ 4?",
+    "optionA": "20",
+    "optionB": "40",
+    "optionC": "25",
+    "optionD": "50",
+    "correctOption": "C"
+  },
+  {
+    "prompt": "What is 19 + 26?",
+    "optionA": "44",
+    "optionB": "45",
+    "optionC": "46",
+    "optionD": "47",
+    "correctOption": "B"
+  },
+  {
+    "prompt": "What is 81 ÷ 9?",
+    "optionA": "8",
+    "optionB": "7",
+    "optionC": "10",
+    "optionD": "9",
+    "correctOption": "D"
+  },
+  {
+    "prompt": "What is 13 × 5?",
+    "optionA": "60",
+    "optionB": "65",
+    "optionC": "70",
+    "optionD": "75",
+    "correctOption": "B"
+  }
+]

@@ -1,0 +1,96 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Child {
+  id          String   @id @default(cuid())
+  displayName String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  sessions        PracticeSession[]
+  subjectProgress SubjectProgress[]
+  shownQuestions  ShownQuestion[]
+}
+
+model Question {
+  id            String   @id @default(cuid())
+  subject       String
+  prompt        String
+  optionA       String
+  optionB       String
+  optionC       String
+  optionD       String
+  correctOption String
+  isActive      Boolean  @default(true)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  sessionQuestions SessionQuestion[]
+  shownQuestions   ShownQuestion[]
+}
+
+model PracticeSession {
+  id              String    @id @default(cuid())
+  childId         String
+  subject         String
+  status          String
+  totalQuestions  Int       @default(10)
+  correctCount    Int       @default(0)
+  incorrectCount  Int       @default(0)
+  unansweredCount Int       @default(0)
+  startedAt       DateTime  @default(now())
+  completedAt     DateTime?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  child     Child             @relation(fields: [childId], references: [id])
+  questions SessionQuestion[]
+}
+
+model SessionQuestion {
+  id             String    @id @default(cuid())
+  sessionId      String
+  questionId     String
+  questionOrder  Int
+  selectedOption String?
+  outcome        String?
+  shownAt        DateTime  @default(now())
+  answeredAt     DateTime?
+
+  session  PracticeSession @relation(fields: [sessionId], references: [id])
+  question Question        @relation(fields: [questionId], references: [id])
+}
+
+model SubjectProgress {
+  id                     String    @id @default(cuid())
+  childId                String
+  subject                String
+  sessionsCompleted      Int       @default(0)
+  totalQuestionsAnswered Int       @default(0)
+  totalCorrect           Int       @default(0)
+  lastCompletedAt        DateTime?
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @updatedAt
+
+  child Child @relation(fields: [childId], references: [id])
+
+  @@unique([childId, subject])
+}
+
+model ShownQuestion {
+  id           String   @id @default(cuid())
+  childId      String
+  questionId   String
+  firstShownAt DateTime @default(now())
+
+  child    Child    @relation(fields: [childId], references: [id])
+  question Question @relation(fields: [questionId], references: [id])
+
+  @@unique([childId, questionId])
+}

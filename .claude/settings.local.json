@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest *)",
+      "Bash(cp /tmp/sla-scaffold/next.config.ts /Users/godot/CodingProjects/StudyLadderApp/next.config.ts)",
+      "Bash(cp /tmp/sla-scaffold/tsconfig.json /Users/godot/CodingProjects/StudyLadderApp/tsconfig.json)",
+      "Bash(cp /tmp/sla-scaffold/postcss.config.mjs /Users/godot/CodingProjects/StudyLadderApp/postcss.config.mjs)",
+      "Bash(cp /tmp/sla-scaffold/next-env.d.ts /Users/godot/CodingProjects/StudyLadderApp/next-env.d.ts)",
+      "Bash(cp /tmp/sla-scaffold/.gitignore /Users/godot/CodingProjects/StudyLadderApp/.gitignore)",
+      "Bash(mkdir -p /Users/godot/CodingProjects/StudyLadderApp/src/app /Users/godot/CodingProjects/StudyLadderApp/src/lib /Users/godot/CodingProjects/StudyLadderApp/src/db /Users/godot/CodingProjects/StudyLadderApp/src/types /Users/godot/CodingProjects/StudyLadderApp/public)",
+      "Bash(cp /tmp/sla-scaffold/src/app/favicon.ico /Users/godot/CodingProjects/StudyLadderApp/src/app/favicon.ico)",
+      "Bash(cp /tmp/sla-scaffold/public/* /Users/godot/CodingProjects/StudyLadderApp/public/)",
+      "Bash(npm test *)",
+      "Bash(npx prisma *)",
+      "Bash(npx tsx *)"
+    ]
+  }
+}
