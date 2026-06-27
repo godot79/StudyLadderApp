@@ -184,3 +184,85 @@ describe("selectQuestions — level-band filtering", () => {
     expect(result).toHaveLength(10);
   });
 });
+
+describe("selectQuestions — recency exclusion", () => {
+  it("prefers seen-but-not-recent questions over recently-used ones when recycling", () => {
+    // Pool exhausted: all questions seen. 5 were used recently, 15 were not.
+    const notRecentQs = Array.from({ length: 15 }, (_, i) => makeQuestion(`not-recent-${i}`));
+    const recentQs = Array.from({ length: 5 }, (_, i) => makeQuestion(`recent-${i}`));
+    const allQs = [...notRecentQs, ...recentQs];
+    const shownIds = allQs.map((q) => q.id);
+    const recentlyUsedIds = recentQs.map((q) => q.id);
+
+    const result = selectQuestions(allQs, shownIds, 10, undefined, recentlyUsedIds);
+
+    expect(result).toHaveLength(10);
+    // All 10 results should come from the not-recent pool (15 available, need 10)
+    for (const q of result) {
+      expect(recentlyUsedIds).not.toContain(q.id);
+    }
+  });
+
+  it("falls back to recently-used questions when not-recent pool is insufficient", () => {
+    // Pool exhausted: 4 not-recent + 10 recent. Need 10 total.
+    const notRecentQs = Array.from({ length: 4 }, (_, i) => makeQuestion(`not-recent-${i}`));
+    const recentQs = Array.from({ length: 10 }, (_, i) => makeQuestion(`recent-${i}`));
+    const allQs = [...notRecentQs, ...recentQs];
+    const shownIds = allQs.map((q) => q.id);
+    const recentlyUsedIds = recentQs.map((q) => q.id);
+
+    const result = selectQuestions(allQs, shownIds, 10, undefined, recentlyUsedIds);
+
+    expect(result).toHaveLength(10);
+    // All 4 not-recent questions must be included
+    const resultIds = new Set(result.map((q) => q.id));
+    for (const q of notRecentQs) {
+      expect(resultIds.has(q.id)).toBe(true);
+    }
+    // Remaining 6 come from the recent pool
+    const recentInResult = result.filter((q) => recentlyUsedIds.includes(q.id));
+    expect(recentInResult).toHaveLength(6);
+  });
+
+  it("behaves identically to before when recentlyUsedIds is empty", () => {
+    const unseenQs = Array.from({ length: 5 }, (_, i) => makeQuestion(`unseen-${i}`));
+    const seenQs = Array.from({ length: 15 }, (_, i) => makeQuestion(`seen-${i}`));
+    const shownIds = seenQs.map((q) => q.id);
+
+    const withEmpty = selectQuestions([...unseenQs, ...seenQs], shownIds, 10, undefined, []);
+    expect(withEmpty).toHaveLength(10);
+    // All 5 unseen must be present
+    const resultIds = new Set(withEmpty.map((q) => q.id));
+    for (const q of unseenQs) {
+      expect(resultIds.has(q.id)).toBe(true);
+    }
+  });
+
+  it("behaves identically to before when recentlyUsedIds is not provided", () => {
+    const allQs = Array.from({ length: 20 }, (_, i) => makeQuestion(`q${i}`));
+    const shownIds = allQs.map((q) => q.id);
+    const result = selectQuestions(allQs, shownIds, 10);
+    expect(result).toHaveLength(10);
+  });
+
+  it("unseen questions are still returned even when recentlyUsedIds is populated", () => {
+    const unseenQs = Array.from({ length: 12 }, (_, i) => makeQuestion(`unseen-${i}`));
+    const seenRecentQs = Array.from({ length: 10 }, (_, i) => makeQuestion(`recent-${i}`));
+    const shownIds = seenRecentQs.map((q) => q.id);
+    const recentlyUsedIds = seenRecentQs.map((q) => q.id);
+
+    const result = selectQuestions(
+      [...unseenQs, ...seenRecentQs],
+      shownIds,
+      10,
+      undefined,
+      recentlyUsedIds
+    );
+
+    expect(result).toHaveLength(10);
+    // All results should be unseen (12 unseen available, need 10 — no recycling needed)
+    for (const q of result) {
+      expect(shownIds).not.toContain(q.id);
+    }
+  });
+});

@@ -7,7 +7,7 @@ const mockPrisma = {
   child: { findFirst: vi.fn() },
   question: { findMany: vi.fn() },
   shownQuestion: { findMany: vi.fn(), createMany: vi.fn() },
-  practiceSession: { create: vi.fn(), update: vi.fn(), findUnique: vi.fn(), findFirst: vi.fn() },
+  practiceSession: { create: vi.fn(), update: vi.fn(), findUnique: vi.fn(), findFirst: vi.fn(), findMany: vi.fn() },
   sessionQuestion: { create: vi.fn(), update: vi.fn() },
   subjectProgress: { upsert: vi.fn() },
   $transaction: vi.fn((cb: (tx: typeof mockPrisma) => Promise<unknown>) =>
@@ -42,7 +42,7 @@ function makeQuestion(id: string, overrides: Partial<Question> = {}): Question {
   };
 }
 
-const CHILD = { id: "child-001", displayName: "Dharma", createdAt: new Date(), updatedAt: new Date() };
+const CHILD = { id: "child-001", displayName: "Dharma", levelBand: "Age 9", createdAt: new Date(), updatedAt: new Date() };
 const QUESTIONS = Array.from({ length: 25 }, (_, i) => makeQuestion(`q${i}`));
 
 function makeSession(overrides: Record<string, unknown> = {}) {
@@ -81,6 +81,7 @@ beforeEach(() => {
   mockPrisma.practiceSession.create.mockResolvedValue({ id: "session-1", childId: "child-001", subject: "maths" });
   mockPrisma.practiceSession.update.mockResolvedValue({});
   mockPrisma.practiceSession.findFirst.mockResolvedValue(null); // no existing in_progress session by default
+  mockPrisma.practiceSession.findMany.mockResolvedValue([]); // no recent sessions by default
   mockPrisma.subjectProgress.upsert.mockResolvedValue({});
   mockPrisma.shownQuestion.createMany.mockResolvedValue({ count: 10 });
   mockPrisma.shownQuestion.findMany.mockResolvedValue([]);

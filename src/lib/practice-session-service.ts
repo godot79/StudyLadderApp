@@ -5,6 +5,9 @@ import { buildSessionCompletion } from "@/lib/session";
 import type { SessionQuestionOutcome } from "@/types";
 
 const DEFAULT_CHILD_ID = "child-001";
+// Number of most-recent completed sessions whose questions are treated as
+// "recently used" and deprioritised during recycling.
+const RECENCY_WINDOW = 1;
 
 export async function getDefaultChild() {
   const child = await prisma.child.findFirst({
@@ -26,13 +29,20 @@ export async function startPracticeSession(subject: string) {
     return { session: existingSession, sessionQuestions: [] };
   }
 
-  const [allQuestions, shownRecords] = await Promise.all([
+  const [allQuestions, shownRecords, recentSessions] = await Promise.all([
     prisma.question.findMany({ where: { subject, isActive: true } }),
     prisma.shownQuestion.findMany({ where: { childId: child.id } }),
+    prisma.practiceSession.findMany({
+      where: { childId: child.id, subject, status: "completed" },
+      orderBy: { completedAt: "desc" },
+      take: RECENCY_WINDOW,
+      include: { questions: { select: { questionId: true } } },
+    }),
   ]);
 
   const shownIds = shownRecords.map((r) => r.questionId);
-  const selected = selectQuestions(allQuestions, shownIds, 10, child.levelBand);
+  const recentlyUsedIds = recentSessions.flatMap((s) => s.questions.map((q) => q.questionId));
+  const selected = selectQuestions(allQuestions, shownIds, 10, child.levelBand, recentlyUsedIds);
 
   if (selected.length < 10) {
     throw new Error(

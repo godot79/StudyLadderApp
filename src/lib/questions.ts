@@ -14,23 +14,27 @@ function shuffle<T>(arr: T[]): T[] {
 /**
  * Selects up to `count` questions for a session.
  *
- * When `levelBand` is provided and the band contains at least `count` active
- * questions, selection is restricted to that band. If the band pool is too
- * small (fewer active questions than `count`), the full active pool is used
- * as a fallback so the session is never short-changed.
+ * Selection priority (in order):
+ *   1. Unseen questions (never shown to this child) — always preferred.
+ *   2. When recycling is needed: seen questions NOT in `recentlyUsedIds` first,
+ *      then recently-used seen questions as a last resort.
  *
- * Within the chosen pool, unseen questions are preferred. Falls back to seen
- * questions when unseen pool is insufficient. Never duplicates within the
- * returned set. Returns fewer than `count` only if the total active pool
- * (after fallback) is smaller.
+ * Level-band filtering: when `levelBand` is given and the band contains at
+ * least `count` active questions, selection is restricted to that band.
+ * If the band is too small, the full active pool is used as a fallback.
+ *
+ * Returns fewer than `count` only if the total eligible pool is smaller.
  */
 export function selectQuestions(
   allQuestions: Question[],
   shownQuestionIds: string[],
   count = SESSION_QUESTION_COUNT,
-  levelBand?: string | null
+  levelBand?: string | null,
+  recentlyUsedIds?: string[]
 ): Question[] {
   const shownSet = new Set(shownQuestionIds);
+  const recentSet = new Set(recentlyUsedIds ?? []);
+
   const active = allQuestions.filter((q) => q.isActive);
 
   // Restrict to the level band when one is given and the band is deep enough.
@@ -40,10 +44,17 @@ export function selectQuestions(
   const pool = bandPool.length >= count ? bandPool : active;
 
   const unseen = shuffle(pool.filter((q) => !shownSet.has(q.id)));
-  const seen = shuffle(pool.filter((q) => shownSet.has(q.id)));
 
   if (unseen.length >= count) return unseen.slice(0, count);
 
+  // Recycling needed: prefer seen-but-not-recent over seen-and-recent.
+  const seenNotRecent = shuffle(
+    pool.filter((q) => shownSet.has(q.id) && !recentSet.has(q.id))
+  );
+  const seenRecent = shuffle(
+    pool.filter((q) => shownSet.has(q.id) && recentSet.has(q.id))
+  );
+
   const needed = count - unseen.length;
-  return [...unseen, ...seen.slice(0, needed)];
+  return [...unseen, ...[...seenNotRecent, ...seenRecent].slice(0, needed)];
 }
