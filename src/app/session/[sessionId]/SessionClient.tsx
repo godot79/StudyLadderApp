@@ -79,6 +79,8 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
         selectedOption: newAnswers[sq.id] ?? null,
       }));
       try {
+        // Persist Q10 before the completion transaction so it survives a completion failure.
+        await saveAnswer(currentSq.id, selectedOption);
         await completeSession(sessionId, answerList);
       } catch {
         // Don't reset completing — answers are lost if the server failed.
