@@ -297,6 +297,114 @@
     "levelBand": "Age 9"
   },
   {
+    "prompt": "What is the value of the digit 5 in 457?",
+    "optionA": "5",
+    "optionB": "50",
+    "optionC": "500",
+    "optionD": "5000",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What number has 3 hundreds, 4 tens, and 7 units?",
+    "optionA": "37",
+    "optionB": "347",
+    "optionC": "374",
+    "optionD": "3047",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "In the number 826, which digit is in the tens place?",
+    "optionA": "8",
+    "optionB": "2",
+    "optionC": "6",
+    "optionD": "26",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the next number in the pattern: 10, 20, 30, 40, ...?",
+    "optionA": "45",
+    "optionB": "48",
+    "optionC": "50",
+    "optionD": "55",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the missing number: 3, 6, 9, ___, 15?",
+    "optionA": "10",
+    "optionB": "11",
+    "optionC": "12",
+    "optionD": "13",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What comes next: 100, 90, 80, 70, ...?",
+    "optionA": "50",
+    "optionB": "60",
+    "optionC": "65",
+    "optionD": "75",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "How many minutes are in one hour?",
+    "optionA": "30",
+    "optionB": "45",
+    "optionC": "60",
+    "optionD": "100",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "How many months are in one year?",
+    "optionA": "10",
+    "optionB": "11",
+    "optionC": "12",
+    "optionD": "13",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "A book costs £4 and a pen costs £2. How much do they cost together?",
+    "optionA": "£5",
+    "optionB": "£6",
+    "optionC": "£7",
+    "optionD": "£8",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Tom has 50p and spends 35p. How much does he have left?",
+    "optionA": "10p",
+    "optionB": "15p",
+    "optionC": "20p",
+    "optionD": "25p",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "A bag has 24 oranges shared equally between 4 children. How many oranges does each child get?",
+    "optionA": "4",
+    "optionB": "5",
+    "optionC": "6",
+    "optionD": "8",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "A baker makes 48 biscuits and sells 29. How many are left?",
+    "optionA": "17",
+    "optionB": "19",
+    "optionC": "21",
+    "optionD": "23",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
     "prompt": "What is 144 ÷ 12?",
     "optionA": "11",
     "optionB": "12",
@@ -441,6 +549,87 @@
     "levelBand": "Age 9 High Achiever"
   },
   {
+    "prompt": "What is one third of 90?",
+    "optionA": "20",
+    "optionB": "27",
+    "optionC": "30",
+    "optionD": "45",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "A box holds 12 eggs. How many eggs are in 7 boxes?",
+    "optionA": "72",
+    "optionB": "84",
+    "optionC": "96",
+    "optionD": "108",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What comes next in the sequence: 1, 4, 9, 16, ...?",
+    "optionA": "20",
+    "optionB": "24",
+    "optionC": "25",
+    "optionD": "36",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "A rectangle is 9cm long and 4cm wide. What is its perimeter?",
+    "optionA": "22cm",
+    "optionB": "26cm",
+    "optionC": "36cm",
+    "optionD": "52cm",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is 2/5 of 50?",
+    "optionA": "10",
+    "optionB": "20",
+    "optionC": "25",
+    "optionD": "30",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "In a class of 30 pupils, two fifths are boys. How many boys are there?",
+    "optionA": "10",
+    "optionB": "12",
+    "optionC": "15",
+    "optionD": "18",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is 13 × 11?",
+    "optionA": "124",
+    "optionB": "133",
+    "optionC": "143",
+    "optionD": "153",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "A journey takes 45 minutes. It starts at 2:15pm. When does it finish?",
+    "optionA": "2:45pm",
+    "optionB": "2:55pm",
+    "optionC": "3:00pm",
+    "optionD": "3:15pm",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which of these is NOT a factor of 12?",
+    "optionA": "3",
+    "optionB": "4",
+    "optionC": "5",
+    "optionD": "6",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
     "prompt": "What is 345 + 276?",
     "optionA": "611",
     "optionB": "621",
@@ -576,6 +765,96 @@
     "levelBand": "Age 10"
   },
   {
+    "prompt": "What is 3.4 + 2.7?",
+    "optionA": "5.11",
+    "optionB": "6.1",
+    "optionC": "6.11",
+    "optionD": "6.2",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is 7.5 - 3.2?",
+    "optionA": "3.7",
+    "optionB": "4.2",
+    "optionC": "4.3",
+    "optionD": "4.7",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which of these numbers is prime?",
+    "optionA": "9",
+    "optionB": "15",
+    "optionC": "17",
+    "optionD": "21",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the largest number that divides both 12 and 18 exactly?",
+    "optionA": "2",
+    "optionB": "4",
+    "optionC": "6",
+    "optionD": "9",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "3.6 hours is how many minutes?",
+    "optionA": "180",
+    "optionB": "196",
+    "optionC": "216",
+    "optionD": "240",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is 35% of 60?",
+    "optionA": "15",
+    "optionB": "18",
+    "optionC": "21",
+    "optionD": "25",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "How many grams are in 2.5 kg?",
+    "optionA": "250g",
+    "optionB": "1500g",
+    "optionC": "2500g",
+    "optionD": "25000g",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "A swimming pool is 25m long. How many lengths are needed to swim 1km?",
+    "optionA": "20",
+    "optionB": "25",
+    "optionC": "40",
+    "optionD": "50",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the sum of angles in a triangle?",
+    "optionA": "90°",
+    "optionB": "120°",
+    "optionC": "180°",
+    "optionD": "360°",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which of these fractions is equivalent to 1/2?",
+    "optionA": "2/5",
+    "optionB": "3/7",
+    "optionC": "4/8",
+    "optionD": "5/9",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
     "prompt": "What is 456 + 378?",
     "optionA": "824",
     "optionB": "834",
@@ -680,6 +959,96 @@
     "optionB": "400",
     "optionC": "4,000",
     "optionD": "40,000",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is 125 × 8?",
+    "optionA": "900",
+    "optionB": "950",
+    "optionC": "1000",
+    "optionD": "1025",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is 0.3 × 0.4?",
+    "optionA": "0.07",
+    "optionB": "0.12",
+    "optionC": "0.7",
+    "optionD": "1.2",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "A rectangle is 7.5cm long and 4cm wide. What is its area?",
+    "optionA": "23cm²",
+    "optionB": "27.5cm²",
+    "optionC": "30cm²",
+    "optionD": "32.5cm²",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is 2/3 + 1/4?",
+    "optionA": "3/7",
+    "optionB": "7/12",
+    "optionC": "11/12",
+    "optionD": "3/12",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "A map has scale 1:50,000. A road measures 3cm on the map. How long is the real road in km?",
+    "optionA": "1km",
+    "optionB": "1.5km",
+    "optionC": "3km",
+    "optionD": "15km",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is 7.2 ÷ 0.9?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Five pens cost £3.50. How much do eight pens cost?",
+    "optionA": "£4.80",
+    "optionB": "£5.20",
+    "optionC": "£5.60",
+    "optionD": "£6.40",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which two prime numbers multiply together to make 15?",
+    "optionA": "2 and 7",
+    "optionB": "3 and 5",
+    "optionC": "3 and 7",
+    "optionD": "5 and 7",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is 12.5% of 80?",
+    "optionA": "8",
+    "optionB": "10",
+    "optionC": "12",
+    "optionD": "12.5",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "A triangle has angles of 70° and 55°. What is the third angle?",
+    "optionA": "35°",
+    "optionB": "45°",
+    "optionC": "55°",
+    "optionD": "65°",
     "correctOption": "C",
     "levelBand": "Age 10 High Achiever"
   },
@@ -792,6 +1161,96 @@
     "levelBand": "Age 11"
   },
   {
+    "prompt": "What is 3/8 + 1/4?",
+    "optionA": "4/12",
+    "optionB": "4/8",
+    "optionC": "5/8",
+    "optionD": "6/8",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the ratio 15:20 in its simplest form?",
+    "optionA": "1:2",
+    "optionB": "3:4",
+    "optionC": "5:7",
+    "optionD": "15:20",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "The temperature is -3°C. It rises by 8°C. What is the new temperature?",
+    "optionA": "2°C",
+    "optionB": "5°C",
+    "optionC": "8°C",
+    "optionD": "11°C",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which list shows all the prime factors of 60?",
+    "optionA": "2, 4, 5",
+    "optionB": "2, 3, 5",
+    "optionC": "3, 4, 5",
+    "optionD": "1, 2, 3, 5",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "A recipe uses flour and sugar in the ratio 5:2. If you use 350g of flour, how much sugar is needed?",
+    "optionA": "100g",
+    "optionB": "120g",
+    "optionC": "140g",
+    "optionD": "175g",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is -8 + 3?",
+    "optionA": "-11",
+    "optionB": "-5",
+    "optionC": "5",
+    "optionD": "11",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is 3/5 × 20?",
+    "optionA": "8",
+    "optionB": "10",
+    "optionC": "12",
+    "optionD": "15",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "A square has a perimeter of 32cm. What is its area?",
+    "optionA": "8cm²",
+    "optionB": "32cm²",
+    "optionC": "64cm²",
+    "optionD": "128cm²",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is 7/10 written as a decimal?",
+    "optionA": "0.07",
+    "optionB": "0.7",
+    "optionC": "7.0",
+    "optionD": "70",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "If 3x = 21, what is x?",
+    "optionA": "6",
+    "optionB": "7",
+    "optionC": "8",
+    "optionD": "9",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
     "prompt": "What is 123 × 6?",
     "optionA": "718",
     "optionB": "728",
@@ -878,6 +1337,96 @@
     "optionB": "14",
     "optionC": "16",
     "optionD": "18",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "If 2x + 5 = 17, what is x?",
+    "optionA": "5",
+    "optionB": "6",
+    "optionC": "7",
+    "optionD": "8",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is 3/4 - 1/6?",
+    "optionA": "1/2",
+    "optionB": "7/12",
+    "optionC": "2/3",
+    "optionD": "5/8",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Red and blue marbles are in the ratio 3:5. There are 40 marbles in total. How many are red?",
+    "optionA": "8",
+    "optionB": "12",
+    "optionC": "15",
+    "optionD": "24",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is (-4) × (-3)?",
+    "optionA": "-12",
+    "optionB": "-7",
+    "optionC": "7",
+    "optionD": "12",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is √144?",
+    "optionA": "11",
+    "optionB": "12",
+    "optionC": "14",
+    "optionD": "16",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "A car worth £8000 loses 15% of its value in one year. What is it worth after one year?",
+    "optionA": "£6400",
+    "optionB": "£6800",
+    "optionC": "£7200",
+    "optionD": "£7800",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Simplify: 3(x + 4) + 2x",
+    "optionA": "3x + 12",
+    "optionB": "5x + 4",
+    "optionC": "5x + 12",
+    "optionD": "6x + 12",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is 4.5 × 4.5?",
+    "optionA": "9",
+    "optionB": "18",
+    "optionC": "20.25",
+    "optionD": "25",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "In a sale, a coat is reduced by 30% and now costs £56. What was the original price?",
+    "optionA": "£70",
+    "optionB": "£72",
+    "optionC": "£80",
+    "optionD": "£84",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the sum of all whole numbers from 1 to 10?",
+    "optionA": "45",
+    "optionB": "50",
+    "optionC": "55",
+    "optionD": "60",
     "correctOption": "C",
     "levelBand": "Age 11 High Achiever"
   }
