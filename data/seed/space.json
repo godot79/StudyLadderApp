@@ -1,0 +1,1163 @@
+[
+  {
+    "prompt": "How many planets orbit our Sun?",
+    "optionA": "8",
+    "optionB": "7",
+    "optionC": "9",
+    "optionD": "10",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the name of the planet we live on?",
+    "optionA": "Venus",
+    "optionB": "Mars",
+    "optionC": "Earth",
+    "optionD": "Jupiter",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet is closest to the Sun?",
+    "optionA": "Venus",
+    "optionB": "Mercury",
+    "optionC": "Earth",
+    "optionD": "Mars",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the name of Earth's natural satellite?",
+    "optionA": "The Moon",
+    "optionB": "Europa",
+    "optionC": "Titan",
+    "optionD": "Phobos",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which is the largest planet in our solar system?",
+    "optionA": "Saturn",
+    "optionB": "Uranus",
+    "optionC": "Neptune",
+    "optionD": "Jupiter",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the name of the star at the centre of our solar system?",
+    "optionA": "Polaris",
+    "optionB": "Sirius",
+    "optionC": "The Sun",
+    "optionD": "Betelgeuse",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet is known as the Red Planet?",
+    "optionA": "Venus",
+    "optionB": "Mars",
+    "optionC": "Jupiter",
+    "optionD": "Saturn",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet is famous for its beautiful rings?",
+    "optionA": "Jupiter",
+    "optionB": "Neptune",
+    "optionC": "Mars",
+    "optionD": "Saturn",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What do we call the curved path a planet travels around the Sun?",
+    "optionA": "A rotation",
+    "optionB": "A cycle",
+    "optionC": "An orbit",
+    "optionD": "A loop",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the smallest planet in our solar system?",
+    "optionA": "Pluto",
+    "optionB": "Mars",
+    "optionC": "Mercury",
+    "optionD": "Venus",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "In which year did astronauts first walk on the Moon?",
+    "optionA": "1959",
+    "optionB": "1989",
+    "optionC": "1979",
+    "optionD": "1969",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which galaxy does our solar system belong to?",
+    "optionA": "Andromeda",
+    "optionB": "The Milky Way",
+    "optionC": "Triangulum",
+    "optionD": "Whirlpool",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "How many moons does Mars have?",
+    "optionA": "0",
+    "optionB": "4",
+    "optionC": "2",
+    "optionD": "1",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet is second from the Sun?",
+    "optionA": "Earth",
+    "optionB": "Venus",
+    "optionC": "Mercury",
+    "optionD": "Mars",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is a comet?",
+    "optionA": "A small icy body that develops a glowing tail when it travels near the Sun",
+    "optionB": "A type of galaxy",
+    "optionC": "A moon that orbits Jupiter",
+    "optionD": "A rocky moon with no atmosphere",
+    "correctOption": "A",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet comes after Earth when moving outward from the Sun?",
+    "optionA": "Venus",
+    "optionB": "Saturn",
+    "optionC": "Mars",
+    "optionD": "Jupiter",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the correct order of the first four planets from the Sun?",
+    "optionA": "Venus, Mercury, Earth, Mars",
+    "optionB": "Mercury, Venus, Earth, Mars",
+    "optionC": "Mercury, Earth, Venus, Mars",
+    "optionD": "Mars, Earth, Venus, Mercury",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What do we call a rock from space that burns up as a streak of light in Earth's atmosphere?",
+    "optionA": "A comet",
+    "optionB": "A satellite",
+    "optionC": "An asteroid",
+    "optionD": "A meteor",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Who was the first person to walk on the Moon?",
+    "optionA": "Buzz Aldrin",
+    "optionB": "Yuri Gagarin",
+    "optionC": "Neil Armstrong",
+    "optionD": "John Glenn",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the International Space Station?",
+    "optionA": "A telescope that orbits Mars",
+    "optionB": "A satellite that takes weather pictures",
+    "optionC": "A large space laboratory that orbits Earth",
+    "optionD": "A rocket launch site in the ocean",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Stars are massive balls of extremely hot...",
+    "optionA": "Rock",
+    "optionB": "Gas",
+    "optionC": "Water",
+    "optionD": "Metal",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What force keeps planets in orbit around the Sun?",
+    "optionA": "Magnetism",
+    "optionB": "Wind",
+    "optionC": "Gravity",
+    "optionD": "Electricity",
+    "correctOption": "C",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet is the fifth from the Sun?",
+    "optionA": "Saturn",
+    "optionB": "Mars",
+    "optionC": "Neptune",
+    "optionD": "Jupiter",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "How long does Earth take to complete one full orbit around the Sun?",
+    "optionA": "One month",
+    "optionB": "One day",
+    "optionC": "Ten years",
+    "optionD": "One year",
+    "correctOption": "D",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What can you find in the region between the orbits of Mars and Jupiter?",
+    "optionA": "Another star",
+    "optionB": "The asteroid belt",
+    "optionC": "A comet trail",
+    "optionD": "A black hole",
+    "correctOption": "B",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the name of Jupiter's largest moon?",
+    "optionA": "Callisto",
+    "optionB": "Titan",
+    "optionC": "Europa",
+    "optionD": "Ganymede",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which planet spins almost completely on its side, with its poles pointing roughly toward the Sun?",
+    "optionA": "Neptune",
+    "optionB": "Uranus",
+    "optionC": "Mars",
+    "optionD": "Saturn",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which planet is the hottest in our solar system, even though it is not the closest to the Sun?",
+    "optionA": "Mars",
+    "optionB": "Venus",
+    "optionC": "Mercury",
+    "optionD": "Jupiter",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What are the four large moons of Jupiter known as together?",
+    "optionA": "The Galilean moons",
+    "optionB": "The Pioneer moons",
+    "optionC": "The Voyager moons",
+    "optionD": "The Titan moons",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which planet takes the longest time to complete one orbit of the Sun?",
+    "optionA": "Uranus",
+    "optionB": "Saturn",
+    "optionC": "Jupiter",
+    "optionD": "Neptune",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is an asteroid?",
+    "optionA": "A chunk of rock or metal that orbits the Sun",
+    "optionB": "A type of comet with no tail",
+    "optionC": "A moon that has escaped a planet",
+    "optionD": "A dying star",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Since 2006, what type of body is Pluto classified as?",
+    "optionA": "A moon",
+    "optionB": "A comet",
+    "optionC": "A dwarf planet",
+    "optionD": "An asteroid",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which moon of Jupiter is thought to have an ocean of liquid water beneath its icy surface?",
+    "optionA": "Io",
+    "optionB": "Europa",
+    "optionC": "Callisto",
+    "optionD": "Ganymede",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is the name of the tallest volcano in our solar system, located on Mars?",
+    "optionA": "Mount Everest",
+    "optionB": "Olympus Mons",
+    "optionC": "Mauna Kea",
+    "optionD": "Kilimanjaro",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What causes Earth to have seasons?",
+    "optionA": "Earth tilts on its axis, so different parts lean toward the Sun at different times of year",
+    "optionB": "Earth speeds up and slows down in its orbit",
+    "optionC": "The Sun burns hotter in summer",
+    "optionD": "Earth moves much closer to the Sun in summer",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is a light-year?",
+    "optionA": "The distance light travels in one year",
+    "optionB": "The time it takes to travel to the Moon",
+    "optionC": "The speed of the fastest spacecraft",
+    "optionD": "The age of the Sun measured in years",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which moon of Jupiter has active volcanoes, making it the most geologically active body in our solar system?",
+    "optionA": "Callisto",
+    "optionB": "Ganymede",
+    "optionC": "Io",
+    "optionD": "Europa",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What would happen to a planet if the Sun's gravity suddenly stopped working?",
+    "optionA": "The planet would fly outward in a straight line",
+    "optionB": "The planet would crash into the Sun",
+    "optionC": "The planet would slow down and stop",
+    "optionD": "The planet would orbit faster",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Approximately how many days does it take the Moon to complete one orbit of Earth?",
+    "optionA": "7",
+    "optionB": "27",
+    "optionC": "365",
+    "optionD": "14",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which planet spins backwards compared to most other planets, so the Sun rises in the west and sets in the east?",
+    "optionA": "Mars",
+    "optionB": "Saturn",
+    "optionC": "Neptune",
+    "optionD": "Venus",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What do we call the time it takes a planet to spin once on its own axis?",
+    "optionA": "A year",
+    "optionB": "A revolution",
+    "optionC": "A day",
+    "optionD": "An orbit",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What are Saturn's famous rings mainly made of?",
+    "optionA": "Gas and dust",
+    "optionB": "Metal fragments",
+    "optionC": "Ice and rock",
+    "optionD": "Liquid water",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which Apollo mission first carried humans to the surface of the Moon?",
+    "optionA": "Apollo 13",
+    "optionB": "Apollo 1",
+    "optionC": "Apollo 11",
+    "optionD": "Apollo 3",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which star is the nearest to our solar system?",
+    "optionA": "Sirius",
+    "optionB": "Vega",
+    "optionC": "Betelgeuse",
+    "optionD": "Proxima Centauri",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which spacecraft has visited all four outer planets — Jupiter, Saturn, Uranus, and Neptune?",
+    "optionA": "Pioneer 10",
+    "optionB": "Cassini",
+    "optionC": "New Horizons",
+    "optionD": "Voyager 2",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What type of star is our Sun?",
+    "optionA": "A red giant",
+    "optionB": "A yellow dwarf",
+    "optionC": "A blue supergiant",
+    "optionD": "A white dwarf",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Why does the Moon appear to shine at night even though it produces no light of its own?",
+    "optionA": "It makes its own light through nuclear reactions",
+    "optionB": "It glows because it has absorbed heat",
+    "optionC": "It reflects light from the Sun",
+    "optionD": "It generates electricity from solar particles",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is the main gas in Venus's thick atmosphere that traps heat and makes it so hot?",
+    "optionA": "Carbon dioxide",
+    "optionB": "Oxygen",
+    "optionC": "Nitrogen",
+    "optionD": "Methane",
+    "correctOption": "A",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which Mars rover landed in 2021 and is currently searching for signs of ancient life?",
+    "optionA": "Spirit",
+    "optionB": "Opportunity",
+    "optionC": "Curiosity",
+    "optionD": "Perseverance",
+    "correctOption": "D",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which planet has a storm called the Great Red Spot that has lasted for hundreds of years?",
+    "optionA": "Saturn",
+    "optionB": "Jupiter",
+    "optionC": "Neptune",
+    "optionD": "Uranus",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the name of the nearest large galaxy to the Milky Way?",
+    "optionA": "Whirlpool",
+    "optionB": "Sombrero",
+    "optionC": "Andromeda",
+    "optionD": "Triangulum",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "How far is the Sun from Earth approximately?",
+    "optionA": "15 million km",
+    "optionB": "150 million km",
+    "optionC": "1.5 billion km",
+    "optionD": "1.5 million km",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "How long does light from the Sun take to reach Earth?",
+    "optionA": "About 8 hours",
+    "optionB": "About 8 seconds",
+    "optionC": "About 8 minutes",
+    "optionD": "About 8 days",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What process inside stars produces their enormous amounts of energy?",
+    "optionA": "Nuclear fission",
+    "optionB": "Burning of coal",
+    "optionC": "Electrical discharge",
+    "optionD": "Nuclear fusion",
+    "correctOption": "D",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the Main Belt in our solar system?",
+    "optionA": "A ring of dust around Saturn",
+    "optionB": "The asteroid belt between Mars and Jupiter",
+    "optionC": "A region of comets beyond Neptune",
+    "optionD": "A dense region of stars near the Milky Way's centre",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which famous space telescope launched in 1990 has taken images of distant galaxies?",
+    "optionA": "James Webb",
+    "optionB": "Spitzer",
+    "optionC": "Hubble",
+    "optionD": "Chandra",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the ozone layer?",
+    "optionA": "A layer of Earth's atmosphere that absorbs harmful ultraviolet radiation from the Sun",
+    "optionB": "A ring of gas around Saturn",
+    "optionC": "A layer of Jupiter's clouds",
+    "optionD": "The thick atmosphere of Venus",
+    "correctOption": "A",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What type of galaxy is the Milky Way?",
+    "optionA": "Elliptical",
+    "optionB": "Irregular",
+    "optionC": "Ring-shaped",
+    "optionD": "Spiral",
+    "correctOption": "D",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is a nebula?",
+    "optionA": "A type of neutron star",
+    "optionB": "A cloud of gas and dust in space where stars can form",
+    "optionC": "A distant galaxy too faint to see",
+    "optionD": "A type of comet from the outer solar system",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Who was the first human to travel into space?",
+    "optionA": "Neil Armstrong",
+    "optionB": "Buzz Aldrin",
+    "optionC": "Yuri Gagarin",
+    "optionD": "Alan Shepard",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is a constellation?",
+    "optionA": "A pattern of stars that appear to form a recognisable shape in the night sky",
+    "optionB": "A cluster of galaxies",
+    "optionC": "A type of solar system",
+    "optionD": "A large gas and dust cloud",
+    "correctOption": "A",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which constellation contains the famous belt of three bright stars in a row?",
+    "optionA": "Ursa Major",
+    "optionB": "Cassiopeia",
+    "optionC": "Scorpius",
+    "optionD": "Orion",
+    "correctOption": "D",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What keeps Earth in its orbit around the Sun?",
+    "optionA": "Earth's magnetic field",
+    "optionB": "The Sun's gravitational pull",
+    "optionC": "Solar wind",
+    "optionD": "Earth's rotation speed",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the outermost visible layer of the Sun, seen as a glowing halo during a total solar eclipse?",
+    "optionA": "The photosphere",
+    "optionB": "The chromosphere",
+    "optionC": "The core",
+    "optionD": "The corona",
+    "correctOption": "D",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What causes a total solar eclipse?",
+    "optionA": "Earth passes between the Moon and the Sun",
+    "optionB": "The Moon passes between Earth and the Sun",
+    "optionC": "The Sun passes between Earth and the Moon",
+    "optionD": "Earth moves directly away from the Sun",
+    "correctOption": "B",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Where is the Kuiper Belt located in our solar system?",
+    "optionA": "Between Mars and Jupiter",
+    "optionB": "Inside Mercury's orbit",
+    "optionC": "Beyond Neptune",
+    "optionD": "Around Saturn",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What do we call a natural or artificial object that orbits a planet?",
+    "optionA": "A satellite",
+    "optionB": "A comet",
+    "optionC": "An asteroid",
+    "optionD": "A meteor",
+    "correctOption": "A",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Venus is often called the Evening Star. Why can it be seen so brightly just after sunset?",
+    "optionA": "It is the closest planet to Earth and reflects a lot of sunlight",
+    "optionB": "It is the largest planet and gives off its own glow",
+    "optionC": "It orbits in a much larger circle than Earth",
+    "optionD": "It is covered in bright ice that catches the Sun's light",
+    "correctOption": "A",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the Milky Way?",
+    "optionA": "A type of star cluster",
+    "optionB": "The nearest galaxy to our solar system",
+    "optionC": "The spiral galaxy that contains our solar system",
+    "optionD": "A cloud of gas within our solar system",
+    "correctOption": "C",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Approximately how far away is Proxima Centauri, the nearest star to our Sun?",
+    "optionA": "0.4 light-years",
+    "optionB": "40 light-years",
+    "optionC": "4.2 light-years",
+    "optionD": "420 light-years",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "How many Earth years does Neptune take to orbit the Sun once?",
+    "optionA": "84",
+    "optionB": "165",
+    "optionC": "29",
+    "optionD": "12",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Why is Venus so much hotter than Mercury, even though Mercury is closer to the Sun?",
+    "optionA": "Venus's thick carbon dioxide atmosphere traps heat, raising the surface temperature to around 465°C",
+    "optionB": "The Sun heats Venus more because of its position",
+    "optionC": "Venus reflects sunlight, generating heat",
+    "optionD": "Venus has volcanic gases that warm its surface from inside",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What spectacular event occurs when a very massive star reaches the end of its life and violently explodes?",
+    "optionA": "A nova",
+    "optionB": "A pulsar",
+    "optionC": "A supernova",
+    "optionD": "A black hole merger",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What do scientists believe exists at the centre of the Milky Way galaxy?",
+    "optionA": "A supermassive black hole",
+    "optionB": "A giant star",
+    "optionC": "A neutron star",
+    "optionD": "A white dwarf",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the Cassini spacecraft famous for studying?",
+    "optionA": "Mapping Venus's surface",
+    "optionB": "Studying Mars's moons",
+    "optionC": "Flying past Neptune",
+    "optionD": "Orbiting Saturn and studying it and its moons",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What do we call the point in a planet's orbit when it is closest to the Sun?",
+    "optionA": "Aphelion",
+    "optionB": "Perihelion",
+    "optionC": "Equinox",
+    "optionD": "Solstice",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "How far away is the Moon from Earth approximately?",
+    "optionA": "384,000 km",
+    "optionB": "38,400 km",
+    "optionC": "3,840,000 km",
+    "optionD": "384 million km",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is an astronomical unit (AU)?",
+    "optionA": "The average distance between Earth and the Moon",
+    "optionB": "A unit for measuring the age of stars",
+    "optionC": "The average distance from Earth to the Sun",
+    "optionD": "The distance light travels in one day",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What will our Sun most likely do in about five billion years?",
+    "optionA": "Collapse into a black hole",
+    "optionB": "Expand into a red giant",
+    "optionC": "Explode in a supernova",
+    "optionD": "Become a neutron star",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is a binary star system?",
+    "optionA": "A very bright star with two separate cores",
+    "optionB": "A star that appears twice when viewed through a telescope",
+    "optionC": "Two stars that orbit each other",
+    "optionD": "A planet orbiting two different stars",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which spacecraft took the first detailed close-up photographs of Pluto when it flew past in 2015?",
+    "optionA": "Voyager 1",
+    "optionB": "Cassini",
+    "optionC": "Pioneer 11",
+    "optionD": "New Horizons",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Approximately what percentage of our solar system's total mass does the Sun contain?",
+    "optionA": "50%",
+    "optionB": "75%",
+    "optionC": "99%",
+    "optionD": "90%",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the Doppler effect used to determine in astronomy?",
+    "optionA": "The size of stars",
+    "optionB": "The mass of black holes",
+    "optionC": "Whether a star or galaxy is moving toward or away from us",
+    "optionD": "The temperature of distant planets",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What type of object is Pluto?",
+    "optionA": "The ninth planet",
+    "optionB": "An asteroid",
+    "optionC": "A comet",
+    "optionD": "A dwarf planet",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What do we call the incredibly dense object left behind when a star like our Sun eventually dies?",
+    "optionA": "A white dwarf",
+    "optionB": "A neutron star",
+    "optionC": "A black hole",
+    "optionD": "A brown dwarf",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What large space telescope launched in 2021 observes infrared light from the early universe?",
+    "optionA": "Spitzer",
+    "optionB": "Hubble",
+    "optionC": "James Webb",
+    "optionD": "Chandra",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the Oort Cloud?",
+    "optionA": "A region between Mars and Jupiter filled with asteroids",
+    "optionB": "Dust rings that surround Uranus",
+    "optionC": "The region just beyond Neptune where short-period comets originate",
+    "optionD": "A vast reservoir of comets at the very far edge of our solar system",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the heliopause?",
+    "optionA": "The boundary where the Sun's solar wind stops and interstellar space begins",
+    "optionB": "A temporary pause in solar flare activity",
+    "optionC": "The gap between the asteroid belt and the Kuiper Belt",
+    "optionD": "The region around the Sun where comets develop tails",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What keeps the Moon in its orbit around Earth?",
+    "optionA": "Earth's atmosphere extending out to hold it",
+    "optionB": "The Moon's own engines",
+    "optionC": "Earth's magnetic field",
+    "optionD": "Earth's gravitational pull",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What causes ocean tides on Earth to rise and fall?",
+    "optionA": "The Sun's heat warming the oceans",
+    "optionB": "Earth's rotation spinning the water outward",
+    "optionC": "Wind patterns in the atmosphere",
+    "optionD": "The gravitational pull of the Moon",
+    "correctOption": "D",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is a black hole?",
+    "optionA": "An empty region of space with no stars nearby",
+    "optionB": "A region where gravity is so strong that nothing, not even light, can escape",
+    "optionC": "A very dark planet with no atmosphere",
+    "optionD": "A tunnel connecting two different parts of space",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the real cause of Earth's seasons?",
+    "optionA": "Earth's orbital speed changes throughout the year",
+    "optionB": "Earth moves much closer to the Sun in summer",
+    "optionC": "Earth's axis is tilted about 23.5°, so each hemisphere leans toward the Sun at different times",
+    "optionD": "The Sun burns at a higher temperature in summer",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the difference between a meteor and a meteorite?",
+    "optionA": "A meteor is much larger than a meteorite",
+    "optionB": "A meteorite orbits the Sun; a meteor does not",
+    "optionC": "A meteorite reaches Earth's surface; a meteor burns up completely in the atmosphere",
+    "optionD": "A meteor comes from the Moon; a meteorite comes from Mars",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is a pulsar?",
+    "optionA": "A rapidly rotating neutron star that emits regular beams of radiation",
+    "optionB": "A star whose brightness pulses slowly over months",
+    "optionC": "A type of asteroid in the outer solar system",
+    "optionD": "A galaxy with a flickering bright core",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Why does the Moon appear to change shape during the month?",
+    "optionA": "The Moon physically shrinks and grows",
+    "optionB": "Earth's shadow falls on different parts of the Moon each night",
+    "optionC": "The Moon spins and shows us different surfaces",
+    "optionD": "We see different amounts of the Moon's sunlit half as it orbits Earth",
+    "correctOption": "D",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is a neutron star?",
+    "optionA": "A type of star cooler and dimmer than our Sun",
+    "optionB": "A small star orbiting a larger companion star",
+    "optionC": "The incredibly dense remnant of a massive star after a supernova explosion",
+    "optionD": "A very young star that is still forming from gas",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the approximate age of the universe?",
+    "optionA": "4.6 billion years",
+    "optionB": "13.8 billion years",
+    "optionC": "100 billion years",
+    "optionD": "1 billion years",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does the redshift of light from distant galaxies tell us?",
+    "optionA": "Those galaxies are moving away from us, showing the universe is expanding",
+    "optionB": "The glow of ancient stars slowly cooling down",
+    "optionC": "Ancient light left over directly from the Big Bang",
+    "optionD": "Gas clouds absorbing light between us and distant galaxies",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is a star-forming region of dense gas and dust called?",
+    "optionA": "A planetary nebula",
+    "optionB": "A stellar nursery",
+    "optionC": "A remnant nebula",
+    "optionD": "A dark nebula",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What do we call the study of the origin, structure, and fate of the universe?",
+    "optionA": "Astrophysics",
+    "optionB": "Astronomy",
+    "optionC": "Cosmology",
+    "optionD": "Planetology",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the Cosmic Microwave Background (CMB)?",
+    "optionA": "X-ray radiation from black holes",
+    "optionB": "Radiation produced by pulsars throughout the galaxy",
+    "optionC": "Visible light from the farthest known galaxies",
+    "optionD": "Faint radiation left over from the Big Bang, filling the whole universe",
+    "correctOption": "D",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What does the Hertzsprung-Russell diagram show?",
+    "optionA": "The orbits of planets in our solar system",
+    "optionB": "The relationship between a star's temperature and its brightness",
+    "optionC": "The distances between nearby galaxies",
+    "optionD": "The ages of different comets in the solar system",
+    "correctOption": "B",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What type of radiation from the Sun can cause sunburn?",
+    "optionA": "Microwave",
+    "optionB": "Radio",
+    "optionC": "X-ray",
+    "optionD": "Ultraviolet (UV)",
+    "correctOption": "D",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is a nova?",
+    "optionA": "A sudden explosion on the surface of a white dwarf that causes it to dramatically brighten",
+    "optionB": "The total collapse of a massive star into a black hole",
+    "optionC": "A new planet forming around a distant star",
+    "optionD": "A type of rapidly pulsing star",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "How does a larger telescope mirror help astronomers observe fainter objects?",
+    "optionA": "It magnifies the target more than a small mirror",
+    "optionB": "It makes images sharper by focusing light more precisely",
+    "optionC": "It collects more light, allowing fainter and more distant objects to be detected",
+    "optionD": "It blocks interference from nearby bright stars",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is stellar parallax, as used to measure distances to nearby stars?",
+    "optionA": "The apparent shift in a nearby star's position against distant background stars as Earth orbits the Sun",
+    "optionB": "The time delay of light arriving from distant stars",
+    "optionC": "The wobble of a star caused by orbiting planets",
+    "optionD": "The change in a star's colour over time",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is an exoplanet?",
+    "optionA": "A planet orbiting a star other than our Sun",
+    "optionB": "A moon that has escaped from a planet's gravity",
+    "optionC": "A planet expelled from our solar system long ago",
+    "optionD": "A dwarf planet in the Kuiper Belt",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Why does the Moon always show the same face to Earth?",
+    "optionA": "Earth's gravity prevents the Moon from rotating at all",
+    "optionB": "The Moon is held in place by Earth's magnetic field",
+    "optionC": "The Moon's rotation period equals its orbital period — a result of tidal locking",
+    "optionD": "The Moon rotates so slowly that we cannot notice it",
+    "correctOption": "C",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is escape velocity?",
+    "optionA": "The minimum speed needed to leave a body's gravitational field without further propulsion",
+    "optionB": "The maximum speed a spacecraft can reach in orbit",
+    "optionC": "The speed at which meteorites enter Earth's atmosphere",
+    "optionD": "The speed of light in a vacuum",
+    "correctOption": "A",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the Chandrasekhar limit?",
+    "optionA": "The maximum mass a white dwarf star can have before collapsing further under its own gravity",
+    "optionB": "The minimum temperature a star needs to begin nuclear fusion",
+    "optionC": "The maximum distance at which a planet can retain an atmosphere",
+    "optionD": "The speed at which stars rotate at the edge of a galaxy",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is a quasar?",
+    "optionA": "A type of neutron star that emits rapid pulses",
+    "optionB": "An extremely luminous active galactic nucleus powered by a supermassive black hole",
+    "optionC": "A rapidly pulsing source of radio waves",
+    "optionD": "A newly discovered dwarf planet beyond Neptune",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What two pieces of evidence most strongly support the Big Bang theory?",
+    "optionA": "The existence of black holes and the constant speed of light",
+    "optionB": "The discovery of exoplanets and the detection of dark matter",
+    "optionC": "The expansion of the universe and the cosmic microwave background radiation",
+    "optionD": "The age of the Sun and the number of known galaxies",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is gravitational lensing?",
+    "optionA": "The way telescopes focus starlight using curved mirrors",
+    "optionB": "The method used to measure distances to nearby stars",
+    "optionC": "The bending of light around massive objects, predicted by general relativity",
+    "optionD": "The distortion of images caused by Earth's atmosphere",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is dark matter?",
+    "optionA": "Dead stars that no longer produce light",
+    "optionB": "An unseen form of matter that interacts gravitationally but does not emit or absorb light",
+    "optionC": "The material inside black holes beyond the event horizon",
+    "optionD": "Distant galaxies too faint for current telescopes to observe",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What do we call the point of infinite density thought to exist at the centre of a black hole?",
+    "optionA": "The event horizon",
+    "optionB": "The photon sphere",
+    "optionC": "The Schwarzschild radius",
+    "optionD": "The singularity",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Which black hole was first successfully imaged by the Event Horizon Telescope, making headlines in 2019?",
+    "optionA": "Sagittarius A*",
+    "optionB": "Cygnus X-1",
+    "optionC": "M87*",
+    "optionD": "V616 Monocerotis",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the Drake equation used to estimate?",
+    "optionA": "The rate at which the universe is expanding",
+    "optionB": "The mass of supermassive black holes",
+    "optionC": "The brightness of supernovae at various distances",
+    "optionD": "The number of communicating intelligent civilisations that might exist in our galaxy",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What does the Hubble constant describe?",
+    "optionA": "The maximum speed any object can reach in space",
+    "optionB": "The force of gravity at the edge of the observable universe",
+    "optionC": "The rate at which the universe is expanding",
+    "optionD": "The temperature of the cosmic microwave background",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "After expanding into a red giant, what will our Sun eventually leave behind?",
+    "optionA": "A neutron star",
+    "optionB": "A supernova remnant with a pulsar inside",
+    "optionC": "A black hole",
+    "optionD": "A white dwarf surrounded by a planetary nebula",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What makes Cepheid variable stars so useful to astronomers?",
+    "optionA": "They can be used to accurately measure distances to galaxies and star clusters",
+    "optionB": "They reveal the life cycle of the most massive stars",
+    "optionC": "They allow us to detect planets orbiting other stars",
+    "optionD": "They track the movement of nearby asteroids",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the Schwarzschild radius of an object?",
+    "optionA": "Its orbital radius within our solar system",
+    "optionB": "The radius to which it would need to be compressed to become a black hole",
+    "optionC": "Its distance from the centre of the Milky Way",
+    "optionD": "The diameter of its accretion disc",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is stellar nucleosynthesis?",
+    "optionA": "The formation of a star from a collapsing gas cloud",
+    "optionB": "The explosion of a massive star at the end of its life",
+    "optionC": "The creation of heavier elements by nuclear fusion reactions inside stars",
+    "optionD": "The process by which planets form from material around a young star",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the cosmic distance ladder?",
+    "optionA": "The sequence of star types from coolest to hottest on the H-R diagram",
+    "optionB": "The series of methods astronomers use to measure progressively larger distances in space",
+    "optionC": "The hierarchy of galaxies, clusters, and superclusters",
+    "optionD": "A list of the brightest stars ranked by their distance from Earth",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What causes auroras (the Northern and Southern Lights)?",
+    "optionA": "Light scattered off polar ice caps during long winter nights",
+    "optionB": "Volcanic gases trapped in the upper atmosphere",
+    "optionC": "Moonlight refracted by high-altitude ice clouds",
+    "optionD": "Charged particles from the Sun interacting with Earth's magnetic field",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the James Webb Space Telescope primarily designed to observe?",
+    "optionA": "X-rays from black holes and neutron stars",
+    "optionB": "Ultraviolet light from nearby star-forming regions",
+    "optionC": "Infrared light from the earliest galaxies and distant cosmic objects",
+    "optionD": "Solar activity and space weather near Earth",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What do we call the point in Earth's orbit when it is farthest from the Sun?",
+    "optionA": "Perihelion",
+    "optionB": "Equinox",
+    "optionC": "Apogee",
+    "optionD": "Aphelion",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Why is the Andromeda Galaxy particularly significant to astronomers studying the future of the Milky Way?",
+    "optionA": "It is the oldest galaxy in the observable universe",
+    "optionB": "It is on a collision course with the Milky Way and expected to merge in about 4.5 billion years",
+    "optionC": "It contains the supermassive black hole closest to Earth",
+    "optionD": "It is the only galaxy beyond our own where exoplanets have been confirmed",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is the Fermi Paradox?",
+    "optionA": "The contradiction between the apparent high probability of extraterrestrial life and the complete lack of evidence for it",
+    "optionB": "The mystery of why some stars appear brighter than their distance predicts",
+    "optionC": "The puzzle of why galaxies rotate faster at their edges than expected",
+    "optionD": "The question of whether the universe has a centre point",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "What is dark energy currently believed to be causing?",
+    "optionA": "The expansion of the universe to gradually slow down",
+    "optionB": "Black holes to steadily become more massive over time",
+    "optionC": "Galaxies at the edges of the universe to collide",
+    "optionD": "The expansion of the universe to accelerate",
+    "correctOption": "D",
+    "levelBand": "Age 11 High Achiever"
+  }
+]

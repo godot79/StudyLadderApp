@@ -28,7 +28,7 @@ const SUBJECTS = [
     key: "space",
     label: "Space",
     emoji: "🚀",
-    playable: false,
+    playable: true,
     headerClass: "bg-gradient-to-br from-slate-700 to-indigo-900",
   },
 ] as const;

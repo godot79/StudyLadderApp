@@ -17,7 +17,9 @@
       "Bash(npm run *)",
       "Bash(npx vitest *)",
       "Bash(node -e \"const q=require\\('/private/tmp/claude-501/-Users-godot-CodingProjects-StudyLadderApp/f9ea6a87-0ea8-49bc-b8b8-4662c9f16d33/scratchpad/maths_clean.json'\\); const bands={}; q.forEach\\(x=>{bands[x.levelBand]=\\(bands[x.levelBand]||0\\)+1}\\); console.log\\('Total:',q.length\\); Object.entries\\(bands\\).forEach\\(\\([b,n]\\)=>console.log\\(' ',b+':',n\\)\\)\")",
-      "Bash(node *)"
+      "Bash(node *)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)"
     ]
   }
 }
