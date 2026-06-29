@@ -1,4 +1,3 @@
 {
-  "buildCommand": "npx prisma migrate deploy && next build",
   "regions": ["sin1"]
 }
