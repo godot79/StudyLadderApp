@@ -22,7 +22,7 @@ export async function completeSession(
   sessionId: string,
   answers: AnswerInput[]
 ) {
-  const completion = await completePracticeSession(sessionId, answers);
+  await completePracticeSession(sessionId, answers);
   const child = await getDefaultChild();
   // Evaluate rewards after the session transaction completes.
   // Failure here does not roll back the session result.
@@ -30,7 +30,6 @@ export async function completeSession(
   if (session) {
     await evaluateAndPersistRewards(child.id, sessionId, session.subject);
   }
-  void completion;
   redirect(`/results/${sessionId}`);
 }
 

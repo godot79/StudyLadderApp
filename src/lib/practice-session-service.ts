@@ -2,6 +2,7 @@ import { prisma } from "@/db";
 import { selectQuestions } from "@/lib/questions";
 import { evaluateAnswer } from "@/lib/scoring";
 import { buildSessionCompletion } from "@/lib/session";
+import { computeProgressedBand } from "@/lib/progression";
 import type { SessionQuestionOutcome } from "@/types";
 
 const DEFAULT_CHILD_ID = "child-001";
@@ -29,7 +30,7 @@ export async function startPracticeSession(subject: string) {
     return { session: existingSession, sessionQuestions: [] };
   }
 
-  const [allQuestions, shownRecords, recentSessions] = await Promise.all([
+  const [allQuestions, shownRecords, recentSessions, subjectProgress] = await Promise.all([
     prisma.question.findMany({ where: { subject, isActive: true } }),
     prisma.shownQuestion.findMany({ where: { childId: child.id } }),
     prisma.practiceSession.findMany({
@@ -38,11 +39,18 @@ export async function startPracticeSession(subject: string) {
       take: RECENCY_WINDOW,
       include: { questions: { select: { questionId: true } } },
     }),
+    prisma.subjectProgress.findFirst({
+      where: { childId: child.id, subject },
+      select: { levelBand: true },
+    }),
   ]);
+
+  // Use per-subject band if set; otherwise fall back to the child's default band.
+  const effectiveBand = subjectProgress?.levelBand ?? child.levelBand;
 
   const shownIds = shownRecords.map((r) => r.questionId);
   const recentlyUsedIds = recentSessions.flatMap((s) => s.questions.map((q) => q.questionId));
-  const selected = selectQuestions(allQuestions, shownIds, 10, child.levelBand, recentlyUsedIds);
+  const selected = selectQuestions(allQuestions, shownIds, 10, effectiveBand, recentlyUsedIds);
 
   if (selected.length < 10) {
     throw new Error(
@@ -55,6 +63,7 @@ export async function startPracticeSession(subject: string) {
       data: {
         childId: child.id,
         subject,
+        levelBand: effectiveBand,
         status: "in_progress",
         totalQuestions: selected.length,
       },
@@ -201,5 +210,31 @@ export async function completePracticeSession(
     }
   });
 
-  return completion;
+  // Progression check — runs after the main transaction so the just-completed session
+  // is included in the recent-sessions query.
+  const [currentProgress, recentCompletedSessions] = await Promise.all([
+    prisma.subjectProgress.findFirst({
+      where: { childId: session.childId, subject: session.subject },
+      select: { levelBand: true },
+    }),
+    prisma.practiceSession.findMany({
+      where: { childId: session.childId, subject: session.subject, status: "completed" },
+      orderBy: { completedAt: "desc" },
+      take: 3,
+      select: { correctCount: true, totalQuestions: true },
+    }),
+  ]);
+
+  // Use the band stored on the session at creation; fall back to "Age 9" for old sessions.
+  const currentBand = currentProgress?.levelBand ?? session.levelBand ?? "Age 9";
+  const { newBand, promoted } = computeProgressedBand(recentCompletedSessions, currentBand);
+
+  if (promoted) {
+    await prisma.subjectProgress.update({
+      where: { childId_subject: { childId: session.childId, subject: session.subject } },
+      data: { levelBand: newBand },
+    });
+  }
+
+  return { ...completion, progression: { promoted, previousBand: currentBand, newBand } };
 }

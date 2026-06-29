@@ -6,7 +6,8 @@
     "optionC": "her",
     "optionD": "herd",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Hear' is the correct word because it means to listen or detect sound. 'Here' is a place word — these are homophones (they sound the same but have different meanings)."
   },
   {
     "prompt": "Which word correctly fills the blank: '___ going to the park today.'",
@@ -15,7 +16,8 @@
     "optionC": "Where",
     "optionD": "Wear",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'We're' is correct because it is a contraction of 'we are' — the apostrophe shows where the missing letter 'a' has been dropped."
   },
   {
     "prompt": "Which of these is spelled correctly?",
@@ -24,7 +26,8 @@
     "optionC": "beautiful",
     "optionD": "beautful",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Beautiful' is the correct spelling. A helpful trick: think 'Big Elephants Are Ugly' for the B-E-A-U at the start."
   },
   {
     "prompt": "Which one is the correct spelling?",
@@ -33,7 +36,8 @@
     "optionC": "friened",
     "optionD": "friend",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Friend' is the correct spelling. Remember: 'fri-end' — a friend is there right to the END."
   },
   {
     "prompt": "Which word correctly fills the blank: 'The dog wagged ___ tail.'",
@@ -42,7 +46,8 @@
     "optionC": "it's",
     "optionD": "its'",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Its' (no apostrophe) shows possession — the tail belongs to the dog. 'It's' (with apostrophe) always means 'it is', which would not make sense here."
   },
   {
     "prompt": "What type of word is 'quickly'?",
@@ -51,7 +56,8 @@
     "optionC": "noun",
     "optionD": "verb",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Quickly' is an adverb because it describes how something is done — it modifies a verb. Many adverbs end in '-ly', like slowly, quietly, and loudly."
   },
   {
     "prompt": "What type of word is 'happiness'?",
@@ -60,7 +66,8 @@
     "optionC": "noun",
     "optionD": "verb",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Happiness' is a noun — it is a feeling you can name. It was formed from the adjective 'happy' by adding the suffix '-ness', which turns adjectives into nouns."
   },
   {
     "prompt": "What type of word is 'enormous'?",
@@ -69,7 +76,8 @@
     "optionC": "verb",
     "optionD": "adjective",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Enormous' is an adjective because it describes a noun — it tells you the size of something, like 'an enormous elephant'."
   },
   {
     "prompt": "What type of word is 'sprint'?",
@@ -78,7 +86,8 @@
     "optionC": "adverb",
     "optionD": "noun",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Sprint' is a verb — it is an action word meaning to run very fast. Verbs describe what someone or something does."
   },
   {
     "prompt": "Which sentence is in the past tense?",
@@ -87,7 +96,8 @@
     "optionC": "She will run to school.",
     "optionD": "She is running to school.",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'She ran to school' is in the past tense — it already happened. 'Ran' is the past tense form of the verb 'run'."
   },
   {
     "prompt": "Which word is a conjunction?",
@@ -96,7 +106,8 @@
     "optionC": "because",
     "optionD": "jumped",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Because' is a conjunction — it is a joining word that links two clauses together and gives a reason, as in 'She was late because she missed the bus'."
   },
   {
     "prompt": "Which of these is a proper noun?",
@@ -105,7 +116,8 @@
     "optionC": "flower",
     "optionD": "London",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'London' is a proper noun — it is the specific name of a place and always starts with a capital letter. 'City' is a common noun because it refers to any city."
   },
   {
     "prompt": "What is the plural of 'child'?",
@@ -114,7 +126,8 @@
     "optionC": "childs",
     "optionD": "childes",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The plural of 'child' is 'children' — this is an irregular plural, so you cannot just add '-s'. You need to learn it as a special case."
   },
   {
     "prompt": "Where should the apostrophe go in the word 'dont'?",
@@ -123,7 +136,8 @@
     "optionC": "dont'",
     "optionD": "d'ont",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Don't' is the correct form — the apostrophe goes in the place of the missing letter 'o' from 'do not'. The apostrophe shows a letter has been omitted."
   },
   {
     "prompt": "Which sentence is punctuated correctly?",
@@ -132,7 +146,8 @@
     "optionC": "I went to London last week.",
     "optionD": "i went to London last week.",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'I went to London last week.' is correct — it starts with a capital letter, 'London' (a proper noun) has a capital, and it ends with a full stop."
   },
   {
     "prompt": "Which sentence uses an apostrophe correctly to show possession?",
@@ -141,7 +156,8 @@
     "optionC": "The dogs bone was buried.",
     "optionD": "The dog's bone was buried.",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'The dog's bone' is correct — the apostrophe before the 's' shows the bone belongs to one dog. 'Dogs'' would mean the bone belongs to multiple dogs."
   },
   {
     "prompt": "Which sentence uses commas correctly in a list?",
@@ -150,7 +166,8 @@
     "optionC": "I like, apples bananas, and oranges.",
     "optionD": "I like apples bananas, and, oranges.",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'I like apples, bananas, and oranges.' is correct — commas go between each item in the list to separate them clearly."
   },
   {
     "prompt": "Which word means the same as 'happy'?",
@@ -159,7 +176,8 @@
     "optionC": "angry",
     "optionD": "tired",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Cheerful' is a synonym for 'happy' — both words describe a positive, joyful feeling. Synonyms are words that mean the same or very similar things."
   },
   {
     "prompt": "Which word means the opposite of 'ancient'?",
@@ -168,7 +186,8 @@
     "optionC": "modern",
     "optionD": "historic",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Modern' is the antonym (opposite) of 'ancient'. Ancient means very old, while modern means new or present-day."
   },
   {
     "prompt": "Which word means the same as 'big'?",
@@ -177,7 +196,8 @@
     "optionC": "small",
     "optionD": "enormous",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Enormous' means the same as 'big' — both describe large size. 'Enormous' is a more powerful, specific word that shows something is very, very big."
   },
   {
     "prompt": "Which word best describes speaking very quietly?",
@@ -186,7 +206,8 @@
     "optionC": "yelled",
     "optionD": "announced",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Whispered' means spoke very quietly, almost too soft to hear. Using precise verbs like 'whispered' instead of 'said quietly' makes writing much more vivid."
   },
   {
     "prompt": "What does the word 'furious' mean?",
@@ -195,7 +216,8 @@
     "optionC": "very scared",
     "optionD": "very happy",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Furious' means very angry. It is a stronger, more specific word than 'angry' — using words like this makes your writing more powerful."
   },
   {
     "prompt": "What does the prefix 'un-' mean in the word 'unhappy'?",
@@ -204,7 +226,8 @@
     "optionC": "not",
     "optionD": "less",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The prefix 'un-' means 'not' — so 'unhappy' means 'not happy'. You can add 'un-' to many words to give them the opposite meaning, like unwell or unkind."
   },
   {
     "prompt": "Which word uses the suffix '-ful'?",
@@ -213,7 +236,8 @@
     "optionC": "running",
     "optionD": "careful",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Careful' uses the suffix '-ful', which means 'full of' — so careful means full of care. Other examples include helpful, cheerful, and hopeful."
   },
   {
     "prompt": "Which word is a synonym for 'fast'?",
@@ -222,7 +246,8 @@
     "optionC": "slow",
     "optionD": "careful",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "'Rapid' is a synonym for 'fast' — both mean moving at high speed. Choosing a precise synonym like 'rapid' can make your writing more interesting."
   },
   {
     "prompt": "Which sentence shows that one girl owns a bag?",
@@ -231,7 +256,8 @@
     "optionC": "The girls' bag is red.",
     "optionD": "The girl,s bag is red.",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'The girl's bag' uses an apostrophe before the 's' to show the bag belongs to one girl. 'Girls'' (apostrophe after the s) would show possession by more than one girl."
   },
   {
     "prompt": "Which word is a subordinating conjunction?",
@@ -240,7 +266,8 @@
     "optionC": "although",
     "optionD": "or",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Although' is a subordinating conjunction — it introduces a subordinate clause that cannot stand alone ('although it was raining'). 'And', 'but', and 'or' are co-ordinating conjunctions."
   },
   {
     "prompt": "Which prefix changes 'appear' to mean 'vanish'?",
@@ -249,7 +276,8 @@
     "optionC": "un-",
     "optionD": "dis-",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Dis-' added to 'appear' makes 'disappear', which means to vanish or go out of sight. The prefix 'dis-' often reverses the meaning of a word."
   },
   {
     "prompt": "What is a simile?",
@@ -258,7 +286,8 @@
     "optionC": "Giving human qualities to an object",
     "optionD": "A word that means the same as another",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A simile is a comparison using 'like' or 'as', such as 'as fast as lightning' or 'she ran like the wind'. It helps create a vivid picture in the reader's mind."
   },
   {
     "prompt": "What type of sentence is: 'Shut the door'?",
@@ -267,7 +296,8 @@
     "optionC": "exclamation",
     "optionD": "statement",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Shut the door' is a command (or imperative sentence) — it gives an instruction. Commands usually start with a verb and do not have a stated subject."
   },
   {
     "prompt": "Which word is the adverb in: 'She sang beautifully on the stage'?",
@@ -276,7 +306,8 @@
     "optionC": "beautifully",
     "optionD": "stage",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Beautifully' is the adverb — it describes how she sang. Adverbs tell us how, when, or where an action happens and often end in '-ly'."
   },
   {
     "prompt": "Which of these is a question?",
@@ -285,7 +316,8 @@
     "optionC": "I wonder where she went",
     "optionD": "Where did she go?",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Where did she go?' is a question — it directly asks for information and ends with a question mark."
   },
   {
     "prompt": "Which word correctly completes: 'He ___ his homework because he was tired'?",
@@ -294,7 +326,8 @@
     "optionC": "forgotten",
     "optionD": "forget",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Forgot' is the correct past tense of 'forget'. It is an irregular verb, so you cannot just add '-ed' — 'forgetted' is not a real word."
   },
   {
     "prompt": "What does the prefix 'mis-' mean in 'misunderstand'?",
@@ -303,7 +336,8 @@
     "optionC": "before",
     "optionD": "again",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The prefix 'mis-' means 'wrongly' — so 'misunderstand' means to understand wrongly. Other examples include misspell (spell wrongly) and misbehave (behave wrongly)."
   },
   {
     "prompt": "Which word is most formal?",
@@ -312,7 +346,8 @@
     "optionC": "child",
     "optionD": "youngster",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Child' is the most formal word for a young person and would be used in official or written contexts. 'Kid' is informal and more suited to everyday speech."
   },
   {
     "prompt": "Which sentence contains an expanded noun phrase?",
@@ -321,7 +356,8 @@
     "optionC": "The dog barked.",
     "optionD": "The large, fluffy dog barked loudly.",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'The large, fluffy dog' is an expanded noun phrase — the noun 'dog' has been given extra describing words ('large' and 'fluffy') to give the reader a clearer picture."
   },
   {
     "prompt": "Which conjunction joins two equally important clauses?",
@@ -330,7 +366,8 @@
     "optionC": "because",
     "optionD": "although",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'And' is a co-ordinating conjunction — it joins two equally important clauses or ideas. 'Because', 'while', and 'although' are subordinating conjunctions that introduce dependent clauses."
   },
   {
     "prompt": "What does 'reluctant' mean?",
@@ -339,7 +376,8 @@
     "optionC": "noisy and loud",
     "optionD": "careful and neat",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Reluctant' means unwilling or hesitant about doing something. For example: 'She was reluctant to go to bed because she was reading a great book.'"
   },
   {
     "prompt": "Which word is the correct choice: 'I ___ the letter yesterday.'",
@@ -348,7 +386,8 @@
     "optionC": "sent",
     "optionD": "scent",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Sent' is the past tense of 'send', so it is correct because the action happened yesterday. 'Scent' means a smell, and 'cent' is a unit of money."
   },
   {
     "prompt": "What is an antonym for 'cowardly'?",
@@ -357,7 +396,8 @@
     "optionC": "fearful",
     "optionD": "brave",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Brave' is the antonym (opposite) of 'cowardly'. Cowardly means lacking courage, while brave means showing courage in the face of fear."
   },
   {
     "prompt": "Which word uses the prefix 're-' to mean 'again'?",
@@ -366,7 +406,8 @@
     "optionC": "remove",
     "optionD": "really",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Rebuild' uses the prefix 're-' to mean 'build again'. In 'ready' and 'really', the 're-' is not a prefix — it is simply part of the word."
   },
   {
     "prompt": "What punctuation mark ends a question?",
@@ -375,7 +416,8 @@
     "optionC": ",",
     "optionD": ".",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A question mark (?) ends a question. It replaces the full stop whenever a sentence is asking something directly."
   },
   {
     "prompt": "Which word is an abstract noun?",
@@ -384,7 +426,8 @@
     "optionC": "joy",
     "optionD": "run",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Joy' is an abstract noun — it names a feeling or idea that you cannot see or touch. A table and a dog are concrete nouns because you can physically see and touch them."
   },
   {
     "prompt": "What does 'inquisitive' mean?",
@@ -393,7 +436,8 @@
     "optionC": "very quiet",
     "optionD": "eager to learn or know things",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Inquisitive' means eager to learn or know things — curious. An inquisitive person always asks questions because they want to understand the world around them."
   },
   {
     "prompt": "What punctuation mark is used to show someone is speaking?",
@@ -402,7 +446,8 @@
     "optionC": "commas",
     "optionD": "brackets",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Speech marks (also called inverted commas or quotation marks) go around the exact words someone says, for example: \"Hello,\" she said."
   },
   {
     "prompt": "Which sentence contains a relative clause?",
@@ -411,7 +456,8 @@
     "optionC": "The old cat slept.",
     "optionD": "The cat slept quietly.",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'The cat, which was old, slept by the fire' contains the relative clause 'which was old' — it gives more information about the noun 'cat' and is introduced by the relative pronoun 'which'."
   },
   {
     "prompt": "What does adding the suffix '-ness' to 'happy' do?",
@@ -420,7 +466,8 @@
     "optionC": "Changes it to a noun",
     "optionD": "Changes it to an adjective",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Adding '-ness' to 'happy' makes 'happiness', which is a noun. The suffix '-ness' turns adjectives into nouns — other examples include sadness, kindness, and darkness."
   },
   {
     "prompt": "Which word is a modal verb?",
@@ -429,7 +476,8 @@
     "optionC": "run",
     "optionD": "might",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Might' is a modal verb — modal verbs express possibility, necessity, or ability. Other modal verbs include can, could, will, would, shall, should, must, and may."
   },
   {
     "prompt": "Which sentence is in the present perfect tense?",
@@ -438,7 +486,8 @@
     "optionC": "She runs every day.",
     "optionD": "She ran yesterday.",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'She has run a marathon' is present perfect tense — it uses 'has' + past participle ('run') to show an action completed at some point in the past with relevance to now."
   },
   {
     "prompt": "What does 'impartial' mean?",
@@ -447,7 +496,8 @@
     "optionC": "taking one side strongly",
     "optionD": "very opinionated",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Impartial' means not taking sides and being fair to all. The prefix 'im-' means 'not', and 'partial' means favouring one side — so impartial means not favouring any side."
   },
   {
     "prompt": "Which word is a preposition in: 'The cat sat on the mat'?",
@@ -456,7 +506,8 @@
     "optionC": "on",
     "optionD": "mat",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'On' is the preposition — it shows the position or relationship between 'the cat' and 'the mat'. Prepositions describe where, when, or how things relate to each other."
   },
   {
     "prompt": "Which sentence uses a colon correctly?",
@@ -465,7 +516,8 @@
     "optionC": "I need: to go shopping.",
     "optionD": "I need the following: milk, bread, and eggs.",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'I need the following: milk, bread, and eggs' is correct — a colon is used to introduce a list or to follow a complete main clause. The part before the colon must be a complete sentence."
   },
   {
     "prompt": "Which word is spelled correctly?",
@@ -474,7 +526,8 @@
     "optionC": "wierd",
     "optionD": "recieve",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Believe' is the correct spelling. Remember the rule 'i before e except after c' — believe has 'ie', not 'ei'. 'Receive' (after c) has 'ei'."
   },
   {
     "prompt": "Which sentence is in the passive voice?",
@@ -483,7 +536,8 @@
     "optionC": "The cat is chasing the mouse.",
     "optionD": "The cat has chased the mouse.",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'The mouse was chased by the cat' is passive voice — the mouse (the object) is now the subject, and the action happens to it. Passive voice uses 'was/were + past participle'."
   },
   {
     "prompt": "Which word is a synonym for 'determined'?",
@@ -492,7 +546,8 @@
     "optionC": "resolute",
     "optionD": "careless",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Resolute' is a synonym for 'determined' — both mean having a firm decision to do something and not giving up. 'Resolute' is a more formal and powerful word."
   },
   {
     "prompt": "Which sentence contains a fronted adverbial?",
@@ -501,7 +556,8 @@
     "optionC": "She runs every day.",
     "optionD": "Every day, she runs to school.",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Every day, she runs to school' has 'Every day' as a fronted adverbial — the adverbial phrase has been moved to the front of the sentence and is followed by a comma."
   },
   {
     "prompt": "What punctuation should follow a fronted adverbial?",
@@ -510,7 +566,8 @@
     "optionC": "semi-colon",
     "optionD": "full stop",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A comma should follow a fronted adverbial, separating it from the main clause. For example: 'After breakfast, she went to school.' The comma shows where the adverbial ends."
   },
   {
     "prompt": "Which is the correct spelling?",
@@ -519,7 +576,8 @@
     "optionC": "neccesary",
     "optionD": "neccessary",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Necessary' is the correct spelling — one collar (one 'c') and two socks (two 's'). Try the trick: 'it is necessary to have one collar and two socks'."
   },
   {
     "prompt": "Which word is a relative pronoun?",
@@ -528,7 +586,8 @@
     "optionC": "which",
     "optionD": "jumped",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Which' is a relative pronoun — it introduces a relative clause that gives extra information about a noun, as in 'the car, which was red, sped away'."
   },
   {
     "prompt": "Which sentence is in the formal register?",
@@ -537,7 +596,8 @@
     "optionC": "Hey, wanna come to my party?",
     "optionD": "Would you like to attend my party?",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Would you like to attend my party?' is formal — it uses polite, complete language. The other options use informal, conversational language ('gonna', 'wanna', 'yeah')."
   },
   {
     "prompt": "What does 'persevere' mean?",
@@ -546,7 +606,8 @@
     "optionC": "speak very loudly",
     "optionD": "give up when things are hard",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Persevere' means to continue trying despite difficulty. It is a very positive word — someone who perseveres keeps going even when something is tough."
   },
   {
     "prompt": "What is a compound sentence?",
@@ -555,7 +616,8 @@
     "optionC": "A sentence with a subordinate clause",
     "optionD": "A sentence that asks a question",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A compound sentence is two independent clauses joined by a co-ordinating conjunction. For example: 'She ran fast, but she missed the bus.' Both parts could stand alone."
   },
   {
     "prompt": "Which word is a determiner?",
@@ -564,7 +626,8 @@
     "optionC": "the",
     "optionD": "jumped",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'The' is a determiner — it goes before a noun to introduce it and tell us which one. Other determiners include 'a', 'an', 'my', 'this', 'some', and 'every'."
   },
   {
     "prompt": "What is the root word in 'unhelpful'?",
@@ -573,7 +636,8 @@
     "optionC": "helpful",
     "optionD": "help",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The root word is 'help' — 'un-' is a prefix meaning 'not' and '-ful' is a suffix meaning 'full of'. Strip away the prefix and suffix to find the root word."
   },
   {
     "prompt": "What does 'concise' mean?",
@@ -582,7 +646,8 @@
     "optionC": "old-fashioned",
     "optionD": "very long and detailed",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Concise' means expressing something briefly and clearly without unnecessary words. Good writers aim to be concise — saying what they need to in as few words as possible."
   },
   {
     "prompt": "Which sentence uses brackets correctly?",
@@ -591,7 +656,8 @@
     "optionC": "The cat (black and white slept on the sofa.",
     "optionD": "(The cat) slept on the sofa.",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'The cat (black and white) slept on the sofa' is correct — the brackets add extra, non-essential information about the cat. Both opening and closing brackets must always be used."
   },
   {
     "prompt": "What does a semi-colon do?",
@@ -600,7 +666,8 @@
     "optionC": "Links two closely related independent clauses",
     "optionD": "Introduces a list",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A semi-colon links two closely related independent clauses. For example: 'She loved reading; she visited the library every week.' Both parts could be separate sentences."
   },
   {
     "prompt": "Which of these words is spelled correctly?",
@@ -609,7 +676,8 @@
     "optionC": "reccommend",
     "optionD": "environment",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Environment' is the correct spelling. Remember: there is an 'iron' in 'environment' — envi-RON-ment."
   },
   {
     "prompt": "What does 'ambitious' mean?",
@@ -618,7 +686,8 @@
     "optionC": "easily confused",
     "optionD": "lazy and unmotivated",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "'Ambitious' means having a strong desire to succeed or achieve something great. An ambitious person sets high goals and works hard to reach them."
   },
   {
     "prompt": "What is a metaphor?",
@@ -627,7 +696,8 @@
     "optionC": "Giving human qualities to an object",
     "optionD": "A word that sounds like its meaning",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A metaphor is a direct comparison that says one thing IS another, like 'Life is a rollercoaster'. Unlike a simile, it does not use 'like' or 'as'."
   },
   {
     "prompt": "What is personification?",
@@ -636,7 +706,8 @@
     "optionC": "Giving human qualities to a non-human thing",
     "optionD": "Repeating consonant sounds",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Personification is giving human qualities to a non-human thing. For example, 'The wind whispered through the trees' gives the wind a human action (whispering)."
   },
   {
     "prompt": "What is alliteration?",
@@ -645,7 +716,8 @@
     "optionC": "A rhyming pattern",
     "optionD": "The repetition of initial consonant sounds",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Alliteration is the repetition of the same consonant sound at the start of nearby words, like 'slippery silver snake'. It creates a pleasing sound effect in writing."
   },
   {
     "prompt": "Which word is a synonym for 'contemplate'?",
@@ -654,7 +726,8 @@
     "optionC": "ignore",
     "optionD": "rush",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Consider' is a synonym for 'contemplate' — both mean to think carefully about something. 'Contemplate' suggests a deeper, more sustained period of thought."
   },
   {
     "prompt": "What is onomatopoeia?",
@@ -663,7 +736,8 @@
     "optionC": "Repetition of consonant sounds",
     "optionD": "A poetic rhythm pattern",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Onomatopoeia is when a word sounds like what it describes — like 'buzz', 'crash', 'sizzle', or 'whisper'. It adds sound effects to writing."
   },
   {
     "prompt": "What does 'ambiguous' mean?",
@@ -672,7 +746,8 @@
     "optionC": "having more than one possible meaning",
     "optionD": "completely wrong",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Ambiguous' means having more than one possible meaning or being unclear. An ambiguous sentence can be interpreted in different ways, which can cause confusion."
   },
   {
     "prompt": "Which sentence uses a hyphen correctly?",
@@ -681,7 +756,8 @@
     "optionC": "She is well known in the town.",
     "optionD": "She is well-known in the town.",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Well-known' uses a hyphen correctly — when two words work together as a single modifier before a noun, they are joined with a hyphen."
   },
   {
     "prompt": "Which sentence is in the subjunctive mood?",
@@ -690,7 +766,8 @@
     "optionC": "She was quiet.",
     "optionD": "If I was you, I would stay.",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'If I were you' uses the subjunctive mood — 'were' is used instead of 'was' in hypothetical or contrary-to-fact conditions. This is a formal and grammatically correct construction."
   },
   {
     "prompt": "What does the Latin root 'aud-' mean, as in 'audience' and 'audible'?",
@@ -699,7 +776,8 @@
     "optionC": "speak",
     "optionD": "write",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Latin root 'aud-' means 'hear' — an audience listens, and audible means able to be heard. Knowing Latin roots can help you work out the meanings of unfamiliar words."
   },
   {
     "prompt": "What is a clause?",
@@ -708,7 +786,8 @@
     "optionC": "A group of words containing a subject and a verb",
     "optionD": "A word that describes a noun",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A clause is a group of words containing a subject and a verb. A main clause can stand alone as a sentence; a subordinate clause cannot."
   },
   {
     "prompt": "Which word is correctly spelled?",
@@ -717,7 +796,8 @@
     "optionC": "accomodation",
     "optionD": "accommodate",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Accommodate' is the correct spelling — double 'c' and double 'm'. Remember: accommodate is big enough to have two c's and two m's."
   },
   {
     "prompt": "What does 'tenacious' mean?",
@@ -726,7 +806,8 @@
     "optionC": "quick and energetic",
     "optionD": "easily giving up",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Tenacious' means holding firmly to something and refusing to give up — persistent and determined. You might describe a tenacious athlete as someone who never stops trying."
   },
   {
     "prompt": "Which sentence uses dashes correctly to add extra information?",
@@ -735,7 +816,8 @@
     "optionC": "She ran to the — door.",
     "optionD": "She — ran to the door quickly.",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'She grabbed her bag — keys, phone, and purse — and left' uses dashes correctly — a pair of dashes adds extra information or a parenthetical aside within a sentence."
   },
   {
     "prompt": "What is hyperbole?",
@@ -744,7 +826,8 @@
     "optionC": "Exaggeration used for effect",
     "optionD": "A direct comparison",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Hyperbole is exaggeration used for effect or emphasis, like 'I've told you a million times!' Nobody literally means a million — it is used to stress how many times."
   },
   {
     "prompt": "What does the prefix 'trans-' mean, as in 'transport' and 'transfer'?",
@@ -753,7 +836,8 @@
     "optionC": "against",
     "optionD": "across",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The prefix 'trans-' means 'across' — transport means to carry across, and transfer means to move across. Other examples include transcontinental and translate."
   },
   {
     "prompt": "What is the effect of using short sentences in writing?",
@@ -762,7 +846,8 @@
     "optionC": "To slow the reader down",
     "optionD": "To confuse the reader",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Short sentences create pace and tension — they make the reader move quickly through the text and can make an exciting moment feel more urgent or dramatic."
   },
   {
     "prompt": "What does 'eloquent' mean?",
@@ -771,7 +856,8 @@
     "optionC": "refusing to speak",
     "optionD": "speaking rudely",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Eloquent' means expressing ideas clearly, persuasively, and effectively. An eloquent speaker chooses their words carefully and is a pleasure to listen to."
   },
   {
     "prompt": "What does an ellipsis (...) suggest in writing?",
@@ -780,7 +866,8 @@
     "optionC": "A pause, trailing thought, or omission",
     "optionD": "Something is very important",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An ellipsis (...) suggests a pause, a trailing thought, or that words have been left out. In fiction it can create suspense — 'He opened the door and saw...'"
   },
   {
     "prompt": "What does 'scrutinise' mean?",
@@ -789,7 +876,8 @@
     "optionC": "To ignore completely",
     "optionD": "To examine very carefully",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Scrutinise' means to examine something very carefully and thoroughly. A detective would scrutinise a crime scene, looking at every tiny detail."
   },
   {
     "prompt": "What does the prefix 'auto-' mean, as in 'automatic' and 'autobiography'?",
@@ -798,7 +886,8 @@
     "optionC": "before",
     "optionD": "across",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The prefix 'auto-' means 'self' — an autobiography is a book you write about yourself, and automatic means something that operates by itself."
   },
   {
     "prompt": "What is the active voice of 'The window was broken by Tom'?",
@@ -807,7 +896,8 @@
     "optionC": "Tom was breaking the window.",
     "optionD": "The window broke.",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Tom broke the window' is the active voice — Tom (the doer) is the subject and he performs the action directly. In active voice the subject acts; in passive voice the subject is acted upon."
   },
   {
     "prompt": "Which sentence uses a semi-colon correctly?",
@@ -816,7 +906,8 @@
     "optionC": "She loves reading; she visits the library every week.",
     "optionD": "She loves reading; and she visits the library.",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'She loves reading; she visits the library every week' is correct — the semi-colon links two closely related independent clauses without using a conjunction."
   },
   {
     "prompt": "What is a subordinate clause?",
@@ -825,7 +916,8 @@
     "optionC": "A clause that can stand alone as a sentence",
     "optionD": "A clause that depends on a main clause to make sense",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A subordinate clause depends on a main clause to make sense — for example, 'because she was tired' cannot stand alone. It needs a main clause like 'She went to bed'."
   },
   {
     "prompt": "What does 'ambivalent' mean?",
@@ -834,7 +926,8 @@
     "optionC": "very enthusiastic",
     "optionD": "very certain about something",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Ambivalent' means having mixed or uncertain feelings about something — you might feel both positive and negative about it at the same time."
   },
   {
     "prompt": "Which sentence maintains consistent tense?",
@@ -843,7 +936,8 @@
     "optionC": "She walks to the shop and bought some milk.",
     "optionD": "She has walked to the shop and buys some milk.",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'She walked to the shop and bought some milk' is correct — both verbs ('walked' and 'bought') are in the past tense, keeping the tense consistent throughout."
   },
   {
     "prompt": "What is the subjunctive mood used for?",
@@ -852,7 +946,8 @@
     "optionC": "Expressing wishes, hypotheticals, or conditions contrary to fact",
     "optionD": "Describing completed past actions",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The subjunctive mood expresses wishes, hypotheticals, or conditions contrary to fact. For example, 'If I were a bird, I would fly' — 'were' instead of 'was' signals the subjunctive."
   },
   {
     "prompt": "Which sentence uses a colon correctly to introduce an explanation?",
@@ -861,7 +956,8 @@
     "optionC": "I need: to go shopping.",
     "optionD": "There was one problem: we were lost.",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'There was one problem: we were lost' is correct — the colon follows a complete main clause and introduces an explanation. The part before the colon must be a complete sentence."
   },
   {
     "prompt": "What does 'eloquence' mean?",
@@ -870,7 +966,8 @@
     "optionC": "confusion in writing",
     "optionD": "rudeness in speech",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Eloquence' is the noun from 'eloquent' — it means fluent, persuasive, and effective use of language, whether in speech or in writing."
   },
   {
     "prompt": "In 'Despite the rain, we walked to school', what is 'Despite the rain'?",
@@ -879,7 +976,8 @@
     "optionC": "A relative clause",
     "optionD": "A noun phrase",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Despite the rain' is a fronted adverbial — it tells us about the circumstances (despite = even though) and has been placed at the front of the sentence, followed by a comma."
   },
   {
     "prompt": "What does the idiom 'a blessing in disguise' mean?",
@@ -888,7 +986,8 @@
     "optionC": "Something that seems bad but turns out to be good",
     "optionD": "A gift given in secret",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'A blessing in disguise' means something that seems bad at first but turns out to have a good outcome. For example, missing a bus might be a blessing in disguise if it avoids an accident."
   },
   {
     "prompt": "Which word below is spelled correctly?",
@@ -897,7 +996,8 @@
     "optionC": "seperate",
     "optionD": "definitely",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Definitely' is the correct spelling. A helpful trick: there is 'finite' inside 'definitely'. The others are common misspellings — it is 'occurrence', 'disastrous', 'separate'."
   },
   {
     "prompt": "What is the function of brackets in a sentence?",
@@ -906,7 +1006,8 @@
     "optionC": "To show possession",
     "optionD": "To show someone is speaking",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Brackets add extra, non-essential information (also called a parenthetical aside). If you remove the bracketed words, the sentence should still make complete sense."
   },
   {
     "prompt": "Which word is a synonym for 'apprehensive'?",
@@ -915,7 +1016,8 @@
     "optionC": "content",
     "optionD": "grateful",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Anxious' is a synonym for 'apprehensive' — both describe a feeling of worry or nervousness about something that might happen."
   },
   {
     "prompt": "What is the usual difference between 'affect' and 'effect'?",
@@ -924,7 +1026,8 @@
     "optionC": "'Affect' is usually a verb; 'effect' is usually a noun",
     "optionD": "'Effect' is usually a verb; 'affect' is usually a noun",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Affect' is usually a verb (the rain affected the match), while 'effect' is usually a noun (the effect of the rain). Remember: RAVEN — Remember Affect Verb Effect Noun."
   },
   {
     "prompt": "Which sentence uses dashes correctly?",
@@ -933,7 +1036,8 @@
     "optionC": "She — ran to catch the bus.",
     "optionD": "She ran — very quickly — to catch the bus.",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'She ran — very quickly — to catch the bus' uses a pair of dashes correctly to add extra information mid-sentence, similar to how brackets are used."
   },
   {
     "prompt": "What does 'meticulous' mean?",
@@ -942,7 +1046,8 @@
     "optionC": "feeling sad and gloomy",
     "optionD": "very careless and hurried",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Meticulous' means showing great attention to detail and being very careful and precise. A meticulous person checks everything thoroughly to make sure it is perfect."
   },
   {
     "prompt": "Which sentence uses 'who' and 'whom' correctly?",
@@ -951,7 +1056,8 @@
     "optionC": "Whom spoke to you?",
     "optionD": "Who did you gave it to?",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Whom did you speak to?' is correct — use 'whom' when it is the object (you spoke to him/whom). Use 'who' when it is the subject (he/who spoke to you)."
   },
   {
     "prompt": "What does 'inevitable' mean?",
@@ -960,7 +1066,8 @@
     "optionC": "certain to happen, unavoidable",
     "optionD": "very slow and gradual",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Inevitable' means certain to happen and impossible to avoid. For example, if you do not revise, it is inevitable that you will find the test difficult."
   },
   {
     "prompt": "Which sentence is grammatically correct?",
@@ -969,7 +1076,8 @@
     "optionC": "Between you and I, it was wrong.",
     "optionD": "Between you and me, it was wrong.",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "'Between you and me' is correct — after a preposition like 'between', you must use object pronouns (me, him, her, us, them), not subject pronouns (I, he, she)."
   },
   {
     "prompt": "What is the purpose of a rhetorical question?",
@@ -978,7 +1086,8 @@
     "optionC": "To ask for specific information from the reader",
     "optionD": "To create a pause in the writing",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A rhetorical question is asked to engage the reader or make a point, not to get a direct answer. For example: 'Isn't it time we did something about climate change?'"
   },
   {
     "prompt": "What is an oxymoron?",
@@ -987,7 +1096,8 @@
     "optionC": "Giving human qualities to objects",
     "optionD": "Repeating a consonant sound",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "An oxymoron is a phrase that combines two contradictory or opposite ideas, like 'deafening silence' or 'bittersweet'. The contradiction creates a striking or thought-provoking effect."
   },
   {
     "prompt": "What does the root 'bene-' mean, as in 'benefit' and 'benevolent'?",
@@ -996,7 +1106,8 @@
     "optionC": "good or well",
     "optionD": "before",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Latin root 'bene-' means 'good or well' — benefit means something that helps, and benevolent means well-meaning and kind. The opposite root is 'mal-', meaning bad."
   },
   {
     "prompt": "What is a gerund?",
@@ -1005,7 +1116,8 @@
     "optionC": "A verb used as an adverb",
     "optionD": "A verb form ending in -ing used as a noun",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A gerund is a verb ending in '-ing' that is used as a noun. For example, in 'Swimming is good exercise', 'swimming' is a gerund — it is the subject of the sentence."
   },
   {
     "prompt": "Which of these is an example of a paradox?",
@@ -1014,7 +1126,8 @@
     "optionC": "The sun rose in the east.",
     "optionD": "The cat sat on the mat.",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'I know that I know nothing' is a paradox — it seems to contradict itself (how can you know something if you know nothing?) but points to a deeper truth."
   },
   {
     "prompt": "What does 'circumlocution' mean?",
@@ -1023,7 +1136,8 @@
     "optionC": "Giving a speech from memory",
     "optionD": "Choosing unusual or rare words",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Circumlocution means using many words to say what could be said simply — going around the point rather than getting straight to it. 'Circum-' means around, and 'locution' means speech."
   },
   {
     "prompt": "What is anaphora?",
@@ -1032,7 +1146,8 @@
     "optionC": "Repetition of a word or phrase at the start of successive clauses",
     "optionD": "A comparison using 'like' or 'as'",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Anaphora is the repetition of a word or phrase at the start of successive clauses for rhetorical effect — like Martin Luther King's famous 'I have a dream... I have a dream...'"
   },
   {
     "prompt": "What does 'loquacious' mean?",
@@ -1041,7 +1156,8 @@
     "optionC": "very quiet and reserved",
     "optionD": "talkative, fond of talking",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Loquacious' means talkative and fond of talking. It comes from the Latin 'loqui' meaning to speak. Its opposite is 'taciturn', meaning quiet and reserved."
   },
   {
     "prompt": "What is the key difference between 'imply' and 'infer'?",
@@ -1050,7 +1166,8 @@
     "optionC": "Both mean to state something clearly",
     "optionD": "They mean exactly the same thing",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The speaker/writer implies (hints at something), and the listener/reader infers (draws a conclusion). Think of it this way: the writer implies; the reader infers."
   },
   {
     "prompt": "What does the prefix 'mal-' mean, as in 'malevolent' and 'malfunction'?",
@@ -1059,7 +1176,8 @@
     "optionC": "before",
     "optionD": "good",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The prefix 'mal-' means 'bad or wrongly' — malevolent means wishing evil, and malfunction means working badly or incorrectly. The opposite prefix is 'bene-', meaning good."
   },
   {
     "prompt": "What is a synecdoche?",
@@ -1068,7 +1186,8 @@
     "optionC": "Using a part to represent a whole, or vice versa",
     "optionD": "Extreme exaggeration",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Synecdoche uses a part to represent a whole (or vice versa). For example, 'All hands on deck' uses 'hands' (part of a person) to mean all the sailors (the whole)."
   },
   {
     "prompt": "What does 'equivocate' mean?",
@@ -1077,7 +1196,8 @@
     "optionC": "To be extremely clear",
     "optionD": "To use ambiguous language to avoid commitment",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Equivocate' means to use vague or ambiguous language deliberately to avoid making a commitment or giving a clear answer. Politicians are sometimes accused of equivocating."
   },
   {
     "prompt": "What is epistrophe?",
@@ -1086,7 +1206,8 @@
     "optionC": "Giving human qualities to objects",
     "optionD": "Repetition of words at the beginning of clauses",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Epistrophe is repetition of words at the end of successive clauses — the opposite of anaphora. Lincoln's 'government of the people, by the people, for the people' ends with 'people' each time."
   },
   {
     "prompt": "In 'It is vital that he attend the meeting', why is 'attend' used rather than 'attends'?",
@@ -1095,7 +1216,8 @@
     "optionC": "It is in the future tense",
     "optionD": "It follows a preposition",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Attend' (not 'attends') is used because this is the subjunctive mood — after expressions like 'it is vital that', 'it is essential that', the base verb form is used rather than the third-person '-s' form."
   },
   {
     "prompt": "What does 'lugubrious' mean?",
@@ -1104,7 +1226,8 @@
     "optionC": "mournful, dismal, or gloomy",
     "optionD": "extremely energetic",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Lugubrious' means mournful, dismal, or gloomy in an exaggerated way. A lugubrious expression is one that looks very sad and sorrowful."
   },
   {
     "prompt": "What is a euphemism?",
@@ -1113,7 +1236,8 @@
     "optionC": "An extreme exaggeration",
     "optionD": "A mild expression used in place of something unpleasant",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A euphemism is a mild or indirect expression used in place of something harsh or unpleasant. For example, saying someone has 'passed away' instead of 'died' is a euphemism."
   },
   {
     "prompt": "What does the suffix '-ology' mean, as in 'biology' and 'psychology'?",
@@ -1122,7 +1246,8 @@
     "optionC": "the opposite of",
     "optionD": "the result of",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The suffix '-ology' means 'the study of' — biology is the study of life, psychology is the study of the mind, and geology is the study of the Earth."
   },
   {
     "prompt": "What is assonance?",
@@ -1131,7 +1256,8 @@
     "optionC": "A word that sounds like what it describes",
     "optionD": "Rhyming only at the end of lines",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Assonance is the repetition of similar vowel sounds in nearby words, like 'the rain in Spain' or 'slow and low'. It creates a musical quality without the words having to fully rhyme."
   },
   {
     "prompt": "What does 'perspicacious' mean?",
@@ -1140,7 +1266,8 @@
     "optionC": "having a sharp insight or understanding",
     "optionD": "very talkative",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Perspicacious' means having a ready insight into things — noticing things that others miss and understanding situations quickly and clearly."
   },
   {
     "prompt": "What is the function of a colon in 'There was only one explanation: he had lied'?",
@@ -1149,7 +1276,8 @@
     "optionC": "To show possession",
     "optionD": "To introduce an explanation or elaboration",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The colon introduces an explanation or elaboration — what comes after the colon explains or expands on what came before. The part before the colon must be a complete clause."
   },
   {
     "prompt": "What is polysemy?",
@@ -1158,6 +1286,737 @@
     "optionC": "When two words are opposite in meaning",
     "optionD": "When a word has only one possible meaning",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Polysemy is when the same word has multiple related meanings — for example, 'bank' can mean a riverbank or a financial institution. This is different from homonymy, where the meanings are unrelated."
+  },
+  {
+    "prompt": "Which of these is a noun?",
+    "optionA": "run",
+    "optionB": "happy",
+    "optionC": "table",
+    "optionD": "quickly",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "'Table' is a noun — it is the name of a thing. Nouns name people, places, and things. 'Run' is a verb, 'happy' is an adjective, and 'quickly' is an adverb."
+  },
+  {
+    "prompt": "What is the plural of 'leaf'?",
+    "optionA": "leafs",
+    "optionB": "leafes",
+    "optionC": "leavs",
+    "optionD": "leaves",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "The plural of 'leaf' is 'leaves' — when a word ends in 'f' or 'fe', you usually change it to 'ves' to make it plural. Other examples: loaf→loaves, knife→knives."
+  },
+  {
+    "prompt": "Which word correctly fills the blank: 'There are ___ books on the shelf.'",
+    "optionA": "to",
+    "optionB": "two",
+    "optionC": "too",
+    "optionD": "tow",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "'Two' is the correct word because it is the number 2. 'To' is a preposition or part of a verb, 'too' means also or excessively, and 'tow' means to pull something."
+  },
+  {
+    "prompt": "Which sentence uses capital letters correctly?",
+    "optionA": "'my name is oliver.'",
+    "optionB": "'My name is oliver.'",
+    "optionC": "'my name is Oliver.'",
+    "optionD": "'My name is Oliver.'",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "'My name is Oliver.' is correct — 'My' starts with a capital because it begins the sentence, and 'Oliver' has a capital because it is a proper noun (a person's name)."
+  },
+  {
+    "prompt": "Which of these is a verb?",
+    "optionA": "slowly",
+    "optionB": "jump",
+    "optionC": "blue",
+    "optionD": "sadness",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "'Jump' is a verb — it is an action word. 'Slowly' is an adverb, 'blue' is an adjective, and 'sadness' is a noun."
+  },
+  {
+    "prompt": "What punctuation mark ends an exclamation?",
+    "optionA": ".",
+    "optionB": "?",
+    "optionC": ",",
+    "optionD": "!",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "An exclamation mark (!) ends an exclamatory sentence — one that expresses strong emotion, surprise, or excitement, like 'What a wonderful day!'"
+  },
+  {
+    "prompt": "Which word is the adjective in: 'The tall tree swayed gently'?",
+    "optionA": "tree",
+    "optionB": "swayed",
+    "optionC": "tall",
+    "optionD": "gently",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "'Tall' is the adjective — it describes the noun 'tree'. 'Swayed' is a verb, 'gently' is an adverb, and 'tree' is a noun."
+  },
+  {
+    "prompt": "Which two words sound the same but have different meanings?",
+    "optionA": "cat, hat",
+    "optionB": "to, too",
+    "optionC": "big, large",
+    "optionD": "run, ran",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "'To' and 'too' are homophones — they sound exactly the same but have different meanings and spellings. 'To' is a preposition, 'too' means also or excessively."
+  },
+  {
+    "prompt": "What is the plural of 'sheep'?",
+    "optionA": "sheeps",
+    "optionB": "sheepies",
+    "optionC": "sheep",
+    "optionD": "sheepes",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "The plural of 'sheep' is 'sheep' — it does not change. Some words have the same form in both singular and plural, like deer and fish."
+  },
+  {
+    "prompt": "Which word means the same as 'tired'?",
+    "optionA": "lively",
+    "optionB": "energetic",
+    "optionC": "exhausted",
+    "optionD": "excited",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "'Exhausted' is a synonym for 'tired' — in fact, it is a stronger word meaning very tired indeed. Choosing precise synonyms makes your writing more expressive."
+  },
+  {
+    "prompt": "Which word is the adverb in: 'She quietly closed the door'?",
+    "optionA": "She",
+    "optionB": "quietly",
+    "optionC": "closed",
+    "optionD": "door",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "'Quietly' is the adverb — it tells us how she closed the door. Adverbs describe how, when, or where an action is done and often end in '-ly'."
+  },
+  {
+    "prompt": "What punctuation mark separates items in a list?",
+    "optionA": ".",
+    "optionB": "!",
+    "optionC": "?",
+    "optionD": ",",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "A comma (,) separates items in a list. For example: 'She bought apples, oranges, bananas, and grapes.' Commas show where one item ends and another begins."
+  },
+  {
+    "prompt": "Which verb form correctly fills the blank: 'He ___ hungry right now'?",
+    "optionA": "was",
+    "optionB": "is",
+    "optionC": "will be",
+    "optionD": "had been",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "'Is' is correct because 'right now' tells us the action is happening in the present tense. 'Was' is past, 'will be' is future, and 'had been' is past perfect."
+  },
+  {
+    "prompt": "What does the prefix 'pre-' mean, as in 'preview' or 'prehistoric'?",
+    "optionA": "after",
+    "optionB": "against",
+    "optionC": "again",
+    "optionD": "before",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "The prefix 'pre-' means 'before' — a preview is a look at something before it is released, and prehistoric means before recorded history."
+  },
+  {
+    "prompt": "Which sentence has correct subject-verb agreement?",
+    "optionA": "'The cats was sleeping.'",
+    "optionB": "'The cat were sleeping.'",
+    "optionC": "'The cats were sleeping.'",
+    "optionD": "'The cat are sleeping.'",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "'The cats were sleeping' is correct — plural subject 'cats' takes the plural verb 'were'. A singular subject (cat) takes 'was', and a plural subject (cats) takes 'were'."
+  },
+  {
+    "prompt": "Which word means the opposite of 'generous'?",
+    "optionA": "kind",
+    "optionB": "stingy",
+    "optionC": "happy",
+    "optionD": "brave",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "'Stingy' is the antonym (opposite) of 'generous' — a stingy person is unwilling to give or share, while a generous person gives freely and willingly."
+  },
+  {
+    "prompt": "Which sentence punctuates direct speech correctly?",
+    "optionA": "'Hello, said Maya.'",
+    "optionB": "'\"Hello,\" said Maya.'",
+    "optionC": "'\"Hello\" said Maya.'",
+    "optionD": "'\"Hello,\" Said Maya.'",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'\"Hello,\" said Maya.' is correct — the spoken words are inside speech marks, there is a comma after the spoken words (inside the speech marks), and 'said' has a lower case 's'."
+  },
+  {
+    "prompt": "What is the subject of the sentence: 'The excited children rushed into the garden'?",
+    "optionA": "excited",
+    "optionB": "The",
+    "optionC": "rushed",
+    "optionD": "children",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Children' is the subject — it is the noun that is doing the action (rushing). The subject is who or what the sentence is about and is usually found before the verb."
+  },
+  {
+    "prompt": "Which word is a connective that shows contrast?",
+    "optionA": "because",
+    "optionB": "therefore",
+    "optionC": "however",
+    "optionD": "firstly",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'However' is a connective that shows contrast — it signals that the next point is different from or goes against what came before. 'Because' shows reason, 'therefore' shows consequence."
+  },
+  {
+    "prompt": "What does 'peer' mean in: 'She began to peer through the keyhole'?",
+    "optionA": "push gently",
+    "optionB": "look closely",
+    "optionC": "walk quietly",
+    "optionD": "laugh softly",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "In this sentence, 'peer' means to look closely or with difficulty — to strain your eyes to see something. It is a precise, descriptive verb."
+  },
+  {
+    "prompt": "Which sentence uses the future tense?",
+    "optionA": "'She sings.'",
+    "optionB": "'She sang.'",
+    "optionC": "'She will sing.'",
+    "optionD": "'She has sung.'",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'She will sing' is future tense — 'will' is the modal verb that shows the action has not happened yet. 'Sings' is present, 'sang' is past, and 'has sung' is present perfect."
+  },
+  {
+    "prompt": "What is an expanded noun phrase?",
+    "optionA": "A noun on its own",
+    "optionB": "Two nouns joined together",
+    "optionC": "A noun with describing words added to give more detail",
+    "optionD": "A noun used as a verb",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "An expanded noun phrase is a noun with describing words added to give more detail. For example, 'a dog' becomes 'a scruffy, muddy dog with bright eyes'."
+  },
+  {
+    "prompt": "Which suffix makes 'hope' into an adjective meaning 'full of hope'?",
+    "optionA": "-ness",
+    "optionB": "-less",
+    "optionC": "-ful",
+    "optionD": "-ing",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Adding '-ful' to 'hope' makes 'hopeful', meaning full of hope. The suffix '-ful' means full of — helpful means full of help, cheerful means full of cheer."
+  },
+  {
+    "prompt": "What is the difference between 'its' and 'it's'?",
+    "optionA": "'Its' shows possession; 'it's' means 'it is' or 'it has'",
+    "optionB": "They mean exactly the same thing",
+    "optionC": "'It's' shows possession; 'its' means 'it is'",
+    "optionD": "There is no difference",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Its' (no apostrophe) shows possession (the cat licked its paw). 'It's' (with apostrophe) always means 'it is' or 'it has'. Test it by saying 'it is' — if it fits, use 'it's'."
+  },
+  {
+    "prompt": "Which of these is a compound word?",
+    "optionA": "quickly",
+    "optionB": "football",
+    "optionC": "happily",
+    "optionD": "running",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Football' is a compound word — it is made from two separate words ('foot' and 'ball') joined together to make a new word with its own meaning."
+  },
+  {
+    "prompt": "Which sentence contains a subordinate clause?",
+    "optionA": "'Tom ran fast.'",
+    "optionB": "'Tom and Mia ran.'",
+    "optionC": "'Tom ran fast, but Mia stopped.'",
+    "optionD": "'Tom ran fast because he was late.'",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Tom ran fast because he was late' contains the subordinate clause 'because he was late' — it cannot stand alone and depends on the main clause 'Tom ran fast'."
+  },
+  {
+    "prompt": "Which word shares the same root (auto-) as 'autograph'?",
+    "optionA": "automatic",
+    "optionB": "agriculture",
+    "optionC": "grammar",
+    "optionD": "telephone",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Automatic' shares the root 'auto-' meaning 'self' — an autograph is your own signature, and automatic means something that operates by itself without manual control."
+  },
+  {
+    "prompt": "What is a synonym for 'terrified'?",
+    "optionA": "calm",
+    "optionB": "amused",
+    "optionC": "grateful",
+    "optionD": "petrified",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Petrified' is a synonym for 'terrified' — both mean extremely frightened. 'Petrified' comes from the Greek word for stone, as if you are so scared you have turned to stone."
+  },
+  {
+    "prompt": "What effect does beginning a sentence with 'Suddenly,' have?",
+    "optionA": "Slows the reader down",
+    "optionB": "Creates an immediate sense of drama or surprise",
+    "optionC": "Makes the writing more formal",
+    "optionD": "Shows contrast with what came before",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Beginning a sentence with 'Suddenly,' creates an immediate sense of drama or surprise — it signals that something unexpected is about to happen, grabbing the reader's attention."
+  },
+  {
+    "prompt": "Which word is correctly hyphenated?",
+    "optionA": "wellknown",
+    "optionB": "well known",
+    "optionC": "well-known",
+    "optionD": "well,known",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Well-known' is correctly hyphenated — when two words work together as a compound adjective before a noun (e.g. 'a well-known actor'), they are joined with a hyphen."
+  },
+  {
+    "prompt": "What is a relative clause?",
+    "optionA": "A clause that begins with 'because'",
+    "optionB": "A clause added only at the end of a sentence",
+    "optionC": "A clause that replaces the main verb",
+    "optionD": "A clause that gives more information about a noun, often starting with 'who', 'which', or 'that'",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A relative clause gives more information about a noun and is introduced by a relative pronoun like 'who', 'which', or 'that' — for example, 'the boy who sat beside me'."
+  },
+  {
+    "prompt": "What does 'persisted' mean in 'She persisted even though it was hard'?",
+    "optionA": "gave up",
+    "optionB": "started again",
+    "optionC": "helped others",
+    "optionD": "kept on going",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Persisted' means kept on going despite difficulty. It is the past tense of 'persist', which is closely related to 'persevere' — both describe not giving up."
+  },
+  {
+    "prompt": "Which sentence uses 'despite' correctly?",
+    "optionA": "'Despite, she was tired, she kept going.'",
+    "optionB": "'Despite she was tired she kept going.'",
+    "optionC": "'Despite being tired, she kept going.'",
+    "optionD": "'Despite of her tiredness she kept going.'",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Despite being tired, she kept going' is correct — 'despite' must be followed by a noun or noun phrase (like 'being tired'), not a full clause. You cannot say 'despite she was tired'."
+  },
+  {
+    "prompt": "What is an antonym of 'cautious'?",
+    "optionA": "careful",
+    "optionB": "reckless",
+    "optionC": "nervous",
+    "optionD": "quiet",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "'Reckless' is the antonym (opposite) of 'cautious'. Cautious means careful and avoiding risks; reckless means acting without thinking about the consequences."
+  },
+  {
+    "prompt": "Which sentence uses reported speech correctly?",
+    "optionA": "'She said \"I am tired.\"'",
+    "optionB": "'She said that she were tired.'",
+    "optionC": "'She said that she was tired.'",
+    "optionD": "'She said I am tired.'",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'She said that she was tired' is correct reported speech — the tense shifts back ('am' becomes 'was') and speech marks are not used because we are reporting what was said, not quoting directly."
+  },
+  {
+    "prompt": "What is a complex sentence?",
+    "optionA": "A sentence with no punctuation",
+    "optionB": "A sentence with one main clause and at least one subordinate clause",
+    "optionC": "A sentence that uses complex vocabulary",
+    "optionD": "A very long sentence",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "A complex sentence has one main clause and at least one subordinate clause. For example: 'She ate breakfast before she left for school.' The subordinate clause cannot stand alone."
+  },
+  {
+    "prompt": "What does 'neutral' mean?",
+    "optionA": "strongly in favour",
+    "optionB": "not taking sides",
+    "optionC": "against something",
+    "optionD": "very excited",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "'Neutral' means not taking sides or supporting either position in a dispute. A neutral person has no strong preference for either option."
+  },
+  {
+    "prompt": "Which of these is a collective noun?",
+    "optionA": "swiftly",
+    "optionB": "running",
+    "optionC": "a flock",
+    "optionD": "beautiful",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'A flock' is a collective noun — it names a group of things (a flock of sheep or birds). Other collective nouns include a pack of wolves, a pride of lions, and a swarm of bees."
+  },
+  {
+    "prompt": "What is the key difference between a phrase and a clause?",
+    "optionA": "They are the same",
+    "optionB": "A phrase must contain a verb",
+    "optionC": "A phrase is always longer than a clause",
+    "optionD": "A clause contains a subject and a verb; a phrase does not",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "A clause contains a subject and a verb (he ran). A phrase is a group of words without both a subject and a verb (in the morning; the big red balloon)."
+  },
+  {
+    "prompt": "What does 'vague' mean?",
+    "optionA": "very clear",
+    "optionB": "extremely important",
+    "optionC": "not clear or precise",
+    "optionD": "very colourful",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'Vague' means not clear, precise, or specific. A vague answer does not give enough detail — a good writer avoids being vague and chooses specific, precise words instead."
+  },
+  {
+    "prompt": "Which sentence is correctly punctuated?",
+    "optionA": "'Its raining today.'",
+    "optionB": "\"It's raining today.\"",
+    "optionC": "\"Its' raining today.\"",
+    "optionD": "'Its raining, today.'",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "\"It's raining today.\" is correct — 'It's' is the contraction of 'it is' (the apostrophe shows the missing 'i'), and the sentence ends with a full stop."
+  },
+  {
+    "prompt": "What does the suffix '-ology' mean, as in 'biology' or 'geology'?",
+    "optionA": "the fear of",
+    "optionB": "the study of",
+    "optionC": "the love of",
+    "optionD": "the opposite of",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "The suffix '-ology' means 'the study of' — biology is the study of living things, and geology is the study of rocks and the Earth."
+  },
+  {
+    "prompt": "Which word is a conjunction in: 'I wanted to go, but I was too tired'?",
+    "optionA": "wanted",
+    "optionB": "too",
+    "optionC": "but",
+    "optionD": "tired",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'But' is the conjunction — it joins the two clauses and shows a contrast between wanting to go and being too tired to do so."
+  },
+  {
+    "prompt": "Which of these is a simile?",
+    "optionA": "'The dog barked loudly.'",
+    "optionB": "'She was a lion in the match.'",
+    "optionC": "'Her eyes were like stars.'",
+    "optionD": "'The thunder clapped.'",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'Her eyes were like stars' is a simile — it compares her eyes to stars using the word 'like'. A metaphor would say 'Her eyes were stars' without 'like' or 'as'."
+  },
+  {
+    "prompt": "What is a synonym for 'astonished'?",
+    "optionA": "bored",
+    "optionB": "amazed",
+    "optionC": "angry",
+    "optionD": "tired",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "'Amazed' is a synonym for 'astonished' — both mean greatly surprised or struck with wonder. Using a variety of synonyms stops your writing from becoming repetitive."
+  },
+  {
+    "prompt": "What does 'tentative' mean?",
+    "optionA": "confident",
+    "optionB": "excited",
+    "optionC": "bold",
+    "optionD": "hesitant",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "'Tentative' means hesitant or uncertain — not fully confident. A tentative suggestion is one you are not completely sure about."
+  },
+  {
+    "prompt": "Which sentence is in the future tense?",
+    "optionA": "'She had already left.'",
+    "optionB": "'She is leaving now.'",
+    "optionC": "'She left yesterday.'",
+    "optionD": "'She will leave tomorrow.'",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "'She will leave tomorrow' is future tense — 'will' is the modal verb that signals the action has not happened yet and will occur in the future."
+  },
+  {
+    "prompt": "Which word is the object in: 'The chef cooked the pasta'?",
+    "optionA": "chef",
+    "optionB": "cooked",
+    "optionC": "pasta",
+    "optionD": "The",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'Pasta' is the object — it is what receives the action of the verb 'cooked'. The chef (subject) performed the action; the pasta (object) had the action done to it."
+  },
+  {
+    "prompt": "What does 'monotonous' mean?",
+    "optionA": "exciting and varied",
+    "optionB": "loud and aggressive",
+    "optionC": "dull and repetitive",
+    "optionD": "short and sharp",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "'Monotonous' means dull and repetitive — lacking variety. 'Mono-' means one, and 'tone' refers to sound, so monotonous literally means having one (unchanging) tone."
+  },
+  {
+    "prompt": "Which sentence uses the correct verb for the indefinite pronoun 'everyone'?",
+    "optionA": "'Everyone are ready to leave.'",
+    "optionB": "'Everyone were excited about the trip.'",
+    "optionC": "'Everyone have finished their work.'",
+    "optionD": "'Everyone is waiting for the bus.'",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "'Everyone' is a singular indefinite pronoun, even though it refers to many people. It always takes a singular verb — 'everyone is' is correct, not 'everyone are' or 'everyone were'."
+  },
+  {
+    "prompt": "What does the prefix 'bi-' mean, as in 'bicycle' or 'bilingual'?",
+    "optionA": "one",
+    "optionB": "three",
+    "optionC": "many",
+    "optionD": "two",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "The prefix 'bi-' means 'two' — a bicycle has two wheels, and a bilingual person speaks two languages. Other examples: biannual (twice a year), binoculars (two lenses)."
+  },
+  {
+    "prompt": "What does 'unanimous' mean?",
+    "optionA": "having no opinion",
+    "optionB": "strongly opposed",
+    "optionC": "one person only",
+    "optionD": "everyone is in full agreement",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "'Unanimous' means everyone is in full agreement — there is no disagreement at all. 'Uni-' means one, so unanimous literally means of one mind or opinion."
+  },
+  {
+    "prompt": "What type of sentence is: 'What a brilliant idea!'?",
+    "optionA": "Question",
+    "optionB": "Statement",
+    "optionC": "Command",
+    "optionD": "Exclamation",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "'What a brilliant idea!' is an exclamation — it expresses strong feeling or emotion. True exclamation sentences start with 'what' or 'how' and contain a verb."
+  },
+  {
+    "prompt": "What is a tricolon?",
+    "optionA": "A word that imitates a sound",
+    "optionB": "A comparison using 'like' or 'as'",
+    "optionC": "A list of three items used for rhetorical effect",
+    "optionD": "A figure of speech that exaggerates",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A tricolon is a list of three items used for rhetorical effect — like Julius Caesar's 'I came, I saw, I conquered'. The rhythm of three creates a powerful, memorable impact."
+  },
+  {
+    "prompt": "What does 'juxtaposition' mean in writing?",
+    "optionA": "A sudden twist at the end of a story",
+    "optionB": "Repeating the same word many times",
+    "optionC": "A list of three related items",
+    "optionD": "Placing contrasting ideas or images close together to highlight their difference",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Juxtaposition is placing contrasting ideas or images close together to highlight their difference, like describing a luxurious mansion next to a crumbling shack."
+  },
+  {
+    "prompt": "What is 'bathos'?",
+    "optionA": "An abrupt, disappointing shift from something grand to something trivial, often for comic effect",
+    "optionB": "A technique where characters speak their thoughts aloud",
+    "optionC": "Repeating the same consonant sound",
+    "optionD": "An exaggerated statement not meant literally",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Bathos is an abrupt, disappointing shift from something grand to something trivial, often for comic effect — like ending an epic speech about saving the world with 'and also I need a sandwich'."
+  },
+  {
+    "prompt": "What is 'register' in writing?",
+    "optionA": "The list of characters in a story",
+    "optionB": "The level and style of language chosen to suit the audience and purpose",
+    "optionC": "The order of events in a text",
+    "optionD": "The margin on a page",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Register is the level and style of language chosen to match the audience and purpose. You use a formal register in a letter to a headteacher and an informal register when texting a friend."
+  },
+  {
+    "prompt": "What is 'mood' in a piece of writing?",
+    "optionA": "The main character's personal feelings",
+    "optionB": "The writer's opinion",
+    "optionC": "The overall feeling or atmosphere created for the reader",
+    "optionD": "The setting of the story",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Mood in writing is the overall feeling or atmosphere created for the reader through word choices, setting, and imagery — for example, a tense, gloomy, or cheerful mood."
+  },
+  {
+    "prompt": "What does 'infer' mean in reading?",
+    "optionA": "To copy facts from the text",
+    "optionB": "To use clues in the text plus your own thinking to work out something not directly stated",
+    "optionC": "To summarise the whole text",
+    "optionD": "To find all the key words",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "To infer means to use clues in the text plus your own knowledge to work out something the author has not directly stated — reading 'between the lines'."
+  },
+  {
+    "prompt": "What is a 'motif' in a story?",
+    "optionA": "The moral lesson",
+    "optionB": "The main problem the character faces",
+    "optionC": "A repeated image, symbol, or idea that carries meaning throughout a text",
+    "optionD": "A twist at the end",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A motif is a recurring image, symbol, or idea that carries meaning throughout a text. For example, the motif of light and darkness in many stories represents good versus evil."
+  },
+  {
+    "prompt": "What does 'connotation' mean?",
+    "optionA": "The dictionary definition of a word",
+    "optionB": "A word that sounds like what it means",
+    "optionC": "A word's opposite",
+    "optionD": "The feeling or associations a word suggests beyond its literal meaning",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Connotation is the feeling or associations a word carries beyond its literal dictionary meaning. For example, 'home' and 'house' have similar meanings, but 'home' has warm, personal connotations."
+  },
+  {
+    "prompt": "What is an 'oxymoron'?",
+    "optionA": "Giving human qualities to non-human things",
+    "optionB": "A comparison using 'like' or 'as'",
+    "optionC": "An exaggerated description for effect",
+    "optionD": "A contradiction that creates meaning, such as 'deafening silence'",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An oxymoron is a phrase that combines two contradictory terms to create a striking effect, like 'deafening silence', 'bittersweet', or 'living dead'."
+  },
+  {
+    "prompt": "What is 'foreshadowing' in a text?",
+    "optionA": "A shadow image used in a poem",
+    "optionB": "A hint or clue early in the text suggesting what will happen later",
+    "optionC": "A flashback to an earlier time",
+    "optionD": "A description of a dark setting",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Foreshadowing is when an author drops hints or clues early in a text about what will happen later. It builds suspense and rewards careful readers who spot the clues."
+  },
+  {
+    "prompt": "What is a synonym for 'meticulous'?",
+    "optionA": "careless",
+    "optionB": "casual",
+    "optionC": "thorough",
+    "optionD": "uncertain",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Thorough' is a synonym for 'meticulous' — both mean giving careful attention to every detail. Meticulous is a slightly stronger, more formal word."
+  },
+  {
+    "prompt": "What is a 'rhetorical question'?",
+    "optionA": "A question that requires a very long answer",
+    "optionB": "A question asked to make a point rather than to get a direct response",
+    "optionC": "A question that always begins with 'how'",
+    "optionD": "A question used only to start a paragraph",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A rhetorical question is asked to make a point or engage the reader — not to get a direct answer. For example: 'Isn't it time we treated animals better?' makes a point without expecting a reply."
+  },
+  {
+    "prompt": "What is 'pathos' in writing?",
+    "optionA": "The use of humour to make the reader laugh",
+    "optionB": "A technique that evokes pity or sadness in the reader",
+    "optionC": "The use of frightening imagery",
+    "optionD": "A logical argument supported by evidence",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Pathos is a technique that evokes pity, sadness, or sympathy in the reader. Writers use pathos to make the reader feel emotionally connected to characters or situations."
+  },
+  {
+    "prompt": "What is the difference between an implicit and an explicit statement in a text?",
+    "optionA": "An explicit meaning is hidden and must be inferred; an implicit meaning is directly stated",
+    "optionB": "They are different words for the same thing",
+    "optionC": "Both require the reader to guess what the writer means",
+    "optionD": "An explicit statement is directly stated in the text; an implicit meaning is suggested but not directly said",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An explicit statement is clearly written out in the text — you can point to it directly. An implicit meaning is hinted at or suggested — the reader has to infer it from clues rather than finding it stated outright."
+  },
+  {
+    "prompt": "What is dramatic irony?",
+    "optionA": "When a character uses extremely exaggerated language to make a point",
+    "optionB": "When two characters argue dramatically on stage",
+    "optionC": "When the audience or reader knows something important that a character in the story does not",
+    "optionD": "When the ending of a story is completely unexpected",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Dramatic irony occurs when the audience or reader has information that a character lacks. This creates tension, suspense, or sadness — for example, watching a character walk into danger they cannot see coming while the reader knows what awaits them."
+  },
+  {
+    "prompt": "What is an extended metaphor?",
+    "optionA": "A metaphor that compares more than two things at once",
+    "optionB": "A comparison using both 'like' and 'as' in the same sentence",
+    "optionC": "A very long simile spread across a sentence",
+    "optionD": "A single metaphor developed and sustained across several sentences or throughout a whole text",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An extended metaphor takes a single comparison and develops it over a longer passage. For example, describing life as a journey and then continuing to use words like crossroads, detours, and destinations throughout the text deepens the original comparison."
+  },
+  {
+    "prompt": "What is pathetic fallacy?",
+    "optionA": "The use of exaggeration to create a false impression in the reader's mind",
+    "optionB": "A logical error in an argument that seems convincing but is actually wrong",
+    "optionC": "When a character's emotions cause them to behave foolishly",
+    "optionD": "Giving the weather or natural surroundings emotions that mirror a character's mood",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Pathetic fallacy is a literary device where the weather or natural environment is given human emotions that reflect a character's feelings. For example, a storm raging during a character's moment of grief, or sunshine accompanying happiness. It helps set mood and tone."
+  },
+  {
+    "prompt": "What is litotes?",
+    "optionA": "A list of three items used for rhetorical effect",
+    "optionB": "An extreme exaggeration not meant literally",
+    "optionC": "A deliberate understatement, often using a negative to affirm a positive, to create ironic or humorous effect",
+    "optionD": "A comparison using 'like' or 'as'",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Litotes is a form of understatement where something positive is expressed by denying its opposite — for example, saying 'not bad' to mean 'good', or 'she's not the worst singer' to mean 'she's actually quite good.' It often creates a dry or ironic tone."
+  },
+  {
+    "prompt": "What is a soliloquy in drama?",
+    "optionA": "A long speech delivered by one character to another on stage",
+    "optionB": "A short poem spoken before a play begins",
+    "optionC": "A scene where two characters discuss their feelings privately",
+    "optionD": "A speech where a character speaks their thoughts aloud, alone on stage, revealing their inner feelings to the audience",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A soliloquy is when a character is alone on stage and speaks their thoughts aloud directly to the audience — not to another character. It reveals inner feelings, plans, or conflicts that the character would not voice to others. Shakespeare used soliloquies throughout his plays, most famously in Hamlet."
+  },
+  {
+    "prompt": "What does 'austere' mean?",
+    "optionA": "luxurious and richly decorated",
+    "optionB": "harsh and severe in manner, or plain and lacking in decoration",
+    "optionC": "very confident and assertive",
+    "optionD": "careful and considerate toward others",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Austere' means severe, strict, or very plain — without comfort or decoration. An austere room has minimal furniture and no luxuries; an austere person is strict and cold in manner. The noun form is 'austerity'."
   }
 ]

@@ -15,7 +15,7 @@ export default async function ResultsPage({
 
   if (!session || session.status !== "completed") notFound();
 
-  const [progress, child, sessionRewards] = await Promise.all([
+  const [progress, child, sessionRewards, sessionQuestions] = await Promise.all([
     prisma.subjectProgress.findFirst({
       where: { childId: session.childId, subject: session.subject },
     }),
@@ -23,6 +23,11 @@ export default async function ResultsPage({
     prisma.earnedReward.findMany({
       where: { sessionId: sessionId },
       orderBy: { earnedAt: "asc" },
+    }),
+    prisma.sessionQuestion.findMany({
+      where: { sessionId },
+      include: { question: true },
+      orderBy: { questionOrder: "asc" },
     }),
   ]);
 
@@ -49,6 +54,32 @@ export default async function ResultsPage({
       ? "Good effort!"
       : "Keep practising!";
 
+  // Detect promotion: session.levelBand is the band at start; progress.levelBand is current.
+  const promoted =
+    session.levelBand !== null &&
+    progress?.levelBand !== null &&
+    progress?.levelBand !== undefined &&
+    session.levelBand !== progress.levelBand;
+
+  const currentBand = progress?.levelBand ?? child?.levelBand ?? "Age 9";
+
+  // Map option letter to option text for a question.
+  const OPTION_KEY: Record<string, "optionA" | "optionB" | "optionC" | "optionD"> = {
+    A: "optionA", B: "optionB", C: "optionC", D: "optionD",
+  };
+  function optionText(
+    q: { optionA: string; optionB: string; optionC: string; optionD: string },
+    letter: string | null
+  ): string {
+    if (!letter) return "—";
+    const key = OPTION_KEY[letter];
+    return key ? q[key] : "—";
+  }
+
+  const reviewItems = sessionQuestions.filter(
+    (sq) => sq.outcome === "incorrect" || sq.outcome === "unanswered"
+  );
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-6">
       <div className="flex w-full max-w-lg flex-col items-center gap-8">
@@ -69,6 +100,30 @@ export default async function ResultsPage({
             <p className="text-xs text-indigo-200">score</p>
           </div>
         </div>
+
+        {/* Review nudge — shown whenever there are mistakes to look at */}
+        {reviewItems.length > 0 && (
+          <a
+            href="#review"
+            className="w-full rounded-2xl bg-amber-50 px-6 py-4 text-center ring-1 ring-amber-200 transition-all hover:bg-amber-100"
+          >
+            <p className="text-sm font-bold text-amber-800">
+              {reviewItems.length === 1
+                ? "You have 1 question to review — tap to see it 👇"
+                : `You have ${reviewItems.length} questions to review — tap to see them 👇`}
+            </p>
+          </a>
+        )}
+
+        {/* Promotion banner */}
+        {promoted && (
+          <div className="w-full rounded-3xl bg-gradient-to-r from-violet-500 to-indigo-600 p-6 text-center shadow-md">
+            <p className="text-2xl font-extrabold text-white">Level up! 🎉</p>
+            <p className="mt-1 text-sm text-indigo-100">
+              You&apos;ve moved up to <strong>{currentBand}</strong> in {subjectLabel}!
+            </p>
+          </div>
+        )}
 
         {/* This session stats */}
         <div className="w-full rounded-3xl bg-white p-6 shadow-sm ring-1 ring-indigo-100">
@@ -137,6 +192,44 @@ export default async function ResultsPage({
           </div>
         )}
 
+        {/* Question review — incorrect and unanswered */}
+        {reviewItems.length > 0 && (
+          <div id="review" className="w-full rounded-3xl bg-white p-6 shadow-sm ring-1 ring-indigo-100">
+            <h2 className="mb-4 text-xs font-semibold uppercase tracking-widest text-indigo-400">
+              Let&apos;s review
+            </h2>
+            <div className="flex flex-col gap-6">
+              {reviewItems.map((sq) => {
+                const { question } = sq;
+                const wasSkipped = sq.outcome === "unanswered";
+                const yourAnswerText = optionText(question, sq.selectedOption);
+                const correctText = optionText(question, question.correctOption);
+                return (
+                  <div key={sq.id} className="flex flex-col gap-2">
+                    <p className="font-semibold text-indigo-950">{question.prompt}</p>
+                    {!wasSkipped && (
+                      <p className="flex items-center gap-2 text-sm text-rose-600">
+                        <span className="font-bold">✗ Your answer:</span> {yourAnswerText}
+                      </p>
+                    )}
+                    {wasSkipped && (
+                      <p className="text-sm text-gray-400 italic">You didn&apos;t answer this one.</p>
+                    )}
+                    <p className="flex items-center gap-2 text-sm text-emerald-700">
+                      <span className="font-bold">✓ Correct answer:</span> {correctText}
+                    </p>
+                    {question.explanation && (
+                      <p className="rounded-xl bg-indigo-50 px-4 py-3 text-sm text-indigo-800">
+                        {question.explanation}
+                      </p>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        )}
+
         {/* Cumulative progress */}
         {progress && (
           <div className="w-full rounded-3xl bg-white p-6 shadow-sm ring-1 ring-indigo-100">
@@ -148,6 +241,9 @@ export default async function ResultsPage({
               <StatRow label="Total questions" value={progress.totalQuestionsAnswered} />
               <StatRow label="Total correct" value={progress.totalCorrect} />
             </dl>
+            <p className="mt-4 text-xs text-indigo-300">
+              Current level: <span className="font-semibold text-indigo-500">{currentBand}</span>
+            </p>
           </div>
         )}
 

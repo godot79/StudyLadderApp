@@ -243,6 +243,9 @@ export default async function Home() {
                           {progress.sessionsCompleted === 1 ? "session" : "sessions"}
                         </div>
                         {accuracy !== null && <div>{accuracy}% accuracy</div>}
+                        <div className="text-xs text-indigo-400">
+                          {progress.levelBand ?? child.levelBand}
+                        </div>
                         {medal && (
                           <div
                             className={`mt-2 inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-semibold ${medal.color}`}

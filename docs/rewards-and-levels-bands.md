@@ -128,7 +128,7 @@ Award when the learner completes 3 sessions in a subject.
 Award when a completed session has 0 unanswered questions.
 
 #### Great Effort Ribbon
-Award when a learner completes a session with all 10 questions attempted.
+Award when a learner scores at least 50% correct in a completed session.
 
 ### Medal rules
 
@@ -255,6 +255,51 @@ It does not yet require:
 
 ---
 
+## Automatic progression rules
+
+Progression is automatic, per subject, deterministic, and conservative.
+
+### v1 promotion rule
+
+A child is promoted to the next level band in a subject after:
+- completing 3 consecutive sessions in that subject, AND
+- scoring at least 70% (7 out of 10) in every one of those sessions.
+
+Promotion is applied immediately after the qualifying session: the next session in that subject draws from the higher band.
+
+There is no partial credit. If a session scores below 70%, the window resets.
+
+### v1 demotion rule
+
+No automatic demotion in v1.
+
+The child stays at their current band even if they score poorly. This keeps the experience encouraging. Parents or a future settings screen can manually adjust the band if needed.
+
+### Band order
+
+1. Age 9
+2. Age 9 High Achiever
+3. Age 10
+4. Age 10 High Achiever
+5. Age 11
+6. Age 11 High Achiever
+
+A child at Age 11 High Achiever remains there. There is no higher band.
+
+### Progression storage
+
+- `SubjectProgress.levelBand` stores the child's current active band for each subject.
+- When this field is null, the session falls back to `child.levelBand` (the default band set at account creation).
+- `PracticeSession.levelBand` records which band was active when that session was created. This allows the results page to detect a promotion during that session.
+
+### Promotion feedback
+
+When a session results in a promotion:
+- The results page displays a clear, encouraging band-up message.
+- No separate reward is issued for promotion in v1.
+
+---
+
 ## Implementation priority
 
 Recommended order:
@@ -263,4 +308,5 @@ Recommended order:
 2. reward persistence and awarding
 3. subject and level-band progress structure
 4. question bank enrichment
-5. richer reward presentation later
+5. automatic progression per subject
+6. richer reward presentation later

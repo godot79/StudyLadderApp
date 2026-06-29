@@ -9,7 +9,7 @@ const mockPrisma = {
   shownQuestion: { findMany: vi.fn(), createMany: vi.fn() },
   practiceSession: { create: vi.fn(), update: vi.fn(), findUnique: vi.fn(), findFirst: vi.fn(), findMany: vi.fn() },
   sessionQuestion: { create: vi.fn(), update: vi.fn() },
-  subjectProgress: { upsert: vi.fn() },
+  subjectProgress: { upsert: vi.fn(), findFirst: vi.fn() },
   $transaction: vi.fn((cb: (tx: typeof mockPrisma) => Promise<unknown>) =>
     cb(mockPrisma)
   ),
@@ -64,8 +64,8 @@ function makeSession(overrides: Record<string, unknown> = {}) {
       sessionId: "session-1",
       questionId: `q${i}`,
       questionOrder: i + 1,
-      selectedOption: null,
-      outcome: null,
+      selectedOption: null as string | null,
+      outcome: null as string | null,
       shownAt: new Date(),
       answeredAt: null,
       question: makeQuestion(`q${i}`),
@@ -83,6 +83,7 @@ beforeEach(() => {
   mockPrisma.practiceSession.findFirst.mockResolvedValue(null); // no existing in_progress session by default
   mockPrisma.practiceSession.findMany.mockResolvedValue([]); // no recent sessions by default
   mockPrisma.subjectProgress.upsert.mockResolvedValue({});
+  mockPrisma.subjectProgress.findFirst.mockResolvedValue(null);
   mockPrisma.shownQuestion.createMany.mockResolvedValue({ count: 10 });
   mockPrisma.shownQuestion.findMany.mockResolvedValue([]);
 });

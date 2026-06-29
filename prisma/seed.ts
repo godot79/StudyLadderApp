@@ -14,6 +14,7 @@ type QuestionInput = {
   optionC: string;
   optionD: string;
   correctOption: string;
+  explanation?: string;
 };
 
 // Seed questions for one subject safely.
@@ -69,9 +70,35 @@ async function seedSubject(subject: string, questions: QuestionInput[]) {
         optionC: q.optionC,
         optionD: q.optionD,
         correctOption: q.correctOption,
+        explanation: q.explanation ?? null,
         isActive: true,
       })),
     });
+  }
+
+  // Backfill explanation onto questions that already exist in the DB (referenced by sessions).
+  // Only updates rows where explanation is currently null so we don't overwrite manual edits.
+  const existingWithPrompt = await prisma.question.findMany({
+    where: { subject },
+    select: { id: true, prompt: true, explanation: true },
+  });
+  const promptToExplanation = new Map(
+    questions
+      .filter((q) => q.explanation)
+      .map((q) => [q.prompt, q.explanation!])
+  );
+  const toBackfill = existingWithPrompt.filter(
+    (q) => q.explanation === null && promptToExplanation.has(q.prompt)
+  );
+  if (toBackfill.length > 0) {
+    await Promise.all(
+      toBackfill.map((q) =>
+        prisma.question.update({
+          where: { id: q.id },
+          data: { explanation: promptToExplanation.get(q.prompt)! },
+        })
+      )
+    );
   }
 
   console.log(

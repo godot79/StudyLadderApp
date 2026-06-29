@@ -66,7 +66,11 @@ export function computeNewRewards(input: ComputeInput): RewardData[] {
   if (!hasForSession("no_skip") && sessionResults.unansweredCount === 0) {
     results.push({ rewardType: "ribbon", rewardKey: "no_skip", subject, sessionId });
   }
-  if (!hasForSession("great_effort") && sessionResults.unansweredCount === 0) {
+  if (
+    !hasForSession("great_effort") &&
+    sessionResults.totalQuestions > 0 &&
+    sessionResults.correctCount / sessionResults.totalQuestions >= 0.5
+  ) {
     results.push({ rewardType: "ribbon", rewardKey: "great_effort", subject, sessionId });
   }
 

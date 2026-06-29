@@ -6,7 +6,8 @@
     "optionC": "9",
     "optionD": "10",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto used to count but was reclassified as a dwarf planet in 2006."
   },
   {
     "prompt": "What is the name of the planet we live on?",
@@ -15,7 +16,8 @@
     "optionC": "Earth",
     "optionD": "Jupiter",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "We live on Earth, the third planet from the Sun. Earth is the only planet we know of that has liquid water on its surface and supports life."
   },
   {
     "prompt": "Which planet is closest to the Sun?",
@@ -24,7 +26,8 @@
     "optionC": "Earth",
     "optionD": "Mars",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Mercury is the planet closest to the Sun. It is also the smallest planet in our solar system."
   },
   {
     "prompt": "What is the name of Earth's natural satellite?",
@@ -33,7 +36,8 @@
     "optionC": "Titan",
     "optionD": "Phobos",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Moon is Earth's only natural satellite. It orbits our planet roughly every 27 days and can be seen shining in the night sky."
   },
   {
     "prompt": "Which is the largest planet in our solar system?",
@@ -42,7 +46,8 @@
     "optionC": "Neptune",
     "optionD": "Jupiter",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Jupiter is the largest planet in our solar system — it is so huge that over 1,300 Earths could fit inside it."
   },
   {
     "prompt": "What is the name of the star at the centre of our solar system?",
@@ -51,7 +56,8 @@
     "optionC": "The Sun",
     "optionD": "Betelgeuse",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Sun is the star at the centre of our solar system. It provides the light and heat that make life on Earth possible."
   },
   {
     "prompt": "Which planet is known as the Red Planet?",
@@ -60,7 +66,8 @@
     "optionC": "Jupiter",
     "optionD": "Saturn",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Mars is called the Red Planet because its surface is covered in reddish iron oxide (rust). It is the fourth planet from the Sun."
   },
   {
     "prompt": "Which planet is famous for its beautiful rings?",
@@ -69,7 +76,8 @@
     "optionC": "Mars",
     "optionD": "Saturn",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Saturn is famous for its spectacular rings, which are made mostly of ice and rock. The rings are enormous but very thin."
   },
   {
     "prompt": "What do we call the curved path a planet travels around the Sun?",
@@ -78,7 +86,8 @@
     "optionC": "An orbit",
     "optionD": "A loop",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "An orbit is the curved path a planet takes around the Sun, held in place by gravity. Earth completes one orbit every year."
   },
   {
     "prompt": "What is the smallest planet in our solar system?",
@@ -87,7 +96,8 @@
     "optionC": "Mercury",
     "optionD": "Venus",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Mercury is the smallest planet in our solar system. It is only slightly bigger than Earth's Moon."
   },
   {
     "prompt": "In which year did astronauts first walk on the Moon?",
@@ -96,7 +106,8 @@
     "optionC": "1979",
     "optionD": "1969",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Astronauts first walked on the Moon in 1969, when Neil Armstrong and Buzz Aldrin landed during the Apollo 11 mission."
   },
   {
     "prompt": "Which galaxy does our solar system belong to?",
@@ -105,7 +116,8 @@
     "optionC": "Triangulum",
     "optionD": "Whirlpool",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Our solar system is part of the Milky Way galaxy, a spiral galaxy containing hundreds of billions of stars."
   },
   {
     "prompt": "How many moons does Mars have?",
@@ -114,7 +126,8 @@
     "optionC": "2",
     "optionD": "1",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Mars has 2 moons called Phobos and Deimos. They are much smaller than Earth's Moon and were discovered in 1877."
   },
   {
     "prompt": "Which planet is second from the Sun?",
@@ -123,7 +136,8 @@
     "optionC": "Mercury",
     "optionD": "Mars",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Venus is the second planet from the Sun, between Mercury and Earth. It is often the brightest object in the night sky after the Moon."
   },
   {
     "prompt": "What is a comet?",
@@ -132,7 +146,8 @@
     "optionC": "A moon that orbits Jupiter",
     "optionD": "A rocky moon with no atmosphere",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "A comet is a small icy body that develops a glowing tail as it travels near the Sun and the ice heats up and turns to gas."
   },
   {
     "prompt": "Which planet comes after Earth when moving outward from the Sun?",
@@ -141,7 +156,8 @@
     "optionC": "Mars",
     "optionD": "Jupiter",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Mars is the next planet outward from Earth. The order from the Sun is: Mercury, Venus, Earth, Mars."
   },
   {
     "prompt": "What is the correct order of the first four planets from the Sun?",
@@ -150,7 +166,8 @@
     "optionC": "Mercury, Earth, Venus, Mars",
     "optionD": "Mars, Earth, Venus, Mercury",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The correct order starting from the Sun is Mercury, Venus, Earth, Mars. A helpful way to remember is 'My Very Excellent Mother Just Served Us Noodles'."
   },
   {
     "prompt": "What do we call a rock from space that burns up as a streak of light in Earth's atmosphere?",
@@ -159,7 +176,8 @@
     "optionC": "An asteroid",
     "optionD": "A meteor",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "A meteor is a rock from space that burns up as it enters Earth's atmosphere, creating a bright streak of light — sometimes called a shooting star."
   },
   {
     "prompt": "Who was the first person to walk on the Moon?",
@@ -168,7 +186,8 @@
     "optionC": "Neil Armstrong",
     "optionD": "John Glenn",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Neil Armstrong was the first person to walk on the Moon, on 20 July 1969. His famous words were: 'That's one small step for man, one giant leap for mankind.'"
   },
   {
     "prompt": "What is the International Space Station?",
@@ -177,7 +196,8 @@
     "optionC": "A large space laboratory that orbits Earth",
     "optionD": "A rocket launch site in the ocean",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The International Space Station is a large space laboratory that orbits Earth where astronauts from different countries live and carry out scientific research."
   },
   {
     "prompt": "Stars are massive balls of extremely hot...",
@@ -186,7 +206,8 @@
     "optionC": "Water",
     "optionD": "Metal",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Stars are massive balls of extremely hot gas, mainly hydrogen and helium. The enormous heat and pressure in their cores causes nuclear fusion, producing light and heat."
   },
   {
     "prompt": "What force keeps planets in orbit around the Sun?",
@@ -195,7 +216,8 @@
     "optionC": "Gravity",
     "optionD": "Electricity",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Gravity is the force that keeps planets in orbit around the Sun. The Sun's enormous mass creates a strong gravitational pull that curves the planets' paths into orbits."
   },
   {
     "prompt": "Which planet is the fifth from the Sun?",
@@ -204,7 +226,8 @@
     "optionC": "Neptune",
     "optionD": "Jupiter",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Jupiter is the fifth planet from the Sun. After Mars (4th) comes Jupiter (5th), which is also the largest planet in our solar system."
   },
   {
     "prompt": "How long does Earth take to complete one full orbit around the Sun?",
@@ -213,7 +236,8 @@
     "optionC": "Ten years",
     "optionD": "One year",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Earth takes one year (about 365.25 days) to complete one full orbit around the Sun. That extra quarter day is why we have a leap year every four years."
   },
   {
     "prompt": "What can you find in the region between the orbits of Mars and Jupiter?",
@@ -222,7 +246,8 @@
     "optionC": "A comet trail",
     "optionD": "A black hole",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The asteroid belt is a region between Mars and Jupiter containing millions of rocky objects of various sizes, left over from the formation of the solar system."
   },
   {
     "prompt": "What is the name of Jupiter's largest moon?",
@@ -231,7 +256,8 @@
     "optionC": "Europa",
     "optionD": "Ganymede",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Ganymede is Jupiter's largest moon and is also the largest moon in our entire solar system — it is even bigger than the planet Mercury."
   },
   {
     "prompt": "Which planet spins almost completely on its side, with its poles pointing roughly toward the Sun?",
@@ -240,7 +266,8 @@
     "optionC": "Mars",
     "optionD": "Saturn",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Uranus spins almost completely on its side, tilted at about 98°. This means its poles take turns pointing almost directly at the Sun."
   },
   {
     "prompt": "Which planet is the hottest in our solar system, even though it is not the closest to the Sun?",
@@ -249,7 +276,8 @@
     "optionC": "Mercury",
     "optionD": "Jupiter",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Venus is the hottest planet, reaching about 465°C, because its thick carbon dioxide atmosphere traps heat like a blanket — a runaway greenhouse effect."
   },
   {
     "prompt": "What are the four large moons of Jupiter known as together?",
@@ -258,7 +286,8 @@
     "optionC": "The Voyager moons",
     "optionD": "The Titan moons",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Jupiter's four large moons — Io, Europa, Ganymede, and Callisto — are called the Galilean moons, named after Galileo who discovered them in 1610."
   },
   {
     "prompt": "Which planet takes the longest time to complete one orbit of the Sun?",
@@ -267,7 +296,8 @@
     "optionC": "Jupiter",
     "optionD": "Neptune",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Neptune takes the longest to orbit the Sun at about 165 Earth years, because it is the farthest planet and has the longest path to travel."
   },
   {
     "prompt": "What is an asteroid?",
@@ -276,7 +306,8 @@
     "optionC": "A moon that has escaped a planet",
     "optionD": "A dying star",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "An asteroid is a chunk of rock or metal that orbits the Sun. Most asteroids are found in the asteroid belt between Mars and Jupiter."
   },
   {
     "prompt": "Since 2006, what type of body is Pluto classified as?",
@@ -285,7 +316,8 @@
     "optionC": "A dwarf planet",
     "optionD": "An asteroid",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Since 2006 Pluto has been classified as a dwarf planet, because it has not cleared the area around its orbit of other objects — one of the key requirements to be a full planet."
   },
   {
     "prompt": "Which moon of Jupiter is thought to have an ocean of liquid water beneath its icy surface?",
@@ -294,7 +326,8 @@
     "optionC": "Callisto",
     "optionD": "Ganymede",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Europa is thought to have a vast ocean of liquid water beneath its icy crust, kept warm by Jupiter's gravitational pull — making it one of the most exciting places to search for life."
   },
   {
     "prompt": "What is the name of the tallest volcano in our solar system, located on Mars?",
@@ -303,7 +336,8 @@
     "optionC": "Mauna Kea",
     "optionD": "Kilimanjaro",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Olympus Mons on Mars is the tallest volcano in our solar system, rising about 22 km — nearly three times the height of Mount Everest."
   },
   {
     "prompt": "What causes Earth to have seasons?",
@@ -312,7 +346,8 @@
     "optionC": "The Sun burns hotter in summer",
     "optionD": "Earth moves much closer to the Sun in summer",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Earth's seasons are caused by its axial tilt of about 23.5°, so different parts of Earth lean toward or away from the Sun as it orbits throughout the year."
   },
   {
     "prompt": "What is a light-year?",
@@ -321,7 +356,8 @@
     "optionC": "The speed of the fastest spacecraft",
     "optionD": "The age of the Sun measured in years",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A light-year is the distance light travels in one year — about 9.46 trillion kilometres. Astronomers use it to measure the vast distances between stars."
   },
   {
     "prompt": "Which moon of Jupiter has active volcanoes, making it the most geologically active body in our solar system?",
@@ -330,7 +366,8 @@
     "optionC": "Io",
     "optionD": "Europa",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Io is the most volcanically active body in the solar system, covered in hundreds of volcanoes constantly erupting due to the intense gravitational forces from Jupiter."
   },
   {
     "prompt": "What would happen to a planet if the Sun's gravity suddenly stopped working?",
@@ -339,7 +376,8 @@
     "optionC": "The planet would slow down and stop",
     "optionD": "The planet would orbit faster",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Without the Sun's gravity, a planet would fly outward in a straight line. Gravity is what curves a planet's path into a circular orbit."
   },
   {
     "prompt": "Approximately how many days does it take the Moon to complete one orbit of Earth?",
@@ -348,7 +386,8 @@
     "optionC": "365",
     "optionD": "14",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Moon takes about 27 days to complete one orbit of Earth. The slightly longer lunar month (about 29.5 days) accounts for Earth moving around the Sun."
   },
   {
     "prompt": "Which planet spins backwards compared to most other planets, so the Sun rises in the west and sets in the east?",
@@ -357,7 +396,8 @@
     "optionC": "Neptune",
     "optionD": "Venus",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Venus spins in the opposite direction to most planets, so if you stood on Venus the Sun would appear to rise in the west and set in the east."
   },
   {
     "prompt": "What do we call the time it takes a planet to spin once on its own axis?",
@@ -366,7 +406,8 @@
     "optionC": "A day",
     "optionD": "An orbit",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A day is the time it takes a planet to spin once on its own axis. Earth's day is about 24 hours; a day on Venus lasts about 243 Earth days."
   },
   {
     "prompt": "What are Saturn's famous rings mainly made of?",
@@ -375,7 +416,8 @@
     "optionC": "Ice and rock",
     "optionD": "Liquid water",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Saturn's rings are mainly made of ice and rock, ranging in size from tiny grains to chunks as large as a house."
   },
   {
     "prompt": "Which Apollo mission first carried humans to the surface of the Moon?",
@@ -384,7 +426,8 @@
     "optionC": "Apollo 11",
     "optionD": "Apollo 3",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Apollo 11 was the mission that first carried humans to the Moon's surface in July 1969. Neil Armstrong and Buzz Aldrin walked on the Moon while Michael Collins orbited above."
   },
   {
     "prompt": "Which star is the nearest to our solar system?",
@@ -393,7 +436,8 @@
     "optionC": "Betelgeuse",
     "optionD": "Proxima Centauri",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Proxima Centauri is the nearest star to our solar system, about 4.2 light-years away. Even at the speed of light it would take over four years to reach it."
   },
   {
     "prompt": "Which spacecraft has visited all four outer planets — Jupiter, Saturn, Uranus, and Neptune?",
@@ -402,7 +446,8 @@
     "optionC": "New Horizons",
     "optionD": "Voyager 2",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Voyager 2, launched in 1977, is the only spacecraft to have visited all four outer planets — Jupiter, Saturn, Uranus, and Neptune — on a grand tour of the solar system."
   },
   {
     "prompt": "What type of star is our Sun?",
@@ -411,7 +456,8 @@
     "optionC": "A blue supergiant",
     "optionD": "A white dwarf",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Our Sun is classified as a yellow dwarf star — a medium-sized, middle-aged star that has been shining steadily for about 4.6 billion years."
   },
   {
     "prompt": "Why does the Moon appear to shine at night even though it produces no light of its own?",
@@ -420,7 +466,8 @@
     "optionC": "It reflects light from the Sun",
     "optionD": "It generates electricity from solar particles",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Moon appears to shine because it reflects light from the Sun. Its surface acts like a giant mirror, bouncing sunlight toward Earth."
   },
   {
     "prompt": "What is the main gas in Venus's thick atmosphere that traps heat and makes it so hot?",
@@ -429,7 +476,8 @@
     "optionC": "Nitrogen",
     "optionD": "Methane",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Carbon dioxide makes up about 96% of Venus's thick atmosphere. It traps heat so efficiently that Venus has surface temperatures around 465°C — hot enough to melt lead."
   },
   {
     "prompt": "Which Mars rover landed in 2021 and is currently searching for signs of ancient life?",
@@ -438,7 +486,8 @@
     "optionC": "Curiosity",
     "optionD": "Perseverance",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Perseverance landed on Mars in February 2021 and is exploring the Jezero Crater, searching for signs that ancient microscopic life may once have existed there."
   },
   {
     "prompt": "Which planet has a storm called the Great Red Spot that has lasted for hundreds of years?",
@@ -447,7 +496,8 @@
     "optionC": "Neptune",
     "optionD": "Uranus",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Jupiter has the Great Red Spot, a storm larger than Earth that has been raging for at least 350 years — a record for any storm in the solar system."
   },
   {
     "prompt": "What is the name of the nearest large galaxy to the Milky Way?",
@@ -456,7 +506,8 @@
     "optionC": "Andromeda",
     "optionD": "Triangulum",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Andromeda Galaxy is the nearest large galaxy to the Milky Way, about 2.5 million light-years away. It is slowly moving toward us and will eventually merge with our galaxy."
   },
   {
     "prompt": "How far is the Sun from Earth approximately?",
@@ -465,7 +516,8 @@
     "optionC": "1.5 billion km",
     "optionD": "1.5 million km",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Sun is approximately 150 million km from Earth. This distance is called one astronomical unit (AU) and is used as a standard measurement in astronomy."
   },
   {
     "prompt": "How long does light from the Sun take to reach Earth?",
@@ -474,7 +526,8 @@
     "optionC": "About 8 minutes",
     "optionD": "About 8 days",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Light from the Sun takes about 8 minutes to reach Earth, even though it travels at 300,000 km per second — showing just how far away the Sun is."
   },
   {
     "prompt": "What process inside stars produces their enormous amounts of energy?",
@@ -483,7 +536,8 @@
     "optionC": "Electrical discharge",
     "optionD": "Nuclear fusion",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Nuclear fusion is the process inside stars where hydrogen atoms are fused together to form helium, releasing enormous amounts of energy as light and heat."
   },
   {
     "prompt": "What is the Main Belt in our solar system?",
@@ -492,7 +546,8 @@
     "optionC": "A region of comets beyond Neptune",
     "optionD": "A dense region of stars near the Milky Way's centre",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Main Belt is the asteroid belt between Mars and Jupiter, containing millions of rocky and metallic objects left over from the formation of the solar system."
   },
   {
     "prompt": "Which famous space telescope launched in 1990 has taken images of distant galaxies?",
@@ -501,7 +556,8 @@
     "optionC": "Hubble",
     "optionD": "Chandra",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Hubble Space Telescope launched in 1990 and has captured stunning images of distant galaxies, nebulae, and stars, transforming our understanding of the universe."
   },
   {
     "prompt": "What is the ozone layer?",
@@ -510,7 +566,8 @@
     "optionC": "A layer of Jupiter's clouds",
     "optionD": "The thick atmosphere of Venus",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The ozone layer is a region in Earth's upper atmosphere that absorbs harmful ultraviolet radiation from the Sun, protecting living things on Earth's surface."
   },
   {
     "prompt": "What type of galaxy is the Milky Way?",
@@ -519,7 +576,8 @@
     "optionC": "Ring-shaped",
     "optionD": "Spiral",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Milky Way is a spiral galaxy, with curved arms of stars, gas, and dust winding out from a central bulge — like a giant cosmic whirlpool."
   },
   {
     "prompt": "What is a nebula?",
@@ -528,7 +586,8 @@
     "optionC": "A distant galaxy too faint to see",
     "optionD": "A type of comet from the outer solar system",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A nebula is a huge cloud of gas and dust in space. New stars are born inside nebulae when gravity causes the gas and dust to clump and compress."
   },
   {
     "prompt": "Who was the first human to travel into space?",
@@ -537,7 +596,8 @@
     "optionC": "Yuri Gagarin",
     "optionD": "Alan Shepard",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Yuri Gagarin, a Soviet cosmonaut, was the first human to travel into space on 12 April 1961, completing one orbit of Earth aboard the Vostok 1 spacecraft."
   },
   {
     "prompt": "What is a constellation?",
@@ -546,7 +606,8 @@
     "optionC": "A type of solar system",
     "optionD": "A large gas and dust cloud",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A constellation is a pattern of stars that appear to form a recognisable shape in the night sky. There are 88 official constellations, including Orion, Leo, and Cassiopeia."
   },
   {
     "prompt": "Which constellation contains the famous belt of three bright stars in a row?",
@@ -555,7 +616,8 @@
     "optionC": "Scorpius",
     "optionD": "Orion",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Orion is the constellation with three bright stars in a row forming 'Orion's Belt'. Orion is one of the most easily recognised constellations in the night sky."
   },
   {
     "prompt": "What keeps Earth in its orbit around the Sun?",
@@ -564,7 +626,8 @@
     "optionC": "Solar wind",
     "optionD": "Earth's rotation speed",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Sun's gravitational pull keeps Earth in its orbit. Without it, Earth would travel in a straight line out into deep space."
   },
   {
     "prompt": "What is the outermost visible layer of the Sun, seen as a glowing halo during a total solar eclipse?",
@@ -573,7 +636,8 @@
     "optionC": "The core",
     "optionD": "The corona",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The corona is the outermost layer of the Sun's atmosphere, visible as a glowing white halo during a total solar eclipse. Strangely, it is hotter than the Sun's surface."
   },
   {
     "prompt": "What causes a total solar eclipse?",
@@ -582,7 +646,8 @@
     "optionC": "The Sun passes between Earth and the Moon",
     "optionD": "Earth moves directly away from the Sun",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A total solar eclipse happens when the Moon passes directly between Earth and the Sun, blocking the Sun's light and casting a shadow on part of Earth."
   },
   {
     "prompt": "Where is the Kuiper Belt located in our solar system?",
@@ -591,7 +656,8 @@
     "optionC": "Beyond Neptune",
     "optionD": "Around Saturn",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Kuiper Belt is located beyond Neptune, extending from about 30 to 50 AU from the Sun. It contains dwarf planets like Pluto and many icy objects."
   },
   {
     "prompt": "What do we call a natural or artificial object that orbits a planet?",
@@ -600,7 +666,8 @@
     "optionC": "An asteroid",
     "optionD": "A meteor",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A satellite is any object that orbits a planet. The Moon is Earth's natural satellite, while the ISS is an artificial satellite."
   },
   {
     "prompt": "Venus is often called the Evening Star. Why can it be seen so brightly just after sunset?",
@@ -609,7 +676,8 @@
     "optionC": "It orbits in a much larger circle than Earth",
     "optionD": "It is covered in bright ice that catches the Sun's light",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Venus appears very bright after sunset because it is close to Earth and its thick cloud cover reflects sunlight extremely well — it reflects about 70% of the light it receives."
   },
   {
     "prompt": "What is the Milky Way?",
@@ -618,7 +686,8 @@
     "optionC": "The spiral galaxy that contains our solar system",
     "optionD": "A cloud of gas within our solar system",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Milky Way is the spiral galaxy that contains our solar system. It holds hundreds of billions of stars and is about 100,000 light-years across."
   },
   {
     "prompt": "Approximately how far away is Proxima Centauri, the nearest star to our Sun?",
@@ -627,7 +696,8 @@
     "optionC": "4.2 light-years",
     "optionD": "420 light-years",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Proxima Centauri is about 4.2 light-years away from our Sun. Even the fastest spacecraft ever launched would take tens of thousands of years to reach it."
   },
   {
     "prompt": "How many Earth years does Neptune take to orbit the Sun once?",
@@ -636,7 +706,8 @@
     "optionC": "29",
     "optionD": "12",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Neptune takes about 165 Earth years to orbit the Sun once. Since its discovery in 1846, it has only completed slightly more than one full orbit."
   },
   {
     "prompt": "Why is Venus so much hotter than Mercury, even though Mercury is closer to the Sun?",
@@ -645,7 +716,8 @@
     "optionC": "Venus reflects sunlight, generating heat",
     "optionD": "Venus has volcanic gases that warm its surface from inside",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Venus is hotter because its thick carbon dioxide atmosphere traps heat in a runaway greenhouse effect, pushing surface temperatures to around 465°C — far hotter than Mercury."
   },
   {
     "prompt": "What spectacular event occurs when a very massive star reaches the end of its life and violently explodes?",
@@ -654,7 +726,8 @@
     "optionC": "A supernova",
     "optionD": "A black hole merger",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A supernova is the violent explosion of a very massive star at the end of its life. It briefly outshines an entire galaxy and scatters newly made elements into space."
   },
   {
     "prompt": "What do scientists believe exists at the centre of the Milky Way galaxy?",
@@ -663,7 +736,8 @@
     "optionC": "A neutron star",
     "optionD": "A white dwarf",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Scientists believe a supermassive black hole called Sagittarius A* lies at the centre of the Milky Way. It has a mass about 4 million times that of our Sun."
   },
   {
     "prompt": "What is the Cassini spacecraft famous for studying?",
@@ -672,7 +746,8 @@
     "optionC": "Flying past Neptune",
     "optionD": "Orbiting Saturn and studying it and its moons",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Cassini spent 13 years orbiting Saturn and studying it and its moons in detail. It discovered liquid lakes on Titan and geysers on Enceladus before diving into Saturn in 2017."
   },
   {
     "prompt": "What do we call the point in a planet's orbit when it is closest to the Sun?",
@@ -681,7 +756,8 @@
     "optionC": "Equinox",
     "optionD": "Solstice",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Perihelion is the point in a planet's orbit when it is closest to the Sun. Earth reaches perihelion in early January, during the Northern Hemisphere's winter."
   },
   {
     "prompt": "How far away is the Moon from Earth approximately?",
@@ -690,7 +766,8 @@
     "optionC": "3,840,000 km",
     "optionD": "384 million km",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Moon is approximately 384,000 km from Earth. Apollo astronauts took about three days to travel this distance on their way to the Moon."
   },
   {
     "prompt": "What is an astronomical unit (AU)?",
@@ -699,7 +776,8 @@
     "optionC": "The average distance from Earth to the Sun",
     "optionD": "The distance light travels in one day",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An astronomical unit (AU) is the average distance from Earth to the Sun — about 150 million km. Astronomers use it to describe distances within our solar system."
   },
   {
     "prompt": "What will our Sun most likely do in about five billion years?",
@@ -708,7 +786,8 @@
     "optionC": "Explode in a supernova",
     "optionD": "Become a neutron star",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "In about five billion years, our Sun will expand into a red giant, growing large enough to engulf the inner planets including Earth, before eventually shrinking into a white dwarf."
   },
   {
     "prompt": "What is a binary star system?",
@@ -717,7 +796,8 @@
     "optionC": "Two stars that orbit each other",
     "optionD": "A planet orbiting two different stars",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A binary star system is two stars that orbit each other around a common centre of gravity. More than half of all stars in the Milky Way are thought to be in binary or multiple systems."
   },
   {
     "prompt": "Which spacecraft took the first detailed close-up photographs of Pluto when it flew past in 2015?",
@@ -726,7 +806,8 @@
     "optionC": "Pioneer 11",
     "optionD": "New Horizons",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "New Horizons flew past Pluto in July 2015, sending back the first detailed close-up photographs of the dwarf planet, revealing its heart-shaped nitrogen ice plain."
   },
   {
     "prompt": "Approximately what percentage of our solar system's total mass does the Sun contain?",
@@ -735,7 +816,8 @@
     "optionC": "99%",
     "optionD": "90%",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Sun contains about 99% of all the mass in our solar system. All the planets, moons, asteroids, and comets combined make up just the remaining 1%."
   },
   {
     "prompt": "What is the Doppler effect used to determine in astronomy?",
@@ -744,7 +826,8 @@
     "optionC": "Whether a star or galaxy is moving toward or away from us",
     "optionD": "The temperature of distant planets",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Doppler effect is used to determine whether a star or galaxy is moving toward or away from us. Light is shifted toward blue if it is approaching, and toward red if it is receding."
   },
   {
     "prompt": "What type of object is Pluto?",
@@ -753,7 +836,8 @@
     "optionC": "A comet",
     "optionD": "A dwarf planet",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Pluto is classified as a dwarf planet. It was reclassified from a full planet in 2006 because it has not cleared the area around its orbit of other objects."
   },
   {
     "prompt": "What do we call the incredibly dense object left behind when a star like our Sun eventually dies?",
@@ -762,7 +846,8 @@
     "optionC": "A black hole",
     "optionD": "A brown dwarf",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "When a star like our Sun dies, it leaves behind a white dwarf — an incredibly dense, hot, Earth-sized remnant that slowly cools over billions of years."
   },
   {
     "prompt": "What large space telescope launched in 2021 observes infrared light from the early universe?",
@@ -771,7 +856,8 @@
     "optionC": "James Webb",
     "optionD": "Chandra",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The James Webb Space Telescope launched in 2021 and observes infrared light, allowing it to see the most distant and oldest galaxies in the universe."
   },
   {
     "prompt": "What is the Oort Cloud?",
@@ -780,7 +866,8 @@
     "optionC": "The region just beyond Neptune where short-period comets originate",
     "optionD": "A vast reservoir of comets at the very far edge of our solar system",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Oort Cloud is a vast, distant reservoir of icy bodies at the very far edge of our solar system. Long-period comets originate from here when passing stars disturb the cloud."
   },
   {
     "prompt": "What is the heliopause?",
@@ -789,7 +876,8 @@
     "optionC": "The gap between the asteroid belt and the Kuiper Belt",
     "optionD": "The region around the Sun where comets develop tails",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The heliopause is the boundary where the Sun's solar wind stops and interstellar space begins. Voyager 1 crossed the heliopause in 2012, becoming the first human-made object in interstellar space."
   },
   {
     "prompt": "What keeps the Moon in its orbit around Earth?",
@@ -798,7 +886,8 @@
     "optionC": "Earth's magnetic field",
     "optionD": "Earth's gravitational pull",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Earth's gravitational pull keeps the Moon in its orbit. Without it, the Moon would fly off in a straight line into deep space."
   },
   {
     "prompt": "What causes ocean tides on Earth to rise and fall?",
@@ -807,7 +896,8 @@
     "optionC": "Wind patterns in the atmosphere",
     "optionD": "The gravitational pull of the Moon",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The gravitational pull of the Moon causes Earth's oceans to bulge toward it, creating high tides. As Earth rotates, different parts of the ocean experience high and low tides."
   },
   {
     "prompt": "What is a black hole?",
@@ -816,7 +906,8 @@
     "optionC": "A very dark planet with no atmosphere",
     "optionD": "A tunnel connecting two different parts of space",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A black hole is a region where gravity is so incredibly strong that nothing — not even light — can escape from it. They form when massive stars collapse at the end of their lives."
   },
   {
     "prompt": "What is the real cause of Earth's seasons?",
@@ -825,7 +916,8 @@
     "optionC": "Earth's axis is tilted about 23.5°, so each hemisphere leans toward the Sun at different times",
     "optionD": "The Sun burns at a higher temperature in summer",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Earth's seasons are caused by its 23.5° axial tilt. When the Northern Hemisphere leans toward the Sun it receives more direct sunlight, causing summer — and vice versa for winter."
   },
   {
     "prompt": "What is the difference between a meteor and a meteorite?",
@@ -834,7 +926,8 @@
     "optionC": "A meteorite reaches Earth's surface; a meteor burns up completely in the atmosphere",
     "optionD": "A meteor comes from the Moon; a meteorite comes from Mars",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A meteor is a rock that burns up as a streak of light in the atmosphere. If it survives and lands on Earth's surface, it becomes a meteorite."
   },
   {
     "prompt": "What is a pulsar?",
@@ -843,7 +936,8 @@
     "optionC": "A type of asteroid in the outer solar system",
     "optionD": "A galaxy with a flickering bright core",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A pulsar is a rapidly rotating neutron star that emits regular beams of radiation. Like a cosmic lighthouse, we detect a regular pulse each time the beam sweeps toward us."
   },
   {
     "prompt": "Why does the Moon appear to change shape during the month?",
@@ -852,7 +946,8 @@
     "optionC": "The Moon spins and shows us different surfaces",
     "optionD": "We see different amounts of the Moon's sunlit half as it orbits Earth",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The Moon appears to change shape because as it orbits Earth, we see different amounts of its sunlit half — from a thin crescent to a full circle and back again."
   },
   {
     "prompt": "What is a neutron star?",
@@ -861,7 +956,8 @@
     "optionC": "The incredibly dense remnant of a massive star after a supernova explosion",
     "optionD": "A very young star that is still forming from gas",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A neutron star is the incredibly dense remnant left after a massive star explodes in a supernova. It packs more mass than the Sun into a ball only about 20 km across."
   },
   {
     "prompt": "What is the approximate age of the universe?",
@@ -870,7 +966,8 @@
     "optionC": "100 billion years",
     "optionD": "1 billion years",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The universe is approximately 13.8 billion years old, dating back to the Big Bang. Our solar system formed much later, about 4.6 billion years ago."
   },
   {
     "prompt": "What does the redshift of light from distant galaxies tell us?",
@@ -879,7 +976,8 @@
     "optionC": "Ancient light left over directly from the Big Bang",
     "optionD": "Gas clouds absorbing light between us and distant galaxies",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The redshift of light from distant galaxies shows they are moving away from us — the light is stretched to longer, redder wavelengths — proving the universe is expanding."
   },
   {
     "prompt": "What is a star-forming region of dense gas and dust called?",
@@ -888,7 +986,8 @@
     "optionC": "A remnant nebula",
     "optionD": "A dark nebula",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A stellar nursery is a region of dense gas and dust where new stars are being born. Gravity causes the gas to clump together and collapse, eventually igniting nuclear fusion."
   },
   {
     "prompt": "What do we call the study of the origin, structure, and fate of the universe?",
@@ -897,7 +996,8 @@
     "optionC": "Cosmology",
     "optionD": "Planetology",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Cosmology is the branch of science that studies the origin, structure, and ultimate fate of the universe — including the Big Bang and the expansion of space itself."
   },
   {
     "prompt": "What is the Cosmic Microwave Background (CMB)?",
@@ -906,7 +1006,8 @@
     "optionC": "Visible light from the farthest known galaxies",
     "optionD": "Faint radiation left over from the Big Bang, filling the whole universe",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The Cosmic Microwave Background is faint radiation that fills the entire universe, left over from the Big Bang about 380,000 years after it happened — like the afterglow of the universe's birth."
   },
   {
     "prompt": "What does the Hertzsprung-Russell diagram show?",
@@ -915,7 +1016,8 @@
     "optionC": "The distances between nearby galaxies",
     "optionD": "The ages of different comets in the solar system",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The Hertzsprung-Russell diagram plots stars by their temperature against their brightness, revealing patterns in how stars live and die."
   },
   {
     "prompt": "What type of radiation from the Sun can cause sunburn?",
@@ -924,7 +1026,8 @@
     "optionC": "X-ray",
     "optionD": "Ultraviolet (UV)",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Ultraviolet (UV) radiation from the Sun causes sunburn by damaging skin cells. The ozone layer blocks most UV radiation, but enough reaches the surface to cause harm."
   },
   {
     "prompt": "What is a nova?",
@@ -933,7 +1036,8 @@
     "optionC": "A new planet forming around a distant star",
     "optionD": "A type of rapidly pulsing star",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A nova is a sudden nuclear explosion on the surface of a white dwarf that causes it to dramatically brighten for a short time before fading — not as extreme as a supernova."
   },
   {
     "prompt": "How does a larger telescope mirror help astronomers observe fainter objects?",
@@ -942,7 +1046,8 @@
     "optionC": "It collects more light, allowing fainter and more distant objects to be detected",
     "optionD": "It blocks interference from nearby bright stars",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A larger telescope mirror collects more light, like a bigger bucket collecting more rain. This allows fainter and more distant objects to be detected."
   },
   {
     "prompt": "What is stellar parallax, as used to measure distances to nearby stars?",
@@ -951,7 +1056,8 @@
     "optionC": "The wobble of a star caused by orbiting planets",
     "optionD": "The change in a star's colour over time",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Stellar parallax is the apparent shift in a nearby star's position, measured from opposite sides of Earth's orbit. The bigger the shift, the closer the star."
   },
   {
     "prompt": "What is an exoplanet?",
@@ -960,7 +1066,8 @@
     "optionC": "A planet expelled from our solar system long ago",
     "optionD": "A dwarf planet in the Kuiper Belt",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "An exoplanet is a planet that orbits a star other than our Sun. Thousands of exoplanets have now been discovered, some potentially similar to Earth."
   },
   {
     "prompt": "Why does the Moon always show the same face to Earth?",
@@ -969,7 +1076,8 @@
     "optionC": "The Moon's rotation period equals its orbital period — a result of tidal locking",
     "optionD": "The Moon rotates so slowly that we cannot notice it",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The Moon always shows the same face because its rotation period equals its orbital period — it spins exactly once for every orbit of Earth. This is called tidal locking."
   },
   {
     "prompt": "What is escape velocity?",
@@ -978,7 +1086,8 @@
     "optionC": "The speed at which meteorites enter Earth's atmosphere",
     "optionD": "The speed of light in a vacuum",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Escape velocity is the minimum speed an object needs to escape a planet's gravity without any further push. Earth's escape velocity is about 11.2 km per second."
   },
   {
     "prompt": "What is the Chandrasekhar limit?",
@@ -987,7 +1096,8 @@
     "optionC": "The maximum distance at which a planet can retain an atmosphere",
     "optionD": "The speed at which stars rotate at the edge of a galaxy",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Chandrasekhar limit is the maximum mass a white dwarf can have (about 1.4 solar masses) before gravity causes it to collapse further into a neutron star or trigger a supernova."
   },
   {
     "prompt": "What is a quasar?",
@@ -996,7 +1106,8 @@
     "optionC": "A rapidly pulsing source of radio waves",
     "optionD": "A newly discovered dwarf planet beyond Neptune",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A quasar is an extremely luminous active galactic nucleus powered by a supermassive black hole that is actively consuming huge amounts of material, making it incredibly bright."
   },
   {
     "prompt": "What two pieces of evidence most strongly support the Big Bang theory?",
@@ -1005,7 +1116,8 @@
     "optionC": "The expansion of the universe and the cosmic microwave background radiation",
     "optionD": "The age of the Sun and the number of known galaxies",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The strongest evidence for the Big Bang is the expansion of the universe (galaxies moving apart) and the cosmic microwave background radiation — the afterglow of the Big Bang."
   },
   {
     "prompt": "What is gravitational lensing?",
@@ -1014,7 +1126,8 @@
     "optionC": "The bending of light around massive objects, predicted by general relativity",
     "optionD": "The distortion of images caused by Earth's atmosphere",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Gravitational lensing is the bending of light around massive objects like galaxies or black holes, predicted by Einstein's general relativity. It can make distant objects appear distorted or magnified."
   },
   {
     "prompt": "What is dark matter?",
@@ -1023,7 +1136,8 @@
     "optionC": "The material inside black holes beyond the event horizon",
     "optionD": "Distant galaxies too faint for current telescopes to observe",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Dark matter is an unseen form of matter that interacts gravitationally but does not emit or absorb light. Scientists infer its existence from the way galaxies rotate and cluster."
   },
   {
     "prompt": "What do we call the point of infinite density thought to exist at the centre of a black hole?",
@@ -1032,7 +1146,8 @@
     "optionC": "The Schwarzschild radius",
     "optionD": "The singularity",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The singularity is the point of theoretically infinite density at the centre of a black hole, where our current understanding of physics breaks down."
   },
   {
     "prompt": "Which black hole was first successfully imaged by the Event Horizon Telescope, making headlines in 2019?",
@@ -1041,7 +1156,8 @@
     "optionC": "M87*",
     "optionD": "V616 Monocerotis",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "M87* is the black hole at the centre of galaxy M87 that was first imaged in 2019 by the Event Horizon Telescope — the first direct image ever taken of a black hole."
   },
   {
     "prompt": "What is the Drake equation used to estimate?",
@@ -1050,7 +1166,8 @@
     "optionC": "The brightness of supernovae at various distances",
     "optionD": "The number of communicating intelligent civilisations that might exist in our galaxy",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Drake equation estimates the number of communicating intelligent civilisations that might exist in our galaxy, using factors like star formation rates and the probability of life developing."
   },
   {
     "prompt": "What does the Hubble constant describe?",
@@ -1059,7 +1176,8 @@
     "optionC": "The rate at which the universe is expanding",
     "optionD": "The temperature of the cosmic microwave background",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Hubble constant describes the rate at which the universe is expanding — how fast galaxies are moving apart for every megaparsec of distance between them."
   },
   {
     "prompt": "After expanding into a red giant, what will our Sun eventually leave behind?",
@@ -1068,7 +1186,8 @@
     "optionC": "A black hole",
     "optionD": "A white dwarf surrounded by a planetary nebula",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "After expanding into a red giant, our Sun will shed its outer layers as a beautiful planetary nebula, leaving behind a hot, dense white dwarf at the centre."
   },
   {
     "prompt": "What makes Cepheid variable stars so useful to astronomers?",
@@ -1077,7 +1196,8 @@
     "optionC": "They allow us to detect planets orbiting other stars",
     "optionD": "They track the movement of nearby asteroids",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Cepheid variable stars are useful because their pulsation period is directly linked to their true brightness — by comparing true and apparent brightness, astronomers can accurately measure distances to galaxies."
   },
   {
     "prompt": "What is the Schwarzschild radius of an object?",
@@ -1086,7 +1206,8 @@
     "optionC": "Its distance from the centre of the Milky Way",
     "optionD": "The diameter of its accretion disc",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Schwarzschild radius is the radius to which any object would need to be compressed to become a black hole. For Earth, this would be compressing it to about the size of a marble."
   },
   {
     "prompt": "What is stellar nucleosynthesis?",
@@ -1095,7 +1216,8 @@
     "optionC": "The creation of heavier elements by nuclear fusion reactions inside stars",
     "optionD": "The process by which planets form from material around a young star",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Stellar nucleosynthesis is the creation of heavier elements by nuclear fusion inside stars. Almost all elements heavier than hydrogen and helium were forged inside stars."
   },
   {
     "prompt": "What is the cosmic distance ladder?",
@@ -1104,7 +1226,8 @@
     "optionC": "The hierarchy of galaxies, clusters, and superclusters",
     "optionD": "A list of the brightest stars ranked by their distance from Earth",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The cosmic distance ladder is the series of overlapping methods astronomers use to measure progressively larger distances in space, from nearby stars to the most distant galaxies."
   },
   {
     "prompt": "What causes auroras (the Northern and Southern Lights)?",
@@ -1113,7 +1236,8 @@
     "optionC": "Moonlight refracted by high-altitude ice clouds",
     "optionD": "Charged particles from the Sun interacting with Earth's magnetic field",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Auroras are caused by charged particles from the Sun interacting with Earth's magnetic field and colliding with gas molecules in the upper atmosphere, making them glow with beautiful colours."
   },
   {
     "prompt": "What is the James Webb Space Telescope primarily designed to observe?",
@@ -1122,7 +1246,8 @@
     "optionC": "Infrared light from the earliest galaxies and distant cosmic objects",
     "optionD": "Solar activity and space weather near Earth",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The James Webb Space Telescope is primarily designed to observe infrared light, allowing it to see through dust clouds and observe the earliest galaxies that formed after the Big Bang."
   },
   {
     "prompt": "What do we call the point in Earth's orbit when it is farthest from the Sun?",
@@ -1131,7 +1256,8 @@
     "optionC": "Apogee",
     "optionD": "Aphelion",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Aphelion is the point in Earth's orbit when it is farthest from the Sun. Earth reaches aphelion in early July, during the Northern Hemisphere's summer."
   },
   {
     "prompt": "Why is the Andromeda Galaxy particularly significant to astronomers studying the future of the Milky Way?",
@@ -1140,7 +1266,8 @@
     "optionC": "It contains the supermassive black hole closest to Earth",
     "optionD": "It is the only galaxy beyond our own where exoplanets have been confirmed",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Andromeda Galaxy is significant because it is on a collision course with the Milky Way and the two galaxies are expected to merge in about 4.5 billion years to form a giant elliptical galaxy."
   },
   {
     "prompt": "What is the Fermi Paradox?",
@@ -1149,7 +1276,8 @@
     "optionC": "The puzzle of why galaxies rotate faster at their edges than expected",
     "optionD": "The question of whether the universe has a centre point",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Fermi Paradox is the contradiction between the high probability that alien life should exist in such a vast universe and the complete lack of any evidence or contact with extraterrestrial civilisations."
   },
   {
     "prompt": "What is dark energy currently believed to be causing?",
@@ -1158,6 +1286,657 @@
     "optionC": "Galaxies at the edges of the universe to collide",
     "optionD": "The expansion of the universe to accelerate",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Dark energy is a mysterious force believed to be causing the expansion of the universe to accelerate — meaning galaxies are flying apart ever faster over time."
+  },
+  {
+    "prompt": "What causes day and night on Earth?",
+    "optionA": "The Moon blocking the Sun's light",
+    "optionB": "The Earth spinning on its axis once every 24 hours",
+    "optionC": "Clouds covering the Sun",
+    "optionD": "The Sun moving around the Earth",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "Day and night are caused by Earth spinning on its axis once every 24 hours. The side facing the Sun has day, while the side facing away has night."
+  },
+  {
+    "prompt": "In which direction does the Sun appear to move across the sky during the day?",
+    "optionA": "From west to east",
+    "optionB": "From north to south",
+    "optionC": "From east to west",
+    "optionD": "From south to north",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "The Sun appears to move from east to west across the sky during the day because Earth is spinning from west to east, making the Sun appear to travel in the opposite direction."
+  },
+  {
+    "prompt": "Approximately how many hours does one full rotation of Earth take?",
+    "optionA": "12 hours",
+    "optionB": "36 hours",
+    "optionC": "48 hours",
+    "optionD": "24 hours",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "One full rotation of Earth takes approximately 24 hours — this is what gives us one day. Earth spins at about 1,670 km per hour at the equator."
+  },
+  {
+    "prompt": "What causes the Moon to appear to change shape during the month?",
+    "optionA": "The Moon physically changes shape",
+    "optionB": "The Moon casts a shadow on itself",
+    "optionC": "Different amounts of the Moon's sunlit surface are visible from Earth as it orbits",
+    "optionD": "Clouds cover different parts of the Moon",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "The Moon appears to change shape because as it orbits Earth, we see different amounts of its sunlit surface — these changing shapes are called the phases of the Moon."
+  },
+  {
+    "prompt": "What type of eclipse occurs when the Moon passes through Earth's shadow?",
+    "optionA": "A solar eclipse",
+    "optionB": "A lunar eclipse",
+    "optionC": "A total solar eclipse",
+    "optionD": "A partial eclipse",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "A lunar eclipse happens when the Moon passes through Earth's shadow. The Moon can turn a reddish colour, sometimes called a 'blood moon'."
+  },
+  {
+    "prompt": "What is an artificial satellite?",
+    "optionA": "A natural moon orbiting a planet",
+    "optionB": "A man-made object placed into orbit around a planet or moon",
+    "optionC": "A type of space telescope",
+    "optionD": "A crewed spacecraft",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "An artificial satellite is a man-made object placed into orbit around a planet. Thousands orbit Earth, used for communication, navigation, and weather forecasting."
+  },
+  {
+    "prompt": "Approximately how many times does the Moon orbit Earth in one year?",
+    "optionA": "4 times",
+    "optionB": "12 times",
+    "optionC": "24 times",
+    "optionD": "52 times",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "The Moon orbits Earth approximately 12 times per year, which is why we have roughly 12 months in a year — the word 'month' comes from 'Moon'."
+  },
+  {
+    "prompt": "What are the circular bowl-shaped features formed by space rocks striking the Moon called?",
+    "optionA": "Seas",
+    "optionB": "Craters",
+    "optionC": "Valleys",
+    "optionD": "Volcanoes",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "Craters are the circular bowl-shaped features on the Moon's surface formed by asteroids and meteorites crashing into it. The Moon has no atmosphere to burn up incoming rocks."
+  },
+  {
+    "prompt": "Which planet is sometimes called Earth's twin because it is very similar in size?",
+    "optionA": "Mars",
+    "optionB": "Jupiter",
+    "optionC": "Venus",
+    "optionD": "Mercury",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "Venus is sometimes called Earth's twin because it is very similar in size and mass. However, its atmosphere and conditions are completely different — it is a scorching hellscape."
+  },
+  {
+    "prompt": "What is a space probe?",
+    "optionA": "An astronaut exploring space",
+    "optionB": "A type of space telescope",
+    "optionC": "A satellite used for communication",
+    "optionD": "An unmanned spacecraft sent to explore distant parts of the solar system",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "A space probe is an unmanned spacecraft sent to explore distant parts of the solar system. Probes like Voyager, Cassini, and New Horizons have visited all eight planets."
+  },
+  {
+    "prompt": "How does the Moon affect Earth's oceans?",
+    "optionA": "It creates earthquakes beneath the ocean",
+    "optionB": "Its gravity causes tides",
+    "optionC": "It reflects sunlight into the ocean, warming it",
+    "optionD": "It controls Earth's cloud patterns",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "The Moon's gravity causes the ocean tides — pulling on Earth's oceans as it orbits, creating bulges of water that we experience as high and low tides."
+  },
+  {
+    "prompt": "Which of these is NOT a planet in our solar system?",
+    "optionA": "Neptune",
+    "optionB": "Saturn",
+    "optionC": "Pluto",
+    "optionD": "Uranus",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "Pluto is not a planet — it was reclassified as a dwarf planet in 2006. Neptune, Saturn, and Uranus are all full planets in our solar system."
+  },
+  {
+    "prompt": "What do we call the movement of a planet spinning around its own central axis?",
+    "optionA": "Revolution",
+    "optionB": "Orbit",
+    "optionC": "Rotation",
+    "optionD": "Eclipse",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "Rotation is the spinning of a planet around its own central axis. Earth's rotation takes 24 hours and gives us day and night."
+  },
+  {
+    "prompt": "What type of object is the Sun?",
+    "optionA": "A planet",
+    "optionB": "A moon",
+    "optionC": "A comet",
+    "optionD": "A star",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "The Sun is a star — a massive ball of hot gas that produces its own light and heat through nuclear fusion. It is the only star in our solar system."
+  },
+  {
+    "prompt": "Which planet is the farthest from the Sun in our solar system?",
+    "optionA": "Uranus",
+    "optionB": "Saturn",
+    "optionC": "Jupiter",
+    "optionD": "Neptune",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "Neptune is the farthest planet from the Sun, at about 30 AU (30 times the Earth-Sun distance). It takes 165 years to complete one orbit."
+  },
+  {
+    "prompt": "What causes a solar eclipse?",
+    "optionA": "Earth passes between the Sun and Moon",
+    "optionB": "The Moon passes between the Earth and Sun, blocking sunlight",
+    "optionC": "The Sun disappears behind a cloud",
+    "optionD": "Earth's shadow falls on the Sun",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A solar eclipse occurs when the Moon passes between Earth and the Sun, blocking sunlight. For a brief time it can become dark in the middle of the day."
+  },
+  {
+    "prompt": "On which planet would you weigh the most, due to its very strong gravitational pull?",
+    "optionA": "Mars",
+    "optionB": "Mercury",
+    "optionC": "Jupiter",
+    "optionD": "Saturn",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Jupiter has the strongest gravitational pull of any planet, so you would weigh the most there. A person weighing 40 kg on Earth would weigh about 95 kg on Jupiter."
+  },
+  {
+    "prompt": "What is the difference between a space probe and a space station?",
+    "optionA": "They are the same thing",
+    "optionB": "A space station always travels further than a probe",
+    "optionC": "A probe is much older than a space station",
+    "optionD": "A space probe is unmanned and explores space; a space station is where astronauts live and work in orbit",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A space probe is an unmanned spacecraft sent to explore distant planets and space. A space station is a large structure in orbit where astronauts live and work for long periods."
+  },
+  {
+    "prompt": "Why do stars appear to twinkle in the night sky?",
+    "optionA": "Stars actually flicker on and off",
+    "optionB": "Stars are spinning very fast, causing the flicker",
+    "optionC": "Their light is bent and distorted as it passes through Earth's atmosphere",
+    "optionD": "The Moon reflects their light unevenly",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Stars appear to twinkle because their light is bent and distorted as it passes through different layers of Earth's atmosphere. Space telescopes do not have this problem."
+  },
+  {
+    "prompt": "What do we call the time from one new Moon to the next?",
+    "optionA": "A solar year",
+    "optionB": "A lunar month",
+    "optionC": "An orbit",
+    "optionD": "An eclipse cycle",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A lunar month is the time from one new Moon to the next — about 29.5 days. Many ancient calendars were based on the lunar month."
+  },
+  {
+    "prompt": "What makes the Sun fundamentally different from the planets?",
+    "optionA": "The Sun is smaller than the planets",
+    "optionB": "The Sun produces its own light and heat through nuclear fusion; planets do not",
+    "optionC": "The Sun orbits the planets",
+    "optionD": "The Sun has no gravitational pull",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Sun is fundamentally different because it produces its own light and heat through nuclear fusion in its core. Planets only reflect sunlight — they do not produce their own."
+  },
+  {
+    "prompt": "Which planet has the shortest year — the least time to orbit the Sun?",
+    "optionA": "Venus",
+    "optionB": "Earth",
+    "optionC": "Mars",
+    "optionD": "Mercury",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Mercury has the shortest year of any planet, taking only 88 Earth days to orbit the Sun. This is because it is the closest planet to the Sun and has the shortest orbit to travel."
+  },
+  {
+    "prompt": "What is a galaxy?",
+    "optionA": "A type of comet",
+    "optionB": "A single very large star",
+    "optionC": "A huge collection of stars, gas, and dust held together by gravity",
+    "optionD": "A cloud of gas near a planet",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A galaxy is a huge collection of stars, gas, and dust held together by gravity. The Milky Way is our galaxy and contains hundreds of billions of stars."
+  },
+  {
+    "prompt": "What does the word 'solar' mean?",
+    "optionA": "Relating to space generally",
+    "optionB": "Relating to the Moon",
+    "optionC": "Relating to gravity",
+    "optionD": "Relating to the Sun",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The word 'solar' means relating to the Sun. It comes from 'sol', the Latin word for sun. Our solar system is named after the Sun."
+  },
+  {
+    "prompt": "What is the asteroid belt and where is it?",
+    "optionA": "A ring of dust around Saturn",
+    "optionB": "A region between Mars and Jupiter containing many rocky objects",
+    "optionC": "A cloud of comets beyond Neptune",
+    "optionD": "A ring of ice around Uranus",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The asteroid belt is a region between Mars and Jupiter containing millions of rocky objects. It formed from material left over when the solar system was created."
+  },
+  {
+    "prompt": "Why does the surface of the Moon have so many more craters than Earth's surface?",
+    "optionA": "Moon rocks are much softer",
+    "optionB": "The Moon is hit by more space rocks than Earth is",
+    "optionC": "The Moon has no atmosphere to burn up incoming rocks, and no weather to erode old craters",
+    "optionD": "The Moon has stronger gravity, attracting more impacts",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Moon has far more craters because it has no atmosphere to burn up incoming rocks and no weather or tectonic activity to erode the craters over time. Earth's craters disappear slowly."
+  },
+  {
+    "prompt": "What do astronomers call the study of objects beyond Earth?",
+    "optionA": "Geology",
+    "optionB": "Geography",
+    "optionC": "Astronomy",
+    "optionD": "Biology",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Astronomy is the study of objects and events beyond Earth, including stars, planets, moons, galaxies, and the universe itself."
+  },
+  {
+    "prompt": "What is an orbit?",
+    "optionA": "The rotation of Earth on its axis",
+    "optionB": "The curved path one object takes around another in space due to gravity",
+    "optionC": "The distance from Earth to the Sun",
+    "optionD": "The time it takes for the Moon to change phase",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "An orbit is the curved path one object takes around another in space due to gravity — like Earth orbiting the Sun, or the Moon orbiting Earth."
+  },
+  {
+    "prompt": "What is the name of Earth's path around the Sun each year?",
+    "optionA": "Earth's rotation",
+    "optionB": "Earth's orbit",
+    "optionC": "Earth's axis",
+    "optionD": "Earth's tilt",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Earth's orbit is its path around the Sun, which it completes once every year. Earth's orbit is slightly elliptical (oval-shaped) rather than a perfect circle."
+  },
+  {
+    "prompt": "What do we call the region beyond Neptune where dwarf planets like Pluto are found?",
+    "optionA": "The Oort Cloud",
+    "optionB": "The Main Belt",
+    "optionC": "The Kuiper Belt",
+    "optionD": "The outer asteroid ring",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Kuiper Belt is a region beyond Neptune containing icy bodies and dwarf planets including Pluto, Eris, and Makemake. It was named after astronomer Gerard Kuiper."
+  },
+  {
+    "prompt": "What is the difference between a reflecting and a refracting telescope?",
+    "optionA": "A reflecting telescope uses mirrors; a refracting telescope uses lenses",
+    "optionB": "They work in exactly the same way",
+    "optionC": "A refracting telescope is always more powerful",
+    "optionD": "A reflecting telescope only works at night",
+    "correctOption": "A",
+    "levelBand": "Age 10",
+    "explanation": "A reflecting telescope uses curved mirrors to collect and focus light, while a refracting telescope uses glass lenses. Most large modern telescopes are reflectors."
+  },
+  {
+    "prompt": "What type of satellite is used to forecast the weather?",
+    "optionA": "Communication satellite",
+    "optionB": "Navigation satellite",
+    "optionC": "Weather (meteorological) satellite",
+    "optionD": "Military satellite",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Weather (meteorological) satellites orbit Earth and take images of cloud patterns and atmospheric conditions, allowing meteorologists to forecast the weather."
+  },
+  {
+    "prompt": "What do we call the measurement of a star's brightness as seen from Earth?",
+    "optionA": "Its temperature",
+    "optionB": "Its luminosity",
+    "optionC": "Its magnitude",
+    "optionD": "Its parallax",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Magnitude is the measurement of a star's brightness as seen from Earth. The lower the magnitude number, the brighter the star."
+  },
+  {
+    "prompt": "What are the inner planets (the four closest to the Sun) primarily made of?",
+    "optionA": "Gas and ice",
+    "optionB": "Rock and metal",
+    "optionC": "Dust and ice",
+    "optionD": "Gas and liquid",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "The inner four planets — Mercury, Venus, Earth, and Mars — are primarily made of rock and metal. They are sometimes called the terrestrial (rocky) planets."
+  },
+  {
+    "prompt": "What are the outer planets (Jupiter, Saturn, Uranus, Neptune) primarily composed of?",
+    "optionA": "Rock",
+    "optionB": "Metal and rock",
+    "optionC": "Gas and ice",
+    "optionD": "Water and rock",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "The outer planets are primarily composed of gas and ice. Jupiter and Saturn are gas giants, while Uranus and Neptune are ice giants containing more icy materials."
+  },
+  {
+    "prompt": "Why is there no sound in space?",
+    "optionA": "Space is too cold for sound to exist",
+    "optionB": "Astronauts cannot hear inside their helmets",
+    "optionC": "Sound travels too fast in a vacuum",
+    "optionD": "Sound needs a medium such as air to travel through; space is a vacuum",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "There is no sound in space because sound needs a medium like air or water to travel through. Space is a vacuum — almost completely empty — so sound waves cannot travel."
+  },
+  {
+    "prompt": "What does a GPS satellite navigation system use to determine your location?",
+    "optionA": "Signals from ground stations only",
+    "optionB": "Maps drawn by onboard computers",
+    "optionC": "Radio waves reflected from the Moon",
+    "optionD": "Signals from multiple satellites in orbit to calculate your exact position",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "A GPS system uses signals from multiple satellites in orbit to calculate your exact position by measuring the tiny time differences in the signals from each satellite."
+  },
+  {
+    "prompt": "What happens to the length of day and night on Earth at an equinox?",
+    "optionA": "Day is longer than night everywhere",
+    "optionB": "Night is longer than day everywhere",
+    "optionC": "Day and night are approximately equal in length",
+    "optionD": "It depends entirely on where you live",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "At an equinox, day and night are approximately equal in length everywhere on Earth. There are two equinoxes each year, in March and September."
+  },
+  {
+    "prompt": "What is a meteor shower?",
+    "optionA": "A rainstorm on a distant planet",
+    "optionB": "When Earth passes through a trail of debris left by a comet",
+    "optionC": "A type of solar flare",
+    "optionD": "When the Moon blocks the Sun's light",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "A meteor shower happens when Earth passes through a trail of debris left behind by a comet. Tiny pieces burn up in the atmosphere, creating streaks of light."
+  },
+  {
+    "prompt": "Which planet has the longest day in our solar system?",
+    "optionA": "Mercury",
+    "optionB": "Mars",
+    "optionC": "Jupiter",
+    "optionD": "Venus",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "Venus has the longest day in our solar system — it takes about 243 Earth days to spin once. Incredibly, a day on Venus is longer than a year on Venus."
+  },
+  {
+    "prompt": "How do space telescopes like Hubble have an advantage over ground-based telescopes?",
+    "optionA": "They are physically closer to distant stars",
+    "optionB": "They can take pictures only in daylight",
+    "optionC": "They avoid distortion from Earth's atmosphere and can detect wavelengths blocked by it",
+    "optionD": "They can travel to nearby planets to observe them",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Space telescopes like Hubble avoid the blurring effect of Earth's atmosphere and can detect wavelengths of light — like ultraviolet and infrared — that the atmosphere blocks."
+  },
+  {
+    "prompt": "A meteor shower is named after the constellation it appears to come from. What does this tell you?",
+    "optionA": "The meteors come from that constellation",
+    "optionB": "The direction from which the meteors appear to radiate in the sky",
+    "optionC": "The month the shower occurs",
+    "optionD": "The scientist who discovered the shower",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "A meteor shower's name tells you the direction (called the radiant) from which the meteors appear to stream in the sky — the point in the constellation where they seem to come from."
+  },
+  {
+    "prompt": "What causes the seasons on Earth to change throughout the year?",
+    "optionA": "Earth changing its distance from the Sun",
+    "optionB": "The Sun changing its heat output across the year",
+    "optionC": "The Moon pulling Earth at different angles",
+    "optionD": "Earth's tilted axis means each hemisphere receives more direct sunlight at different times of year",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "Seasons are caused by Earth's tilted axis — meaning each hemisphere receives more direct sunlight (and more energy per square metre) at different times of year."
+  },
+  {
+    "prompt": "What do we call the point in Earth's orbit where it is closest to the Sun?",
+    "optionA": "Aphelion",
+    "optionB": "Perihelion",
+    "optionC": "Equinox",
+    "optionD": "Solstice",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "Perihelion is the point in Earth's orbit where it is closest to the Sun, which happens in early January. Despite this, the Northern Hemisphere has its winter at this time."
+  },
+  {
+    "prompt": "What is the approximate temperature at the core of the Sun?",
+    "optionA": "6,000°C",
+    "optionB": "1.5 million°C",
+    "optionC": "15 million°C",
+    "optionD": "100,000°C",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "The Sun's core reaches approximately 15 million°C, creating the extreme pressure and heat needed to fuse hydrogen into helium and release enormous amounts of energy."
+  },
+  {
+    "prompt": "What is meant by a star's 'luminosity'?",
+    "optionA": "How hot a star appears to be",
+    "optionB": "The total amount of energy a star radiates per second",
+    "optionC": "How large a star appears in the sky",
+    "optionD": "The colour of a star",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A star's luminosity is the total amount of energy it radiates per second. It depends on both the star's size and its surface temperature."
+  },
+  {
+    "prompt": "What is the spectral classification of our Sun?",
+    "optionA": "O-type",
+    "optionB": "B-type",
+    "optionC": "M-type",
+    "optionD": "G-type",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Our Sun is a G-type (yellow dwarf) star. The spectral classification runs O, B, A, F, G, K, M from hottest to coolest — a remembered by 'Oh Be A Fine Girl, Kiss Me'."
+  },
+  {
+    "prompt": "What do we call the region around a star where conditions might allow liquid water to exist on a planet's surface?",
+    "optionA": "The frost line",
+    "optionB": "The habitable zone",
+    "optionC": "The photosphere",
+    "optionD": "The heliosphere",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The habitable zone is the region around a star where temperatures might allow liquid water to exist on a planet's surface — making life as we know it possible."
+  },
+  {
+    "prompt": "What is a red dwarf star?",
+    "optionA": "A star in the early stages of its formation",
+    "optionB": "A star that has recently exploded",
+    "optionC": "A small, cool, dim star — the most common type of star in the universe",
+    "optionD": "A very distant star too faint to see",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A red dwarf is a small, cool, dim star — the most common type in the universe. They burn their fuel so slowly they can live for trillions of years."
+  },
+  {
+    "prompt": "What do we mean when we say a star is on the 'main sequence'?",
+    "optionA": "The star is in the final stages of its life",
+    "optionB": "The star is stably fusing hydrogen into helium in its core — the long middle phase of its life",
+    "optionC": "The star has just formed from a nebula",
+    "optionD": "The star has started to expand and cool",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A main sequence star is in the long, stable middle phase of its life, steadily fusing hydrogen into helium in its core. Our Sun has been on the main sequence for about 4.6 billion years."
+  },
+  {
+    "prompt": "What distinguishes a planet from a dwarf planet, according to the IAU definition?",
+    "optionA": "Dwarf planets are much colder than planets",
+    "optionB": "A planet has cleared the neighbourhood around its orbit; a dwarf planet has not",
+    "optionC": "A dwarf planet is not spherical",
+    "optionD": "Planets orbit the Sun; dwarf planets orbit another planet",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "According to the IAU, a planet must have cleared the neighbourhood around its orbit of other objects. Pluto shares its orbit with many Kuiper Belt objects, so it is a dwarf planet."
+  },
+  {
+    "prompt": "What is the Goldilocks zone (habitable zone) around a star?",
+    "optionA": "The region of the asteroid belt between Mars and Jupiter",
+    "optionB": "The zone where Jupiter's major moons orbit",
+    "optionC": "The area inside a star where energy is produced",
+    "optionD": "The region around a star that is not too hot and not too cold for liquid water to exist on a planet's surface",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Goldilocks zone is the region around a star that is not too hot and not too cold for liquid water to exist on a planet's surface — just right for life as we know it."
+  },
+  {
+    "prompt": "What is stellar parallax used to measure?",
+    "optionA": "The temperature of nearby stars",
+    "optionB": "The size of distant galaxies",
+    "optionC": "Distances to nearby stars, using their apparent shift in position as Earth orbits the Sun",
+    "optionD": "The speed at which stars drift across the sky",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Stellar parallax is used to measure distances to nearby stars by observing how much a star appears to shift against the background of distant stars as Earth moves around the Sun."
+  },
+  {
+    "prompt": "Approximately how many kilometres is one light-year?",
+    "optionA": "9.46 thousand km",
+    "optionB": "9.46 million km",
+    "optionC": "9.46 billion km",
+    "optionD": "9.46 trillion km",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "One light-year is approximately 9.46 trillion kilometres — that is 9,460,000,000,000 km. This enormous distance is why we need light-years to measure the universe."
+  },
+  {
+    "prompt": "What is the term for the region of space beyond the heliopause, where interstellar space begins?",
+    "optionA": "The Kuiper Belt",
+    "optionB": "Interstellar medium",
+    "optionC": "The Oort Cloud",
+    "optionD": "Deep space",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The interstellar medium is the region of space beyond the heliopause where interstellar space begins — the space between star systems, filled with sparse gas and dust."
+  },
+  {
+    "prompt": "What is tidal locking, and which object in our solar system is a famous example?",
+    "optionA": "When a moon's gravity creates tides on its planet; the Moon pulls on Earth's oceans",
+    "optionB": "When a planet's rotation speeds up due to a moon's gravitational pull; Venus is the main example",
+    "optionC": "When one side of an orbiting body always faces its host; the Moon always shows the same face to Earth",
+    "optionD": "When a planet is locked in place by the Sun's gravity and cannot move",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Tidal locking occurs when the gravitational pull of a larger body slows a smaller body's rotation until its rotation period exactly matches its orbital period. The Moon is tidally locked to Earth — its rotation and orbit both take about 27 days, so we always see the same side."
+  },
+  {
+    "prompt": "What causes Jupiter's Great Red Spot to have persisted for hundreds of years?",
+    "optionA": "A large volcanic island on Jupiter's surface that reflects red light",
+    "optionB": "A stable, self-sustaining storm system, similar to a very large hurricane, driven by Jupiter's internal heat and rotation",
+    "optionC": "A frozen lake of red ice visible through Jupiter's clouds",
+    "optionD": "A magnetic anomaly that traps red dust particles in one region",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Jupiter's Great Red Spot is a massive, anticyclonic storm — wider than Earth — that has raged for at least 350 years. It persists because Jupiter has no solid surface to slow it down, and the planet's rapid rotation and internal heat feed the storm continuously."
+  },
+  {
+    "prompt": "What is a gamma-ray burst?",
+    "optionA": "The regular pulse of gamma rays emitted by a spinning neutron star",
+    "optionB": "Bursts of gamma radiation released from the Sun during solar flares",
+    "optionC": "The brightest and most energetic explosions known in the universe, detected from distant galaxies",
+    "optionD": "Gamma rays reflected from gas clouds in the outer solar system",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Gamma-ray bursts are the most energetic and luminous events known in the universe — in seconds they can release more energy than the Sun will produce in its entire lifetime. They are believed to originate from collapsing massive stars or colliding neutron stars in distant galaxies."
+  },
+  {
+    "prompt": "What is an accretion disk?",
+    "optionA": "A ring of rocky debris left over after a moon forms around a planet",
+    "optionB": "A flat, rotating disk of gas and dust that spirals inward toward a massive object such as a black hole or forming star",
+    "optionC": "The belt of asteroids between Mars and Jupiter",
+    "optionD": "A pattern of craters arranged in a circle on the surface of a moon",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An accretion disk is a rotating disk of gas, dust, and other material that is gradually spiralling inward toward a central object — such as a black hole, neutron star, or young star. Friction within the disk heats the material and causes it to glow, which is why accretion disks around black holes can be detected."
+  },
+  {
+    "prompt": "What is a coronal mass ejection (CME) and how can it affect Earth?",
+    "optionA": "A piece of the Sun's surface that breaks off and travels to Earth, causing fireballs",
+    "optionB": "A burst of solar particles thrown from the Sun's corona that can disrupt satellites, power grids, and communications on Earth",
+    "optionC": "A solar eclipse visible only from Earth's poles, caused by the Sun's outer atmosphere",
+    "optionD": "The annual shedding of the Sun's outer layer, similar to how stars cool over time",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A coronal mass ejection is a massive burst of solar plasma and magnetic field ejected from the Sun's corona. When a large CME reaches Earth, it can interact with our magnetosphere and disrupt satellites, GPS systems, power grids, and radio communications — and can produce brilliant auroras."
+  },
+  {
+    "prompt": "What is retrograde motion, as seen from Earth?",
+    "optionA": "When a planet orbits the Sun in the opposite direction to Earth",
+    "optionB": "When a planet moves backward in its own rotation",
+    "optionC": "The apparent backward movement of a planet in the night sky as Earth overtakes it in orbit",
+    "optionD": "When a planet is on the far side of the Sun and cannot be seen from Earth",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Retrograde motion is the apparent backward movement of a planet across the sky as seen from Earth. It is an optical illusion: as Earth overtakes a slower outer planet in our orbit, that planet appears to reverse direction against the background of stars before resuming its normal motion."
+  },
+  {
+    "prompt": "What is a magnetar?",
+    "optionA": "A type of metallic asteroid with an unusually strong magnetic field",
+    "optionB": "A star that uses magnetic energy instead of nuclear fusion to shine",
+    "optionC": "A region of space near the Sun where magnetic fields are strongest",
+    "optionD": "An extremely magnetised and rotating neutron star with one of the strongest magnetic fields known in the universe",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A magnetar is a special type of neutron star with an extraordinarily powerful magnetic field — roughly a trillion times stronger than Earth's. Their intense magnetism can cause starquakes, releasing enormous bursts of X-rays and gamma rays detectable across vast cosmic distances."
+  },
+  {
+    "prompt": "What is the Local Group of galaxies?",
+    "optionA": "The cluster of stars closest to our Sun within the Milky Way",
+    "optionB": "The group of stars that make up the constellation Orion",
+    "optionC": "A small cluster of about 50 or so galaxies, including the Milky Way and the Andromeda Galaxy, held together by gravity",
+    "optionD": "The ring of star-forming regions at the outer edge of the Milky Way",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Local Group is a small galaxy cluster of about 50 galaxies, including our own Milky Way and the Andromeda Galaxy, all bound together by gravity. The Milky Way and Andromeda are the two largest members; the rest are smaller dwarf galaxies. The Local Group spans about 10 million light-years."
+  },
+  {
+    "prompt": "Why does Venus show phases similar to the Moon when viewed from Earth?",
+    "optionA": "Because Venus orbits between Earth and the Sun, so we see different amounts of its sunlit side at different points in its orbit",
+    "optionB": "Because Venus rotates so slowly that parts of it are always in permanent darkness",
+    "optionC": "Because Venus has dense cloud bands that create dark and light regions",
+    "optionD": "Because Venus has a moon that casts a shadow across its surface",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Venus orbits between Earth and the Sun (it is an inner planet), so as it moves around the Sun we see different portions of its sunlit side — just as we see different phases of the Moon. This was one of Galileo's key observations supporting the heliocentric model of the solar system."
+  },
+  {
+    "prompt": "What is a comet's tail primarily made of, and in which direction does it always point?",
+    "optionA": "Molten rock pushed backward by friction with the atmosphere; it trails behind the comet's path",
+    "optionB": "Gas and dust blown off the comet's nucleus by the solar wind, always pointing away from the Sun",
+    "optionC": "Ice fragments left behind in the comet's orbit, forming a visible trail in its wake",
+    "optionD": "Magnetic fields from the comet that attract charged particles, pointing toward Earth",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A comet's tail is made of gas and dust released as solar radiation and the solar wind heat the comet's icy nucleus. The tail always points away from the Sun, not behind the comet's direction of travel — because it is pushed outward by solar wind pressure. A comet can actually have two tails: an ion tail and a dust tail."
   }
 ]

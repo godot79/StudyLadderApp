@@ -61,9 +61,19 @@ describe("computeNewRewards — ribbons", () => {
     expect(keys(r)).not.toContain("no_skip");
   });
 
-  it("awards great_effort when unansweredCount is 0", () => {
+  it("awards great_effort when score is at least 50%", () => {
     const r = computeNewRewards(makeInput({ sessionResults: { correctCount: 5, unansweredCount: 0, totalQuestions: 10 } }));
     expect(keys(r)).toContain("great_effort");
+  });
+
+  it("awards great_effort at exactly 50% even with unanswered questions", () => {
+    const r = computeNewRewards(makeInput({ sessionResults: { correctCount: 5, unansweredCount: 3, totalQuestions: 10 } }));
+    expect(keys(r)).toContain("great_effort");
+  });
+
+  it("does not award great_effort when score is below 50%", () => {
+    const r = computeNewRewards(makeInput({ sessionResults: { correctCount: 4, unansweredCount: 0, totalQuestions: 10 } }));
+    expect(keys(r)).not.toContain("great_effort");
   });
 
   it("does not re-award no_skip for same session", () => {

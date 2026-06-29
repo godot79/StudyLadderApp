@@ -6,7 +6,8 @@
     "optionC": "6",
     "optionD": "8",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Try counting them on a map!"
   },
   {
     "prompt": "What is the largest ocean?",
@@ -15,7 +16,8 @@
     "optionC": "Atlantic",
     "optionD": "Indian",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Pacific Ocean is the largest ocean, covering more than 30% of Earth's surface. It stretches all the way from the Arctic to Antarctica."
   },
   {
     "prompt": "What is the capital city of France?",
@@ -24,7 +26,8 @@
     "optionC": "Paris",
     "optionD": "Lyon",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Paris is the capital of France — it is one of the most famous cities in the world, known for the Eiffel Tower."
   },
   {
     "prompt": "What is the capital city of Germany?",
@@ -33,7 +36,8 @@
     "optionC": "Frankfurt",
     "optionD": "Berlin",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Berlin is the capital of Germany and its largest city. It became the reunified capital again in 1990."
   },
   {
     "prompt": "Which continent is Egypt in?",
@@ -42,7 +46,8 @@
     "optionC": "Europe",
     "optionD": "Australia",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Egypt is in Africa, in the northeast corner of the continent. It is famous for the River Nile and the ancient pyramids."
   },
   {
     "prompt": "What is the capital city of the United Kingdom?",
@@ -51,7 +56,8 @@
     "optionC": "Edinburgh",
     "optionD": "Manchester",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "London is the capital of the United Kingdom and its largest city. It is home to Buckingham Palace and the Houses of Parliament."
   },
   {
     "prompt": "How many oceans are there?",
@@ -60,7 +66,8 @@
     "optionC": "5",
     "optionD": "3",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "There are 5 oceans: the Pacific, Atlantic, Indian, Arctic, and Southern. The Southern Ocean around Antarctica was officially recognised in 2021."
   },
   {
     "prompt": "Which continent is Brazil in?",
@@ -69,7 +76,8 @@
     "optionC": "Asia",
     "optionD": "South America",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Brazil is in South America — it is the largest country on that continent, famous for the Amazon Rainforest."
   },
   {
     "prompt": "What is the largest continent?",
@@ -78,7 +86,8 @@
     "optionC": "Europe",
     "optionD": "North America",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Asia is the largest continent, covering about 30% of Earth's land area. It includes countries like China, India, and Russia."
   },
   {
     "prompt": "Which ocean lies between Europe and North America?",
@@ -87,7 +96,8 @@
     "optionC": "Pacific",
     "optionD": "Indian",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Atlantic Ocean lies between Europe and North America. Many ships and planes cross it every single day."
   },
   {
     "prompt": "What is the capital city of Spain?",
@@ -96,7 +106,8 @@
     "optionC": "Madrid",
     "optionD": "Barcelona",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Madrid is the capital of Spain, located right in the centre of the country. It is one of the largest cities in Europe."
   },
   {
     "prompt": "What is the capital city of Italy?",
@@ -105,7 +116,8 @@
     "optionC": "Venice",
     "optionD": "Rome",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Rome is the capital of Italy, known as the 'Eternal City.' It is home to the ancient Colosseum and Vatican City."
   },
   {
     "prompt": "Which of these countries is in Europe?",
@@ -114,7 +126,8 @@
     "optionC": "Nigeria",
     "optionD": "Argentina",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Sweden is in Europe, in the north of the continent in a region called Scandinavia. Japan is in Asia, Nigeria is in Africa, and Argentina is in South America."
   },
   {
     "prompt": "What is the world's longest river?",
@@ -123,7 +136,8 @@
     "optionC": "Amazon",
     "optionD": "Mississippi",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Nile is the world's longest river, stretching about 6,650 km through northeast Africa into Egypt."
   },
   {
     "prompt": "What is the capital city of Australia?",
@@ -132,7 +146,8 @@
     "optionC": "Canberra",
     "optionD": "Sydney",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Canberra is the capital of Australia — not Sydney or Melbourne. It was purpose-built as the capital in the early 1900s."
   },
   {
     "prompt": "Which river runs through London?",
@@ -141,7 +156,8 @@
     "optionC": "Mersey",
     "optionD": "Thames",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The River Thames flows through London. It is the longest river in England at about 346 km long."
   },
   {
     "prompt": "Which of these countries is in Asia?",
@@ -150,7 +166,8 @@
     "optionC": "Kenya",
     "optionD": "France",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Japan is in Asia, a group of islands in the northwest Pacific Ocean. Its capital is Tokyo."
   },
   {
     "prompt": "What is the capital city of the USA?",
@@ -159,7 +176,8 @@
     "optionC": "New York",
     "optionD": "Los Angeles",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Washington D.C. is the capital of the USA, home to the White House and Congress. New York is the largest city but is not the capital."
   },
   {
     "prompt": "What is the world's largest hot desert?",
@@ -168,7 +186,8 @@
     "optionC": "Sahara",
     "optionD": "Gobi",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Sahara is the world's largest hot desert, covering much of North Africa. It is nearly as big as the entire USA."
   },
   {
     "prompt": "Which capital city belongs to Wales?",
@@ -177,7 +196,8 @@
     "optionC": "Belfast",
     "optionD": "Cardiff",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Cardiff is the capital of Wales, located in the south of the country. It became the official Welsh capital in 1955."
   },
   {
     "prompt": "What is the world's highest mountain?",
@@ -186,7 +206,8 @@
     "optionC": "Kilimanjaro",
     "optionD": "Mont Blanc",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Mount Everest is the world's highest mountain at 8,849 metres above sea level. It sits on the border of Nepal and Tibet."
   },
   {
     "prompt": "Which continent is the coldest?",
@@ -195,7 +216,8 @@
     "optionC": "North America",
     "optionD": "Asia",
     "correctOption": "B",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Antarctica is the coldest continent, covering the South Pole. Temperatures there can drop below −60°C."
   },
   {
     "prompt": "What is the capital city of Japan?",
@@ -204,7 +226,8 @@
     "optionC": "Tokyo",
     "optionD": "Osaka",
     "correctOption": "C",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "Tokyo is the capital of Japan and one of the most populated cities in the world, with over 13 million people."
   },
   {
     "prompt": "Which country does the River Thames flow through?",
@@ -213,7 +236,8 @@
     "optionC": "Ireland",
     "optionD": "England",
     "correctOption": "D",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The River Thames flows through England, passing through Oxford and London before reaching the North Sea."
   },
   {
     "prompt": "Which of these is classified as an ocean?",
@@ -222,7 +246,8 @@
     "optionC": "Caribbean",
     "optionD": "North Sea",
     "correctOption": "A",
-    "levelBand": "Age 9"
+    "levelBand": "Age 9",
+    "explanation": "The Arctic is one of Earth's five oceans. The Mediterranean, Caribbean, and North Sea are all seas, which are smaller than oceans."
   },
   {
     "prompt": "What is the capital city of Brazil?",
@@ -231,7 +256,8 @@
     "optionC": "Rio de Janeiro",
     "optionD": "São Paulo",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Brasília is the capital of Brazil — many people guess Rio de Janeiro, but Brazil moved its capital to the purpose-built city of Brasília in 1960."
   },
   {
     "prompt": "What is the capital city of Canada?",
@@ -240,7 +266,8 @@
     "optionC": "Ottawa",
     "optionD": "Toronto",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Ottawa is the capital of Canada. Many people guess Toronto, but Ottawa was chosen as a compromise between French and English Canada."
   },
   {
     "prompt": "Which country is the Great Barrier Reef found in?",
@@ -249,7 +276,8 @@
     "optionC": "Philippines",
     "optionD": "Australia",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Great Barrier Reef is off the coast of Queensland, Australia. It is the world's largest coral reef system and can be seen from space."
   },
   {
     "prompt": "What is the capital of Scotland?",
@@ -258,7 +286,8 @@
     "optionC": "Aberdeen",
     "optionD": "Dundee",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Edinburgh is the capital of Scotland, home to Edinburgh Castle and the Scottish Parliament. Glasgow is larger but is not the capital."
   },
   {
     "prompt": "What is the longest river in the UK?",
@@ -267,7 +296,8 @@
     "optionC": "River Thames",
     "optionD": "River Trent",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The River Severn is the longest river in the UK at about 354 km. It flows from Wales through England into the Bristol Channel."
   },
   {
     "prompt": "What is the capital city of China?",
@@ -276,7 +306,8 @@
     "optionC": "Beijing",
     "optionD": "Shanghai",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Beijing is the capital of China and home to the Forbidden City and Tiananmen Square. Shanghai is larger but is not the capital."
   },
   {
     "prompt": "Which is the highest mountain in the UK?",
@@ -285,7 +316,8 @@
     "optionC": "Helvellyn",
     "optionD": "Ben Nevis",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Ben Nevis is the highest mountain in the UK at 1,345 metres. It is in the Scottish Highlands near the town of Fort William."
   },
   {
     "prompt": "What is the capital of Northern Ireland?",
@@ -294,7 +326,8 @@
     "optionC": "Armagh",
     "optionD": "Lisburn",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Belfast is the capital of Northern Ireland. It is famous for being the city where the Titanic was built."
   },
   {
     "prompt": "The Eiffel Tower is in which city?",
@@ -303,7 +336,8 @@
     "optionC": "Brussels",
     "optionD": "London",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Eiffel Tower is in Paris, France. It was built in 1889 and is one of the most visited landmarks in the world."
   },
   {
     "prompt": "The Taj Mahal is in which country?",
@@ -312,7 +346,8 @@
     "optionC": "India",
     "optionD": "Pakistan",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Taj Mahal is in India, in the city of Agra. It was built by Emperor Shah Jahan in the 17th century as a memorial for his wife."
   },
   {
     "prompt": "What is the capital city of Russia?",
@@ -321,7 +356,8 @@
     "optionC": "Vladivostok",
     "optionD": "Moscow",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Moscow is the capital of Russia and its largest city. It is home to the Kremlin and Red Square."
   },
   {
     "prompt": "Which body of water lies between Great Britain and France?",
@@ -330,7 +366,8 @@
     "optionC": "Irish Sea",
     "optionD": "Baltic Sea",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The English Channel separates Great Britain from France. The Channel Tunnel runs underneath it, connecting the two countries."
   },
   {
     "prompt": "The Amazon Rainforest is mainly in which country?",
@@ -339,7 +376,8 @@
     "optionC": "Peru",
     "optionD": "Colombia",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Amazon Rainforest is mainly in Brazil, covering about 60% of the country. It is the world's largest tropical rainforest."
   },
   {
     "prompt": "What is the capital city of India?",
@@ -348,7 +386,8 @@
     "optionC": "New Delhi",
     "optionD": "Mumbai",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "New Delhi is the capital of India. Mumbai is the largest city, but New Delhi is where the Indian government is based."
   },
   {
     "prompt": "What is the world's largest country by area?",
@@ -357,7 +396,8 @@
     "optionC": "USA",
     "optionD": "Russia",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Russia is the largest country in the world by area, covering about 17 million square kilometres across Europe and Asia."
   },
   {
     "prompt": "What are the four nations that make up the United Kingdom?",
@@ -366,7 +406,8 @@
     "optionC": "England, Scotland, Wales and Jersey",
     "optionD": "England, Scotland, Wales and Cornwall",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The United Kingdom is made up of England, Scotland, Wales and Northern Ireland. The Republic of Ireland is a separate country."
   },
   {
     "prompt": "The Pyramids of Giza are in which country?",
@@ -375,7 +416,8 @@
     "optionC": "Morocco",
     "optionD": "Jordan",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Pyramids of Giza are in Egypt, near the city of Cairo. They were built as tombs for ancient Egyptian pharaohs over 4,000 years ago."
   },
   {
     "prompt": "Which continent has the most countries?",
@@ -384,7 +426,8 @@
     "optionC": "Africa",
     "optionD": "Asia",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Africa has the most countries of any continent — 54 in total. It is also the second largest continent after Asia."
   },
   {
     "prompt": "What is the capital city of Turkey?",
@@ -393,7 +436,8 @@
     "optionC": "Antalya",
     "optionD": "Ankara",
     "correctOption": "D",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Ankara is the capital of Turkey, not Istanbul. Istanbul is the largest city, but Ankara became the capital when Turkey became a republic in 1923."
   },
   {
     "prompt": "What is the capital city of Mexico?",
@@ -402,7 +446,8 @@
     "optionC": "Tijuana",
     "optionD": "Monterrey",
     "correctOption": "A",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Mexico City is the capital of Mexico and one of the largest cities in the world, with over 20 million people in its greater area."
   },
   {
     "prompt": "What is the name of the 0° line of longitude?",
@@ -411,7 +456,8 @@
     "optionC": "Equator",
     "optionD": "Tropic of Cancer",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Prime Meridian is the 0° line of longitude. It passes through Greenwich in London and divides the Earth into Eastern and Western Hemispheres."
   },
   {
     "prompt": "Which ocean is the second largest?",
@@ -420,7 +466,8 @@
     "optionC": "Atlantic",
     "optionD": "Pacific",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Atlantic Ocean is the second largest ocean after the Pacific. It stretches from the Arctic in the north down to Antarctica in the south."
   },
   {
     "prompt": "What is the capital city of Greece?",
@@ -429,7 +476,8 @@
     "optionC": "Sparta",
     "optionD": "Athens",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Athens is the capital of Greece and one of the oldest cities in the world, famous for the ancient Parthenon temple on the Acropolis."
   },
   {
     "prompt": "What is the capital city of Argentina?",
@@ -438,7 +486,8 @@
     "optionC": "Rosario",
     "optionD": "Mendoza",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Buenos Aires is the capital of Argentina and its largest city. Its name means 'good winds' in Spanish."
   },
   {
     "prompt": "Which mountain range includes Mount Everest?",
@@ -447,7 +496,8 @@
     "optionC": "Andes",
     "optionD": "Alps",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Himalayas is the mountain range that includes Mount Everest, the world's highest peak. It stretches across Nepal, Tibet, India, and Bhutan."
   },
   {
     "prompt": "What is the capital city of South Korea?",
@@ -456,7 +506,8 @@
     "optionC": "Seoul",
     "optionD": "Busan",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Seoul is the capital of South Korea and home to about half of the country's entire population."
   },
   {
     "prompt": "What is the imaginary line at 0° latitude called?",
@@ -465,7 +516,8 @@
     "optionC": "International Date Line",
     "optionD": "Equator",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Equator is the imaginary line at 0° latitude, dividing the Earth into the Northern and Southern Hemispheres."
   },
   {
     "prompt": "Which of these is a physical feature of the landscape?",
@@ -474,7 +526,8 @@
     "optionC": "Border",
     "optionD": "City",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "A river is a physical (natural) feature — it was formed by nature. Roads, borders, and cities are all human-made features."
   },
   {
     "prompt": "What is the capital city of Egypt?",
@@ -483,7 +536,8 @@
     "optionC": "Alexandria",
     "optionD": "Luxor",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Cairo is the capital of Egypt and the largest city in Africa. It sits on the banks of the River Nile."
   },
   {
     "prompt": "In which continent is the Alps mountain range?",
@@ -492,7 +546,8 @@
     "optionC": "Europe",
     "optionD": "Asia",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Alps mountain range is in Europe, stretching through countries like France, Switzerland, Italy, and Austria."
   },
   {
     "prompt": "What is the capital city of Poland?",
@@ -501,7 +556,8 @@
     "optionC": "Poznań",
     "optionD": "Warsaw",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Warsaw is the capital of Poland. It was almost completely destroyed in World War Two but was carefully rebuilt to look as it did before."
   },
   {
     "prompt": "What is the largest country in South America by area?",
@@ -510,7 +566,8 @@
     "optionC": "Colombia",
     "optionD": "Peru",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Brazil is the largest country in South America by area, covering almost half of the entire continent."
   },
   {
     "prompt": "What is the capital city of Thailand?",
@@ -519,7 +576,8 @@
     "optionC": "Chiang Mai",
     "optionD": "Phuket",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Bangkok is the capital of Thailand and one of the most visited tourist cities in Asia."
   },
   {
     "prompt": "Which river flows through Paris?",
@@ -528,7 +586,8 @@
     "optionC": "Seine",
     "optionD": "Rhine",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The River Seine flows through Paris. Both the Eiffel Tower and Notre-Dame Cathedral stand on its banks."
   },
   {
     "prompt": "What is the capital city of the Netherlands?",
@@ -537,7 +596,8 @@
     "optionC": "Utrecht",
     "optionD": "Amsterdam",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Amsterdam is the capital of the Netherlands, famous for its canals, museums, and tulip fields."
   },
   {
     "prompt": "What do lines of latitude measure?",
@@ -546,7 +606,8 @@
     "optionC": "Height above sea level",
     "optionD": "Ocean depth",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Lines of latitude measure how far north or south you are from the Equator. The Equator itself is at 0° latitude."
   },
   {
     "prompt": "What is the capital city of Sweden?",
@@ -555,7 +616,8 @@
     "optionC": "Gothenburg",
     "optionD": "Malmö",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Stockholm is the capital of Sweden, built on fourteen islands where Lake Mälaren meets the Baltic Sea."
   },
   {
     "prompt": "Which ocean contains the world's deepest trench?",
@@ -564,7 +626,8 @@
     "optionC": "Pacific",
     "optionD": "Atlantic",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "The Pacific Ocean contains the Mariana Trench, the deepest point on Earth at nearly 11 km below the surface."
   },
   {
     "prompt": "Which European country is famously shaped like a boot?",
@@ -573,7 +636,8 @@
     "optionC": "Greece",
     "optionD": "Italy",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Italy is famously shaped like a boot on a map. It is a long peninsula that juts into the Mediterranean Sea."
   },
   {
     "prompt": "What is the capital city of Nigeria?",
@@ -582,7 +646,8 @@
     "optionC": "Kano",
     "optionD": "Ibadan",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Abuja is the capital of Nigeria. Lagos is the largest city, but Abuja became the capital in 1991 because it is more centrally located."
   },
   {
     "prompt": "Which continent is home to both the Himalayas and the Gobi Desert?",
@@ -591,7 +656,8 @@
     "optionC": "Africa",
     "optionD": "Europe",
     "correctOption": "B",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Both the Himalayas and the Gobi Desert are in Asia, the world's largest continent. The Himalayas are in the south and the Gobi is in the north."
   },
   {
     "prompt": "What is the world's largest island?",
@@ -600,7 +666,8 @@
     "optionC": "Greenland",
     "optionD": "New Guinea",
     "correctOption": "C",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Greenland is the world's largest island, located in the Arctic Ocean. It is an autonomous territory of Denmark."
   },
   {
     "prompt": "What is the capital city of Norway?",
@@ -609,7 +676,8 @@
     "optionC": "Stavanger",
     "optionD": "Oslo",
     "correctOption": "D",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Oslo is the capital of Norway, located at the end of a long fjord. It is one of the northernmost capital cities in Europe."
   },
   {
     "prompt": "What is the capital city of Portugal?",
@@ -618,7 +686,8 @@
     "optionC": "Faro",
     "optionD": "Braga",
     "correctOption": "A",
-    "levelBand": "Age 10"
+    "levelBand": "Age 10",
+    "explanation": "Lisbon is the capital of Portugal and one of Europe's oldest cities. It sits on hills along the Atlantic coast."
   },
   {
     "prompt": "What is the capital city of Saudi Arabia?",
@@ -627,7 +696,8 @@
     "optionC": "Jeddah",
     "optionD": "Mecca",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Riyadh is the capital of Saudi Arabia, a large modern city in the centre of the Arabian Peninsula."
   },
   {
     "prompt": "What is the capital city of Peru?",
@@ -636,7 +706,8 @@
     "optionC": "Lima",
     "optionD": "Cuzco",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Lima is the capital of Peru, located on the Pacific coast. About a third of Peru's entire population lives there."
   },
   {
     "prompt": "What is the world's smallest country by area?",
@@ -645,7 +716,8 @@
     "optionC": "Liechtenstein",
     "optionD": "Vatican City",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Vatican City is the world's smallest country, entirely surrounded by Rome in Italy. It covers only 0.44 square kilometres."
   },
   {
     "prompt": "Which ocean is the smallest?",
@@ -654,7 +726,8 @@
     "optionC": "Indian",
     "optionD": "Southern",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Arctic Ocean is the smallest of the five oceans. It surrounds the North Pole and is largely covered in sea ice."
   },
   {
     "prompt": "What is the capital city of Kenya?",
@@ -663,7 +736,8 @@
     "optionC": "Mombasa",
     "optionD": "Kisumu",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Nairobi is the capital of Kenya and the largest city in East Africa. Its name means 'cool water' in the Maasai language."
   },
   {
     "prompt": "What is the world's largest rainforest?",
@@ -672,7 +746,8 @@
     "optionC": "Amazon",
     "optionD": "Congo",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Amazon is the world's largest rainforest, mainly in Brazil. It produces about 20% of the world's oxygen and is home to millions of species."
   },
   {
     "prompt": "What is the capital city of New Zealand?",
@@ -681,7 +756,8 @@
     "optionC": "Hamilton",
     "optionD": "Wellington",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Wellington is the capital of New Zealand, located at the southern tip of the North Island. Auckland is larger but is not the capital."
   },
   {
     "prompt": "In which country is Machu Picchu?",
@@ -690,7 +766,8 @@
     "optionC": "Bolivia",
     "optionD": "Ecuador",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Machu Picchu is an ancient Inca citadel in Peru, high in the Andes Mountains. It is one of the world's most visited archaeological sites."
   },
   {
     "prompt": "What is the capital city of Pakistan?",
@@ -699,7 +776,8 @@
     "optionC": "Karachi",
     "optionD": "Lahore",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Islamabad is the capital of Pakistan, a purpose-built city that replaced Karachi as the capital in the 1960s."
   },
   {
     "prompt": "What does the term 'climate' describe?",
@@ -708,7 +786,8 @@
     "optionC": "Long-term weather patterns in an area",
     "optionD": "The weather conditions on a specific day",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Climate describes the long-term weather patterns in a place, measured over at least 30 years. Weather is what happens on just one specific day."
   },
   {
     "prompt": "What is the capital city of Chile?",
@@ -717,7 +796,8 @@
     "optionC": "Temuco",
     "optionD": "Santiago",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Santiago is the capital of Chile, located in a valley surrounded by the Andes Mountains."
   },
   {
     "prompt": "The International Date Line follows approximately which line of longitude?",
@@ -726,7 +806,8 @@
     "optionC": "0°",
     "optionD": "45°",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The International Date Line follows approximately 180° longitude, on the opposite side of the globe from the Prime Meridian at 0°."
   },
   {
     "prompt": "What is the capital city of Colombia?",
@@ -735,7 +816,8 @@
     "optionC": "Medellín",
     "optionD": "Cali",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Bogotá is the capital of Colombia. It is one of the highest capital cities in the world, sitting at about 2,640 metres above sea level."
   },
   {
     "prompt": "What does the Tropic of Cancer mark?",
@@ -744,7 +826,8 @@
     "optionC": "The line of latitude at 23.5° North",
     "optionD": "The line of latitude at 23.5° South",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Tropic of Cancer marks the line of latitude at 23.5° North, where the Sun is directly overhead at the summer solstice in June."
   },
   {
     "prompt": "What is an archipelago?",
@@ -753,7 +836,8 @@
     "optionC": "A narrow passage of water",
     "optionD": "A group of islands",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An archipelago is a group of islands. For example, the Philippines is an archipelago made up of over 7,000 islands."
   },
   {
     "prompt": "What is the capital city of Switzerland?",
@@ -762,7 +846,8 @@
     "optionC": "Geneva",
     "optionD": "Basel",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Bern is the capital of Switzerland. Although Zurich and Geneva are more famous internationally, Bern is the seat of the Swiss government."
   },
   {
     "prompt": "What is the capital city of Morocco?",
@@ -771,7 +856,8 @@
     "optionC": "Casablanca",
     "optionD": "Marrakech",
     "correctOption": "B",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Rabat is the capital of Morocco. Casablanca is the largest city, but Rabat is where the government and the king are based."
   },
   {
     "prompt": "What does a grid reference tell you on a map?",
@@ -780,7 +866,8 @@
     "optionC": "The exact location of a place",
     "optionD": "The height of the land",
     "correctOption": "C",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A grid reference tells you the exact location of a place on a map, using numbered squares on a grid."
   },
   {
     "prompt": "In which countries is the Gobi Desert found?",
@@ -789,7 +876,8 @@
     "optionC": "Iran and Afghanistan",
     "optionD": "Mongolia and China",
     "correctOption": "D",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Gobi Desert is found across Mongolia and China. It is the largest desert in Asia and one of the largest in the world."
   },
   {
     "prompt": "What is the capital city of Denmark?",
@@ -798,7 +886,8 @@
     "optionC": "Odense",
     "optionD": "Aalborg",
     "correctOption": "A",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Copenhagen is the capital of Denmark, known for its colourful harbourside buildings and the famous Little Mermaid statue."
   },
   {
     "prompt": "What is the capital city of Ukraine?",
@@ -807,7 +896,8 @@
     "optionC": "Kharkiv",
     "optionD": "Odessa",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Kyiv is the capital of Ukraine and its largest city. It is one of the oldest cities in Eastern Europe."
   },
   {
     "prompt": "What is the capital city of Iran?",
@@ -816,7 +906,8 @@
     "optionC": "Tehran",
     "optionD": "Isfahan",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Tehran is the capital of Iran and its largest city. It lies at the foot of the Alborz mountain range in the north of the country."
   },
   {
     "prompt": "What is the capital city of Ethiopia?",
@@ -825,7 +916,8 @@
     "optionC": "Khartoum",
     "optionD": "Addis Ababa",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Addis Ababa is the capital of Ethiopia. It is the highest capital city in Africa, sitting at about 2,355 metres above sea level."
   },
   {
     "prompt": "What is the approximate current world population?",
@@ -834,7 +926,8 @@
     "optionC": "10 billion",
     "optionD": "6 billion",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The world's current population is approximately 8 billion people. It reached this milestone in 2022 and is still growing."
   },
   {
     "prompt": "What is the capital city of Vietnam?",
@@ -843,7 +936,8 @@
     "optionC": "Ho Chi Minh City",
     "optionD": "Da Nang",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Hanoi is the capital of Vietnam, located in the north of the country. Ho Chi Minh City in the south is the larger city."
   },
   {
     "prompt": "Which of these is a human feature of geography?",
@@ -852,7 +946,8 @@
     "optionC": "Port",
     "optionD": "River",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A port is a human (man-made) feature of geography — it is built by people for ships. Mountains, valleys, and rivers are all natural features."
   },
   {
     "prompt": "What is the capital city of Bangladesh?",
@@ -861,7 +956,8 @@
     "optionC": "Khulna",
     "optionD": "Dhaka",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Dhaka is the capital of Bangladesh and one of the most densely populated cities in the world."
   },
   {
     "prompt": "What type of climate does a tropical rainforest have?",
@@ -870,7 +966,8 @@
     "optionC": "Hot and dry",
     "optionD": "Warm with four distinct seasons",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Tropical rainforests are hot and wet all year round, which is why they support such a huge variety of plant and animal life."
   },
   {
     "prompt": "What is the capital city of Cuba?",
@@ -879,7 +976,8 @@
     "optionC": "Santiago de Cuba",
     "optionD": "Holguín",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Havana is the capital of Cuba. It is famous for its colourful colonial architecture, classic cars, and vibrant music."
   },
   {
     "prompt": "What is the capital city of Hungary?",
@@ -888,7 +986,8 @@
     "optionC": "Budapest",
     "optionD": "Debrecen",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Budapest is the capital of Hungary, formed when the cities of Buda and Pest merged in 1873. It sits on the River Danube."
   },
   {
     "prompt": "What are lines of longitude also known as?",
@@ -897,7 +996,8 @@
     "optionC": "Contours",
     "optionD": "Meridians",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Lines of longitude are also called meridians. They run from the North Pole to the South Pole, measuring how far east or west you are."
   },
   {
     "prompt": "What is the capital city of Austria?",
@@ -906,7 +1006,8 @@
     "optionC": "Graz",
     "optionD": "Linz",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Vienna is the capital of Austria, famous for its grand imperial palaces, classical music, and stunning architecture."
   },
   {
     "prompt": "What is the capital city of Algeria?",
@@ -915,7 +1016,8 @@
     "optionC": "Oran",
     "optionD": "Constantine",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Algiers is the capital of Algeria. Algeria is the largest country in Africa by area."
   },
   {
     "prompt": "What does the term 'hemisphere' mean in geography?",
@@ -924,7 +1026,8 @@
     "optionC": "Half of the Earth",
     "optionD": "One quarter of the Earth",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "A hemisphere means half of the Earth. The Equator divides Earth into the Northern and Southern Hemispheres."
   },
   {
     "prompt": "What is the capital city of the Philippines?",
@@ -933,7 +1036,8 @@
     "optionC": "Quezon City",
     "optionD": "Manila",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Manila is the capital of the Philippines, a country made up of over 7,000 islands in Southeast Asia."
   },
   {
     "prompt": "What is the capital city of the Czech Republic?",
@@ -942,7 +1046,8 @@
     "optionC": "Ostrava",
     "optionD": "Plzeň",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Prague is the capital of the Czech Republic, famous for its beautiful medieval old town and the historic Charles Bridge."
   },
   {
     "prompt": "Which mountain range forms a natural boundary between Europe and Asia within Russia?",
@@ -951,7 +1056,8 @@
     "optionC": "Caucasus Mountains",
     "optionD": "Altai Mountains",
     "correctOption": "B",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The Ural Mountains form a natural boundary between Europe and Asia within Russia. They run from north to south across the country."
   },
   {
     "prompt": "What is the capital city of Romania?",
@@ -960,7 +1066,8 @@
     "optionC": "Bucharest",
     "optionD": "Cluj-Napoca",
     "correctOption": "C",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Bucharest is the capital of Romania and its largest city, located in the south of the country."
   },
   {
     "prompt": "What is the capital city of Finland?",
@@ -969,7 +1076,8 @@
     "optionC": "Espoo",
     "optionD": "Helsinki",
     "correctOption": "D",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "Helsinki is the capital of Finland. It is the most northerly national capital in the European Union, on the shore of the Baltic Sea."
   },
   {
     "prompt": "Which of these rivers flows through Egypt?",
@@ -978,7 +1086,8 @@
     "optionC": "Niger",
     "optionD": "Zambezi",
     "correctOption": "A",
-    "levelBand": "Age 11"
+    "levelBand": "Age 11",
+    "explanation": "The Nile flows through Egypt, providing water for farming in the desert. Without the Nile, Egypt would be almost entirely desert."
   },
   {
     "prompt": "What is the capital city of Kazakhstan?",
@@ -987,7 +1096,8 @@
     "optionC": "Almaty",
     "optionD": "Shymkent",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Astana is the capital of Kazakhstan. Kazakhstan is the world's largest landlocked country — it has no coastline."
   },
   {
     "prompt": "What is the capital city of Tanzania?",
@@ -996,7 +1106,8 @@
     "optionC": "Dodoma",
     "optionD": "Dar es Salaam",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Dodoma is the official capital of Tanzania. Many people think it is Dar es Salaam, but Dodoma became the capital in 1974."
   },
   {
     "prompt": "What is the first stage of the water cycle, where water turns into vapour?",
@@ -1005,7 +1116,8 @@
     "optionC": "Infiltration",
     "optionD": "Evaporation",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Evaporation is the first stage of the water cycle, where heat from the Sun turns liquid water into water vapour that rises into the atmosphere."
   },
   {
     "prompt": "What is the capital city of Venezuela?",
@@ -1014,7 +1126,8 @@
     "optionC": "Valencia",
     "optionD": "Barquisimeto",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Caracas is the capital of Venezuela, located in a valley in the north of the country close to the Caribbean coast."
   },
   {
     "prompt": "What type of map shows physical features of land such as hills and valleys using contour lines?",
@@ -1023,7 +1136,8 @@
     "optionC": "Political map",
     "optionD": "Climate map",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A topographic map shows physical features like hills and valleys using contour lines, where each line connects points of equal height."
   },
   {
     "prompt": "What is the capital city of Mozambique?",
@@ -1032,7 +1146,8 @@
     "optionC": "Maputo",
     "optionD": "Beira",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Maputo is the capital of Mozambique. It lies on the Indian Ocean coast in the south of the country."
   },
   {
     "prompt": "What are tectonic plates?",
@@ -1041,7 +1156,8 @@
     "optionC": "The floors of deep ocean trenches",
     "optionD": "Large sections of the Earth's crust that slowly move",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Tectonic plates are large sections of the Earth's crust that slowly move. Their movement causes earthquakes, volcanoes, and the formation of mountains."
   },
   {
     "prompt": "What is the capital city of Cambodia?",
@@ -1050,7 +1166,8 @@
     "optionC": "Battambang",
     "optionD": "Sihanoukville",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Phnom Penh is the capital of Cambodia. It is located where three rivers meet: the Mekong, the Bassac, and the Tonle Sap."
   },
   {
     "prompt": "What is a river delta?",
@@ -1059,7 +1176,8 @@
     "optionC": "The source of a river in the mountains",
     "optionD": "A rapid or waterfall",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A river delta forms at the mouth of a river where it slows down and splits into multiple channels before reaching the sea, depositing sediment."
   },
   {
     "prompt": "What is the capital city of Senegal?",
@@ -1068,7 +1186,8 @@
     "optionC": "Dakar",
     "optionD": "Abidjan",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Dakar is the capital of Senegal. It is located on the westernmost tip of mainland Africa."
   },
   {
     "prompt": "What does the term 'urbanisation' mean?",
@@ -1077,7 +1196,8 @@
     "optionC": "The movement of people from one country to another",
     "optionD": "The increase in the proportion of people living in cities",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Urbanisation is the increase in the proportion of people living in cities, as more people move from rural areas to urban areas."
   },
   {
     "prompt": "Which two tectonic plates collided to form the Himalayas?",
@@ -1086,7 +1206,8 @@
     "optionC": "African and Eurasian",
     "optionD": "Pacific and Australian",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Himalayas were formed when the Indian plate collided with the Eurasian plate millions of years ago, slowly pushing the land upward."
   },
   {
     "prompt": "What is the capital city of Angola?",
@@ -1095,7 +1216,8 @@
     "optionC": "Huambo",
     "optionD": "Lobito",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Luanda is the capital of Angola, one of the largest cities in Africa. It is located on the Atlantic coast."
   },
   {
     "prompt": "What is a fjord?",
@@ -1104,7 +1226,8 @@
     "optionC": "A long, narrow sea inlet carved by glaciers",
     "optionD": "A wide river estuary",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A fjord is a long, narrow sea inlet carved out by glaciers during the Ice Age. Norway is famous for its dramatic, steep-sided fjords."
   },
   {
     "prompt": "What is the capital city of Ecuador?",
@@ -1113,7 +1236,8 @@
     "optionC": "Manta",
     "optionD": "Quito",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Quito is the capital of Ecuador, high in the Andes Mountains at about 2,850 metres above sea level."
   },
   {
     "prompt": "What does the greenhouse effect describe?",
@@ -1122,7 +1246,8 @@
     "optionC": "The warming of ocean currents",
     "optionD": "A type of cloud formation",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The greenhouse effect describes how gases like carbon dioxide trap heat in Earth's atmosphere, keeping the planet warm — similar to how a greenhouse works."
   },
   {
     "prompt": "What is the capital city of Uzbekistan?",
@@ -1131,7 +1256,8 @@
     "optionC": "Samarkand",
     "optionD": "Bukhara",
     "correctOption": "B",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Tashkent is the capital of Uzbekistan and the largest city in Central Asia."
   },
   {
     "prompt": "What does 'deforestation' mean?",
@@ -1140,7 +1266,8 @@
     "optionC": "The clearing of forests, usually for farming or development",
     "optionD": "The planting of new trees",
     "correctOption": "C",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Deforestation means clearing forests, usually for farming or development. It destroys wildlife habitats and contributes to climate change."
   },
   {
     "prompt": "Which of these is a sea rather than an ocean?",
@@ -1149,7 +1276,8 @@
     "optionC": "Pacific",
     "optionD": "Mediterranean",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "The Mediterranean is a sea, not an ocean. It is enclosed by Europe, Africa, and Asia. Oceans are much larger and open bodies of water."
   },
   {
     "prompt": "What is the term for ground that remains frozen throughout the year?",
@@ -1158,6 +1286,787 @@
     "optionC": "Glacier",
     "optionD": "Frost line",
     "correctOption": "A",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Permafrost is ground that stays frozen throughout the year, found mainly in Arctic regions and high mountain areas."
+  },
+  {
+    "prompt": "What is the imaginary line that circles Earth exactly halfway between the North and South Poles?",
+    "optionA": "The Prime Meridian",
+    "optionB": "The Equator",
+    "optionC": "The Tropic of Cancer",
+    "optionD": "The Arctic Circle",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "The Equator is the imaginary line at 0° latitude, exactly halfway between the North and South Poles. It divides Earth into two hemispheres."
+  },
+  {
+    "prompt": "In which direction does the Sun appear to rise each morning?",
+    "optionA": "North",
+    "optionB": "South",
+    "optionC": "West",
+    "optionD": "East",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "The Sun appears to rise in the East each morning because the Earth spins from west to east."
+  },
+  {
+    "prompt": "What type of geographical feature is the Amazon?",
+    "optionA": "A mountain",
+    "optionB": "A desert",
+    "optionC": "A river",
+    "optionD": "A lake",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "The Amazon is a river — the largest river in the world by volume of water. It flows through South America into the Atlantic Ocean."
+  },
+  {
+    "prompt": "What do we call an area of land completely surrounded by water?",
+    "optionA": "Peninsula",
+    "optionB": "Cape",
+    "optionC": "Strait",
+    "optionD": "Island",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "An island is an area of land completely surrounded by water. Great Britain, for example, is an island."
+  },
+  {
+    "prompt": "Which of these is a physical (natural) feature?",
+    "optionA": "A school",
+    "optionB": "A road",
+    "optionC": "A mountain",
+    "optionD": "A bridge",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "A mountain is a physical (natural) feature because it was formed by nature. Schools, roads, and bridges are all built by people."
+  },
+  {
+    "prompt": "What do we call a small settlement in the countryside, smaller than a town?",
+    "optionA": "A city",
+    "optionB": "A suburb",
+    "optionC": "A village",
+    "optionD": "A port",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "A village is a small settlement in the countryside, smaller than a town. It usually has a few houses, sometimes a shop and a school."
+  },
+  {
+    "prompt": "What are the four main compass directions?",
+    "optionA": "Up, Down, Left, Right",
+    "optionB": "North, South, East, West",
+    "optionC": "Arctic, Antarctic, Atlantic, Pacific",
+    "optionD": "Equator, Tropics, Arctic, Antarctic",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "The four main compass directions are North, South, East, and West. A helpful way to remember them is 'Never Eat Shredded Wheat'."
+  },
+  {
+    "prompt": "What do we call water that falls from clouds as rain, snow, sleet, or hail?",
+    "optionA": "Evaporation",
+    "optionB": "Irrigation",
+    "optionC": "Precipitation",
+    "optionD": "Condensation",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "Precipitation is any water that falls from clouds — whether as rain, snow, sleet, or hail. It is an important part of the water cycle."
+  },
+  {
+    "prompt": "What is a peninsula?",
+    "optionA": "Land completely surrounded by water",
+    "optionB": "Land almost completely surrounded by water, joined to the mainland on one side",
+    "optionC": "A narrow strip of water between two landmasses",
+    "optionD": "A high, flat area of land",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "A peninsula is land almost completely surrounded by water but still joined to the mainland on one side — like the country of Italy or the Iberian Peninsula."
+  },
+  {
+    "prompt": "What do we call the continuous process by which water evaporates, forms clouds, and falls as rain?",
+    "optionA": "The rock cycle",
+    "optionB": "The water cycle",
+    "optionC": "The carbon cycle",
+    "optionD": "The tide cycle",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "The water cycle is the continuous process where water evaporates, forms clouds, and falls back to Earth as rain or snow. The same water is recycled again and again."
+  },
+  {
+    "prompt": "What does a map key (or legend) show?",
+    "optionA": "The direction of north",
+    "optionB": "The distance between two places",
+    "optionC": "The names of countries",
+    "optionD": "What the symbols on a map mean",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "A map key (or legend) shows what all the symbols on a map mean. Without it, you would not know what the symbols stand for."
+  },
+  {
+    "prompt": "Which type of settlement is larger: a town or a village?",
+    "optionA": "Village",
+    "optionB": "They are the same size",
+    "optionC": "Town",
+    "optionD": "Neither has any people",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "A town is larger than a village. Towns have more people, more shops, and more services like hospitals and schools."
+  },
+  {
+    "prompt": "What is a coast?",
+    "optionA": "The border between two countries",
+    "optionB": "A range of mountains near the sea",
+    "optionC": "The area where the land meets the sea",
+    "optionD": "A flat plain near a river",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "A coast is the area where land meets the sea. Coasts can have cliffs, beaches, sand dunes, or estuaries."
+  },
+  {
+    "prompt": "Which of these is a human (man-made) feature of a landscape?",
+    "optionA": "A river",
+    "optionB": "A forest",
+    "optionC": "A cliff",
+    "optionD": "A road",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "A road is a human (man-made) feature because it is built by people. Rivers, forests, and cliffs are all natural features."
+  },
+  {
+    "prompt": "What do we call the outer rocky layer of the Earth?",
+    "optionA": "The mantle",
+    "optionB": "The core",
+    "optionC": "The crust",
+    "optionD": "The troposphere",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "The outer rocky layer of the Earth is called the crust. It is the thinnest layer of the Earth, like the skin of an apple."
+  },
+  {
+    "prompt": "What do we call the process by which rivers and wind wear away rock and soil?",
+    "optionA": "Deposition",
+    "optionB": "Erosion",
+    "optionC": "Weathering",
+    "optionD": "Irrigation",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "Erosion is the process where water, wind, or ice wears away rock and soil. Over thousands of years, erosion can carve out valleys and canyons."
+  },
+  {
+    "prompt": "Which country is an island continent?",
+    "optionA": "France",
+    "optionB": "Germany",
+    "optionC": "Russia",
+    "optionD": "Australia",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "Australia is both a country and a continent — it is completely surrounded by ocean on all sides, making it an island continent."
+  },
+  {
+    "prompt": "What do we call land that rises steeply and has a peak at the top?",
+    "optionA": "A valley",
+    "optionB": "A mountain",
+    "optionC": "A plain",
+    "optionD": "A moor",
+    "correctOption": "B",
+    "levelBand": "Age 9",
+    "explanation": "Land that rises steeply with a peak at the top is called a mountain. Mountains are generally over 600 metres above sea level."
+  },
+  {
+    "prompt": "What does a compass help you find?",
+    "optionA": "The rainfall in an area",
+    "optionB": "The temperature outside",
+    "optionC": "Direction",
+    "optionD": "The distance between two places",
+    "correctOption": "C",
+    "levelBand": "Age 9",
+    "explanation": "A compass helps you find direction by always pointing north. Once you know north, you can work out east, south, and west."
+  },
+  {
+    "prompt": "Which of these is a natural (physical) landform?",
+    "optionA": "A canal",
+    "optionB": "A harbour",
+    "optionC": "A railway",
+    "optionD": "A waterfall",
+    "correctOption": "D",
+    "levelBand": "Age 9",
+    "explanation": "A waterfall is a natural landform, formed when a river flows over a cliff or steep drop. Canals, harbours, and railways are all built by people."
+  },
+  {
+    "prompt": "What is a delta?",
+    "optionA": "A mountain pass",
+    "optionB": "A fan-shaped area where a river splits into branches before meeting the sea",
+    "optionC": "A high, flat area of land",
+    "optionD": "A deep crack in the Earth's surface",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A delta is the fan-shaped area at the mouth of a river, where it slows down and splits into smaller channels before reaching the sea."
+  },
+  {
+    "prompt": "What is a tributary?",
+    "optionA": "The source of a river",
+    "optionB": "The mouth of a river",
+    "optionC": "A smaller river that flows into a larger one",
+    "optionD": "A waterfall on a river",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A tributary is a smaller river or stream that flows into a larger river. For example, the River Cherwell is a tributary of the Thames."
+  },
+  {
+    "prompt": "What is the key difference between weather and climate?",
+    "optionA": "They mean exactly the same thing",
+    "optionB": "Weather is the day-to-day atmospheric conditions; climate is the average over many years",
+    "optionC": "Climate changes daily; weather is fixed",
+    "optionD": "Weather refers only to temperature",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Weather is what the atmosphere is like on a specific day (sunny, rainy, windy), while climate describes the average weather conditions over many years."
+  },
+  {
+    "prompt": "What do we call a large, flat-topped area of high land?",
+    "optionA": "A valley",
+    "optionB": "A plateau",
+    "optionC": "A delta",
+    "optionD": "An estuary",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A plateau is a large, flat-topped area of high land. The Tibetan Plateau is the largest in the world, sometimes called 'the roof of the world'."
+  },
+  {
+    "prompt": "What is an estuary?",
+    "optionA": "A mountain peak",
+    "optionB": "A fast-flowing section of a river",
+    "optionC": "A lake formed behind a dam",
+    "optionD": "Where a river meets the sea, influenced by tides",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "An estuary is where a river meets the sea and is influenced by tides. The river becomes wider and its water becomes salty near the sea."
+  },
+  {
+    "prompt": "What do contour lines on a map show?",
+    "optionA": "Rivers",
+    "optionB": "Roads",
+    "optionC": "Land height and shape",
+    "optionD": "Country borders",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Contour lines on a map show the height and shape of the land. Lines that are close together show a steep slope."
+  },
+  {
+    "prompt": "What is deforestation?",
+    "optionA": "Planting new trees in a cleared area",
+    "optionB": "A type of erosion caused by water",
+    "optionC": "The freezing of a river in winter",
+    "optionD": "The clearing of forests by cutting or burning trees",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Deforestation is the clearing of forests by cutting or burning trees. It is a serious environmental problem that destroys habitats and affects the climate."
+  },
+  {
+    "prompt": "What is a glacier?",
+    "optionA": "A tropical storm",
+    "optionB": "A large, slow-moving river of ice",
+    "optionC": "A fast-flowing waterfall",
+    "optionD": "A cold ocean current",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A glacier is a large, slow-moving river of ice that forms in cold mountains where more snow falls than melts each year."
+  },
+  {
+    "prompt": "Where does a river begin, usually in hills or mountains?",
+    "optionA": "At its mouth",
+    "optionB": "At its source",
+    "optionC": "At its delta",
+    "optionD": "At its tributary",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A river begins at its source, usually high up in hills or mountains where water collects. From there it flows downhill towards the sea."
+  },
+  {
+    "prompt": "Which climate zone is found near the Equator?",
+    "optionA": "Polar",
+    "optionB": "Temperate",
+    "optionC": "Tropical",
+    "optionD": "Desert",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The tropical climate zone is found near the Equator, where temperatures are high and it rains heavily throughout the year."
+  },
+  {
+    "prompt": "What do we call a narrow strip of water connecting two larger bodies of water?",
+    "optionA": "A river",
+    "optionB": "A channel or strait",
+    "optionC": "An ocean",
+    "optionD": "A tributary",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A narrow strip of water connecting two larger bodies of water is called a strait or channel — for example, the Strait of Gibraltar connects the Atlantic Ocean to the Mediterranean Sea."
+  },
+  {
+    "prompt": "What is a rainforest?",
+    "optionA": "A forest in a cold region",
+    "optionB": "A young forest being newly planted",
+    "optionC": "A dense, tropical forest that receives very high rainfall",
+    "optionD": "A forest that is usually very dry",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A rainforest is a dense, tropical forest that receives very high rainfall throughout the year, supporting an incredible variety of life."
+  },
+  {
+    "prompt": "What is urbanisation?",
+    "optionA": "The growth of farms in the countryside",
+    "optionB": "The building of parks in city centres",
+    "optionC": "A type of farming",
+    "optionD": "The increase in the proportion of people living in cities",
+    "correctOption": "D",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Urbanisation is the increase in the proportion of people living in cities, as more people move from the countryside to urban areas."
+  },
+  {
+    "prompt": "What is the main source of energy that drives Earth's weather systems?",
+    "optionA": "The Moon",
+    "optionB": "The Earth's core",
+    "optionC": "The Sun",
+    "optionD": "Ocean currents",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The Sun is the main source of energy that drives Earth's weather systems. Heat from the Sun causes air and water to move, creating wind and rain."
+  },
+  {
+    "prompt": "What is erosion?",
+    "optionA": "The building up of rock and soil in a new area",
+    "optionB": "The wearing away of rock or soil by water, wind, or ice",
+    "optionC": "The growth of new rock over time",
+    "optionD": "A type of earthquake",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Erosion is the wearing away of rock or soil by water, wind, or ice. Over millions of years, erosion shapes valleys, coastlines, and canyons."
+  },
+  {
+    "prompt": "What is deposition in geography?",
+    "optionA": "The wearing away of rock and soil",
+    "optionB": "The process where eroded material is laid down in a new location",
+    "optionC": "The formation of new mountains",
+    "optionD": "The breaking down of rock in very cold conditions",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "Deposition is when eroded material is carried by water or wind and then dropped in a new location, such as when a river slows down near the sea."
+  },
+  {
+    "prompt": "What is a biome?",
+    "optionA": "A large natural community of plants and animals adapted to a particular climate",
+    "optionB": "A human settlement",
+    "optionC": "A type of rock",
+    "optionD": "A region of very high rainfall",
+    "correctOption": "A",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A biome is a large natural community of plants and animals adapted to a particular climate, such as a tropical rainforest, desert, or Arctic tundra."
+  },
+  {
+    "prompt": "What do we call the place where a river flows into the sea or a lake?",
+    "optionA": "The source",
+    "optionB": "The mouth",
+    "optionC": "The tributary",
+    "optionD": "The delta",
+    "correctOption": "B",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "The place where a river flows into the sea or a lake is called the mouth. The river becomes wider and slower as it approaches its mouth."
+  },
+  {
+    "prompt": "What is a settlement hierarchy?",
+    "optionA": "A list of famous historic settlements",
+    "optionB": "The population density of an area",
+    "optionC": "The ranking of settlements by size, from hamlet up to city",
+    "optionD": "A type of map showing settlement locations",
+    "correctOption": "C",
+    "levelBand": "Age 9 High Achiever",
+    "explanation": "A settlement hierarchy ranks settlements by size from smallest to largest: hamlet, village, town, and city — the bigger the settlement, the higher it sits in the hierarchy."
+  },
+  {
+    "prompt": "What causes volcanoes to erupt?",
+    "optionA": "Meteorites hitting the Earth",
+    "optionB": "Magma forcing its way through weak points in the Earth's crust",
+    "optionC": "Large underground storms",
+    "optionD": "Tidal waves",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "Volcanoes erupt when magma (molten rock) builds up underground and forces its way through weak points in the Earth's crust, bursting out as lava."
+  },
+  {
+    "prompt": "What is the difference between magma and lava?",
+    "optionA": "Lava is underground; magma is on the surface",
+    "optionB": "Magma is hotter than lava",
+    "optionC": "They are identical",
+    "optionD": "Magma is molten rock below ground; lava is what it is called when it reaches the surface",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "Magma is molten rock found underground, and it becomes lava once it erupts onto the Earth's surface through a volcano."
+  },
+  {
+    "prompt": "What is an earthquake?",
+    "optionA": "A large storm at sea",
+    "optionB": "A volcanic eruption",
+    "optionC": "A sudden shaking of the Earth's crust caused by movement of tectonic plates",
+    "optionD": "A river flood",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "An earthquake is a sudden shaking of the Earth's crust caused by the movement of tectonic plates. They can cause enormous damage to buildings and roads."
+  },
+  {
+    "prompt": "What is renewable energy?",
+    "optionA": "Energy from burning coal or oil",
+    "optionB": "Nuclear energy only",
+    "optionC": "Energy from sources such as sunlight, wind, or water that are naturally replenished",
+    "optionD": "Energy from burning wood only",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Renewable energy comes from sources like sunlight, wind, and water that are naturally replenished and will never run out."
+  },
+  {
+    "prompt": "What is population density?",
+    "optionA": "The total number of people in a country",
+    "optionB": "The number of people per unit area",
+    "optionC": "The rate at which a population grows",
+    "optionD": "How spread out people are across the world",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "Population density is the number of people per unit area, such as per square kilometre. It tells you how crowded a place is."
+  },
+  {
+    "prompt": "What is migration?",
+    "optionA": "The growth of new crops in a region",
+    "optionB": "When animals hibernate in winter",
+    "optionC": "A type of geographical map",
+    "optionD": "The movement of people from one place to another to live",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "Migration is when people move from one place to another to live. People may migrate within a country or move to a different country entirely."
+  },
+  {
+    "prompt": "What type of farming produces food to sell for profit?",
+    "optionA": "Subsistence farming",
+    "optionB": "Commercial farming",
+    "optionC": "Organic farming",
+    "optionD": "Arable farming only",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "Commercial farming produces food to sell for profit. Subsistence farming is different — farmers just grow enough for their own family to eat."
+  },
+  {
+    "prompt": "What is globalisation?",
+    "optionA": "The spread of deserts across the globe",
+    "optionB": "A type of climate pattern",
+    "optionC": "The process of countries becoming more connected through trade, communication, and travel",
+    "optionD": "When countries close their borders",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Globalisation is the process of countries across the world becoming more connected through trade, communication, and travel."
+  },
+  {
+    "prompt": "What do we call the continuous movement of water through evaporation, condensation, and precipitation?",
+    "optionA": "The rock cycle",
+    "optionB": "The carbon cycle",
+    "optionC": "The tide cycle",
+    "optionD": "The water cycle",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "The water cycle is the continuous movement of water through evaporation, condensation, and precipitation. The same water is recycled over and over again."
+  },
+  {
+    "prompt": "What is a tsunami?",
+    "optionA": "A tropical storm",
+    "optionB": "An ocean current",
+    "optionC": "A very large wave caused by an underwater earthquake or volcanic eruption",
+    "optionD": "A type of river flood",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "A tsunami is a very large and powerful wave caused by an underwater earthquake or volcanic eruption. It can travel thousands of kilometres across the ocean."
+  },
+  {
+    "prompt": "What does GDP measure?",
+    "optionA": "The total population of a country",
+    "optionB": "The geographical size of a country",
+    "optionC": "The total value of goods and services produced in a country in one year",
+    "optionD": "A country's annual rainfall",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "GDP (Gross Domestic Product) measures the total value of all goods and services produced in a country in one year. It is used to compare the size of different economies."
+  },
+  {
+    "prompt": "What are push factors in migration?",
+    "optionA": "Reasons that attract people to a new place",
+    "optionB": "Government policies encouraging movement",
+    "optionC": "Reasons people are forced to leave their current place, such as poverty or conflict",
+    "optionD": "The types of transport available",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Push factors are the reasons people are forced to leave a place, such as poverty, war, or natural disasters. They push people away from their home."
+  },
+  {
+    "prompt": "What is acid rain and what causes it?",
+    "optionA": "Rain containing minerals dissolved from soil",
+    "optionB": "Very heavy rainfall in tropical areas",
+    "optionC": "Rainfall in very dry desert regions",
+    "optionD": "Rain made acidic by pollution from burning fossil fuels",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "Acid rain forms when pollution from burning fossil fuels dissolves in rainwater, making it acidic. It can damage forests, lakes, and buildings."
+  },
+  {
+    "prompt": "What is the key difference between renewable and non-renewable resources?",
+    "optionA": "Renewable resources are man-made; non-renewable are natural",
+    "optionB": "Non-renewable resources are more modern",
+    "optionC": "Renewable resources are naturally replenished; non-renewable cannot be replaced once used",
+    "optionD": "Renewable resources are only found in warm countries",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Renewable resources like wind and sunlight are naturally replenished, while non-renewable resources like coal and oil cannot be replaced once they are used up."
+  },
+  {
+    "prompt": "What does latitude measure on a globe?",
+    "optionA": "How far east or west of the Prime Meridian you are",
+    "optionB": "How far north or south of the Equator you are",
+    "optionC": "The rainfall pattern in an area",
+    "optionD": "The depth of the ocean below a point",
+    "correctOption": "B",
+    "levelBand": "Age 10",
+    "explanation": "Latitude measures how far north or south you are from the Equator. The Equator is 0° and the poles are 90° north and south."
+  },
+  {
+    "prompt": "What do we call countries that have a high standard of living, strong economies, and advanced technology?",
+    "optionA": "Developing countries",
+    "optionB": "Emerging economies",
+    "optionC": "Developed countries",
+    "optionD": "Rural countries",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "Developed countries have high standards of living, strong economies, and advanced technology — such as the UK, USA, Japan, and Australia."
+  },
+  {
+    "prompt": "What is fair trade?",
+    "optionA": "When countries refuse to trade with each other",
+    "optionB": "Free trade with no taxes or tariffs",
+    "optionC": "When two countries trade in exactly equal amounts",
+    "optionD": "A system ensuring farmers in poorer countries receive a fair price for their goods",
+    "correctOption": "D",
+    "levelBand": "Age 10",
+    "explanation": "Fair trade is a system that ensures farmers and workers in poorer countries receive a fair price for what they grow or make, helping to improve their lives."
+  },
+  {
+    "prompt": "What is the function of a communications satellite?",
+    "optionA": "To forecast the weather",
+    "optionB": "To navigate ships at sea",
+    "optionC": "To relay telephone, television, and internet signals around the globe",
+    "optionD": "To photograph the Earth's surface for maps",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "A communications satellite orbits the Earth and relays telephone, TV, and internet signals around the globe, allowing instant worldwide communication."
+  },
+  {
+    "prompt": "What do we call the layer of gases surrounding the Earth?",
+    "optionA": "The lithosphere",
+    "optionB": "The hydrosphere",
+    "optionC": "The atmosphere",
+    "optionD": "The biosphere",
+    "correctOption": "C",
+    "levelBand": "Age 10",
+    "explanation": "The atmosphere is the layer of gases surrounding the Earth. It protects us from harmful radiation and keeps our planet warm enough to support life."
+  },
+  {
+    "prompt": "What is plate tectonics?",
+    "optionA": "The study of ocean floor rocks",
+    "optionB": "The measurement of earthquake strength",
+    "optionC": "The theory that Earth's crust is made up of slowly moving sections that shape the surface",
+    "optionD": "The study of different rock types",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Plate tectonics is the theory that Earth's crust is divided into large sections called tectonic plates, which slowly move and shape the Earth's surface over millions of years."
+  },
+  {
+    "prompt": "What do we call the boundary where two tectonic plates meet?",
+    "optionA": "The lithosphere",
+    "optionB": "The mantle",
+    "optionC": "The crust",
+    "optionD": "A fault line",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A fault line is the boundary where two tectonic plates meet. Earthquakes and volcanoes often occur along fault lines."
+  },
+  {
+    "prompt": "What is the Coriolis effect?",
+    "optionA": "The increase in temperature near the Equator",
+    "optionB": "The way Earth's rotation causes winds and ocean currents to curve",
+    "optionC": "The process of water evaporating near coastlines",
+    "optionD": "The way mountains block rainfall",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Coriolis effect is the way Earth's rotation makes winds and ocean currents curve — to the right in the Northern Hemisphere and to the left in the Southern Hemisphere."
+  },
+  {
+    "prompt": "What is the key difference between climate change and natural climate variation?",
+    "optionA": "They are the same process",
+    "optionB": "Climate change only affects polar regions",
+    "optionC": "Natural variation is faster than human-caused climate change",
+    "optionD": "Natural climate variation happens over very long timescales; human-caused change is much faster",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Natural climate variation happens very slowly over thousands of years, while human-caused climate change is happening much faster — over just decades."
+  },
+  {
+    "prompt": "What causes uneven development between countries?",
+    "optionA": "The position of a country on the world map",
+    "optionB": "A combination of factors including history, natural resources, climate, and access to trade",
+    "optionC": "The physical size of a country",
+    "optionD": "The language spoken in a country",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Uneven development is caused by a combination of factors including a country's history, natural resources, climate, and access to trade and education."
+  },
+  {
+    "prompt": "What is a relief map?",
+    "optionA": "A map showing roads and cities only",
+    "optionB": "A map showing the height of land using colours or contour lines",
+    "optionC": "A weather forecasting map",
+    "optionD": "A map showing types of crops grown",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A relief map shows the height of the land using different colours or contour lines. Dark green usually means low land and brown or white means high land."
+  },
+  {
+    "prompt": "What is irrigation?",
+    "optionA": "Burning forests to clear farmland",
+    "optionB": "The removal of salt from seawater",
+    "optionC": "Supplying water to farmland through pipes or channels to support crop growth",
+    "optionD": "A type of flooding in river valleys",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Irrigation is the system of supplying water to farmland through pipes, ditches, or channels, so that crops can grow even in dry areas."
+  },
+  {
+    "prompt": "What is the greenhouse effect?",
+    "optionA": "The process of growing plants in a greenhouse",
+    "optionB": "The cooling of Earth's surface by clouds",
+    "optionC": "The way glaciers reflect sunlight back into space",
+    "optionD": "The trapping of heat in Earth's atmosphere by gases such as CO₂",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The greenhouse effect is when gases like CO₂ trap heat in the Earth's atmosphere, keeping the planet warm — just like the glass of a greenhouse."
+  },
+  {
+    "prompt": "What is a cyclone?",
+    "optionA": "A cold ocean current",
+    "optionB": "A sandstorm in a desert region",
+    "optionC": "A large rotating storm system with powerful winds, forming over warm ocean water",
+    "optionD": "A type of tsunami",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A cyclone is a huge rotating storm system with powerful winds that forms over warm ocean water. They are called hurricanes in the Atlantic and typhoons in the Pacific."
+  },
+  {
+    "prompt": "What is the significance of the Prime Meridian?",
+    "optionA": "It marks the boundary between North and South America",
+    "optionB": "It marks the position of the Sun at midday",
+    "optionC": "It marks 0° longitude and passes through Greenwich, London, dividing Earth into eastern and western hemispheres",
+    "optionD": "It is the boundary of the Arctic Circle",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Prime Meridian marks 0° longitude and passes through Greenwich in London. It divides the Earth into the Eastern and Western Hemispheres."
+  },
+  {
+    "prompt": "What is deposition and where does it typically occur?",
+    "optionA": "The wearing away of rock by weathering",
+    "optionB": "The process where eroded material is laid down in a new location, such as a river bend or river mouth",
+    "optionC": "The formation of new mountains",
+    "optionD": "The breaking down of rock by frost action",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Deposition is when eroded material is dropped in a new location, typically at river bends, floodplains, or river mouths where the water slows right down."
+  },
+  {
+    "prompt": "What is the water cycle?",
+    "optionA": "The process of treating water for domestic use",
+    "optionB": "How glaciers form over thousands of years",
+    "optionC": "The flow of rivers to the sea",
+    "optionD": "The continuous movement of water through evaporation, condensation, and precipitation",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The water cycle is the continuous movement of water — it evaporates from oceans, forms clouds through condensation, and returns to Earth as precipitation."
+  },
+  {
+    "prompt": "What are pull factors in migration?",
+    "optionA": "Reasons that make people leave their home country",
+    "optionB": "Government restrictions on movement",
+    "optionC": "Physical barriers to migration",
+    "optionD": "Positive reasons that attract people to move to a new place, such as better jobs or safety",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Pull factors are the positive things that attract people to move to a new place, such as better jobs, safety, education, or a higher standard of living."
+  },
+  {
+    "prompt": "What is urbanisation causing in many rapidly growing cities?",
+    "optionA": "A steady decrease in population",
+    "optionB": "A reduction in noise and pollution",
+    "optionC": "More people choosing to move to the countryside",
+    "optionD": "Problems such as traffic congestion, housing shortages, and pressure on services",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Rapid urbanisation causes problems like traffic congestion, housing shortages, and huge pressure on schools, hospitals, and other services."
+  },
+  {
+    "prompt": "What does the Tropic of Capricorn mark?",
+    "optionA": "The northern boundary of the tropics",
+    "optionB": "The line where the Sun is directly overhead at the December solstice, at approximately 23.5°S",
+    "optionC": "Another name for the Equator",
+    "optionD": "The southern limit of the Arctic",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The Tropic of Capricorn marks approximately 23.5° South latitude, where the Sun is directly overhead at the December solstice — midsummer in the Southern Hemisphere."
+  },
+  {
+    "prompt": "What is biodiversity and why is it important?",
+    "optionA": "The total number of humans living in a region; important for measuring population pressure on resources",
+    "optionB": "The variety of different plant and animal species — and other living things — in an area; important because ecosystems rely on many species working together",
+    "optionC": "The distance between different biomes; important for measuring climate zone boundaries",
+    "optionD": "The range of different rock types found in a country; important for mining and construction",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Biodiversity refers to the variety of living species — plants, animals, fungi, and microorganisms — in a given area or across the whole planet. High biodiversity makes ecosystems more resilient and productive. Threats such as deforestation, pollution, and climate change are reducing biodiversity worldwide."
+  },
+  {
+    "prompt": "What does 'sustainable development' mean?",
+    "optionA": "Building as many new homes and factories as possible to grow the economy quickly",
+    "optionB": "Halting all development to protect the natural environment",
+    "optionC": "Focusing development efforts only on the world's poorest countries",
+    "optionD": "Meeting the needs of people today without damaging the ability of future generations to meet their own needs",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Sustainable development means growing and improving living standards in ways that protect natural resources and ecosystems for future generations. It balances economic progress, social well-being, and environmental protection — for example, using renewable energy rather than burning fossil fuels."
+  },
+  {
+    "prompt": "What is desertification?",
+    "optionA": "The process of converting desert land into farmland using large-scale irrigation",
+    "optionB": "The natural shifting of sand dunes driven by wind across a desert",
+    "optionC": "The process by which fertile or semi-arid land degrades into desert, often driven by overgrazing, deforestation, and climate change",
+    "optionD": "The official classification of a region as a desert based on annual rainfall data",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Desertification is the degradation of productive land into desert, caused by unsustainable land use — such as overgrazing, deforestation, and poor irrigation — combined with reduced rainfall from climate change. It threatens the livelihoods and food security of hundreds of millions of people, particularly in sub-Saharan Africa."
+  },
+  {
+    "prompt": "What is a fold mountain, and how does it form?",
+    "optionA": "A mountain formed when a volcano pushes magma up through the Earth's crust and it solidifies",
+    "optionB": "A hill that has been shaped into flat terraces by farmers for growing crops on slopes",
+    "optionC": "A coastal cliff formed when waves erode the base until the top collapses",
+    "optionD": "A mountain range formed when two tectonic plates collide and compress the rock between them, causing it to buckle and fold upward",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Fold mountains form when two tectonic plates collide and squeeze the rock layers between them, causing the crust to crumple and fold upward over millions of years. The Himalayas — the world's highest range — formed from the collision of the Indian and Eurasian plates. The Alps formed similarly from the African and Eurasian plates."
+  },
+  {
+    "prompt": "What is the carbon cycle?",
+    "optionA": "The route carbon dioxide travels from a car engine into the atmosphere",
+    "optionB": "The process of burying carbon-based materials underground to form coal and oil over millions of years only",
+    "optionC": "The recycling of carbon-based plastics to reduce environmental waste",
+    "optionD": "The continuous movement of carbon through the atmosphere, living organisms, oceans, and the ground",
+    "correctOption": "D",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "The carbon cycle is the continuous movement of carbon between the atmosphere, living things, oceans, and Earth's crust. Plants absorb CO₂ through photosynthesis; animals and decomposers release it through respiration and decay. Burning fossil fuels releases carbon stored millions of years ago, disrupting the natural balance and contributing to climate change."
   }
 ]
