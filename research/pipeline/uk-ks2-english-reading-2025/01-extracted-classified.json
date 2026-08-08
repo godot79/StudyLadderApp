@@ -1,0 +1,53 @@
+{
+  "source": {
+    "name": "UK KS2 English Reading test, May 2025 (Reading Booklet + Answer Booklet)",
+    "url": "https://assets.publishing.service.gov.uk/media/682dbf58baff3dab99775154/2025_KS2_English_reading_booklet.pdf",
+    "publisher": "Standards and Testing Agency (STA) / UK gov.uk",
+    "license": "SPLIT LICENSE — Open Government Licence v3.0 for question stems and instructions; third-party copyright holder permission required for original passages. Per human review decision (2026-08-08): reuse/close-paraphrase of original passages prohibited. Original passages NOT extracted (WebFetch failure). Strategy: write entirely original short story of comparable difficulty and length, then write new comprehension questions covering same TYPES.",
+    "sourceGrade": "Year 6 (age 10-11), 2025 national curriculum test; adjusted down to Age 9 reading level for this app",
+    "retrievedAt": "2026-08-08",
+    "strategy": "Original content (not source rewrite)"
+  },
+  "originalPassage": {
+    "title": "The Hidden Workshop",
+    "topic": "A child discovers an old garden shed and uncovers its forgotten purpose",
+    "wordCount": 410,
+    "readingLevel": "Age 9 (simpler narrative structure, shorter sentences than original UK Year 6/age 11 test)",
+    "summary": "Maya finds an abandoned workshop in her grandmother's garden shed and learns that her grandmother was a skilled furniture maker in her youth. Through exploration and dialogue, she discovers forgotten tools, sketches, and a half-finished wooden chest. Maya realizes she has inherited her grandmother's creativity."
+  },
+  "questionsDesigned": 8,
+  "questionTypesCovered": [
+    {
+      "type": "vocabulary-in-context",
+      "description": "Which word is closest in meaning to [word from passage]?",
+      "count": 1,
+      "examples": ["Q2: meaning of 'abandoned'"]
+    },
+    {
+      "type": "inference",
+      "description": "Why did [character] do [action]? or What made [character] realize [something]?",
+      "count": 2,
+      "examples": ["Q4: Why did Grandma stop making furniture?", "Q5: Why was Maya surprised to find the chest?"]
+    },
+    {
+      "type": "true-false-statement",
+      "description": "Is this statement true or false based on the passage?",
+      "count": 2,
+      "examples": ["Q1: Maya knew about her grandmother's hobby from the start", "Q7: Grandma had finished the wooden chest"]
+    },
+    {
+      "type": "sequencing",
+      "description": "Which event happened first/last? or Put events in order",
+      "count": 1,
+      "examples": ["Q3: Order of events in the discovery"]
+    },
+    {
+      "type": "evidence-retrieval",
+      "description": "Which sentence/phrase shows that [character] felt/was [emotion or state]?",
+      "count": 2,
+      "examples": ["Q6: Evidence that Maya cared about her grandmother's work", "Q8: Evidence that the workshop had been forgotten"]
+    }
+  ],
+  "schemaNote": "SCHEMA MISMATCH FLAGGED: existing data/seed/english.json contains only standalone vocabulary/grammar/spelling questions (no 'passage' field). Passage-based reading comprehension requires either: (A) embedding passage excerpts in each 'prompt' field (not ideal, repetitive), (B) adding a 'passage' field to the item schema (requires schema change), or (C) storing the passage separately and referencing it. This batch does NOT fit current english.json structure. Recommend design review before merging.",
+  "deferred": []
+}
