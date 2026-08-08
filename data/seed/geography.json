@@ -2258,5 +2258,55 @@
     "optionD": "The sand dune requires less maintenance over time",
     "correctOption": "A",
     "explanation": "A sand dune uses natural materials like sand and plants, while a concrete barrier is an artificial structure. Using natural materials can be better for the environment."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The Earth is divided into temperature zones based on latitude — the distance north or south from the equator. The tropical zone near the equator receives strong, direct rays from the sun throughout the year. The polar zones near the North and South Poles receive weaker, slanted sunlight. The temperate zones are between the tropics and poles, with seasons that change throughout the year. Which of these statements is correct?",
+    "optionA": "All continents in the polar zones have rainforests with thick vegetation",
+    "optionB": "Tropical areas are warmer because they receive more direct sunlight energy from the sun",
+    "optionC": "The equator is the coldest place on Earth because it is highest in altitude",
+    "optionD": "Temperate zones never have snow or cold winter weather",
+    "correctOption": "B",
+    "explanation": "Tropical regions near the equator receive the most direct sunlight, which means more of the sun's energy reaches the ground per area. This makes tropical places naturally warmer. Polar zones get slanted, weaker sunlight, so they are much colder. Temperate zones get medium sunlight because they are at middle latitudes."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Latitude lines on maps help us understand where places are located on Earth. The equator divides the Earth into the Northern Hemisphere (above the equator) and Southern Hemisphere (below the equator). Other important latitude lines include the Arctic Circle in the far north and the Antarctic Circle in the far south. Which statement about Australia is true?",
+    "optionA": "Australia is located north of the equator",
+    "optionB": "Australia is located south of the equator in the Southern Hemisphere",
+    "optionC": "Australia is surrounded by the Arctic Circle",
+    "optionD": "Australia is located at the same latitude as the North Pole",
+    "correctOption": "B",
+    "explanation": "Australia is positioned in the Southern Hemisphere, below the equator. This means when it is summer in North America and Europe, it is winter in Australia. The continent is nowhere near the Arctic Circle (which is far north) or the North Pole."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Different countries in Europe are located next to different seas and oceans. The Mediterranean Sea borders countries in southern Europe. The Baltic Sea borders several countries in northern Europe. The English Channel separates England from France. The North Sea borders several northern European countries. Which of these countries has a coastline on the Mediterranean Sea?",
+    "optionA": "Poland, which is in northeastern Europe",
+    "optionB": "Sweden, which is far north on the Scandinavian Peninsula",
+    "optionC": "Greece, located in southeastern Europe",
+    "optionD": "Ireland, located west of Great Britain",
+    "correctOption": "C",
+    "explanation": "Greece is located in southeastern Europe with a long coastline along the Mediterranean Sea. It includes many islands in the Mediterranean. Poland is far to the north and borders the Baltic Sea, not the Mediterranean. Sweden is even farther north. Ireland is on the Atlantic side of Europe."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The seven continents have very different sizes. Asia is the largest continent, covering about 30% of all land on Earth. Africa is the second-largest continent. When you combine the land area of the two largest continents, they together make up nearly half of Earth's total land surface. Which of these continents is the second-largest by land area?",
+    "optionA": "Europe",
+    "optionB": "North America",
+    "optionC": "Africa",
+    "optionD": "South America",
+    "correctOption": "C",
+    "explanation": "Africa is the second-largest continent after Asia. It covers approximately 20% of Earth's land area. Europe is smaller and located north of Africa. North America and South America are also smaller than Africa."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Continents vary greatly in size. Asia is by far the largest continent, while Europe covers less than 7% of Earth's land area. When comparing four continents — Europe, South America, Australia, and Antarctica — one is noticeably smaller than the others. Which of these four continents has the smallest total land area?",
+    "optionA": "Antarctica",
+    "optionB": "Australia",
+    "optionC": "South America",
+    "optionD": "Europe",
+    "correctOption": "B",
+    "explanation": "Australia is the smallest of the world's seven continents. It is sometimes called the 'island continent' because it is surrounded entirely by ocean. While Europe is also small, it is still larger than Australia. Antarctica is covered in ice but is actually much larger than Australia."
   }
 ]
