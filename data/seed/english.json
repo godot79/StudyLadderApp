@@ -2018,5 +2018,165 @@
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
     "explanation": "'Austere' means severe, strict, or very plain — without comfort or decoration. An austere room has minimal furniture and no luxuries; an austere person is strict and cold in manner. The noun form is 'austerity'."
+  },
+  {
+    "prompt": "Which word means the opposite of 'cautious'?",
+    "optionA": "careful",
+    "optionB": "reckless",
+    "optionC": "hesitant",
+    "optionD": "wary",
+    "correctOption": "B",
+    "explanation": "'Reckless' means acting without thinking about danger, the opposite of 'cautious', which means being careful to avoid risk.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Choose the correctly spelled word.",
+    "optionA": "recieve",
+    "optionB": "receive",
+    "optionC": "receeve",
+    "optionD": "receve",
+    "correctOption": "B",
+    "explanation": "'Receive' follows the rule 'i before e except after c' — since it comes after 'c', the 'e' goes before the 'i'.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which is the plural of 'child'?",
+    "optionA": "childs",
+    "optionB": "childes",
+    "optionC": "children",
+    "optionD": "childrens",
+    "correctOption": "C",
+    "explanation": "'Child' has an irregular plural: 'children', not formed by simply adding -s.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which sentence uses 'their', 'there', or 'they're' correctly?",
+    "optionA": "Their going to the park later.",
+    "optionB": "They're going to the park later.",
+    "optionC": "There going to the park later.",
+    "optionD": "Theyre going to the park later.",
+    "correctOption": "B",
+    "explanation": "\"They're\" is the contraction of \"they are\". \"Their\" shows possession, and \"there\" refers to a place.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word is a synonym for 'enormous'?",
+    "optionA": "tiny",
+    "optionB": "massive",
+    "optionC": "narrow",
+    "optionD": "quiet",
+    "correctOption": "B",
+    "explanation": "'Massive' means extremely large, the same meaning as 'enormous'.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which word means the same as 'brave'?",
+    "optionA": "cowardly",
+    "optionB": "courageous",
+    "optionC": "nervous",
+    "optionD": "timid",
+    "correctOption": "B",
+    "explanation": "'Courageous' means showing bravery, the same meaning as 'brave'.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Identify the adverb in this sentence: 'She sang beautifully at the concert.'",
+    "optionA": "sang",
+    "optionB": "beautifully",
+    "optionC": "concert",
+    "optionD": "She",
+    "correctOption": "B",
+    "explanation": "'Beautifully' describes how she sang — it's an adverb modifying the verb 'sang'.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which word means 'to look at closely'?",
+    "optionA": "examine",
+    "optionB": "ignore",
+    "optionC": "avoid",
+    "optionD": "forget",
+    "correctOption": "A",
+    "explanation": "'Examine' means to inspect or look at something in detail.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence uses a comma correctly?",
+    "optionA": "I bought apples bananas and oranges.",
+    "optionB": "I bought apples, bananas and oranges.",
+    "optionC": "I bought apples bananas, and oranges.",
+    "optionD": "I bought, apples bananas and oranges.",
+    "correctOption": "B",
+    "explanation": "Commas separate items in a list: 'apples, bananas and oranges.' The other options place commas incorrectly.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which sentence contains a simile?",
+    "optionA": "The moon is a lamp in the sky.",
+    "optionB": "The moon was as bright as a lamp.",
+    "optionC": "The moon lit up the sky.",
+    "optionD": "The lamp shone brightly.",
+    "correctOption": "B",
+    "explanation": "A simile compares two things using 'as' or 'like'. Option A is a metaphor, which compares things directly without 'as' or 'like'.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is the past tense of 'begin'?",
+    "optionA": "begined",
+    "optionB": "began",
+    "optionC": "begun",
+    "optionD": "beginned",
+    "correctOption": "B",
+    "explanation": "'Begin' is irregular: past tense is 'began' (e.g. 'She began the race'), while 'begun' is the past participle used with 'has/had' (e.g. 'She has begun').",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which word is a synonym for 'reluctant'?",
+    "optionA": "eager",
+    "optionB": "unwilling",
+    "optionC": "confident",
+    "optionD": "curious",
+    "correctOption": "B",
+    "explanation": "'Unwilling' means not wanting to do something, the same meaning as 'reluctant'.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Choose the sentence written in passive voice.",
+    "optionA": "The cat chased the mouse.",
+    "optionB": "The mouse was chased by the cat.",
+    "optionC": "The mouse chased the cat.",
+    "optionD": "The cat is chasing the mouse.",
+    "correctOption": "B",
+    "explanation": "In passive voice, the subject receives the action: 'The mouse was chased by the cat' — the mouse (subject) has the action done to it.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What type of word is 'quickly' in the sentence: 'He ran quickly to the store'?",
+    "optionA": "noun",
+    "optionB": "adjective",
+    "optionC": "adverb",
+    "optionD": "verb",
+    "correctOption": "C",
+    "explanation": "'Quickly' describes how he ran, making it an adverb.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which word best completes the sentence: 'Her explanation was so ____ that everyone understood immediately'?",
+    "optionA": "ambiguous",
+    "optionB": "lucid",
+    "optionC": "convoluted",
+    "optionD": "obscure",
+    "correctOption": "B",
+    "explanation": "'Lucid' means clear and easy to understand, which fits an explanation everyone understood immediately. The other options mean unclear or confusing.",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Identify the figure of speech in: 'The wind whispered through the trees.'",
+    "optionA": "simile",
+    "optionB": "personification",
+    "optionC": "metaphor",
+    "optionD": "hyperbole",
+    "correctOption": "B",
+    "explanation": "Personification gives human qualities (like whispering) to non-human things (the wind).",
+    "levelBand": "Age 11 High Achiever"
   }
 ]

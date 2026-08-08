@@ -1938,5 +1938,165 @@
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
     "explanation": "A comet's tail is made of gas and dust released as solar radiation and the solar wind heat the comet's icy nucleus. The tail always points away from the Sun, not behind the comet's direction of travel — because it is pushed outward by solar wind pressure. A comet can actually have two tails: an ion tail and a dust tail."
+  },
+  {
+    "prompt": "How many planets are in our solar system?",
+    "optionA": "7",
+    "optionB": "8",
+    "optionC": "9",
+    "optionD": "10",
+    "correctOption": "B",
+    "explanation": "There are 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which planet is the largest in our solar system?",
+    "optionA": "Saturn",
+    "optionB": "Jupiter",
+    "optionC": "Neptune",
+    "optionD": "Uranus",
+    "correctOption": "B",
+    "explanation": "Jupiter is the largest planet in our solar system — more than 11 times wider than Earth.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What do we call a large rock that orbits the Sun, smaller than a planet?",
+    "optionA": "Comet",
+    "optionB": "Asteroid",
+    "optionC": "Meteor",
+    "optionD": "Moon",
+    "correctOption": "B",
+    "explanation": "An asteroid is a rocky object that orbits the Sun, smaller than a planet. A meteor is what we call one burning up in Earth's atmosphere.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "What is the name of the galaxy that contains our solar system?",
+    "optionA": "Andromeda",
+    "optionB": "Milky Way",
+    "optionC": "Whirlpool",
+    "optionD": "Triangulum",
+    "correctOption": "B",
+    "explanation": "Our solar system is located in the Milky Way galaxy, which contains hundreds of billions of stars.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which planet has the most prominent rings?",
+    "optionA": "Jupiter",
+    "optionB": "Saturn",
+    "optionC": "Uranus",
+    "optionD": "Neptune",
+    "correctOption": "B",
+    "explanation": "Saturn's rings, made mostly of ice and rock, are the largest and brightest of any planet's in our solar system.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Which planet is the second closest to the Sun?",
+    "optionA": "Earth",
+    "optionB": "Venus",
+    "optionC": "Mars",
+    "optionD": "Mercury",
+    "correctOption": "B",
+    "explanation": "Venus is the second planet from the Sun, after Mercury. Earth is the third.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is the closest star to Earth?",
+    "optionA": "Proxima Centauri",
+    "optionB": "Sirius",
+    "optionC": "The Sun",
+    "optionD": "Polaris",
+    "correctOption": "C",
+    "explanation": "The Sun is a star and by far the closest one to Earth. Proxima Centauri is the closest star beyond our solar system.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "How long does it take Earth to orbit the Sun once?",
+    "optionA": "24 hours",
+    "optionB": "1 month",
+    "optionC": "1 year",
+    "optionD": "10 years",
+    "correctOption": "C",
+    "explanation": "Earth takes approximately 365.25 days — one year — to complete one orbit around the Sun.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the term for a star that suddenly increases greatly in brightness before fading?",
+    "optionA": "Supernova",
+    "optionB": "Nebula",
+    "optionC": "Pulsar",
+    "optionD": "Quasar",
+    "correctOption": "A",
+    "explanation": "A supernova is a massive explosion marking the death of a large star, causing a huge, temporary increase in brightness.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the name for the path a planet follows as it moves around the Sun?",
+    "optionA": "Axis",
+    "optionB": "Orbit",
+    "optionC": "Rotation",
+    "optionD": "Trajectory arc",
+    "correctOption": "B",
+    "explanation": "An orbit is the curved path an object, like a planet, follows as it travels around another object due to gravity.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which of these is NOT a dwarf planet?",
+    "optionA": "Pluto",
+    "optionB": "Ceres",
+    "optionC": "Eris",
+    "optionD": "Mercury",
+    "correctOption": "D",
+    "explanation": "Mercury is a full planet. Pluto, Ceres, and Eris are all classified as dwarf planets.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What causes a lunar eclipse?",
+    "optionA": "The Moon passes between the Sun and Earth",
+    "optionB": "Earth passes directly between the Sun and the Moon",
+    "optionC": "The Moon moves outside its normal orbit",
+    "optionD": "Clouds block the Moon from view",
+    "correctOption": "B",
+    "explanation": "A lunar eclipse happens when Earth moves directly between the Sun and the Moon, casting Earth's shadow onto the Moon.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "What is a light-year a measure of?",
+    "optionA": "Time",
+    "optionB": "Distance",
+    "optionC": "Brightness",
+    "optionD": "Temperature",
+    "correctOption": "B",
+    "explanation": "A light-year is the distance light travels in one year — about 9.5 trillion km — used to measure vast distances in space.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Which spacecraft mission first landed humans on the Moon?",
+    "optionA": "Apollo 11",
+    "optionB": "Voyager 1",
+    "optionC": "Sputnik 1",
+    "optionD": "Gemini 4",
+    "correctOption": "A",
+    "explanation": "Apollo 11 landed the first astronauts, Neil Armstrong and Buzz Aldrin, on the Moon on 20 July 1969.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "Approximately how long does light from the Sun take to reach Earth?",
+    "optionA": "8 seconds",
+    "optionB": "8 minutes",
+    "optionC": "8 hours",
+    "optionD": "8 days",
+    "correctOption": "B",
+    "explanation": "Light travels from the Sun to Earth in about 8 minutes and 20 seconds, covering roughly 150 million km.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the name of the theoretical boundary around a black hole beyond which nothing can escape?",
+    "optionA": "Photon sphere",
+    "optionB": "Event horizon",
+    "optionC": "Singularity",
+    "optionD": "Accretion disk",
+    "correctOption": "B",
+    "explanation": "The event horizon is the boundary around a black hole beyond which the escape velocity exceeds the speed of light, so nothing — not even light — can escape.",
+    "levelBand": "Age 11 High Achiever"
   }
 ]
