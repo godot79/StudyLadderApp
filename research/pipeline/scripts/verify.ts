@@ -173,7 +173,18 @@ function safeEvalArithmetic(expr: string): number {
 function optionValueOf(item: Candidate, letter: string): number | null {
   const raw = { A: item.optionA, B: item.optionB, C: item.optionC, D: item.optionD }[letter];
   if (raw === undefined) return null;
-  const cleaned = raw.replace(/,/g, "");
+  // Strip thousands separators, a leading currency symbol, and a trailing
+  // unit word (e.g. "$13.50" -> "13.50", "52.55 cm" -> "52.55") so options
+  // with units still get checked as numbers, not silently treated as
+  // unparseable. Only strips one leading/trailing decoration each side —
+  // does not change what counts as a match, still requires an exact
+  // numeric match against the computed value.
+  const cleaned = raw
+    .replace(/,/g, "")
+    .trim()
+    .replace(/^[$£€]/, "")
+    .replace(/\s+[a-zA-Z%]+\.?$/, "")
+    .trim();
   const n = Number(cleaned);
   return Number.isFinite(n) ? n : null;
 }

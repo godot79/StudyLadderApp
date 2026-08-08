@@ -1,0 +1,78 @@
+[
+  {
+    "item": {
+      "sourceQNum": 1,
+      "subject": "maths",
+      "topic": "estimation with decimal subtraction",
+      "levelBand": "Age 9",
+      "prompt": "Sarah read 428.6 pages of a book. Tom read 153.2 pages. About how many more pages did Sarah read than Tom?",
+      "optionA": "200 pages",
+      "optionB": "300 pages",
+      "optionC": "400 pages",
+      "optionD": "500 pages",
+      "correctOption": "B",
+      "explanation": "428.6 - 153.2 ≈ 428.6 - 153 ≈ 428 - 153 ≈ 275, which is closest to 300.",
+      "checkExpression": "428.6 - 153.2",
+      "expectedValue": 275.4
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "correctOption (B = \"300 pages\") does not match computed value 275.40000000000003"
+  },
+  {
+    "item": {
+      "sourceQNum": 3,
+      "subject": "maths",
+      "topic": "comparing decimals",
+      "levelBand": "Age 9",
+      "prompt": "Four measurements in meters are: A=1.843, B=1.823, C=1.856, D=1.833. Which statement is true?",
+      "optionA": "C is greater than A",
+      "optionB": "A is greater than C",
+      "optionC": "D is less than B",
+      "optionD": "B is greater than C",
+      "correctOption": "A",
+      "explanation": "When comparing decimals place by place: 1.856 > 1.843 (looking at hundredths place, 5 > 4), so C > A.",
+      "checkExpression": "1.856 - 1.843",
+      "expectedValue": 0.013
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "correctOption (A = \"C is greater than A\") does not match computed value 0.013000000000000123"
+  },
+  {
+    "item": {
+      "sourceQNum": 19,
+      "subject": "maths",
+      "topic": "ordering decimals",
+      "levelBand": "Age 9",
+      "prompt": "Five runners recorded their times in seconds: Marcus 13.427, Sarah 12.658, Tom 13.512, Lisa 12.743, James 13.101. When ordered from least to greatest, what position is James's time in?",
+      "optionA": "First",
+      "optionB": "Second",
+      "optionC": "Third",
+      "optionD": "Fourth",
+      "correctOption": "C",
+      "explanation": "Ordered from least to greatest: 12.658, 12.743, 13.101, 13.427, 13.512. James's 13.101 is in third position.",
+      "checkExpression": "13.101",
+      "expectedValue": 13.101
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "correctOption (C = \"Third\") does not match computed value 13.101"
+  },
+  {
+    "item": {
+      "sourceQNum": 28,
+      "subject": "maths",
+      "topic": "rounding decimals",
+      "levelBand": "Age 9",
+      "prompt": "What is 3.456 rounded to the nearest hundredth?",
+      "optionA": "3.4",
+      "optionB": "3.45",
+      "optionC": "3.46",
+      "optionD": "3.5",
+      "correctOption": "C",
+      "explanation": "Look at the thousandths place (6). Since 6 ≥ 5, round the hundredths place up from 5 to 6, giving 3.46.",
+      "checkExpression": "3.456",
+      "expectedValue": 3.46
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "checkExpression evaluates to 3.456, but expectedValue is 3.46"
+  }
+]

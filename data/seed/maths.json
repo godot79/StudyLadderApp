@@ -2818,5 +2818,338 @@
     "optionD": "4 7/12",
     "correctOption": "A",
     "explanation": "2/3 = 8/12 and 1/4 = 3/12, so 8/12 − 3/12 = 5/12, and 5 − 1 = 4, giving 4 5/12."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A pizza costs $67.50, and 5 friends split the bill equally. How much does each friend pay?",
+    "optionA": "$13.50",
+    "optionB": "$15.50",
+    "optionC": "$12.50",
+    "optionD": "$10.50",
+    "correctOption": "A",
+    "explanation": "$67.50 divided by 5 equals $13.50 per person."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Elena charges $11.75 for a 1-hour tutoring session and $18.50 for a 2-hour session. One week she did 5 one-hour sessions and 5 two-hour sessions. How much did she earn? (Expression: 11.75 × 5 + 18.50 × 5)",
+    "optionA": "$151.25",
+    "optionB": "$132.50",
+    "optionC": "$175.50",
+    "optionD": "$125.00",
+    "correctOption": "A",
+    "explanation": "11.75 × 5 = 58.75 (for one-hour sessions) and 18.50 × 5 = 92.50 (for two-hour sessions). Total: 58.75 + 92.50 = $151.25."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A baker starts with 55 cups of flour. On Friday, 12 3/4 cups are used. On Saturday, 16 1/2 cups are used. How many cups of flour remain?",
+    "optionA": "23 1/4",
+    "optionB": "25 3/4",
+    "optionC": "26 1/4",
+    "optionD": "24 3/4",
+    "correctOption": "B",
+    "explanation": "55 - 12 3/4 - 16 1/2. First: 55 - 12 3/4 = 42 1/4. Then: 42 1/4 - 16 1/2 = 42 1/4 - 16 2/4 = 25 3/4 cups."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A toy costs $0.84. If Marcus buys 7 toys, what is the total amount he spends?",
+    "optionA": "$5.88",
+    "optionB": "$6.88",
+    "optionC": "$5.68",
+    "optionD": "$4.88",
+    "correctOption": "A",
+    "explanation": "7 × $0.84 = $5.88."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Liam tried to plot the ordered pair (3, 5) on a coordinate grid. He moved 3 units to the left and 5 units down from the origin. Which statement is true?",
+    "optionA": "Both coordinates were plotted correctly",
+    "optionB": "The x-coordinate is correct, but the y-coordinate is wrong",
+    "optionC": "The x-coordinate is wrong, but the y-coordinate is correct",
+    "optionD": "Both coordinates were plotted incorrectly",
+    "correctOption": "D",
+    "explanation": "The x-coordinate is 3, which means 3 units to the RIGHT (not left). The y-coordinate is 5, which means 5 units UP (not down). Both were done backwards, so both are wrong."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is the value of this fraction division: 1/6 ÷ 20?",
+    "optionA": "1/120",
+    "optionB": "1/14",
+    "optionC": "20",
+    "optionD": "6",
+    "correctOption": "A",
+    "explanation": "To divide a fraction by a whole number, multiply the denominator by that number: 1/6 ÷ 20 = 1/(6 × 20) = 1/120."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A soccer team scored: 7 goals worth 3 points each, 14 goals worth 2 points each, and 12 goals worth 1 point each. If the expression is p = 7(3) + 14(2) + 12, what is the total score?",
+    "optionA": "45 points",
+    "optionB": "49 points",
+    "optionC": "61 points",
+    "optionD": "73 points",
+    "correctOption": "C",
+    "explanation": "7 × 3 = 21, 14 × 2 = 28, so 21 + 28 + 12 = 61 points."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A table shows students joining a club each day: Monday 2 joined (8 total), Tuesday 3 joined (11 total), Wednesday 4 joined (14 total), Thursday 5 joined (17 total). What type of relationship is this?",
+    "optionA": "Additive—the number of students total increases by 3 each day",
+    "optionB": "Multiplicative—the total is always 4 times the number joining",
+    "optionC": "Additive—the number joining increases by 1, and total increases by 3",
+    "optionD": "Multiplicative—multiply the day number by 8",
+    "correctOption": "C",
+    "explanation": "Each day, one more student joins (+1 to joining), and the total grows by a constant 3 (an additive pattern: joining keeps rising by 1, but the table's totals climb by fixed 3s)."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What does the y-coordinate in an ordered pair tell you?",
+    "optionA": "It is a horizontal line of points where y equals 0",
+    "optionB": "It is the first number and tells you how far left or right to move from the origin",
+    "optionC": "It is the second number and tells you how far up or down to move from the origin",
+    "optionD": "It is the intersection point of two axes",
+    "correctOption": "C",
+    "explanation": "The y-coordinate is the second number in an ordered pair. It tells you the vertical distance: how many units up (positive) or down (negative) to move from the origin."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Tickets to a school play cost $17 each. The school collected a total of $3,825. How many tickets were sold?",
+    "optionA": "235 tickets",
+    "optionB": "230 tickets",
+    "optionC": "215 tickets",
+    "optionD": "225 tickets",
+    "correctOption": "D",
+    "explanation": "$3,825 ÷ $17 per ticket = 225 tickets."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Three cities form a triangle. The distances between them are: City A to City B = 14.3 km, City B to City C = 17.8 km, City C to City A = 23.4 km. What is the perimeter of the triangle?",
+    "optionA": "50.5 km",
+    "optionB": "55.5 km",
+    "optionC": "60.5 km",
+    "optionD": "52.5 km",
+    "correctOption": "B",
+    "explanation": "Perimeter is the sum of all three sides: 14.3 + 17.8 + 23.4 = 55.5 km."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is the value of this expression: 2(32 + 18) + 3(4)?",
+    "optionA": "98",
+    "optionB": "112",
+    "optionC": "126",
+    "optionD": "88",
+    "correctOption": "B",
+    "explanation": "First, do the parentheses: 32 + 18 = 50 and 4 stays as 4. Then multiply: 2 × 50 = 100 and 3 × 4 = 12. Finally add: 100 + 12 = 112."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A bag of mixed berries weighs 3.15 pounds. The berries are divided equally into 9 small containers. How much does each container weigh in pounds?",
+    "optionA": "0.35 lb",
+    "optionB": "0.45 lb",
+    "optionC": "0.30 lb",
+    "optionD": "0.25 lb",
+    "correctOption": "A",
+    "explanation": "3.15 ÷ 9 = 0.35 lb per container."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Grace's monthly budget is $380. Her expenses are: Phone $55, Food $120, Entertainment $95, Clothes $75, Savings $45. The total is $390, which is $10 over budget. Which change will balance her budget?",
+    "optionA": "Increase savings by $10",
+    "optionB": "Decrease entertainment by $10",
+    "optionC": "Increase food by $5",
+    "optionD": "Decrease clothes by $5",
+    "correctOption": "B",
+    "explanation": "If she decreases entertainment from $95 to $85, the new total is 55 + 120 + 85 + 75 + 45 = $380, which exactly matches her budget."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A ribbon is 86.32 cm long. A piece of 19.5 cm is cut off, then another piece of 14.27 cm is cut off. What is the length of the remaining ribbon in centimeters?",
+    "optionA": "50.55 cm",
+    "optionB": "45.55 cm",
+    "optionC": "52.55 cm",
+    "optionD": "58.55 cm",
+    "correctOption": "C",
+    "explanation": "86.32 - 19.5 = 66.82 cm, then 66.82 - 14.27 = 52.55 cm."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A notebook has 3 sections. Each section is divided into 1/6 of the total. How many 1/6 sections are there in total?",
+    "optionA": "9 sections",
+    "optionB": "15 sections",
+    "optionC": "12 sections",
+    "optionD": "18 sections",
+    "correctOption": "D",
+    "explanation": "3 ÷ (1/6) = 3 × 6 = 18. There are 18 one-sixth sections in 3 wholes."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A stem-and-leaf plot shows miles walked by 12 students: Stem 3, leaves 2 4 5 7 8 (32, 34, 35, 37, 38); Stem 4, leaves 1 3 5 (41, 43, 45); Stem 5, leaves 2 4 (52, 54); Stem 6, leaves 1 3 (61, 63). Students who walked more than 50 miles earned a badge. What fraction of the students earned a badge?",
+    "optionA": "1/4",
+    "optionB": "5/12",
+    "optionC": "1/3",
+    "optionD": "1/2",
+    "correctOption": "C",
+    "explanation": "Students with >50 miles: 2 from stem 5 (52, 54) and 2 from stem 6 (61, 63) = 4 students total. 4 out of 12 students = 4/12 = 1/3."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A sporting goods store had 50 snowboards on Monday morning. They sold 4 snowboards per hour for 6 hours, then 2 snowboards per hour for 4 hours. At the end of the day, 12 snowboards were returned. Which equation gives s, the number of snowboards at the end of the day?",
+    "optionA": "s = 50 - (6 + 4) - (4 + 2) + 12",
+    "optionB": "s = 50 - (6 × 4) - (4 × 2) - 12",
+    "optionC": "s = 50 - (6 + 4) - (4 + 2) - 12",
+    "optionD": "s = 50 - (6 × 4) - (4 × 2) + 12",
+    "correctOption": "D",
+    "explanation": "Sold: 4 per hour for 6 hours = 6 × 4, then 2 per hour for 4 hours = 4 × 2. Start with 50, subtract both amounts, then add back 12 returns: 50 - (6×4) - (4×2) + 12 = 30."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which operation should be performed first when simplifying: 30 ÷ (6 + 4) × 5 + 2?",
+    "optionA": "30 ÷ 6, working left to right",
+    "optionB": "6 + 4, performing the operation inside parentheses first",
+    "optionC": "4 × 5, performing multiplication before addition",
+    "optionD": "5 + 2, working right to left",
+    "correctOption": "B",
+    "explanation": "According to the order of operations, parentheses come first. So 6 + 4 must be calculated before any other operation."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Tom spends 1/4 of each day reading. He reads 6 days a week. Which expression shows the total number of days he spends reading each week?",
+    "optionA": "6 + 1/4",
+    "optionB": "6 + 1/2",
+    "optionC": "6 × 1/2",
+    "optionD": "6 × 1/4",
+    "correctOption": "D",
+    "explanation": "He reads 1/4 of a day, 6 times. This is repeated addition: 1/4 + 1/4 + 1/4 + 1/4 + 1/4 + 1/4, which equals 6 × 1/4 = 1.5 days."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which value makes this statement true: 8 × (□/4) > 8?",
+    "optionA": "2",
+    "optionB": "6",
+    "optionC": "3",
+    "optionD": "4",
+    "correctOption": "B",
+    "explanation": "For 8 × (□/4) to be greater than 8, the fraction □/4 must be greater than 1. This means □ must be greater than 4. Only 6 is greater than 4, so the answer is 6."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A number is shown: 34.567. Which of the following shows this number rounded to the nearest hundredth?",
+    "optionA": "34.5",
+    "optionB": "34.56",
+    "optionC": "34.57",
+    "optionD": "34.6",
+    "correctOption": "C",
+    "explanation": "To round 34.567 to the nearest hundredth, look at the thousandths digit, which is 7. Since 7 is greater than or equal to 5, round up the hundredths digit from 6 to 7, giving 34.57."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The value of the 5 in 83.51 is how many times the value of the 5 in 72.15?",
+    "optionA": "1/100",
+    "optionB": "1/10",
+    "optionC": "10",
+    "optionD": "100",
+    "correctOption": "C",
+    "explanation": "In 83.51, the 5 is in the tenths place, so its value is 5 × 0.1 = 0.5. In 72.15, the 5 is in the hundredths place, so its value is 5 × 0.01 = 0.05. To find how many times: 0.5 ÷ 0.05 = 10."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which of the following shows three comparison statements that are all true?",
+    "optionA": "3.420 = 3.42, 2.081 < 2.09, 4.615 > 4.6",
+    "optionB": "3.420 > 3.42, 2.081 < 2.09, 4.615 > 4.6",
+    "optionC": "3.420 = 3.42, 2.081 > 2.09, 4.615 > 4.6",
+    "optionD": "3.420 = 3.42, 2.081 < 2.09, 4.615 < 4.6",
+    "correctOption": "A"
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A teacher wrote this expression to solve a math problem: 6 ÷ (1/8). Which of the following could be the problem being solved?",
+    "optionA": "A cook has 6 cups of flour and uses 1/8 of a cup in each batch. How many batches can be made?",
+    "optionB": "A student reads 6 pages of a book and then reads 1/8 more. How many pages read altogether?",
+    "optionC": "A gardener plants 6 rows of tomatoes and each row is 1/8 of the garden. What fraction of the garden is planted?",
+    "optionD": "A coach has 6 basketballs and gives 1/8 of each ball away. How many basketballs remain?",
+    "correctOption": "A"
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which of the following shows correct powers of ten in both exponential and standard form?",
+    "optionA": "10^4 = 100,000; 10^1 = 10; 10^3 = 1,000; 10^2 = 100; 10^0 = 1",
+    "optionB": "10^4 = 10,000; 10^1 = 10; 10^3 = 1,000; 10^2 = 100; 10^0 = 1",
+    "optionC": "10^4 = 10,000; 10^1 = 10; 10^3 = 1,000; 10^2 = 100; 10^0 = 0",
+    "optionD": "10^4 = 10,000; 10^2 = 10; 10^3 = 1,000; 10^1 = 100; 10^0 = 1",
+    "correctOption": "B"
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A number written in expanded form is shown: (3 × 100) + (7 × 1) + (2 × 1/10) + (8 × 1/100). Which of the following is this number in word form?",
+    "optionA": "three hundred seventy and twenty-eight hundredths",
+    "optionB": "three hundred seven and eighty-eight hundredths",
+    "optionC": "three hundred seven and twenty-eight hundredths",
+    "optionD": "three hundred and seventy-two hundredths",
+    "correctOption": "C"
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which of the following statements about trapezoids is true?",
+    "optionA": "All trapezoids are parallelograms, but only some are quadrilaterals",
+    "optionB": "All trapezoids are quadrilaterals, but only some are parallelograms",
+    "optionC": "All trapezoids are rectangles, but only some are quadrilaterals",
+    "optionD": "All trapezoids are quadrilaterals, but only some are triangles",
+    "correctOption": "B"
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "An expression is shown: 2 × (4 + 6) + 10. What is the value of the expression?",
+    "optionA": "20",
+    "optionB": "26",
+    "optionC": "28",
+    "optionD": "30",
+    "correctOption": "D",
+    "explanation": "Following order of operations: first do parentheses (4 + 6) = 10, then multiply 2 × 10 = 20, then add 20 + 10 = 30."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which expression is equivalent to 5/12?",
+    "optionA": "5 × 12",
+    "optionB": "5 ÷ 12",
+    "optionC": "12 ÷ 5",
+    "optionD": "12 - 5",
+    "correctOption": "B"
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Find the quotient: 2.56 ÷ 8.",
+    "optionA": "32",
+    "optionB": "3.2",
+    "optionC": "0.32",
+    "optionD": "0.032",
+    "correctOption": "C",
+    "explanation": "Divide 2.56 by 8. 8 goes into 2 zero times, so look at 25 tenths. 8 goes into 25 three times (3 × 8 = 24) with 1 tenth left over. Bring down the 6 hundredths to get 16 hundredths. 8 goes into 16 exactly 2 times. So the answer is 0.32."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Marcus bought 12 packages of cheese for a picnic. Each package weighs 4 ounces. What is the total weight, in pounds, of the cheese Marcus bought? (Note: 16 ounces = 1 pound)",
+    "optionA": "2 pounds",
+    "optionB": "3 pounds",
+    "optionC": "4 pounds",
+    "optionD": "5 pounds",
+    "correctOption": "B",
+    "explanation": "First, find total ounces: 12 packages × 4 ounces = 48 ounces. Then convert to pounds: 48 ounces ÷ 16 ounces per pound = 3 pounds."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "One batch of cookie dough contains 1/2 pound of flour. Sofia has 3 1/2 batches of cookie dough. What is the total amount, in pounds, of flour in Sofia's cookie dough?",
+    "optionA": "1 3/4",
+    "optionB": "2 1/4",
+    "optionC": "2 1/2",
+    "optionD": "3 1/2",
+    "correctOption": "A"
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Find the quotient: 7,344 ÷ 36.",
+    "optionA": "200",
+    "optionB": "202",
+    "optionC": "204",
+    "optionD": "206",
+    "correctOption": "C",
+    "explanation": "Divide 7,344 by 36. 36 goes into 73 twice (2 × 36 = 72), leaving 1. Bring down 4 to get 14. 36 doesn't go into 14, so write 0. Bring down 4 to get 144. 36 goes into 144 exactly 4 times (4 × 36 = 144). The quotient is 204."
   }
 ]

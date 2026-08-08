@@ -1,6 +1,79 @@
 # Ingestion pipeline — how to run a batch
 
-Status: piloted twice, plus a third round of 3 sources run in parallel.
+Status: piloted twice, a third round of 3 sources run in parallel, then a
+fourth round (single source, deliberately not parallelized) for Texas STAAR.
+
+4. Texas STAAR Grade 5 Mathematics, May 2022 (released test form) — 24 items
+   extracted (12 items deferred: scatterplot/graph-selection, tally-mark
+   images, ruler-measurement, and other genuinely image-dependent items with
+   no way to restate them in text). Steps 2-3 delegated to a single Haiku
+   agent (`research/pipeline/staar-g5-math-2022/`). Step 4 verify.ts caught a
+   real script gap: `optionValueOf` used a bare `Number()` parse, which
+   silently failed (treated as unparseable) on any option containing a `$`
+   prefix or a unit suffix like "cm"/"lb"/"points" — none of the prior
+   batches' options had used units, so this was never hit before. Fixed by
+   widening `optionValueOf` to strip a leading currency symbol and a
+   trailing unit word before parsing (still requires an exact numeric match
+   after stripping — doesn't weaken the check). This took the batch from
+   10/24 to 20/24 passing. The remaining 4 rejects were genuine content
+   errors from the subagent (an estimation item verified against an exact
+   value, two items whose options were prose/ordinal text but got the
+   numeric-check item shape instead of "fact", and a rounding item whose
+   checkExpression evaluated the pre-rounded input instead of the rounded
+   target) — correctly left rejected rather than force-fixed. Self-audit
+   flagged 60% of correct answers landing on option B (an artifact of
+   preserving the source's original correct-letter distribution through
+   rewriting) — fixed by rotating option order on a subset of items before
+   staging. 20 items merged into `data/seed/maths.json` (282 -> 302). This
+   batch's "fact"-type items (7 of them) were self-contained
+   logical/definitional claims (e.g. coordinate-plane conventions, additive
+   vs multiplicative patterns) rather than empirical claims about the world,
+   so they were verified by hand instead of dispatching the
+   apply-fact-check.ts WebSearch pass — that script is for claims that need
+   external verification (geography/science facts), not pure reasoning.
+5. Three sources run in parallel again (round 5, confirming the round-3
+   pattern still works after a deliberately single-source round 4): NY State
+   Grade 5 Science Spring 2025, MCAS Grade 5 Mathematics Spring 2023 (a
+   different subject/admin than the MCAS science batch already merged), and
+   NY State Grade 5 Social Studies Nov 2006 (a different admin than the Nov
+   2008 batch already merged, filling out the geography/social-studies
+   pool). 15+14+31 = 60 items extracted, 60 merged (0 dropped) after fixes:
+   MCAS math hit the same optionValueOf-strips-units gap partially (a
+   rounding-expression mismatch and a fraction-option-with-unit-suffix, both
+   fixed the same way as the STAAR round) plus one item that was really a
+   "which value satisfies an inequality" fact question mislabeled as
+   numeric-checkable (fixed by switching it to answerType "fact"). Human
+   review caught one real defect in the NY social-studies rewrite: a
+   subagent's "Canada and Brazil are both on the continent of ___" rewrite
+   broke the source item's premise (the two countries are on different
+   continents; original was US/Mexico, correctly same continent) - fixed by
+   swapping in Kenya/Egypt (both Africa). The NY social-studies source PDF
+   had no official answer key (unlike MCAS/NY-science, which do) - answers
+   were derived from general grade-5 civics/history knowledge instead;
+   flagged in the batch's source-note for extra scrutiny, and none were
+   found wrong on review. 15 science items merged into `data/seed/science.json`
+   (13 -> 28), 14 maths items into `data/seed/maths.json` (302 -> 316), 31
+   geography items into `data/seed/geography.json` (231 -> 262).
+6. Two more sources run in parallel (round 6), this time deliberately targeting
+   science specifically since a count-by-subject audit showed it at 28 items
+   vs 200+ for every other subject, with zero "High Achiever" band coverage:
+   Texas STAAR Grade 5 Science May 2022 (31 usable items, no official answer
+   key captured in extraction - same manual-reasoning caveat as the NY Social
+   Studies 2006 batch, all 31 hand-reviewed and found sound) and NY State
+   Grade 5 Science Spring 2024 (13 usable items, this one DID have an official
+   answer key - most of this source's 34 items are constructed-response,
+   which this pipeline skips, so yield was lower than STAAR's). A third
+   planned source, MCAS Grade 5 Science and Technology/Engineering Spring
+   2023, was abandoned mid-round: its PDF was 13.8MB and unusually
+   image-heavy, and extracting it reliably within the session would have
+   risked fabricating item content rather than faithfully transcribing it -
+   deferred to a future round rather than guessed at. Both completed batches
+   hit the same answer-position-bias self-audit flag as the STAAR Math round
+   (52-54% of correct answers landing on one letter) - same fix, rotate
+   option order on a subset before staging. 44 items merged into
+   `data/seed/science.json` (28 -> 72). Science remains the thinnest subject
+   by a wide margin and still has no High Achiever items - worth prioritizing
+   again before broadening to other subjects.
 1. UK KS2 Maths Paper 1, 2025 — 33 questions merged into `data/seed/maths.json`.
 2. MCAS Grade 5 Science, Spring 2025 — Steps 2-3 done by a Haiku subagent
    (not by hand) for the first time; 15 items split across two subjects, 3

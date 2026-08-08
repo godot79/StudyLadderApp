@@ -1,0 +1,17 @@
+{
+  "source": "New York State Grade 5 Elementary-level Social Studies Test, Booklet 1, November 15, 2006",
+  "url": "https://www.nysedregents.org/grade5/socialstudies/20061115book1.pdf",
+  "publisher": "New York State Education Department (state government)",
+  "license": "Copyright 2006 The University of the State of New York / NYSED, officially released public test booklet.",
+  "grade_age": "Grade 5 (age 10-11)",
+  "total_items_in_source": 35,
+  "items_extracted_usable": 31,
+  "items_deferred": 4,
+  "deferred_reasons": {
+    "18": "Requires reading exact bar heights from a population bar graph - visual-dependent, exact value not stated in text",
+    "32": "Requires reading exact point values from a population line graph - visual-dependent",
+    "33": "Requires reading trend/slope from the same population line graph - visual-dependent",
+    "34": "Requires interpreting icon/symbol counts on a specific state resource map - visual-dependent"
+  },
+  "note": "IMPORTANT: this source PDF does not include an answer key for Part I (unlike the MCAS and NY Science batches, which had official answer tables). Correct answers for all 31 extracted items were determined independently from general grade-5 social-studies/civics/geography/history knowledge (definitions, well-established historical facts, and reasoning fully supported by the text given with each item), not copied from any answer key. Flag for extra scrutiny in Steps 2-3/review since there is no official answer to cross-check against - if a rewritten item's correct answer is in doubt, verify it against the original wording before staging. This is a different administration (Nov 2006) from the previously-merged NY G5 Social Studies batch (Nov 2008), so no content overlap."
+}

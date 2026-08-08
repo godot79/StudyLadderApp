@@ -1,0 +1,20 @@
+{
+  "source": "New York State Elementary-level Science Test, Grade 5, Spring 2024, Released Questions",
+  "url": "https://www.nysedregents.org/ei/science/2024/2024-released-items-science-g5.pdf",
+  "publisher": "New York State Education Department (state government)",
+  "license": "Copyright 2024 NYSED, officially released public test questions with an accompanying public rating guide/answer key.",
+  "grade_age": "Grade 5 (age 10-11)",
+  "total_items_in_source": 34,
+  "items_extracted_usable": 13,
+  "items_deferred": 21,
+  "deferred_reasons": {
+    "1,5,8,11,12,16,17,19,21,23,25,26,27,28,32": "Constructed-response (open-ended written answer) items, not multiple-choice - skipped, same policy as other batches",
+    "2": "Requires reading exact frequency-range bar positions from a chart, not stated as text values",
+    "4": "Requires selecting among 4 light-path diagram images",
+    "10": "Requires selecting among 4 bar-graph images",
+    "15": "Requires reading exact bar heights across years/regions from a chart, not stated as text values",
+    "18": "Requires reading a topographic contour map to determine depth/slope at labeled points",
+    "20": "Requires selecting among 4 particle-arrangement diagram images"
+  },
+  "note": "This extraction included the source's own answer key (Rating Guide), unlike the STAAR Science 2022 and NY Social Studies 2006 batches - correct answers below are copied directly from the official key, not independently reasoned."
+}

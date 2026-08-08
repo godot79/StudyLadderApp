@@ -1,0 +1,18 @@
+{
+  "source": "Texas STAAR Grade 5 Science, Administered May 2022, Released Test Form",
+  "url": "https://tea.texas.gov/data-reports/staar/released-test-questions/2022-staar-may-grade-5-science-releasedtest.pdf",
+  "publisher": "Texas Education Agency (state government)",
+  "license": "Copyright TEA 2022, released test form explicitly published by TEA for public/educational reuse.",
+  "grade_age": "Grade 5 (age 10-11)",
+  "total_items_in_source": 36,
+  "items_extracted_usable": 31,
+  "items_deferred": 5,
+  "deferred_reasons": {
+    "1": "Circuit-diagram selection among 4 wiring images - visual-dependent",
+    "6": "Requires reading a specific labeled cross-section diagram of land/sea sections - visual-dependent",
+    "14": "Photo of a cracked rock with no location/climate context given in text - cause can't be determined without seeing the image's setting clues",
+    "22": "Food web relationships shown only as an arrow diagram, not restated in text - visual-dependent",
+    "24": "Circuit diagram requiring identification of a missing component position - visual-dependent"
+  },
+  "note": "IMPORTANT: unlike the STAAR Math batch, this extraction did not include a separate official answer key page/URL. All 31 correct answers were determined independently by reasoning through standard grade-5 science curriculum content (physics, life science, earth science), not copied from an answer key. Flag for extra scrutiny in review, same caveat as the NY Social Studies 2006 batch. Item 25's answer options (animal pairs) and item 34's answer options (physical-property tables) were originally shown as images; both were resolved using the caption/label text already visible alongside the images during extraction (species names, object names), so the rewritten items reference those names directly rather than the images themselves."
+}

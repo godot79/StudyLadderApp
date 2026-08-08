@@ -128,5 +128,595 @@
     "optionD": "Wind blowing between skyscrapers and buildings",
     "correctOption": "A",
     "explanation": "Cars and trucks release harmful exhaust gases when their engines burn fuel. In a busy city with heavy traffic, thousands of vehicles emit pollution continuously. While rain cleans air, forests help by absorbing pollution, and wind disperses it, the main source of air pollution in cities is vehicle emissions from cars, trucks, and buses."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A chicken lays eggs that hatch into chicks. Each chick has different feather colors—some are golden, some are brown, and some are speckled. What explains why the feathers of each chick look different from the others?",
+    "optionA": "Each chick inherited different information from both parent chickens",
+    "optionB": "Each chick inherited identical information from both parent chickens",
+    "optionC": "Each chick inherited different information from only the mother chicken",
+    "optionD": "Each chick inherited identical information from only the father chicken",
+    "correctOption": "A",
+    "explanation": "Offspring inherit genetic information from both parents, and the combination of traits from each parent produces variation. This is why each chick has a different feather color pattern."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A gardener plants seeds from the same packet in two locations: one in a sunny garden with plenty of water, and one in a shady corner with little water. The plants in the sunny location grow much taller than the plants in the shade. Why do the plants have different heights?",
+    "optionA": "only because of inherited traits from the seed",
+    "optionB": "only because of environmental conditions like sunlight and water",
+    "optionC": "because of both inherited traits and environmental conditions",
+    "optionD": "neither inherited traits nor environmental conditions affect plant height",
+    "correctOption": "C",
+    "explanation": "Plant height is determined by both the genes inherited from the parent plants and the environmental conditions where they grow, such as light and water availability."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A diagram shows the life cycle of a tomato plant: Stage 1 → Seedling → Stage 2 → Flowering plant → Stage 3 → (cycle continues). Which table correctly identifies what happens at stages 1, 2, and 3?",
+    "optionA": "Stage 1 = flowering, Stage 2 = reproduction, Stage 3 = sprouting",
+    "optionB": "Stage 1 = germination, Stage 2 = growth, Stage 3 = death or decomposition",
+    "optionC": "Stage 1 = germination, Stage 2 = reproduction, Stage 3 = growth",
+    "optionD": "Stage 1 = reproduction, Stage 2 = germination, Stage 3 = death",
+    "correctOption": "B",
+    "explanation": "The life cycle of any organism follows the sequence: birth/germination, growth, reproduction, and death. For a tomato plant, the stages before the seedling is germination, during growth, and after flowering is seed production or death/decomposition."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Students sealed a container with 10 grams of sugar and 20 grams of water (container mass: 50 grams). They stirred the mixture until the sugar dissolved completely. When they weighed the sealed container again, the total mass was 80 grams—the same as before. What does this observation demonstrate?",
+    "optionA": "Matter is conserved when substances are mixed in a closed system",
+    "optionB": "Water evaporates when sugar is dissolved in it",
+    "optionC": "Chemical reactions always produce heat",
+    "optionD": "Sugar changes into a different substance when it dissolves",
+    "correctOption": "A",
+    "explanation": "Even though the sugar dissolved and disappeared from sight, the total mass stayed the same because matter is conserved. In a closed system, the mass of all materials before and after mixing is equal."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student has a mixture of iron nails, plastic beads, and sand all mixed together. The iron nails are gray and magnetic, the beads are colorful and not magnetic, and the sand is tan and not magnetic. Which method would best separate the iron nails from the other materials?",
+    "optionA": "Sort by color using your eyes",
+    "optionB": "Shake the mixture and let the sand settle first",
+    "optionC": "Use a magnet to remove the nails",
+    "optionD": "Submerge everything in water and remove floating objects",
+    "correctOption": "C",
+    "explanation": "Iron nails are magnetic while plastic beads and sand are not. Using a magnet takes advantage of this different physical property to separate the nails from the rest of the mixture."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A world map shows the locations of thousands of earthquakes recorded over the past century. When examined closely, most earthquakes cluster in specific zones. Which statement best describes where these earthquakes occur?",
+    "optionA": "in the middle of continents away from coastlines",
+    "optionB": "randomly scattered throughout all ocean basins",
+    "optionC": "along certain boundaries where Earth's crustal plates meet",
+    "optionD": "along every single boundary where ocean and land meet",
+    "correctOption": "C",
+    "explanation": "Earthquakes occur where tectonic plates collide, separate, or slide past each other. Not all plate boundaries have earthquakes, and not all earthquakes happen exactly at boundaries, but they cluster along certain plate boundary zones."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A town in an earthquake zone has many older buildings built before earthquake-safety codes existed. Engineers propose these solutions: (1) Add steel reinforcements to cracks in old walls and strengthen foundations, (2) Retrofit older buildings with flexible support systems to reduce damage during shaking, (3) Only build new structures on solid bedrock, (4) Build all new structures shorter and lighter. Most of the town's population still lives in the older buildings. Which two solutions would best protect the majority of residents RIGHT NOW?",
+    "optionA": "Solutions 1 and 2",
+    "optionB": "Solutions 2 and 3",
+    "optionC": "Solutions 3 and 4",
+    "optionD": "Solutions 1 and 4",
+    "correctOption": "A",
+    "explanation": "Since most residents still live in older buildings that cannot be demolished, solutions that retrofit (repair and strengthen) those existing structures are most practical and protective for the immediate population."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A grass plant grows in a sunny field. The plant needs energy to survive and grow. Which statement correctly describes how the grass plant obtains and uses energy from its surroundings?",
+    "optionA": "The plant absorbs energy from the sun and converts it into motion that helps it run away from animals",
+    "optionB": "The plant absorbs water from the soil and this water is converted into energy shared with insects",
+    "optionC": "The plant absorbs minerals from the soil and uses them as energy for all its cells",
+    "optionD": "The plant captures sunlight and converts it into a usable form of energy for growth and survival",
+    "correctOption": "D",
+    "explanation": "Plants use photosynthesis to capture light energy from the sun and convert it into chemical energy (glucose) that they can use to grow and maintain their cells."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Two insect species live in the same meadow and both feed on clover: Species X completes three generations (life cycles) within one year, while Species Y completes only one generation per year. Which statement is accurate?",
+    "optionA": "Both species have identical life cycle stages and they all happen at the same time",
+    "optionB": "Both species have the same stages but at different times throughout the year",
+    "optionC": "Both species go through similar life cycle stages over one year, but they reproduce at different rates",
+    "optionD": "Both species complete the same number of generations and take the same amount of time to develop",
+    "correctOption": "C",
+    "explanation": "Both species have the same basic life cycle stages (egg, larva/nymph, adult), but Species X completes its cycle faster and produces more generations per year than Species Y. The number of generations differs even though the stages are similar."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A prairie ecosystem has become overgrown with dense shrubs and trees, covering wildflowers that prairie birds depend on for food and nesting. Conservationists use controlled burns to clear away dead brush and woody plants, mimicking natural fires that occurred long ago. How do controlled burns help a prairie bird species that depends on wildflowers to survive?",
+    "optionA": "The burns remove competing shrubs and trees, allowing wildflower meadows to grow and provide food and habitat",
+    "optionB": "The burns destroy all competing plants permanently so birds have unlimited nesting space",
+    "optionC": "The burns force birds to migrate to safer locations with more resources",
+    "optionD": "The burns create an environment too hot for birds to live in, but that is temporary",
+    "correctOption": "A",
+    "explanation": "Controlled burns clear away woody plants and brush that would otherwise shade out and kill wildflowers. By restoring conditions where wildflowers thrive, the burns support the birds that depend on those flowers."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Earth is tilted on its axis as it orbits the Sun. On June 21 at a location far north on Earth, the sun is high in the sky and there are about 18 hours of daylight. On December 21 at that same location, the sun is low in the sky. Compared to June 21, how much daylight is there on December 21?",
+    "optionA": "Much less daylight, because of Earth's tilt on its axis",
+    "optionB": "Much less daylight, because Earth spins faster on its axis in winter",
+    "optionC": "Much more daylight, because of Earth's tilt on its axis",
+    "optionD": "Much more daylight, because Earth spins slower on its axis in winter",
+    "correctOption": "A",
+    "explanation": "Earth's tilt causes seasonal changes in daylight. In June, the northern hemisphere is tilted toward the sun, giving long days. In December, it is tilted away, giving short days. The rotation rate does not change."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Two plastic rods are rubbed with wool cloth in the same way. When the rods are held close to each other, they push apart and move away from each other. What did rubbing with wool cloth do to the plastic rods?",
+    "optionA": "Each rod became electrically charged, and the like charges pushed them apart",
+    "optionB": "Each rod became magnetic, and magnets repelled each other",
+    "optionC": "The wool transferred opposite charges to each rod, making them attract",
+    "optionD": "The wool created heat that pushed the rods away from each other",
+    "correctOption": "A",
+    "explanation": "Rubbing transfers electric charge to the plastic rods. When both rods have the same type of charge (both positive or both negative), they repel each other."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student rubs a plastic comb with wool cloth, then holds it near some small pieces of paper resting on a table. The pieces of paper jump up toward the comb and do not fall back down immediately. Which statement best explains this observation?",
+    "optionA": "The forces on the paper are balanced and cancel out to zero",
+    "optionB": "The forces exerted on the comb and paper are equal and opposite",
+    "optionC": "Friction between the paper and table is pulling the paper toward the comb",
+    "optionD": "The electrostatic force from the comb pulling on the paper is stronger than gravity pulling the paper down",
+    "correctOption": "D",
+    "explanation": "When the comb is charged, it exerts an electrostatic force on the light paper pieces. For the paper to move upward toward the comb, the electrostatic pulling force must be greater than the downward pull of gravity."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student conducts an experiment where a magnet is held at different distances from iron filings to test how distance affects magnetic attraction. The student measures how many filings attach to the magnet at each distance and records the results. Why should the student repeat this same experiment several more times with another magnet of identical size and strength?",
+    "optionA": "to test different materials like copper instead of iron",
+    "optionB": "to verify that the first trial's results are reliable and not just a one-time accident",
+    "optionC": "because repeating trials means using less data, which is more accurate",
+    "optionD": "because scientific investigations are required to have exactly three trials, no more and no less",
+    "correctOption": "B",
+    "explanation": "Repeating an experiment multiple times shows whether the results are consistent and reliable. If different trials give similar results, the findings are more trustworthy."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student rubs a balloon with wool cloth until it becomes charged with static electricity. The student then holds the charged balloon 8 centimeters from a lightweight aluminum can resting on a smooth table. The can rolls toward the balloon across the table. Which observation provides evidence that energy was transferred or converted in this investigation?",
+    "optionA": "The balloon was rubbed with a piece of wool cloth",
+    "optionB": "The electric charge built up on the balloon during rubbing",
+    "optionC": "The can moved across the table from the electrostatic force",
+    "optionD": "The table was smooth and had no friction",
+    "correctOption": "C",
+    "explanation": "The motion of the can demonstrates that the electrostatic energy stored in the charged balloon was transferred to the can as kinetic energy (motion). Energy transfer is evidenced by the can's movement."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Throughout the day, the position of a tree's shadow changes. In the morning, the shadow is long and points one way. By noon, the shadow is short. By late afternoon, the shadow is long again and points the opposite direction. Which best explains why the shadow's position and length change during the day?",
+    "optionA": "Earth rotates on its axis",
+    "optionB": "The atmosphere becomes thicker as the sun sets",
+    "optionC": "The sun moves around Earth",
+    "optionD": "The sun gets closer to Earth during the day",
+    "correctOption": "A",
+    "explanation": "As Earth rotates on its axis, different parts of Earth face the sun at different times, causing the sun to appear to move across the sky. This makes shadows change position and length throughout the day."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student shines a laser pointer through two clear plastic tubes. One tube is perfectly straight. The other tube is bent in the middle like an elbow. Through which tube, if any, will the laser light be visible on a screen beyond the tube?",
+    "optionA": "Through the straight tube only, because light travels in a straight line",
+    "optionB": "Through the bent tube only, because the curve helps focus the light",
+    "optionC": "Through both tubes, because light can bounce around any shape",
+    "optionD": "Through neither tube, because the plastic absorbs the light",
+    "correctOption": "A",
+    "explanation": "Light travels in straight lines and cannot turn corners. The laser light will only pass through the straight tube and reach the screen; the bent tube will block the light path."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student places different small objects in a bucket of water and watches to see which ones float: a pencil, an eraser, a plastic bead, a stone pebble, a piece of aluminum foil, and honey (in a sealed container). Which set of items will float because they are less dense than water?",
+    "optionA": "Pencil, plastic bead, honey",
+    "optionB": "Eraser, stone pebble, plastic bead",
+    "optionC": "Stone pebble, eraser, honey",
+    "optionD": "Pencil, aluminum foil, stone pebble",
+    "correctOption": "A",
+    "explanation": "Objects float when they are less dense than water. Pencils (mostly wood), plastic beads, and honey-filled containers are all less dense than water, so they will float. Stone and erasers sink because they are denser than water."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A food chain is shown: clover plants → rabbits → foxes → eagles. What role do the clover plants have in this food chain?",
+    "optionA": "They capture energy from the sun and provide food for consumers",
+    "optionB": "They prevent eagles from eating too many foxes",
+    "optionC": "They break down dead organisms into simpler substances",
+    "optionD": "They eat the sun's energy and pass it to consumers",
+    "correctOption": "A",
+    "explanation": "Clover plants are producers that capture the sun's energy through photosynthesis. They convert this energy into plant matter, which serves as food for consumers like rabbits further up the food chain."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student sets up two identical wet cloths outdoors: one is placed in front of a strong fan, and the other is placed in direct sunlight. Both start wet but the student wants to find which dries faster. Which two forms of energy are being compared in this investigation?",
+    "optionA": "Mechanical energy and thermal energy",
+    "optionB": "Sound energy and thermal energy",
+    "optionC": "Light energy and electrical energy",
+    "optionD": "Electrical energy and sound energy",
+    "correctOption": "A",
+    "explanation": "The fan provides mechanical energy (moving air) to carry away moisture, while the sun provides thermal energy (heat) to speed up water evaporation. By comparing these two, the student can see which form of energy more effectively dries the cloth."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A table shows information about five vegetables and the time they need to grow: Lettuce (5 days to sprout, 30-40 days to harvest), Tomato (8-10 days to sprout, 60-85 days to harvest), Carrot (10-14 days to sprout, 65-80 days to harvest), Spinach (5-7 days to sprout, 40-50 days to harvest), Pumpkin (7-10 days to sprout, 90-120 days to harvest). Which statement is supported by the data?",
+    "optionA": "Lettuce is ready for harvest in less time than spinach",
+    "optionB": "Pumpkins take the least time overall because their seeds are large",
+    "optionC": "Carrots sprout fastest of all the vegetables",
+    "optionD": "Spinach needs more total time to harvest than tomatoes",
+    "correctOption": "A",
+    "explanation": "According to the table, lettuce takes 30-40 days to harvest, while spinach takes 40-50 days. Lettuce is therefore ready for harvest sooner than spinach."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student builds a model of the solar system in the gymnasium, with the clock on the wall representing the sun. The student must place model planets at their correct distances from the sun. Which planet should be placed at the greatest distance from the clock?",
+    "optionA": "Venus",
+    "optionB": "Saturn",
+    "optionC": "Jupiter",
+    "optionD": "Neptune",
+    "correctOption": "D",
+    "explanation": "Neptune is the farthest planet from the sun in our solar system. In a scale model of the solar system, Neptune would need to be placed at the greatest distance from the sun representation."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student observes a young hamster in a cage and records: it grooms its fur by licking its paws, it runs on its exercise wheel, it pushes food pellets into its cheek pouches, it eats from a food dish that the student sets out daily. Which observation is most likely a LEARNED behavior rather than an instinctive one?",
+    "optionA": "Grooming its fur by licking its paws",
+    "optionB": "Running on the exercise wheel",
+    "optionC": "Pushing food into its cheek pouches",
+    "optionD": "Eating from a specific food dish provided by the student",
+    "correctOption": "D",
+    "explanation": "Hamsters have instinctive behaviors like grooming, running, and storing food in their cheeks. However, eating from a specific dish is a learned behavior because the hamster must learn to find and use the particular food dish the student provides."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student reads the definition: 'the process by which water vapor in the air cools and turns into liquid water droplets.' Which term describes this process in the water cycle?",
+    "optionA": "Evaporation",
+    "optionB": "Precipitation",
+    "optionC": "Sublimation",
+    "optionD": "Condensation",
+    "correctOption": "D",
+    "explanation": "Condensation is the process where water vapor in the atmosphere cools and transforms into liquid water droplets, forming clouds and dew."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A marine biologist studies dolphins in the ocean and gathers these observations: dolphins can echo-locate using sound waves, dolphins swim in warm ocean currents, dolphins hunt and eat fish, dolphins rest on sandy ocean bottoms. Which observation describes dolphins interacting with a LIVING element of their ecosystem?",
+    "optionA": "Dolphins swim in warm ocean currents",
+    "optionB": "Dolphins can echo-locate using sound waves",
+    "optionC": "Dolphins rest on sandy ocean bottoms",
+    "optionD": "Dolphins hunt and eat fish",
+    "correctOption": "D",
+    "explanation": "Biotic interactions involve living things. Hunting and eating fish is a living interaction because both dolphins and fish are living organisms. Currents and sandy bottoms are abiotic (non-living) parts of the environment."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Four examples of objects or activities using different types of energy: Example 1) spinning bicycle wheels, Example 2) burning wood in a fireplace, Example 3) pushing a moving swing higher, Example 4) a robot arm lifting a box. Which examples use MECHANICAL energy to perform their function?",
+    "optionA": "Examples 1, 2, and 4",
+    "optionB": "Examples 1, 3, and 4",
+    "optionC": "Examples 2 and 3 only",
+    "optionD": "Examples 1 and 2 only",
+    "correctOption": "B",
+    "explanation": "Mechanical energy is energy of motion. Spinning wheels (1), pushing a swing (3), and a robot arm lifting (4) all use motion-based mechanical energy. Burning wood (2) is chemical energy released as thermal energy."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A hummingbird has a long, thin, pointed beak for sipping nectar from flowers. A woodpecker has a strong, thick beak for pecking through bark to find insects. The difference between the shapes of their beaks is most likely related to the:",
+    "optionA": "Different parts of the forest where they live",
+    "optionB": "Different sizes of the birds",
+    "optionC": "Different predators that hunt them",
+    "optionD": "Different ways they find and eat their food",
+    "correctOption": "D",
+    "explanation": "The beak structure of each bird is adapted to how it obtains food. Hummingbirds need long beaks to drink nectar, while woodpeckers need strong beaks to drill for insects. This structural difference directly relates to their feeding methods."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student is classifying materials. Answering which question will provide the BEST evidence that an unknown object is a metal?",
+    "optionA": "Does the object have a shiny appearance?",
+    "optionB": "How much does the object weigh?",
+    "optionC": "Does the object conduct (transfer) thermal energy quickly?",
+    "optionD": "How quickly does the object dissolve in water?",
+    "correctOption": "C",
+    "explanation": "Metals are excellent conductors of thermal energy. This property is fundamental to metals and distinguishes them from most other materials. While shininess and weight vary, thermal conductivity is a reliable identifying property of metals."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A biologist observes a squirrel in a park and records these observations: 1) climbing the tree trunk, 2) eating acorns from an oak tree, 3) burying acorns in the soil, 4) running across the ground, 5) drinking water from a puddle, 6) startled by a passing hawk. Which TWO observations best describe how the squirrel interacts with LIVING parts of its environment?",
+    "optionA": "Observations 4 and 5",
+    "optionB": "Observations 2 and 6",
+    "optionC": "Observations 1 and 3",
+    "optionD": "Observations 3 and 5",
+    "correctOption": "B",
+    "explanation": "Biotic interactions involve living organisms. Eating acorns (2) is an interaction with a living tree, and being startled by a hawk (6) is an interaction with another living animal. The other observations involve non-living elements like soil, water, and the ground."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student pours 8 grams of salt into a jar containing 250 milliliters of water and stirs for one minute. Which change most likely occurs to the salt when added to the water?",
+    "optionA": "The salt breaks down to form new substances",
+    "optionB": "The salt turns the water into a different liquid",
+    "optionC": "The salt completely dissolves to form a saltwater solution",
+    "optionD": "The salt floats on the surface of the water",
+    "correctOption": "C",
+    "explanation": "When salt dissolves in water, it mixes uniformly throughout the water to form a solution. This is a physical change, not a chemical change, because no new substances are created—only the distribution of salt particles in water."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student looks at a small insect through a magnifying glass lens. Which statement describes what happens to the light rays as they pass through the magnifying glass?",
+    "optionA": "Light travels through the lens without changing direction",
+    "optionB": "Light travels in straight lines and cannot be affected by the lens",
+    "optionC": "Light bends (refracts) as it passes through the curved lens",
+    "optionD": "Light bounces off the lens and cannot pass through",
+    "correctOption": "C",
+    "explanation": "When light passes through a curved lens like a magnifying glass, it bends (refracts). This bending of light rays is what allows the lens to magnify objects, making them appear larger."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student lists different energy sources used to generate electricity: Solar power, Natural gas, Geothermal energy, Oil, Tidal power. Which of these sources are RENEWABLE resources?",
+    "optionA": "Solar power, geothermal energy, and tidal power",
+    "optionB": "Natural gas, oil, and solar power",
+    "optionC": "Solar power and oil only",
+    "optionD": "Natural gas, geothermal energy, and tidal power",
+    "correctOption": "A",
+    "explanation": "Renewable resources naturally replenish and do not run out. Solar power (from the sun), geothermal energy (from Earth's heat), and tidal power (from ocean tides) are all renewable. Natural gas and oil are non-renewable fossil fuels."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Bees have long, brush-like structures on their legs for collecting pollen. Beetles also have similar brush-like structures on their legs. Which statement best describes why bees and beetles both have these structures?",
+    "optionA": "Both insects are the same size and shape",
+    "optionB": "Both insects have the same predators",
+    "optionC": "Both insects use the structures to collect the same food source: pollen",
+    "optionD": "Both insects migrate to the same locations each year",
+    "correctOption": "C",
+    "explanation": "Bees and beetles both interact with flowers and pollen as a food source. Their similar brush-like structures (called pollen baskets in bees, scopae in beetles) are adaptations for collecting and carrying pollen from flowers."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student grinds a sample of an unknown mineral into a fine powder, mixes it with water, and then holds a magnet near the mixture. The student observes that some of the powder sticks to the magnet. Which conclusion is most supported by this observation?",
+    "optionA": "The mineral contains copper",
+    "optionB": "The mineral contains iron",
+    "optionC": "The mineral contains aluminum",
+    "optionD": "The mineral contains salt",
+    "correctOption": "B",
+    "explanation": "Iron and its compounds are magnetic and are attracted to magnets. When the powder sticks to the magnet, it indicates the presence of iron in the mineral. This is a simple and effective way to test for iron."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The taiga biome has extremely cold winters with temperatures dropping to -40°C or lower, moderate snowfall, short summers, and evergreen forests. Based on these characteristics, which pair of animals is LEAST likely to live in the taiga?",
+    "optionA": "Moose and lynx",
+    "optionB": "Elk and black bear",
+    "optionC": "Flamingo and crocodile",
+    "optionD": "Porcupine and wolf",
+    "correctOption": "C",
+    "explanation": "Flamingos are tropical wading birds and crocodiles are warm-water reptiles; both require warm climates and would not survive the extreme cold of the taiga. Moose, lynx, elk, bears, porcupines, and wolves are all adapted to cold forests."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student creates a model showing Earth (a globe), the sun (a lamp), and the moon (a ball) to demonstrate the cycle of day and night. Which action should the student perform with the model objects to show one complete day-night cycle on Earth?",
+    "optionA": "Move the lamp around the globe once",
+    "optionB": "Move the moon around the globe once",
+    "optionC": "Spin the globe on its axis once",
+    "optionD": "Move the globe around the lamp once",
+    "correctOption": "C",
+    "explanation": "One complete day-night cycle is caused by Earth rotating on its axis one full time. Spinning the globe once on its axis will demonstrate this rotation and show how different parts of Earth experience day and night."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Paleontologists discover fossils of coral reefs in rock layers deep underground in the middle of a desert. Modern-day coral reefs only grow in warm, shallow ocean water. What does this fossil discovery suggest about the history of this desert region?",
+    "optionA": "The area has always been a dry desert",
+    "optionB": "The area was once covered by a warm, shallow ocean or sea",
+    "optionC": "Humans brought coral to this location thousands of years ago",
+    "optionD": "The area was once extremely cold and covered with glaciers",
+    "correctOption": "B",
+    "explanation": "Fossil corals only form in warm ocean environments. The presence of coral fossils in a desert indicates that this area was once underwater with warm ocean conditions, which has since changed dramatically."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which land formation is correctly paired with the geological force that created it?",
+    "optionA": "A deep canyon was formed by wind erosion over time",
+    "optionB": "A volcanic mountain was formed by a river cutting through rock",
+    "optionC": "A river delta was formed by glaciers moving across land",
+    "optionD": "A deep valley was carved by a river flowing and cutting through rock layers",
+    "correctOption": "D",
+    "explanation": "Rivers flowing over millions of years carve deep valleys and canyons through rock layers by erosion. This is the correct pairing of a land formation with the geological force that creates it."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student captures several insects in a garden and studies them: a ladybug has its shell cracked, a butterfly has the typical yellow-and-black striped pattern of its species, a grasshopper has all six legs intact, a beetle has green coloring. Which characteristic is most likely an ACQUIRED trait (not inherited)?",
+    "optionA": "The ladybug's cracked shell",
+    "optionB": "The butterfly's yellow-and-black stripes",
+    "optionC": "The grasshopper's six legs",
+    "optionD": "The beetle's green coloring",
+    "correctOption": "A",
+    "explanation": "A cracked shell is an injury or damage that the ladybug acquired during its life, not a trait passed down genetically. The stripe pattern, number of legs, and body color are inherited traits determined by genetics."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A gardener tests how quickly water drains through different soil types. Starting with 200 mL of water poured on each soil sample: Sandy soil drains 180 mL through and retains 20 mL, Clay soil drains 60 mL through and retains 140 mL, Loamy soil drains 150 mL through and retains 50 mL, Gravel drains 195 mL through and retains 5 mL. The gardener wants to plant a vegetable garden that needs soil that does NOT hold too much water. Which two soil types would be best for this garden?",
+    "optionA": "Sandy soil and clay soil",
+    "optionB": "Sandy soil and gravel",
+    "optionC": "Gravel and loamy soil",
+    "optionD": "Loamy soil and clay soil",
+    "correctOption": "B",
+    "explanation": "Sandy soil and gravel both drain water very quickly (retaining only 20 mL and 5 mL respectively), which prevents excess water buildup. These are ideal for plants that prefer drier conditions. Clay holds too much water."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student pours equal volumes of water and honey into a clear jar, stirs the mixture for ten seconds, and then lets it rest for five minutes. After resting, the honey settles to the bottom and the water sits on top, forming two distinct layers. Which conclusion best describes this observation?",
+    "optionA": "Honey is less dense than water",
+    "optionB": "Water is less dense than honey",
+    "optionC": "Honey and water are equally dense",
+    "optionD": "Density cannot be determined from this experiment",
+    "correctOption": "B",
+    "explanation": "When two liquids are mixed, the less dense liquid floats on top and the denser liquid sinks to the bottom. Since water floats above the honey, water is less dense than honey."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Large coal deposits are found underground in certain regions of the world. How did these coal deposits most likely form?",
+    "optionA": "Heat from deep within Earth transformed rocks into coal",
+    "optionB": "Dead plants from ancient forests were buried, compressed, and heated over millions of years",
+    "optionC": "Animals that died millions of years ago were crushed and turned into coal",
+    "optionD": "Coal formed when volcanoes erupted and deposited dark ash",
+    "correctOption": "B",
+    "explanation": "Coal forms from the remains of plants (especially trees) that lived in ancient swamps. Over millions of years, these plants were buried under layers of sediment, compressed, and heated, transforming into coal."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student builds a simple rocket by taping an inflated balloon to a plastic straw attached to a car-shaped object. When the balloon is released, air rushes backward out of the straw, pushing the car forward. Which statement correctly describes the motion of the car based on this action-reaction pair?",
+    "optionA": "The car moves in the same direction as the escaping air",
+    "optionB": "The car moves in the opposite direction from the escaping air",
+    "optionC": "The car only moves because the balloon becomes lighter as air escapes",
+    "optionD": "The car does not move because forces inside the balloon cancel out",
+    "correctOption": "B",
+    "explanation": "According to Newton's third law, for every action there is an equal and opposite reaction. When air is expelled backward from the balloon, the car experiences a reaction force pushing it forward, in the opposite direction."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student is given three objects: a brass key, an aluminum foil square, and a steel bolt. The student is asked to identify properties that ALL THREE objects share because they are metals. Which properties do all three metal objects have in common?",
+    "optionA": "They bend easily, they are attracted to magnets, they conduct electricity",
+    "optionB": "They dissolve in water, they are shiny, they float",
+    "optionC": "They conduct electrical energy, they conduct thermal energy, they do not dissolve in water",
+    "optionD": "They are attracted to magnets, they are heavy, they break easily",
+    "correctOption": "C",
+    "explanation": "All metals conduct both electrical and thermal energy well. All three objects (brass, aluminum, steel) share these properties. Not all metals are magnetic (brass and aluminum are not magnetic), and not all are equally bendable or heavy."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A fast-growing, non-native water plant now grows in many lakes and can quickly spread across the entire water surface. Which effect will most likely occur when this invasive plant completely covers the surface of a lake?",
+    "optionA": "Fish will have more places to hide and will increase in number",
+    "optionB": "Less sunlight will be able to reach the aquatic plants growing underwater",
+    "optionC": "All the native water plants will migrate to other lakes",
+    "optionD": "Aquatic animals will gain a new food source and grow larger",
+    "correctOption": "B",
+    "explanation": "When the invasive plant covers the lake surface, it blocks sunlight from reaching native aquatic plants below. This reduces their ability to photosynthesize and disrupts the ecosystem's food chain."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Students want to investigate how surface texture affects the speed at which objects slide. Which experimental design will BEST test the effect of surface texture while controlling all other variables?",
+    "optionA": "Release two different-sized balls from the same height on the same smooth surface",
+    "optionB": "Roll a ball down three different ramps with different angles from the same starting point with the same force",
+    "optionC": "Roll the same ball down a smooth surface, a rough surface, and a carpeted surface from the same starting point and same height with the same force",
+    "optionD": "Drop a ball from different heights onto the same surface and measure how far it bounces",
+    "correctOption": "C",
+    "explanation": "A good controlled experiment changes only ONE variable (surface texture in this case) while keeping all other variables constant (same ball, same starting point, same height, same force). Option C correctly tests only surface texture while controlling other factors."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A nature documentary showed a herd of zebras at a watering hole. Two paths lead away from the water—one toward a savanna region where lions once chased and injured the herd, and another toward a grassland where lions have never been spotted. The zebras avoid the first path and choose the second. Which type of information processing allows the herd to make this choice?",
+    "optionA": "Using memories stored in the brain to recall where lions have attacked before",
+    "optionB": "Using memories stored in the legs to recall where lions attacked in the past",
+    "optionC": "Using memories stored in the hooves to choose paths with the most grass",
+    "optionD": "Using memories stored in the heart to avoid grasslands with many trees",
+    "correctOption": "D",
+    "explanation": "The zebras' brains store memories of past encounters with lions, allowing them to recognize and avoid dangerous territory. Memory storage in the brain—not in body parts—enables this decision."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student dropped a rock from different heights above a pond and measured its speed just before hitting the water. Data showed: dropped from 0.75 m, speed 3.84 m/s; dropped from 1.25 m, speed 4.95 m/s; dropped from 1.75 m, speed 5.86 m/s. Which statement about forces acting on the rock is supported by this data?",
+    "optionA": "Balanced forces cause the rock's speed to increase as the release height increases",
+    "optionB": "Unbalanced forces cause the rock's speed to increase as the rock falls",
+    "optionC": "Forces on the rock are balanced when the rock is falling downward",
+    "optionD": "Unbalanced forces cause the rock's speed to decrease as it falls toward the water",
+    "correctOption": "B",
+    "explanation": "The data shows that speed increases with drop height, demonstrating that unbalanced gravitational force accelerates the rock throughout the fall, causing continuous speed increase."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student claims that energy was converted from one form to another when a hammer struck an anvil. Which statement accurately describes an energy conversion that occurred and the supporting evidence?",
+    "optionA": "Motion energy converted into sound energy; evidence: the hammer and anvil made a loud noise",
+    "optionB": "Potential energy converted into light energy; evidence: sparks flew from the anvil",
+    "optionC": "Heat energy converted into light energy; evidence: the anvil became very bright and shiny",
+    "optionD": "Sound energy converted into motion energy; evidence: the anvil moved when struck",
+    "correctOption": "A",
+    "explanation": "The hammer's motion energy converts to sound energy when it strikes the anvil, which is directly evidenced by the loud noise produced at impact."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A marble rolls down a ramp and collides with an identical marble at rest on a table. Which statement correctly predicts the changes in energy and motion when the two marbles collide?",
+    "optionA": "The rolling marble transfers no energy to the stationary marble; the rolling marble stops while the stationary marble moves at the rolling marble's original speed",
+    "optionB": "The rolling marble transfers no energy to the stationary marble; both marbles stop moving",
+    "optionC": "The rolling marble transfers some of its energy to the stationary marble; the rolling marble keeps moving at its original speed while the stationary marble also moves",
+    "optionD": "The rolling marble transfers some of its energy to the stationary marble; the rolling marble slows down while the stationary marble gains speed",
+    "correctOption": "D",
+    "explanation": "During collision, the rolling marble transfers part of its energy and momentum to the stationary marble. The first marble loses speed and the second marble gains speed."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A coastal town experienced severe erosion when a large storm surge occurred, damaging homes and roads near the shoreline. Which design solution would require the FEWEST steps to reduce future impacts of storm surge on residents?",
+    "optionA": "Build a series of new neighborhoods inland and relocate all residents to higher elevation areas",
+    "optionB": "Distribute sandbags to residents to place as temporary barriers against future storm surges",
+    "optionC": "Maintain existing seawalls and drainage systems that already channel water safely away from populated areas",
+    "optionD": "Plant hundreds of trees and grasses along the shoreline to slow wave energy",
+    "correctOption": "C",
+    "explanation": "Using existing infrastructure (seawalls and drainage systems) requires the fewest implementation steps—maintaining what already exists is simpler than building new systems or physically moving populations."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "After a period of heavy rainfall, a photograph showed a portion of a bridge where one support pillar had tilted and cracked. How did the heavy rainfall most likely cause this damage to the bridge structure?",
+    "optionA": "Heavy rain made the pillar expand and split from water absorption",
+    "optionB": "Underground water flow eroded soil beneath the pillar's foundation, causing it to shift and crack",
+    "optionC": "Lightning during the storm weakened the concrete support pillar",
+    "optionD": "Floodwater rushing over the bridge crushed the pillar into pieces",
+    "correctOption": "B",
+    "explanation": "Water moving through soil underneath the bridge foundation erodes the support material, causing the foundation to weaken and the pillar to settle unevenly, resulting in cracks."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Students placed a piece of limestone in a dish, added drops of vinegar, and observed what happened. Before adding vinegar, the total mass (limestone, vinegar, dish) was 22.40 grams; after the reaction with fizzing, the total mass was 21.15 grams. A student claims a new substance was formed. Which observation is evidence supporting this claim?",
+    "optionA": "Fizzing and bubbles formed after the vinegar was added to the limestone",
+    "optionB": "The limestone became smaller in size but remained the same shape",
+    "optionC": "The limestone changed from white to gray after the vinegar was added",
+    "optionD": "The vinegar caused the limestone to melt and lose mass as liquid",
+    "correctOption": "A",
+    "explanation": "Bubbling and fizzing indicate that a gas is being produced, which is evidence that a chemical reaction has created a new substance (carbon dioxide gas in this case)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student recorded facts about a prairie dog's senses: Fact 1: Sharp hearing allows the prairie dog to detect alarm calls from nearby prairie dogs warning of danger. Fact 2: The prairie dog can close its nostrils when burrowing to keep out dust and dirt. Fact 3: Excellent vision helps the prairie dog spot hawks flying overhead. Fact 4: A keen sense of smell helps the prairie dog find seeds underground for food. Which facts provide evidence that the prairie dog uses sense organs to detect threats from OTHER organisms?",
+    "optionA": "facts 1 and 3",
+    "optionB": "facts 2 and 4",
+    "optionC": "facts 1 and 2",
+    "optionD": "facts 3 and 4",
+    "correctOption": "A",
+    "explanation": "Facts 1 and 3 both describe detecting threats: hearing alarm calls from other prairie dogs and seeing predatory hawks. Facts 2 and 4 relate to self-protection and finding food, not detecting threats."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which row correctly pairs a claim about arctic animals with a logical solution to help them survive in warming conditions? Row 1: Claim - less ice coverage will reduce hunting areas; Solution - build enclosed habitats to replace melting ice. Row 2: Claim - warming temperatures threaten animal survival; Solution - introduce animals from tropical regions to compete with arctic species. Row 3: Claim - arctic animals face food shortages in warming conditions; Solution - identify population areas and establish protected food sources like vegetation and prey reserves. Row 4: Claim - as ice melts, populations will adapt quickly; Solution - provide artificial ice rinks in the arctic to replace lost sea ice.",
+    "optionA": "Row 1",
+    "optionB": "Row 2",
+    "optionC": "Row 3",
+    "optionD": "Row 4",
+    "correctOption": "C",
+    "explanation": "Row 3 pairs a realistic problem (food shortages) with a logical, practical solution (establishing food reserves). The other rows either misdiagnose the problem or propose solutions that are unrealistic or could make conditions worse."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student made a device with an electromagnet and measured how many metal beads the electromagnet could hold when connected to a battery. The student then placed the electromagnet at different distances (1 cm, 2 cm, 3 cm, 4 cm away from a pile of beads) and recorded how many beads were pulled toward the electromagnet at each distance. Which question is the student investigating?",
+    "optionA": "How does the color of the electromagnet wire affect the strength of the magnetic field?",
+    "optionB": "How is the strength of the magnetic force on nearby objects affected by the distance between the electromagnet and the objects?",
+    "optionC": "How does the temperature of the battery affect the magnetic force exerted by an electromagnet?",
+    "optionD": "What types of materials can be attracted to an electromagnet compared to a permanent magnet?",
+    "correctOption": "B",
+    "explanation": "The student is systematically changing distance while measuring the number of beads attracted, directly investigating the relationship between distance and magnetic force strength."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In an investigation using one electromagnet, the results showed: at 0 cm distance: 23 metal beads held, at 1 cm: 15 beads, at 2 cm: 8 beads, at 3 cm: 4 beads, at 4 cm: 2 beads (magnetic force decreases as distance increases). The student repeats the investigation using a stronger electromagnet (double coils on the same battery). Which table shows the most likely results for the stronger electromagnet trial, given that a stronger electromagnet should hold more beads at every distance than the single electromagnet did?",
+    "optionA": "0 cm: 23, 1 cm: 15, 2 cm: 8, 3 cm: 4, 4 cm: 2 (identical to the single-electromagnet results)",
+    "optionB": "0 cm: 20, 1 cm: 12, 2 cm: 6, 3 cm: 3, 4 cm: 1 (lower at every distance)",
+    "optionC": "0 cm: 28, 1 cm: 19, 2 cm: 11, 3 cm: 6, 4 cm: 3 (higher at every distance, still decreasing overall)",
+    "optionD": "0 cm: 28, 1 cm: 8, 2 cm: 15, 3 cm: 5, 4 cm: 2 (values do not show a consistent pattern)",
+    "correctOption": "C",
+    "explanation": "A stronger electromagnet should attract more beads at every distance compared to the weaker one. The pattern must still show decreasing values as distance increases, maintaining the trend from the original investigation."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student built an electromagnet by wrapping wire around a steel rod and connecting it to a battery, then tested how many nails it could lift using 3 coils of wire versus 5 coils of wire, and compared results using a 2-volt battery versus a 6-volt battery. The student wants to determine the relationship between battery voltage and the magnetic force exerted by the electromagnet. Which question was most likely being investigated?",
+    "optionA": "How did changing the number of coils affect the number of nails lifted by the electromagnet when using only a 2-volt battery?",
+    "optionB": "For the same number of coils, how did the number of nails lifted when using a 2-volt battery compare to the number lifted when using a 6-volt battery?",
+    "optionC": "How does keeping the voltage constant at 6 volts affect the number of nails lifted as the number of coils increases?",
+    "optionD": "For different numbers of coils, how did the number of nails lifted change with the 2-volt battery compared to changes with the 6-volt battery?",
+    "correctOption": "B",
+    "explanation": "To test the relationship between voltage and magnetic force, the student must hold the number of coils constant and vary only the voltage. Option B describes this specific controlled comparison."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student wants to get accurate data about how many rubber bands an electromagnet can stretch. How would performing more trials in this investigation improve the reliability of the data collected?",
+    "optionA": "More trials produce more measurements, which can help reduce errors caused by measurement mistakes or variations in the setup",
+    "optionB": "More trials always produce identical data, eliminating the need to repeat measurements",
+    "optionC": "Averaging data from more trials can help determine which equipment to use",
+    "optionD": "Averaging data from more than three trials always reduces the accuracy of the result",
+    "correctOption": "A",
+    "explanation": "Repeated trials allow researchers to identify and average out random errors that might occur in individual measurements, making the final result more trustworthy."
   }
 ]

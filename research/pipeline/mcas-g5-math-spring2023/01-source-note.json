@@ -1,0 +1,19 @@
+{
+  "source": "Massachusetts MCAS Grade 5 Mathematics Paper-Based Test, Spring 2023 (Release of Spring 2023 MCAS Test Items)",
+  "url": "https://www.doe.mass.edu/mcas/2023/release/g5-math.pdf",
+  "publisher": "Massachusetts Department of Elementary and Secondary Education (state government)",
+  "license": "Copyright 2023 MA DESE, explicit permission granted to copy for non-commercial educational purposes (except third-party ELA passages, not applicable to this math batch).",
+  "grade_age": "Grade 5 (age 10-11)",
+  "total_items_in_source": 20,
+  "items_extracted_usable": 14,
+  "items_deferred": 6,
+  "deferred_reasons": {
+    "2": "Requires matching a coordinate triangle to one of four plotted-point images - visual-dependent",
+    "5": "Multi-part constructed-response (open-ended volume/dimensions problem), not multiple-choice - skipped, complex to convert",
+    "8": "Multi-part constructed-response (ticket company cost comparison), not multiple-choice - skipped, complex to convert",
+    "15": "Requires reading a specific shaded-grid area-model image - visual-dependent",
+    "18": "Requires counting unit cubes in four 3D figure images - visual-dependent",
+    "20": "Requires reading shaded pie-chart fraction models - visual-dependent"
+  },
+  "note": "This is a different administration/year (Spring 2023) from the MCAS Science batch already merged (which was a different subject entirely), so no content overlap risk. Correct answers came directly from the official released-item answer table included in the source PDF."
+}

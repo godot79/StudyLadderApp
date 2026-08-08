@@ -1,0 +1,25 @@
+{
+  "source": "Texas STAAR Grade 5 Mathematics, Administered May 2022, Released Test Form",
+  "url": "https://tea.texas.gov/data-reports/staar/released-test-questions/2022-staar-may-grade-5-math-releasedtest.pdf",
+  "publisher": "Texas Education Agency (state government)",
+  "license": "Copyright TEA 2022, released test form explicitly published by TEA for public/educational reuse as a 'RELEASED' item set (standard practice for STAAR released tests, distinct from live/secure items). Same accessibility tier as prior UK gov.uk STAAR/SATs sources in the catalog.",
+  "grade_age": "Grade 5 (age 10-11, upper end of our 9-10 target band)",
+  "total_items_in_source": 36,
+  "items_extracted_usable": 24,
+  "items_deferred": 12,
+  "deferred_reasons": {
+    "2": "Requires selecting among 4 rendered scatterplot images - visual-dependent, not restatable in text",
+    "4": "Same - scatterplot selection among 4 images",
+    "5": "Shape-sorting graphic organizer includes semicircle/crescent images that must be visually distinguished",
+    "9": "Graph selection among 4 plotted-point images",
+    "11": "Requires selecting among 4 shaded-grid area models (visual division representation)",
+    "14": "Number line diagram with an unlabeled arrow segment - the specific fraction subtracted is only shown visually, not stated in text",
+    "15": "Frequency table uses tally-mark images; exact counts not independently verifiable from text alone, risk of transcription error",
+    "18": "Base layer block count is only shown in an image (rows of blocks), not stated numerically in text",
+    "24": "Requires visually distinguishing tick-mark/angle-mark conventions on 4 triangle images to identify scalene",
+    "31": "Graph selection among 4 plotted-point images",
+    "32": "Graph selection among 4 plotted-point images",
+    "34": "Requires measuring a rectangle diagram with an on-page ruler - fundamentally an image-measurement task"
+  },
+  "note": "All 24 usable items are either pure text/table/expression problems, or diagrams whose numeric values are fully stated in the surrounding text (items 22, 27 - diagram shows labeled distances/lengths already given as text, no image-reading required to solve)."
+}

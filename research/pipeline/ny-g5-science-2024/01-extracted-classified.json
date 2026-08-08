@@ -1,0 +1,80 @@
+[
+  {
+    "id": 3,
+    "text": "A model shows a herd of elephants at a fork in a trail. One branch leads toward the territory of a tribe that has hunted them in the past; the other branch leads toward the territory of a tribe that has never hunted them. The elephants choose to avoid the branch leading toward the tribe that has hunted them. Which type of information processing allows the herd of elephants to make this choice? A) Use memories stored in the trunk to recall the tribe that has hunted them in the past B) Use memories stored in the brain to recall the tribe that has hunted them in the past C) Use memories stored in the brain to recall the tribe that has NOT hunted them D) Use memories stored in the trunk to recall the tribe that has NOT hunted them",
+    "answer": "B",
+    "skill": "life science - animals use brain-stored memory (not another body part) to recognize and avoid past threats"
+  },
+  {
+    "id": 6,
+    "text": "Students dropped a ball from different heights above a hard floor and measured its speed just before hitting the floor. Data showed: released from 1.00m, speed 4.43 m/s; released from 1.50m, speed 5.42 m/s; released from 2.00m, speed 6.26 m/s. Which statement about forces acting on the ball is supported by this data? A) Balanced forces cause the ball's speed to increase as the release height increases B) Unbalanced forces cause the ball's speed to increase as the ball falls C) Forces on the ball are balanced when the ball hits the floor and bounces up D) Unbalanced forces cause the ball's speed to decrease as the ball falls",
+    "answer": "B",
+    "skill": "physical science - unbalanced forces (gravity) cause acceleration during a fall"
+  },
+  {
+    "id": 7,
+    "text": "A student claims that the energy of a ball was converted from one form to another when the ball hit the floor. Which table accurately describes an energy conversion that occurred and the supporting evidence? A) heat energy into motion energy; evidence: the ball got faster when it hit the floor B) sound energy into motion energy; evidence: the ball made a noise when it hit the floor C) motion energy into heat energy; evidence: the temperature of the ball decreased when it hit the floor D) motion energy into sound energy; evidence: the ball made a noise when it hit the floor",
+    "answer": "D",
+    "skill": "physical science - energy conversion (motion to sound) with correct supporting evidence"
+  },
+  {
+    "id": 9,
+    "text": "A ball rolls down a ramp and collides with an identical ball at rest. Which table correctly predicts the changes in energy and motion when the two balls collide? A) Ball 1 transfers no energy to Ball 2; Ball 1 pushes Ball 2 until they both stop B) Ball 1 transfers no energy to Ball 2; Ball 1 stops while Ball 2 moves at Ball 1's original speed C) Ball 1 transfers some of its energy to Ball 2; Ball 1 loses speed while Ball 2 gains speed D) Ball 1 transfers some of its energy to Ball 2; Ball 1 keeps its original speed while Ball 2 gains speed",
+    "answer": "C",
+    "skill": "physical science - energy transfer and motion changes during a collision"
+  },
+  {
+    "id": 13,
+    "text": "A city experienced catastrophic flooding after 10 to 20 inches of rain fell in less than 24 hours, causing flash flooding and major property damage. Which design solution would require the FEWEST steps to reduce future impacts of heavy rains on residents? A) Build new roads that redirect rainwater to a single water treatment plant B) Provide free sandbags to every resident to place around their homes C) Keep existing overflow water pipes in sewer systems open to redirect water away from the city D) Create large open fields in many parts of the city to allow rainwater to soak into the soil",
+    "answer": "C",
+    "skill": "engineering design - evaluating solutions by number of implementation steps required"
+  },
+  {
+    "id": 14,
+    "text": "After a period of heavy rainfall, a photograph showed a roadway with a large section collapsed into a stream running beneath it. How did the heavy rainfall most likely cause this damage to the roadway? A) Heavy floodwater ran over and crushed the roadway into pieces B) Lightning during the storm struck the roadway, breaking it up C) Running water under the road caused an earthquake D) Water eroded soils from under the road, causing it to collapse",
+    "answer": "D",
+    "skill": "earth science - water erosion as a cause of structural damage"
+  },
+  {
+    "id": 22,
+    "text": "Students placed a mineral sample (calcite) on a scale, added drops of vinegar, and observed bubbles forming. Before adding vinegar, the total mass (mineral, vinegar, dish) was 19.65 grams; after the reaction with bubbling, the total mass was 18.75 grams. A student claims a new substance was formed. Which statement is evidence supporting this claim? A) The mineral changed color after the vinegar was added B) The vinegar caused the mineral to melt and lose mass C) Bubbles formed after the vinegar was added to the mineral D) The surface texture of the entire mineral sample changed",
+    "answer": "C",
+    "skill": "physical science - bubbling/gas formation as evidence of a chemical reaction forming a new substance"
+  },
+  {
+    "id": 24,
+    "text": "A student recorded facts about an animal's senses: Fact 1: Good vision allows the animal to spot predators. Fact 2: The animal can close its ears to keep out sand while digging. Fact 3: An excellent sense of smell helps the animal find prey hiding underground. Fact 4: The animal listens for alarm calls from others in its group while searching for food. Which facts provide evidence that the animal uses sense organs to detect threats from OTHER organisms? A) facts 1 and 2 B) facts 2 and 3 C) facts 3 and 4 D) facts 4 and 1",
+    "answer": "D",
+    "skill": "life science - identifying which sensory evidence relates specifically to detecting threats"
+  },
+  {
+    "id": 29,
+    "text": "Which row correctly pairs a claim about desert animals with a logical solution to help them survive hotter, drier conditions? Row 1: Claim - more available water helps animals survive hotter deserts; Solution - move animal populations to places with more water. Row 2: Claim - hotter, drier deserts will have less food; Solution - bring more predator and prey species into the region. Row 3: Claim - as rainfall decreases, animals will adapt by needing less water; Solution - place water tanks throughout the desert to collect rainfall. Row 4: Claim - animal survival is threatened by hotter, drier deserts; Solution - identify animal population areas and help them dig deeper burrows to stay cool. A) Row 1 B) Row 2 C) Row 3 D) Row 4",
+    "answer": "D",
+    "skill": "life science - matching a scientific claim to a logical, actionable conservation solution"
+  },
+  {
+    "id": 30,
+    "text": "A student made a simple magnet holder and measured how many paper clips a magnet could hold directly by contact. The student then added different numbers of pieces of tape between the magnet and the paper clips, and recorded how many paper clips the magnet could still hold each time. Which question is the student investigating? A) How can the patterns of a magnet's motion in various situations be observed and measured? B) How is the strength of the magnetic force acting on objects affected by the distance between the objects and a magnet? C) How does the force of gravity affect the strength of the magnetic force on an object? D) How do contact magnetic forces affect the energy transferred between objects?",
+    "answer": "B",
+    "skill": "scientific method - identifying the question being tested by an investigation's variable"
+  },
+  {
+    "id": 31,
+    "text": "In an investigation, a single magnet held 17 paper clips with no tape, 10 with one piece of tape, 5 with three pieces of tape, 4 with five pieces of tape, and 2 with seven pieces of tape (a magnet's holding power decreases as spacing tape increases). The student repeats this investigation using two magnets stacked together (stronger combined magnet). Which table shows the most likely results for the two-magnet trial, given that a stronger magnet should hold more paper clips at every spacing than the single magnet did? A) No tape: 17, one piece: 10, three pieces: 5, five pieces: 4, seven pieces: 2 (identical to the single-magnet results) B) No tape: 15, one piece: 8, three pieces: 3, five pieces: 2, seven pieces: 1 (lower at every spacing) C) No tape: 20, one piece: 14, three pieces: 6, five pieces: 6, seven pieces: 4 (higher at every spacing, still decreasing overall) D) No tape: 20, one piece: 5, three pieces: 10, five pieces: 6, seven pieces: 1 (values do not consistently decrease)",
+    "answer": "C",
+    "skill": "scientific method - predicting results consistent with a controlled variable trend (stronger magnet holds more clips at every distance)"
+  },
+  {
+    "id": 33,
+    "text": "A student built an electromagnet by coiling wire around a nail and connecting it to a battery, then tested how many paper clips it could hold using different numbers of coils, comparing results with a 4-volt battery versus an 8-volt battery. The student wants to determine the relationship between battery voltage and the magnetic force exerted by the electromagnet. Which question was most likely being investigated? A) How did changing the number of coils affect the number of paper clips held by the electromagnet connected to a 4-volt battery? B) For the same number of coils, how did the number of paper clips held by the electromagnet connected to a 4-volt battery compare to the number held when connected to an 8-volt battery? C) How does keeping the number of coils constant affect the number of paper clips held by the electromagnet connected to the 8-volt battery? D) For an increasing number of coils, how did the number of paper clips held change for both the 4-volt and 8-volt battery?",
+    "answer": "B",
+    "skill": "scientific method - identifying the specific comparison (voltage, holding coils constant) an investigation is testing"
+  },
+  {
+    "id": 34,
+    "text": "A student wants to optimize the design of an electromagnet and needs accurate data. How would performing more trials in this investigation improve the reliability of the data collected? A) More trials produce more data, which is used to reduce human error B) More trials always produce the same data, which can be used to solve a problem C) Averaging data from more trials can help determine which variables are controlled D) Averaging data from more than three trials always increases the error in the data",
+    "answer": "A",
+    "skill": "scientific method - repeated trials reduce the impact of human/measurement error"
+  }
+]
