@@ -35,6 +35,8 @@ export default async function SessionPage({
       optionB: sq.question.optionB,
       optionC: sq.question.optionC,
       optionD: sq.question.optionD,
+      passage: sq.question.passage,
+      passageId: sq.question.passageId,
     },
   }));
 

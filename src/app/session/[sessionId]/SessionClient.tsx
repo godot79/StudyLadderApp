@@ -9,6 +9,8 @@ type QuestionData = {
   optionB: string;
   optionC: string;
   optionD: string;
+  passage?: string | null;
+  passageId?: string | null;
 };
 
 type SessionQuestion = {
@@ -188,6 +190,18 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
             {timeLeft}s
           </p>
         </div>
+
+        {/* Passage panel — key is the passageId so React keeps this node
+            mounted (no re-animate/remount) across consecutive questions
+            that share the same passage, only swapping when it changes. */}
+        {question.passage && (
+          <div
+            key={question.passageId ?? "passage"}
+            className="max-h-64 overflow-y-auto rounded-3xl bg-indigo-50/60 px-6 py-5 text-base leading-relaxed text-indigo-950 shadow-sm ring-1 ring-indigo-100"
+          >
+            {question.passage}
+          </div>
+        )}
 
         {/* Question card */}
         <div className="rounded-3xl bg-white px-8 py-10 text-center shadow-sm ring-1 ring-indigo-100">

@@ -266,3 +266,64 @@ describe("selectQuestions — recency exclusion", () => {
     }
   });
 });
+
+describe("selectQuestions — passage grouping", () => {
+  function makePassageGroup(passageId: string, count: number): Question[] {
+    return Array.from({ length: count }, (_, i) =>
+      makeQuestion(`${passageId}-q${i}`, { passageId })
+    );
+  }
+
+  it("keeps a passage group's questions contiguous in the result", () => {
+    const passageQs = makePassageGroup("p1", 4);
+    const singles = makeQuestions(Array.from({ length: 20 }, (_, i) => `single-${i}`));
+    const result = selectQuestions([...passageQs, ...singles], [], 10);
+
+    const passageIndexes = result
+      .map((q, i) => (q.passageId === "p1" ? i : -1))
+      .filter((i) => i !== -1);
+
+    if (passageIndexes.length > 0) {
+      // All 4 questions of the group must appear together, and as a block.
+      expect(passageIndexes).toHaveLength(4);
+      const min = Math.min(...passageIndexes);
+      const max = Math.max(...passageIndexes);
+      expect(max - min).toBe(3);
+    }
+  });
+
+  it("never splits a passage group even if it overflows count", () => {
+    // 9 singles + one 4-question passage group = 13 eligible; count=10.
+    // Whichever group lands last must be included whole, so the passage
+    // group is either fully present or fully absent — never partial.
+    const passageQs = makePassageGroup("p1", 4);
+    const singles = makeQuestions(Array.from({ length: 9 }, (_, i) => `single-${i}`));
+    const result = selectQuestions([...passageQs, ...singles], [], 10);
+
+    const passageCount = result.filter((q) => q.passageId === "p1").length;
+    expect([0, 4]).toContain(passageCount);
+  });
+
+  it("treats questions without a passageId as independent singleton groups (unchanged behavior)", () => {
+    const singles = makeQuestions(Array.from({ length: 25 }, (_, i) => `q${i}`));
+    const result = selectQuestions(singles, [], 10);
+    expect(result).toHaveLength(10);
+    expect(new Set(result.map((q) => q.id)).size).toBe(10);
+  });
+
+  it("only recycles a passage group once every question in it has been seen", () => {
+    const passageQs = makePassageGroup("p1", 3);
+    const singles = makeQuestions(Array.from({ length: 20 }, (_, i) => `single-${i}`));
+    // Only 2 of the 3 passage questions have been shown.
+    const shownIds = [passageQs[0].id, passageQs[1].id];
+
+    const result = selectQuestions([...passageQs, ...singles], shownIds, 10);
+    const passageInResult = result.filter((q) => q.passageId === "p1");
+
+    // The group is still "unseen" overall (not every member seen), so if it
+    // appears at all, it must appear whole, including the seen members.
+    if (passageInResult.length > 0) {
+      expect(passageInResult).toHaveLength(3);
+    }
+  });
+});

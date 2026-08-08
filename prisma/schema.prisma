@@ -32,6 +32,8 @@ model Question {
   optionD       String
   correctOption String
   explanation   String?
+  passage       String?
+  passageId     String?
   isActive      Boolean  @default(true)
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt

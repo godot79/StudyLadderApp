@@ -11,6 +11,8 @@ export type Question = {
   optionD: string;
   correctOption: string;
   isActive: boolean;
+  passage?: string | null;
+  passageId?: string | null;
 };
 
 export type SessionQuestionOutcome = {

@@ -16,6 +16,8 @@ type QuestionInput = {
   optionD: string;
   correctOption: string;
   explanation?: string;
+  passage?: string;
+  passageId?: string;
 };
 
 // Seed questions for one subject safely.
@@ -72,6 +74,8 @@ async function seedSubject(subject: string, questions: QuestionInput[]) {
         optionD: q.optionD,
         correctOption: q.correctOption,
         explanation: q.explanation ?? null,
+        passage: q.passage ?? null,
+        passageId: q.passageId ?? null,
         isActive: true,
       })),
     });
