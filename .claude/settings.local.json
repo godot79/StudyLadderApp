@@ -34,7 +34,8 @@
       "Bash(sqlite3 prisma/dev.db \"SELECT COUNT\\(*\\) FROM SessionQuestion sq JOIN Question q ON sq.questionId=q.id WHERE q.subject='maths' AND q.levelBand IS NULL;\")",
       "Bash(sqlite3 prisma/dev.db \"SELECT COUNT\\(*\\) FROM ShownQuestion sq JOIN Question q ON sq.questionId=q.id WHERE q.subject='maths' AND q.levelBand IS NULL;\")",
       "Bash(sqlite3 prisma/dev.db \"SELECT subject, levelBand, COUNT\\(*\\) as count FROM Question WHERE isActive=1 GROUP BY subject, levelBand ORDER BY subject, levelBand;\")",
-      "Bash(sqlite3 prisma/dev.db \"SELECT COUNT\\(*\\) as missing_explanation FROM Question WHERE isActive=1 AND explanation IS NULL;\")"
+      "Bash(sqlite3 prisma/dev.db \"SELECT COUNT\\(*\\) as missing_explanation FROM Question WHERE isActive=1 AND explanation IS NULL;\")",
+      "Bash(git fetch *)"
     ]
   }
 }
