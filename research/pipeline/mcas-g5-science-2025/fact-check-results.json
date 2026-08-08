@@ -1,0 +1,92 @@
+[
+  {
+    "prompt": "Over many years, wind and rain slowly carved a smooth tunnel through a tall limestone cliff by the ocean. Which process most likely created this tunnel?",
+    "verdict": "confirmed",
+    "note": "Weathering by water (acid rain dissolving limestone) and erosion carve caves and tunnels through rock over time. This is well-established geological process.",
+    "source": "National Geographic, geology science sources confirm water mixed with carbon dioxide forms carbonic acid that dissolves limestone to create caves and tunnels."
+  },
+  {
+    "prompt": "A farmer plants a vegetable garden near a forest where rabbits live. Rabbits eat many garden vegetables including lettuce, carrots, and beans. Which of the following plants would most likely survive in this garden?",
+    "verdict": "confirmed",
+    "note": "Plants with thorns and bitter-tasting leaves are documented natural defenses that herbivores like rabbits and deer avoid.",
+    "source": "Multiple horticultural sources (Wild Ones, Forrest Keeling Nursery) confirm thorns and bitter compounds are effective plant defenses against herbivores."
+  },
+  {
+    "prompt": "A school installs panels on its roof to capture energy from the sun and turn it into electricity for the building. What type of energy resource does the sun provide?",
+    "verdict": "confirmed",
+    "note": "Solar energy is renewable; the sun has approximately 4.5 billion years remaining in its lifespan, making it effectively inexhaustible on human timescales.",
+    "source": "Multiple sources (SolarTechOnline, NRG Clean Power, Britannica) confirm the sun will continue providing energy for billions of years."
+  },
+  {
+    "prompt": "Colorado Springs has a sunny, dry climate with clear skies most days. Seattle, Washington has a cloudy, rainy climate with many overcast days. Which of the following best explains why solar panels in Colorado Springs can generate more electricity than solar panels in Seattle?",
+    "verdict": "confirmed",
+    "note": "Colorado Springs receives ~5.5-5.7 peak sun hours daily versus Seattle's ~3.5 PSH; clear skies account for this difference. IMPORTANT NUANCE: Colorado Springs' elevation (6,000+ feet) also significantly contributes—thinner atmosphere increases solar irradiance by ~10-12% per 1,000 meters of elevation. Quiz answer may be incomplete if it only attributes the difference to cloud cover, ignoring elevation's substantial effect.",
+    "source": "TurbineGenerator.org, SolarPanel.news, and elevation/irradiance studies confirm both cloud cover and elevation contribute to Colorado Springs' solar advantage."
+  },
+  {
+    "prompt": "A toy uses a hanging weight attached to a string to wind up and spin a propeller, until the weight reaches the ground. Which change would make the propeller spin for a longer time before stopping?",
+    "verdict": "confirmed",
+    "note": "Gravitational potential energy is directly proportional to height (PE = mgh). Greater height means more potential energy available to do work.",
+    "source": "Physics education sources (Pearson, Lumen Learning, Physics LibreTexts) confirm PE = mgh relationship."
+  },
+  {
+    "prompt": "A swimmer kicks off from the wall of a pool. As they push hard against the wall in one direction, they move forward through the water in the opposite direction. What caused the swimmer to move?",
+    "verdict": "confirmed",
+    "note": "Unbalanced forces cause objects to accelerate or change direction. The swimmer's push creates an unbalanced force that results in acceleration.",
+    "source": "Physics Classroom and CK-12 Foundation confirm unbalanced forces cause acceleration per Newton's Second Law."
+  },
+  {
+    "prompt": "A concrete barrier is built to stop flooding. A sand dune is a natural raised bank covered in beach grass and plants. Which of the following is an advantage of using a sand dune instead of a concrete barrier to protect against flooding?",
+    "verdict": "confirmed",
+    "note": "Natural sand dunes offer environmental advantages: they support nature/recreation, are cheaper than concrete, and don't destroy habitats or disrupt tidal dynamics like hard barriers do.",
+    "source": "NOAA Coastal Science and New Jersey Sea Grant documentation show dunes reduce wave impact and have environmental benefits; ScienceDirect research shows concrete barriers cause habitat destruction and erosion problems."
+  },
+  {
+    "prompt": "A bridge can be made from steel, wood, or stone. An engineer wants to know which material makes the strongest bridge. Which of the following is the best way for the engineer to determine which material is strongest?",
+    "verdict": "confirmed",
+    "note": "Scientific testing requires identical conditions, standardized equipment, and controlled measurements across all samples to ensure reliable, comparable results.",
+    "source": "ScienceDirect, Britannica, and Xometry confirm material testing requires standardized devices, identical conditions, and consistent measurement protocols."
+  },
+  {
+    "prompt": "A student mixed sugar into a cup of tea and recorded the temperature, color, and smell before and after mixing. Which of the following questions was the student most likely investigating?",
+    "verdict": "confirmed",
+    "note": "Color change, temperature change, and odor change are all recognized indicators of chemical reactions.",
+    "source": "Chemistry education sources confirm temperature, color, and smell changes are key indicators of chemical reactions."
+  },
+  {
+    "prompt": "In a scooter, the axle is a metal rod that the wheels are attached to. What is the main function of the axle in a scooter?",
+    "verdict": "confirmed",
+    "note": "An axle is a rod that wheels rotate around. It is the pin or shaft on which wheels rotate and that allows vehicles to move.",
+    "source": "Dictionary.com, Vocabulary.com, and Wikipedia define axle as a rod around which wheels rotate."
+  },
+  {
+    "prompt": "Long ago, sailors on ships used hand signals and horn sounds to communicate with other ships instead of using radio equipment. Which of the following is an advantage of using hand signals for communication instead of a radio?",
+    "verdict": "confirmed",
+    "note": "Visual hand signals work across language barriers and do not require a shared language, while spoken communication requires mutual understanding of the language.",
+    "source": "Multiple sources confirm hand signals and visual communication transcend language barriers; manual communication research shows visual signals are powerful across diverse groups."
+  },
+  {
+    "prompt": "A wind turbine converts the moving air into electrical energy. Under which of the following conditions will a wind turbine produce the most electrical energy?",
+    "verdict": "confirmed",
+    "note": "Higher wind speeds produce more electrical energy. Wind power increases with the cube of wind speed—doubling wind speed increases power eightfold.",
+    "source": "Energy Education, Business Norway, and SolarTechOnline confirm wind turbine output increases with wind speed following cubic relationship."
+  },
+  {
+    "prompt": "A skateboarder rides down a hill, then up the other side. Their speed is 8 miles per hour part way up the hill, 5 miles per hour at the very top of the hill, and 12 miles per hour part way down the other side. A student says that the skateboard has the most kinetic energy when it is at the top of the hill. What evidence shows that this student's claim is incorrect?",
+    "verdict": "confirmed",
+    "note": "Kinetic energy increases with the square of speed (KE = ½mv²). At 12 mph, kinetic energy is greater than at 5 mph, so the skateboard has most kinetic energy part way down the other side, not at the top.",
+    "source": "Physics education sources confirm KE = ½mv² relationship, showing kinetic energy is proportional to the square of velocity."
+  },
+  {
+    "prompt": "A metal rail runs along a subway platform. If lightning were to strike the rail, it must safely conduct electricity away from people and into the ground. What material should be used for this conductive rail?",
+    "verdict": "confirmed",
+    "note": "Metals are excellent electrical conductors due to freely moving electrons. Plastic, rubber, and ceramic are insulators that do not conduct electricity.",
+    "source": "Study.com, Scientific American, and CK-12 Foundation confirm metals conduct electricity while plastic, rubber, and ceramics are insulators."
+  },
+  {
+    "prompt": "Two rabbits with brown fur and long ears are bred together and have baby rabbits. One parent rabbit was trained to hop through a tunnel at a young age, and the other parent learned to come when called—things they were taught, not born knowing. Which of the following is a trait the baby rabbits would most likely inherit from their parents?",
+    "verdict": "confirmed",
+    "note": "Physical traits like fur color and body shape are inherited through genes. Learned behaviors like trained tricks must be learned, not inherited.",
+    "source": "Multiple education sources distinguish inherited traits (genetic) from learned behaviors (acquired through experience); examples include eye color inherited vs. skills learned."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "sourceItemNum": 1,
+    "originalPrompt": "A rock formation at a beach has a hole worn through it by the water/waves over time. Q: How did the hole most likely form?",
+    "options": ["Lava turned into rock", "Deposition of sediment occurred", "Weathering and erosion occurred", "Heat and pressure were applied to rock layers"],
+    "correctAnswer": "C",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Weathering and erosion is core earth science. The photo of a rock arch shows a tangible example of erosion; the essential fact (hole worn by water over time) is clearly stated in the prompt and can be restated in plain text without the photo. Photo-dependence is NOT a blocker because the text is sufficient."
+  },
+  {
+    "sourceItemNum": 2,
+    "originalPrompt": "A gardener plants a flower garden where many deer live; deer eat flowers/leaves/stems of most plants. Four plant options described. Q: Which plant is most likely to survive?",
+    "options": ["red flower with sharp thorns", "purple flower with thin stem", "climbing vine with pointy leaves", "grass-like leaf with long stem, no distinguishing defense"],
+    "correctAnswer": "A",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Animal adaptation and plant defense — core life science. Requires understanding that thorns deter herbivores. Clear, no diagram dependence."
+  },
+  {
+    "sourceItemNum": 3,
+    "originalPrompt": "Two storm drain cover designs (X: wider gaps; Y: narrower gaps) are compared for filtering street runoff. Q: What's a benefit of design Y (narrower gaps) over X?",
+    "options": ["Water flows more slowly through Y", "Less material needed for Y", "Design Y blocks more trash from going into the drain", "Design Y blocks more water from going into the drain"],
+    "correctAnswer": "C",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Engineering/filtering concept. Straightforward comparison of design trade-offs. No diagram needed beyond what's stated in text."
+  },
+  {
+    "sourceItemNum": 4,
+    "originalPrompt": "Weather table for 3 days in one of two compared cities (Boston vs Phoenix): highs ~102-104°F, lows ~72-75°F, 13.5 hrs sunshine, no precipitation. Q: In which city and month were the data most likely collected?",
+    "options": ["Boston in May", "Boston in August", "Phoenix in June", "Phoenix in October"],
+    "correctAnswer": "C",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Climate and seasonal weather patterns. Requires matching extreme heat and aridity to Phoenix's climate and June. Accessible via existing climate knowledge; no diagram is essential."
+  },
+  {
+    "sourceItemNum": 5,
+    "originalPrompt": "[Two-part] Comparing Boston (rainy/humid, cold winters) and Phoenix (hot/dry desert) and two weather events: nor'easter (heavy rain, strong wind) and extreme heat with little rain for months. Q: Which table correctly matches each weather event to the city it would occur in AND the resulting type of erosion?",
+    "options": ["nor'easter in Boston → water carries sand; extreme heat/drought in Phoenix → soil blows away", "nor'easter in Phoenix → wind erosion; extreme heat/drought in Boston → water erosion", "both weather events occur in both cities equally", "weather events cannot cause erosion"],
+    "correctAnswer": "A",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Multi-step reasoning: match weather events to cities (climate knowledge) AND match to erosion type (weathering/erosion processes). Harder item. Diagram/table format is described in prose; can be restructured as single-answer item by focusing on the correct pairing and erosion type."
+  },
+  {
+    "sourceItemNum": 6,
+    "originalPrompt": "[Two-part] (a) Q: What kind of energy resource do solar panels use? (A) renewable (B) nonrenewable. (b) Q: Why can more electricity be generated from solar panels in Phoenix than Boston?",
+    "options": ["(a) renewable; (b) Phoenix is farther from ocean", "(a) renewable; (b) Phoenix has warmer temperatures", "(a) renewable; (b) Phoenix has more hours of sunshine", "(a) nonrenewable; (b) any reason"],
+    "correctAnswer": "A (renewable), C (more hours of sunshine)",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Two-part: renewable energy + climate impact on solar generation. Both parts are core science. The second part requires understanding that sunshine hours matter more than temperature. Can be kept as a single item focusing on the key distinguishing factor (sunshine hours)."
+  },
+  {
+    "sourceItemNum": 7,
+    "originalPrompt": "[CONSTRUCTED RESPONSE — no fixed correct answer]",
+    "options": [],
+    "correctAnswer": "N/A",
+    "classification": "DROP",
+    "subject": "N/A",
+    "reasoning": "Constructed response with no single fixed answer. Out of scope per schema requirements and extraction notes."
+  },
+  {
+    "sourceItemNum": 8,
+    "originalPrompt": "A toy device: a weight tied to a rope falls and spins a fan via a rod, until the weight hits the ground. Q: Which change would make the fan spin for a LONGER time?",
+    "options": ["making the rod longer", "making the fan blades larger", "tying a thicker rope to the weight", "dropping the weight from a greater height"],
+    "correctAnswer": "D",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Gravitational potential energy and energy transfer. Requires understanding that height increases potential energy available for work. Moderate-to-harder reasoning."
+  },
+  {
+    "sourceItemNum": 9,
+    "originalPrompt": "A balloon taped to a straw threaded on a string is inflated and released; air rushes out one end and the balloon shoots the opposite direction (balloon rocket). Q: What caused the balloon to move?",
+    "options": ["The forces on the balloon were balanced", "The forces on the balloon were unbalanced", "The force of gravity equaled the force of friction", "The force of friction equaled the force from the moving air"],
+    "correctAnswer": "B",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Unbalanced forces and Newton's laws. Clear example of force causing motion. Diagram shows the motion direction, but the text description is sufficient."
+  },
+  {
+    "sourceItemNum": 10,
+    "originalPrompt": "[CONSTRUCTED RESPONSE — no fixed correct answer]",
+    "options": [],
+    "correctAnswer": "N/A",
+    "classification": "DROP",
+    "subject": "N/A",
+    "reasoning": "Constructed response. Out of scope."
+  },
+  {
+    "sourceItemNum": 11,
+    "originalPrompt": "[CONSTRUCTED RESPONSE — no fixed correct answer]",
+    "options": [],
+    "correctAnswer": "N/A",
+    "classification": "DROP",
+    "subject": "N/A",
+    "reasoning": "Constructed response. Out of scope."
+  },
+  {
+    "sourceItemNum": 12,
+    "originalPrompt": "A student stirs salt into a beaker of water and observes color, smell, and temperature before/after. Q: Which question was the student most likely investigating?",
+    "options": ["Can gases have a color?", "Did the water gain stored energy?", "Did a chemical reaction take place?", "How does temperature affect smell?"],
+    "correctAnswer": "C",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Inquiry and scientific method. Distinguishes between physical and chemical change. Requires understanding what evidence suggests a chemical reaction (though salt dissolving is actually a physical change, the question asks what was being investigated)."
+  },
+  {
+    "sourceItemNum": 13,
+    "originalPrompt": "A toy car powered by a stretched rubber band has an axle connecting the rubber band mechanism to the rear wheels. Q: What is the main function of the axle?",
+    "options": ["holds the car body together", "spins and turns the rear wheels", "keeps the car body on the ground", "adds extra weight to the bottom"],
+    "correctAnswer": "B",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Simple mechanical function. Accessible to 9-year-olds. No diagram needed beyond what's stated."
+  },
+  {
+    "sourceItemNum": 14,
+    "originalPrompt": "Ships communicate using flag signal combinations instead of radio. Q: What's an advantage of flags over talking on a radio?",
+    "options": ["messages can be sent/received at night", "encoding is the fastest way to send messages", "messages don't need to be decoded to be understood", "the people encoding/decoding don't have to speak the same language"],
+    "correctAnswer": "D",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Communication systems and technology. Requires reasoning about language dependence and encoding. Accessible concept."
+  },
+  {
+    "sourceItemNum": 15,
+    "originalPrompt": "[Two-part] Demonstration: dry paper pushed into bottom of an upside-down cup; cup pushed underwater for 2 seconds; paper stays completely dry. (a) Q: Why did the paper stay dry? (b) Q: Which property of matter supports this?",
+    "options": ["(a) A force pulled water away; (b) All matter takes up space", "(a) Electrical forces repelled water; (b) All matter expands", "(a) Paper filled the cup; (b) All matter can be pushed apart", "(a) Air in the cup prevented water; (b) All matter is pulled toward Earth"],
+    "correctAnswer": "D for (a), A for (b)",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Properties of matter (air takes up space) and evidence/reasoning. Two-part but both address the same observation. Can be kept as single MCQ focused on the key reasoning (air prevents water)."
+  },
+  {
+    "sourceItemNum": 16,
+    "originalPrompt": "A wind turbine converts wind's kinetic energy into electricity. Q: Under which conditions will it produce the MOST electrical energy?",
+    "options": ["temps 20-30°F", "temps 70-80°F", "wind speeds 5-10 mph", "wind speeds 15-20 mph"],
+    "correctAnswer": "D",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Kinetic energy and wind power. Requires understanding that wind speed (not temperature) determines turbine output, and faster wind = more energy. Moderate difficulty."
+  },
+  {
+    "sourceItemNum": 17,
+    "originalPrompt": "[CONSTRUCTED RESPONSE — no fixed correct answer]",
+    "options": [],
+    "correctAnswer": "N/A",
+    "classification": "DROP",
+    "subject": "N/A",
+    "reasoning": "Constructed response. Out of scope."
+  },
+  {
+    "sourceItemNum": 18,
+    "originalPrompt": "A bicyclist rides over a hill: 15 km/hr going up, 10 km/hr at the top, 20 km/hr coming down. A student claims the bike has the MOST kinetic energy at the top of the hill. Q: What evidence shows this claim is WRONG?",
+    "options": ["The bicycle has to be pedaled going up", "The bicycle has a constant mass at the top", "The bicycle can move down without being pedaled", "The bicycle is moving slowest at the top"],
+    "correctAnswer": "D",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Kinetic energy depends on speed. Requires disproving a claim using evidence. Harder reasoning (must evaluate the claim critically)."
+  },
+  {
+    "sourceItemNum": 19,
+    "originalPrompt": "A lightning rod on a building conducts a lightning strike's electricity safely down a wire to the ground. Q: What material should the lightning rod be made of?",
+    "options": ["metal", "plastic", "rubber", "wood"],
+    "correctAnswer": "A",
+    "classification": "KEEP",
+    "subject": "science",
+    "reasoning": "Electrical conductivity. Basic material science. Accessible to younger students."
+  },
+  {
+    "sourceItemNum": 20,
+    "originalPrompt": "[MULTI-SELECT — select TWO] A male and female dog are bred and produce puppies. Which of these are inherited traits?",
+    "options": ["fur color (inherited)", "tail length (inherited)", "catching a ball (trained behavior)", "sitting on command (trained behavior)"],
+    "correctAnswer": "TWO: fur color AND tail length",
+    "classification": "KEEP (with restructure)",
+    "subject": "science",
+    "reasoning": "Inherited vs. learned traits. Multi-select in source, but schema requires single correct option. Restructure into single-answer MCQ: ask which ONE is inherited (correct: fur color or tail length) with three learned-behavior distractors. This preserves the core concept without forcing a multi-select format."
+  }
+]

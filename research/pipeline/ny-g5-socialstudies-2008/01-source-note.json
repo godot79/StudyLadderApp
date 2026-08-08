@@ -1,0 +1,8 @@
+{
+  "source": "NY State Grade 5 Elementary-Level Social Studies Test, November 12, 2008",
+  "url": "https://www.nysedregents.org/grade5/socialstudies/20081112book1.pdf",
+  "publisher": "New York State Education Department (NYSED)",
+  "license": "No explicit reuse/copy permission statement found on the document (unlike MCAS, which grants explicit non-commercial reuse). Page 1 states '© 2008 The University of the State of New York / The State Education Department'. Official government source, free/public, no login — but weaker license footing than the MCAS or UK OGL sources. Flagged for human review at merge time.",
+  "scope_note": "This is a broad Social Studies test (US history, civics, economics, world cultures, geography). Only a subset of items are geography content proper -- the rest are US/NY history and civics with no destination file in this app (maths, english, geography, space, science) and must be flagged 'no destination file', not shoehorned into geography.",
+  "extracted_items_note": "35 multiple-choice items (Part I) + 12 short-answer constructed-response items (Part II) fully captured below via recall-first extraction. All Part I items are usable in principle (four-option MCQ format already matches our schema); several depend on an image/map/chart whose underlying data is restated in the question text or source table, so they can be rewritten without needing the image itself. Part II constructed-response items have no fixed single answer as printed and are NOT directly usable in our four-option MCQ schema; deferred/rejected for this batch."
+}

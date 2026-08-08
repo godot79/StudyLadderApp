@@ -1,0 +1,13 @@
+[
+  {
+    "subject": "science",
+    "levelBand": "Age 9",
+    "prompt": "Many factories and power plants release smoke and harmful gases into the air. Car engines also produce exhaust fumes. Ships and airplanes burn fuel that creates emissions. Which of these activities creates the most air pollution in a busy city?",
+    "optionA": "Heavy traffic with many cars driving on busy roads",
+    "optionB": "Rain falling and cleaning the air around buildings",
+    "optionC": "Forests and trees growing in parks throughout the city",
+    "optionD": "Wind blowing between skyscrapers and buildings",
+    "correctOption": "A",
+    "explanation": "Cars and trucks release harmful exhaust gases when their engines burn fuel. In a busy city with heavy traffic, thousands of vehicles emit pollution continuously. While rain cleans air, forests help by absorbing pollution, and wind disperses it, the main source of air pollution in cities is vehicle emissions from cars, trucks, and buses."
+  }
+]

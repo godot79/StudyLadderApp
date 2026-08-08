@@ -1,0 +1,17 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A toy uses a hanging weight attached to a string to wind up and spin a propeller, until the weight reaches the ground. Which change would make the propeller spin for a longer time before stopping?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A bridge can be made from steel, wood, or stone. An engineer wants to know which material makes the strongest bridge. Which of the following is the best way for the engineer to determine which material is strongest?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A skateboarder rides down a hill, then up the other side. Their speed is 8 miles per hour part way up the hill, 5 miles per hour at the very top of the hill, and 12 miles per hour part way down the other side. A student says that the skateboard has the most kinetic energy when it is at the top of the hill. What evidence shows that this student's claim is incorrect?\") assigned Age 11 but has a low difficulty-heuristic score (2) — check it isn't too easy for this band."
+  }
+]

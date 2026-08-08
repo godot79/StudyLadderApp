@@ -1,0 +1,38 @@
+[
+  {
+    "prompt": "Many factories and power plants release smoke and harmful gases into the air. Car engines also produce exhaust fumes. Ships and airplanes burn fuel that creates emissions. Which of these activities creates the most air pollution in a busy city?",
+    "verdict": "confirmed",
+    "note": "Vehicle emissions are confirmed as a major source of urban air pollution (56% of carbon monoxides nationally, up to 95% in cities; 45% of nitrogen oxides from transportation). However, the prompt asks which creates THE MOST—vehicles are major but the relative contribution compared to factories/ships varies by city context.",
+    "source": "Union of Concerned Scientists, UCS.org; Clarity.io analysis on traffic emissions"
+  },
+  {
+    "prompt": "The Earth is divided into temperature zones based on latitude — the distance north or south from the equator. The tropical zone near the equator receives strong, direct rays from the sun throughout the year. The polar zones near the North and South Poles receive weaker, slanted sunlight. The temperate zones are between the tropics and poles, with seasons that change throughout the year. Which of these statements is correct?",
+    "verdict": "confirmed",
+    "note": "Confirmed: equatorial regions receive more direct sunlight year-round, causing higher solar energy concentration and warmer temperatures compared to polar regions with oblique rays. Note: tropical regions can actually be hotter than the equator due to atmospheric patterns, but the basic premise about direct vs. slanted sunlight is scientifically accurate.",
+    "source": "World Atlas, Study Country, Vaia educational resources on solar radiation distribution"
+  },
+  {
+    "prompt": "Latitude lines on maps help us understand where places are located on Earth. The equator divides the Earth into the Northern Hemisphere (above the equator) and Southern Hemisphere (below the equator). Other important latitude lines include the Arctic Circle in the far north and the Antarctic Circle in the far south. Which statement about Australia is true?",
+    "verdict": "confirmed",
+    "note": "Australia is entirely located in the Southern Hemisphere, approximately 2,500 km south of the equator, between 10° and 39° South latitudes.",
+    "source": "World Population Review, Vedantu, CK-12 Foundation"
+  },
+  {
+    "prompt": "Different countries in Europe are located next to different seas and oceans. The Mediterranean Sea borders countries in southern Europe. The Baltic Sea borders several countries in northern Europe. The English Channel separates England from France. The North Sea borders several northern European countries. Which of these countries has a coastline on the Mediterranean Sea?",
+    "verdict": "confirmed",
+    "note": "Greece is confirmed to be in southeastern Europe with a Mediterranean Sea coastline. It has the longest coastline on the Mediterranean Basin with approximately 13,676 km (8,498 mi) of coastline and about 6,000 islands.",
+    "source": "National Geographic Kids, Britannica, World Atlas"
+  },
+  {
+    "prompt": "The seven continents have very different sizes. Asia is the largest continent, covering about 30% of all land on Earth. Africa is the second-largest continent. When you combine the land area of the two largest continents, they together make up nearly half of Earth's total land surface. Which of these continents is the second-largest by land area?",
+    "verdict": "confirmed",
+    "note": "Africa is confirmed as the second-largest continent at 11.5 million square miles (30.1 million km²), after Asia. Together they account for approximately 50% of Earth's land area.",
+    "source": "Vedantu, World Population Review, Britannica, World Atlas, Facts Institute"
+  },
+  {
+    "prompt": "Continents vary greatly in size. Asia is by far the largest continent, while Europe covers less than 7% of Earth's land area. When comparing four continents — Europe, South America, Australia, and Antarctica — one is noticeably smaller than the others. Which of these four continents has the smallest total land area?",
+    "verdict": "confirmed",
+    "note": "Australia is confirmed as the smallest continent in the world by land area at 8.56 million square kilometers (3.31 million square miles).",
+    "source": "Byjus, iSchoolConnect, Geoscience Australia, Wikipedia, World Atlas"
+  }
+]

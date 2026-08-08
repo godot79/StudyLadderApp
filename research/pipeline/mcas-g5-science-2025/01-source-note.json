@@ -1,0 +1,14 @@
+{
+  "sourceName": "Massachusetts DESE Grade 5 Science and Technology/Engineering Test (Spring 2025)",
+  "sourceUrl": "https://www.doe.mass.edu/mcas/2025/release/g5-ste.pdf",
+  "sourceGrade": "Grade 5",
+  "sourceAgeRange": "age 10-11",
+  "releaseDate": "July 2025",
+  "licenseText": "Permission is hereby granted to copy for non-commercial educational purposes any or all parts of this document. Please credit the Massachusetts Department of Elementary and Secondary Education.",
+  "licenseType": "Free for educational reuse with attribution",
+  "extractionNotes": "Of approximately 20 released selected-response (multiple-choice) items from this test, only 15 were usable for this app. Items requiring diagrams, graphs, images, or other visual aids (such as maps, charts, or technical drawings) were excluded because they cannot be adequately reproduced in a text-based study app. One constructed-response (open-ended) item was also excluded because it does not have a single fixed correct answer. The 15 items selected all require only text comprehension and factual/conceptual knowledge to answer correctly.",
+  "itemsExtractedTotal": 20,
+  "itemsUsable": 15,
+  "itemsExcludedReason": "Diagram/graph/image required or constructed-response with no fixed answer",
+  "pipelineStep": "Step 1 extraction (human) and Step 2-3 classification/transformation (AI)"
+}

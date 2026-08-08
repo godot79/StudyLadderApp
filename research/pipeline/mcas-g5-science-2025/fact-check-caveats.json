@@ -1,0 +1,8 @@
+[
+  {
+    "prompt": "Colorado Springs has a sunny, dry climate with clear skies most days. Seattle, Washington has a cloudy, rainy climate with many overcast days. Which of the following best explains why solar panels in Colorado Springs can generate more electricity than solar panels in Seattle?",
+    "verdict": "confirmed",
+    "note": "Colorado Springs receives ~5.5-5.7 peak sun hours daily versus Seattle's ~3.5 PSH; clear skies account for this difference. IMPORTANT NUANCE: Colorado Springs' elevation (6,000+ feet) also significantly contributes—thinner atmosphere increases solar irradiance by ~10-12% per 1,000 meters of elevation. Quiz answer may be incomplete if it only attributes the difference to cloud cover, ignoring elevation's substantial effect.",
+    "source": "TurbineGenerator.org, SolarPanel.news, and elevation/irradiance studies confirm both cloud cover and elevation contribute to Colorado Springs' solar advantage."
+  }
+]

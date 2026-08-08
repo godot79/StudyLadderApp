@@ -1,0 +1,8 @@
+[
+  {
+    "prompt": "Many factories and power plants release smoke and harmful gases into the air. Car engines also produce exhaust fumes. Ships and airplanes burn fuel that creates emissions. Which of these activities creates the most air pollution in a busy city?",
+    "verdict": "confirmed",
+    "note": "Vehicle emissions are confirmed as a major source of urban air pollution (56% of carbon monoxides nationally, up to 95% in cities; 45% of nitrogen oxides from transportation). However, the prompt asks which creates THE MOST—vehicles are major but the relative contribution compared to factories/ships varies by city context.",
+    "source": "Union of Concerned Scientists, UCS.org; Clarity.io analysis on traffic emissions"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "subject": "general-science",
+    "levelBand": "Age 10",
+    "prompt": "A farmer plants a vegetable garden near a forest where rabbits live. Rabbits eat many garden vegetables including lettuce, carrots, and beans. Which of the following plants would most likely survive in this garden?",
+    "optionA": "A plant with bitter-tasting leaves and thorny stems",
+    "optionB": "A leafy plant with tender, soft leaves and no protection",
+    "optionC": "A climbing plant with smooth, juicy stems",
+    "optionD": "A short plant with thin, delicate leaves",
+    "correctOption": "A",
+    "explanation": "Plants with bitter taste or thorns protect themselves from being eaten by rabbits. Thorns and bad taste discourage animals from eating the plant."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 9",
+    "prompt": "A school installs panels on its roof to capture energy from the sun and turn it into electricity for the building. What type of energy resource does the sun provide?",
+    "optionA": "Renewable",
+    "optionB": "Nonrenewable",
+    "optionC": "Fossil fuel",
+    "optionD": "Limited to polar regions",
+    "correctOption": "A",
+    "explanation": "The sun produces energy every day and will do so for billions of years. We can use this energy over and over, which makes it renewable."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 11",
+    "prompt": "A toy uses a hanging weight attached to a string to wind up and spin a propeller, until the weight reaches the ground. Which change would make the propeller spin for a longer time before stopping?",
+    "optionA": "Using a thicker, heavier string",
+    "optionB": "Making the propeller blades smaller",
+    "optionC": "Releasing the weight from a greater height",
+    "optionD": "Replacing the weight with a lighter one",
+    "correctOption": "C",
+    "explanation": "When the weight falls from a greater height, it has more energy to transfer to spinning the propeller. More energy means the propeller spins longer."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 10",
+    "prompt": "A swimmer kicks off from the wall of a pool. As they push hard against the wall in one direction, they move forward through the water in the opposite direction. What caused the swimmer to move?",
+    "optionA": "The forces pushing on the swimmer were balanced",
+    "optionB": "The forces pushing on the swimmer were unbalanced",
+    "optionC": "The force of gravity on the swimmer was equal to the force of the water",
+    "optionD": "The force of friction was the only force acting on the swimmer",
+    "correctOption": "B",
+    "explanation": "The swimmer moves because an unbalanced force is pushing them—the push against the wall is stronger than the resistance from the water. Unbalanced forces cause objects to move."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 11",
+    "prompt": "A bridge can be made from steel, wood, or stone. An engineer wants to know which material makes the strongest bridge. Which of the following is the best way for the engineer to determine which material is strongest?",
+    "optionA": "The engineer builds one bridge from steel and tests it when a heavy truck crosses",
+    "optionB": "The engineer asks construction workers which material they prefer to use",
+    "optionC": "The engineer builds test bridges from each material and compares how much weight each one can hold before breaking",
+    "optionD": "The engineer measures the temperature and humidity where bridges made from each material are located",
+    "correctOption": "C",
+    "explanation": "To fairly compare materials, the engineer must test bridges made from each material using the same conditions and measurement method. This is a controlled comparison."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 10",
+    "prompt": "A student mixed sugar into a cup of tea and recorded the temperature, color, and smell before and after mixing. Which of the following questions was the student most likely investigating?",
+    "optionA": "Can liquids have a taste?",
+    "optionB": "Did the tea gain stored energy?",
+    "optionC": "Did a chemical reaction take place?",
+    "optionD": "How does temperature affect the color of tea?",
+    "correctOption": "C",
+    "explanation": "A chemical reaction changes the properties of a substance, such as its color, temperature, and smell. By observing these changes, the student was testing whether a chemical reaction happened."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 9",
+    "prompt": "In a scooter, the axle is a metal rod that the wheels are attached to. What is the main function of the axle in a scooter?",
+    "optionA": "It holds the deck and frame together",
+    "optionB": "It spins and allows the wheels to turn",
+    "optionC": "It keeps the scooter body off the ground",
+    "optionD": "It adds weight to make the scooter more stable",
+    "correctOption": "B",
+    "explanation": "The axle is a rod that wheels spin around. When you push the scooter forward, the axle rotates, which makes the wheels turn and moves you forward."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 10",
+    "prompt": "Long ago, sailors on ships used hand signals and horn sounds to communicate with other ships instead of using radio equipment. Which of the following is an advantage of using hand signals for communication instead of a radio?",
+    "optionA": "The messages can be sent and received underwater",
+    "optionB": "Sending the messages is faster than using a radio",
+    "optionC": "The messages can be sent without needing to speak or share a language",
+    "optionD": "The messages are secure and cannot be heard by anyone else",
+    "correctOption": "C",
+    "explanation": "Hand signals can be understood by people who speak different languages because you don't need words. A radio requires speakers to understand the same language."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 10",
+    "prompt": "A wind turbine converts the moving air into electrical energy. Under which of the following conditions will a wind turbine produce the most electrical energy?",
+    "optionA": "When the air temperature is 32-40°F",
+    "optionB": "When the air temperature is 75-85°F",
+    "optionC": "When the wind speed is 8-12 miles per hour",
+    "optionD": "When the wind speed is 18-25 miles per hour",
+    "correctOption": "D",
+    "explanation": "Faster winds carry more energy. Wind turbines produce the most electricity when the wind is blowing fastest, because moving air has more kinetic energy to convert."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 11",
+    "prompt": "A skateboarder rides down a hill, then up the other side. Their speed is 8 miles per hour part way up the hill, 5 miles per hour at the very top of the hill, and 12 miles per hour part way down the other side. A student says that the skateboard has the most kinetic energy when it is at the top of the hill. What evidence shows that this student's claim is incorrect?",
+    "optionA": "The skateboard must be pushed to go up the hill",
+    "optionB": "The skateboard has a constant weight at the top of the hill",
+    "optionC": "The skateboard moves faster part way down the hill than at the top",
+    "optionD": "The skateboard rolls without friction at the top of the hill",
+    "correctOption": "C",
+    "explanation": "Kinetic energy depends on how fast an object is moving. The skateboard is moving faster (12 mph) part way down than at the top (5 mph), so it has more kinetic energy going down."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 9",
+    "prompt": "A metal rail runs along a subway platform. If lightning were to strike the rail, it must safely conduct electricity away from people and into the ground. What material should be used for this conductive rail?",
+    "optionA": "Metal",
+    "optionB": "Plastic",
+    "optionC": "Rubber",
+    "optionD": "Ceramic",
+    "correctOption": "A",
+    "explanation": "Metal conducts electricity well and allows it to flow safely to the ground. Plastic, rubber, and ceramic are insulators—they block electricity and keep it from flowing."
+  },
+  {
+    "subject": "general-science",
+    "levelBand": "Age 10",
+    "prompt": "Two rabbits with brown fur and long ears are bred together and have baby rabbits. One parent rabbit was trained to hop through a tunnel at a young age, and the other parent learned to come when called—things they were taught, not born knowing. Which of the following is a trait the baby rabbits would most likely inherit from their parents?",
+    "optionA": "Brown fur color",
+    "optionB": "The ability to hop through a tunnel",
+    "optionC": "Coming when called",
+    "optionD": "The skill to find food quickly",
+    "correctOption": "A",
+    "explanation": "Fur color is inherited—it comes from the parents' genes. Trained behaviors like hopping through tunnels or coming when called must be learned; they are not passed down genetically."
+  }
+]

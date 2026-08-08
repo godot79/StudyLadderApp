@@ -1,0 +1,223 @@
+{
+  "batch_source": "NY State Grade 5 Elementary-Level Social Studies Test, November 12, 2008",
+  "batch_scope": "Part I: 35 multiple-choice items",
+  "classification_notes": "Recall-first audit trail. Only items with destination 'geography' or 'science' will be included in 02-transformed.json. Items flagged 'none' are outside the app's current subject scope (no destination seed file) and are excluded from transformation.",
+  "items": [
+    {
+      "item_number": 1,
+      "original_prompt": "Photo of children from different cultures wearing traditional dress. Q: They most often wear these styles of clothing in order to (A) celebrate their history and customs (B) compete in costume contests (C) demonstrate special sewing skills (D) play in sporting events.",
+      "destination": "none",
+      "reason": "This is a cultural/anthropology item focused on the social meaning of traditional clothing. While it touches world cultures, it is not physical geography (map/globe skills, climate, countries, continents, or world regions). It is closer to history/social studies."
+    },
+    {
+      "item_number": 2,
+      "original_prompt": "Chart 'Selected Foods of the World': rice+black-eyed peas=Barbados; rice+garlic+fish sauce=Vietnam; basmati rice+vegetables=India; rice+green peas=Italy. Q: Which statement is true based on the chart? (A) Most foreign foods are made with potatoes (B) People in many countries eat rice (C) Only countries in Asia cook with vegetables (D) Black-eyed peas are popular in Italy.",
+      "destination": "none",
+      "reason": "This is a world cultures/food item. While it shows facts about different countries, it focuses on culinary traditions and cultural practices, not physical geography or geographic literacy (map skills, latitude, climate zones, political boundaries, continents)."
+    },
+    {
+      "item_number": 3,
+      "original_prompt": "Q: What is one major cause of air pollution in many modern nations today? (A) smoke coming from factories (B) water flowing over dams (C) Sun heating homes (D) wind powering windmills.",
+      "destination": "science",
+      "reason": "Environmental science. Air pollution and its human/industrial causes are core science concepts appropriate for this subject seed file. Clear, rewritable, no image dependency."
+    },
+    {
+      "item_number": 4,
+      "original_prompt": "Map of Western Hemisphere showing latitude zones (polar/temperate/tropical) with Arctic Circle, Tropic of Cancer, Equator, Tropic of Capricorn, Antarctic Circle labeled; North/South America shown. Q: Which statement about the geography of the Western Hemisphere is true? (A) Most of North America is in a polar zone (B) The equator runs through North America (C) Most temperate zones are located in the middle latitudes (D) All tropical zones are found in the high latitudes.",
+      "destination": "geography",
+      "reason": "Geography — climate zones and latitude. The map data (which zones each region is in) can be restated as plain text without visual reference. Core geographic literacy concept."
+    },
+    {
+      "item_number": 5,
+      "original_prompt": "Same map. Q: Most of North America is located south of the (A) Arctic Circle (B) Equator (C) Tropic of Cancer (D) Antarctic Circle.",
+      "destination": "geography",
+      "reason": "Geography — latitude and hemisphere. Factual claim about location relative to latitude lines. Rewritable without image."
+    },
+    {
+      "item_number": 6,
+      "original_prompt": "Map of Western Europe showing country borders, North Sea, Baltic Sea, Atlantic Ocean, Mediterranean Sea, Black Sea; countries include Portugal, Spain, France, Germany, Denmark, Netherlands, UK, Ireland, Norway, Sweden, Finland, Belgium, Luxembourg, Switzerland, Austria, Italy, Greece. Q: Which of these countries borders the North Sea? (A) Portugal (B) Finland (C) Ireland (D) Denmark.",
+      "destination": "geography",
+      "reason": "Geography — political geography (countries) and physical geography (seas/oceans). The map's data (country positions relative to the North Sea) can be restated as a fact. Core geographic knowledge."
+    },
+    {
+      "item_number": 7,
+      "original_prompt": "Q: Which term is used to define goods brought into the United States from another country? (A) immigrants (B) resources (C) exports (D) imports.",
+      "destination": "none",
+      "reason": "Economics/civics vocabulary. While it touches on trade (which has a geographic dimension), the item is fundamentally about economic terminology and US trade policy, not geographic literacy or physical/political geography."
+    },
+    {
+      "item_number": 8,
+      "original_prompt": "Four picture-stalls: Sam's Cookie Shop (sells cookies), Bill's Baking School ($5/lesson to learn baking), Julia's Jewelry (sells jewelry), Patty's Pizza (sells pizza slices). Q: Which illustrates someone selling a SERVICE (not a good)? Answer: Bill's Baking School (a lesson/instruction is a service, not a physical good).",
+      "destination": "none",
+      "reason": "Economics. Distinguishing goods from services is an economics/business concept, not geography or science."
+    },
+    {
+      "item_number": 9,
+      "original_prompt": "[US/NY History: European colonial settlements in North America]",
+      "destination": "none",
+      "reason": "US/NY history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 10,
+      "original_prompt": "[US/NY History: Iroquois Confederacy]",
+      "destination": "none",
+      "reason": "US/NY history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 11,
+      "original_prompt": "[US History: American Revolutionary War]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 12,
+      "original_prompt": "[US Civics: Bill of Rights]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 13,
+      "original_prompt": "[US Civics: Branches of government]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 14,
+      "original_prompt": "[US Civics: Rights and responsibilities of citizens]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 15,
+      "original_prompt": "[US Civics: Voting and elections]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 16,
+      "original_prompt": "[US History: Westward expansion]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 17,
+      "original_prompt": "[US History: Native American societies]",
+      "destination": "none",
+      "reason": "US/Native American history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 18,
+      "original_prompt": "[US History: Slavery and abolition]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 19,
+      "original_prompt": "[US History: Industrial Revolution in the US]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 20,
+      "original_prompt": "[NY History: Erie Canal]",
+      "destination": "none",
+      "reason": "NY state history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 21,
+      "original_prompt": "[US History: Important historical figures]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 22,
+      "original_prompt": "[US Civics: How government works]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 23,
+      "original_prompt": "[US Civics: Justice system]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 24,
+      "original_prompt": "[US History: Colonial period]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 25,
+      "original_prompt": "[US History: American independence]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 26,
+      "original_prompt": "[US Civics: State government]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 27,
+      "original_prompt": "[US Civics: Local government]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 28,
+      "original_prompt": "[US Civics: Constitutional principles]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 29,
+      "original_prompt": "[US History: Timeline of events]",
+      "destination": "none",
+      "reason": "US history. No destination seed file exists for history."
+    },
+    {
+      "item_number": 30,
+      "original_prompt": "[US Civics: Amendments to the Constitution]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 31,
+      "original_prompt": "[US Civics: Powers and checks/balances]",
+      "destination": "none",
+      "reason": "US civics. No destination seed file exists for civics."
+    },
+    {
+      "item_number": 32,
+      "original_prompt": "Grid map of Washington D.C. with lettered rows (A-E) and numbered columns (1-7); Dept. of State is in C-1, Dept. of Interior in C-2 area. Q: Which government department is located in section C-2? (A) State (B) Agriculture (C) Interior (D) Housing and Urban Development.",
+      "destination": "none",
+      "reason": "Civics/map-reading hybrid. While grid-coordinate reading is a geography skill, this item is fundamentally about US government structure and DC building locations, not geographic literacy (map skills, climates, countries, continents, world regions). The subject matter is civics, not geography."
+    },
+    {
+      "item_number": 33,
+      "original_prompt": "Same map: Capitol building is at approx D-6. Q: What are the coordinates of the Capitol building? (A) B-3 (B) C-3 (C) D-6 (D) D-7.",
+      "destination": "none",
+      "reason": "Civics/map-reading hybrid. Same reasoning as item 32 — the content is US government landmarks and DC locations, not geographic literacy. Map-reading skill alone is not sufficient if the subject is fundamentally civics."
+    },
+    {
+      "item_number": 34,
+      "original_prompt": "Pie chart 'Earth's Land Area' by continent (Asia largest, then Africa, then North America, South America, Antarctica, Europe, Australia smallest). Q: Which two continents make up about half of Earth's land area? (A) North America and South America (B) Africa and North America (C) Antarctica and Asia (D) Africa and Asia. Correct: Asia + Africa are the two largest continents by land area and together are close to half of Earth's total land area.",
+      "destination": "geography",
+      "reason": "Geography — continent sizes and relative land area. Factual knowledge of world geography. The chart data (which continents are largest) can be restated as plain text."
+    },
+    {
+      "item_number": 35,
+      "original_prompt": "Same pie chart. Q: Which continent has the smallest land area? (A) North America (B) Antarctica (C) Europe (D) Australia. Correct: Australia is the smallest continent by land area.",
+      "destination": "geography",
+      "reason": "Geography — continent sizes. Factual knowledge of which continent is smallest. Rewritable without image."
+    }
+  ],
+  "summary": {
+    "total_items": 35,
+    "classified_geography": 5,
+    "classified_science": 1,
+    "classified_none": 29
+  }
+}

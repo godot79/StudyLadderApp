@@ -1,0 +1,17 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A geologist studies two different regions. Region M has a cold, wet climate with fierce winter storms bringing heavy wind and rain. Region D has a hot, dry climate with intense sun and little precipitation all year. In Region M, what type of erosion is most common, and in Region D, what type is most likely?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A toy contains a small weight attached to a string that unwinds and causes a fan propeller to spin. When released, the weight falls and transfers energy to spin the propeller. Assume the string length is constant. Which change would cause the propeller to spin for the longest amount of time?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A cyclist rides over a hill. Her speed is 8 meters per second going uphill, 5 meters per second at the peak of the hill, and 14 meters per second riding downhill. A student claims that the bicycle has its maximum kinetic energy when it reaches the hilltop. What evidence proves this claim is incorrect?\") assigned Age 11 but has a low difficulty-heuristic score (2) — check it isn't too easy for this band."
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "item": {
+      "sourceItemNum": 12,
+      "subject": "science",
+      "topic": "scientific investigation and inquiry",
+      "levelBand": "Age 10",
+      "prompt": "A student pours sugar into a beaker of warm water and carefully observes what happens. She notes changes in the liquid's appearance, smell, and temperature over 5 minutes. Which scientific question was she most likely trying to answer?",
+      "optionA": "Can liquids change color when stirred?",
+      "optionB": "Does adding sugar cause the temperature of water to increase or decrease?",
+      "optionC": "Does dissolving sugar in water produce a chemical reaction?",
+      "optionD": "How fast can sugar crystals dissolve in cold water?",
+      "correctOption": "C",
+      "explanation": "The student measured multiple properties (appearance, smell, temperature) that could indicate a chemical reaction. By observing these changes, she was investigating whether a chemical transformation occurred.",
+      "factClaim": "Changes in color, smell, temperature, or state of matter during mixing can indicate that a chemical reaction has occurred.",
+      "answerType": "fact"
+    },
+    "reasonCode": "fact-unverified",
+    "detail": "Web-search cross-check verdict: uncertain. CAVEAT: Color, smell, and temperature changes can indicate chemical reactions. HOWEVER, dissolving sugar is a PHYSICAL change, not chemical. The prompt lists both chemical indicators (color/smell/temperature) and a physical one (state change). This question conflates physical and chemical changes—dissolving produces no new chemical substance. Need to verify if this is asking about dissolution specifically. (source: Chemistry LibreTexts; physical vs chemical change distinction)"
+  }
+]

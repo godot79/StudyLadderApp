@@ -1,0 +1,235 @@
+# Source Catalog
+
+Research inventory of publicly-known education/exam sources relevant to ages 8-11 (maths, english, geography, space/science, general knowledge). Compiled by low-cost research agents (Haiku) via web search on 2026-08-08.
+
+**Scope of this document:** what each source is, where it lives, how accessible it actually is, and roughly how much material it has. It does not contain extracted question content — see caveats at the end regarding what's actually safe to use each source for.
+
+Legend for **Accessibility**:
+- 🟢 Free & public, no login/paywall
+- 🟡 Free but partial (some years/tiers restricted, third-party redistribution only, or English availability limited)
+- 🔴 Paywalled, requires registration/school affiliation, or purchase-only
+- ⚪ Unverified — agent could not confirm
+
+---
+
+## India
+
+*Updated after deeper pass — found genuine free worksheet sites and, notably, that the olympiad bodies DO publish free sample papers separate from their paid competitions.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| NCERT | ncert.nic.in | Maths, English, EVS (Science/Geo), Social Studies | Class 3-6 (8-11) | 🟢 | ~1,000+ exemplar problems | Official govt textbooks, PDFs/ePub |
+| **CBSEClassWorksheets** | cbseclassworksheets.com | Maths, English, Hindi, EVS, Social Science | Nursery-6 | 🟢 verified, no login | 100+ worksheets/subject | Printable PDFs with answers, most comprehensive free option |
+| **Studies Today** | studiestoday.com | Maths, English, EVS, Social Science, Hindi | Class 3-12 | 🟢 verified, no login | 50+/class/subject | Teacher-created, exam-aligned, includes revision notes |
+| DIKSHA (govt platform) | diksha.gov.in | Maths, Science, English, Social Studies | Class 3-10 | 🟢 free but weak for 3-5 | 6,000+ pieces for classes 6-10; thin for 3-5 | Official national platform; primary-grade coverage is its weak spot |
+| **SOF sample papers** | sofworld.org (sample-paper pages, not registration page) | Maths, Science | Class 1-12 | 🟢 verified free, no login | ~2-3 sample papers/class/subject | Genuine free samples distinct from paid competition entry |
+| **Silverzone "Instant Download"** | silverzone.org/instantdownload | Maths, Science, English, GK | Class 1-12 | 🟢 verified free, no login | ~2-3 papers/class/subject | Dedicated free-sample section, confirmed live |
+| **Indian Talent Olympiad samples** | indiantalent.org/olympiad-sample-papers | Maths, Science, English, GK, Social Studies | Class 1-10 | 🟢 verified free, no login | ~2-3 papers/subject/class | Free samples via dedicated subject pages |
+| CBSE Sample Papers (redistributed) | via Vedantu/AglaSem | Maths, English, Social Studies, Science, Hindi | Class 3-6 | 🟡 | ~50-100/class/subject | Third-party redistribution, not official CBSE |
+| LearnCBSE | learncbse.in | Maths, Science exemplars | Class 6+ only | 🟡 | ~50-100/subject | No exemplar content exists below class 6 |
+| myCBSEguide | mycbseguide.com | Maths, Science, English, Social Science | Class 3-12 | 🔴 mislabeled | N/A | Markets as free; actual worksheet PDFs are subscription-gated |
+| Toppr / Byju's | toppr.com / byjus.com | Multi-subject | Various | 🔴 | Minimal free tier | Freemium; substantive content paid; Toppr doesn't serve classes 3-4 at all |
+
+**Caveat:** Full-length official past exam papers remain gated everywhere in India (no free CBSE board archive exists for primary grades). But genuine free worksheets (CBSEClassWorksheets, Studies Today) and genuine free olympiad *sample* papers (SOF, Silverzone, Indian Talent Olympiad) are real and confirmed — the original pass missed these because it only checked each olympiad body's registration/homepage, not their dedicated sample-paper sections.
+
+---
+
+## Singapore
+
+*Updated after deeper pass — first pass only checked official MOE/SEAB and wrongly concluded nothing free exists. It does — via third-party aggregators, not MOE itself.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| MOE/SEAB Syllabus | seab.gov.sg | English, Maths, Science (Geography folded into Science) | Primary 3-5 (8-10); PSLE = P6 | 🟢 | Syllabus docs only, no sample questions | Official curriculum scope, not question bank |
+| PSLE Past Papers (official) | seab.gov.sg/distributors-of-past-years-question-papers | English, Maths, Science, Mother Tongue | P6 (11-12) | 🔴 | ~100+ papers estimated | Sold by authorized distributors, not free download |
+| **testpapersfree.com** | testpapersfree.com | English, Maths, Science, Chinese, Tamil | P1-6, Sec, JC | 🟢 verified, no login | ~2,000 papers (2004-2025) | Largest free aggregator found; filterable by year/subject/assessment type |
+| **sgtestpaper.com** | sgtestpaper.com | English, Maths, Science, Chinese | P1-6 | 🟢 verified, no login | 500+ papers/year | Weekly updates with worked solutions; optional paid bundles clearly separated from free tier |
+| **sgprimaryexam.com** | sgprimaryexam.com | English, Maths, Science, Chinese | P1-6 | 🟢 verified, no login | ~200 papers, 25+ schools | Curated, sourced from named top schools (ACS, Raffles, St. Joseph's etc.) |
+| sgexam.com | sgexam.com | English, Maths, Science, Chinese | P1-6, Sec, JC | 🟡 likely free, not directly confirmed | 500+ P3-6 papers | No login language visible but agent couldn't fully verify |
+| sgexamhub.com | sgexamhub.com | Maths, Science, English, Chinese | P2-6 | 🟡 claims no signup | 2,299 papers (2024-25 only) | Newer aggregator, narrow year range |
+| Student Learning Space (SLS) | learning.moe.edu.sg | All primary subjects | P1-6 | 🔴 | N/A | School-login only, not public |
+| freetestpaper.com / testpapers.com.sg | — | — | — | 🔴 dead | N/A | Both returned HTTP 403 at check time despite "100% free" marketing — do not rely on these |
+
+**Caveat — read before using:** The three verified free aggregators (testpapersfree.com, sgtestpaper.com, sgprimaryexam.com) are **redistributing actual school prelim/SA/CA exam papers** — i.e. copyrighted material belonging to individual Singapore schools, not an MOE-licensed open archive. "Free to download" and "licensed to reuse" are different things; these sites' own legal standing to redistribute is unclear. No official free MOE/PSLE archive exists — that remains paywalled via authorized distributors.
+
+---
+
+## Hong Kong
+
+*Re-verified with a deeper pass checking HKEdCity, tutoring aggregators, and school-published papers — confirms the original finding rather than overturning it.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| Education Bureau (EDB) | edb.gov.hk | Chinese, English, Maths, General Studies | P1-6 (6-12) | 🟢 (policy only) | N/A | Curriculum/policy docs, no sample questions |
+| **TSA / BCA (HKEAA)** | bca.hkeaa.edu.hk | Chinese, English, Maths | P3 & P6 only (~9 and ~12) | 🟢 verified, no login | ~30-50 papers with marking schemes, 2012+ | **Best free source confirmed.** Real past exam papers, official. **Not administered at P4-5.** |
+| HKEdCity Resources | resources.hkedcity.net | Multi-subject | P1-6 | 🟡 unclear | Unknown | Appears to be teacher/school-login gated, no clear public past-paper section |
+| Champion Tutor | championtutor.hk | Chinese, English | P3-6 | 🟡 partial | ~10-20 papers | Older (2013-14) school-sourced papers, limited currency |
+| Edugain HK | hk.edugain.com | Maths | P1-6 | 🔴 email-gated | ~100+ worksheets | Requires account creation despite "free" framing — worksheets, not past papers |
+| Pre-S1 HKAT | edb.gov.hk | Chinese, English, Maths | End of P6 (~12) | ⚪ | Unverified | Targets P6→S1 transition, not core 8-11 range |
+
+**Caveat:** Geography isn't tested separately in HK — folded into General Studies. TSA/BCA remains the only genuinely free, official, no-login source, and it structurally skips P4-5 — no aggregator fills that specific gap.
+
+---
+
+## United Kingdom
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| National Curriculum Assessments (KS2 SATs) | gov.uk past-test-materials collection | English (reading, GPS), Maths | Year 6 (11), KS2 spans 7-11 | 🟢 | Past 3 years only (2024-2026) publicly archived | Official, free, direct PDF download |
+| UKMT Junior Mathematical Challenge | ukmt.org.uk | Maths (25-Q MCQ) | Year 8 and below (~12-13, slightly above target) | 🟡 | 25+ years of past papers free; entry itself £15-16 | Past papers free even without competing |
+
+**Caveat:** This is the strongest free/public tier of any system researched — official government past papers, no login, no paywall. Best starting point for style-inspired UK-flavored content.
+
+---
+
+## Germany
+
+*Updated after deeper pass — the original conclusion ("no German national test, nothing free beyond Känguru") was wrong. Searching in German surfaced both an official national assessment archive and a large free worksheet ecosystem.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| **VERA 3 (state ministries)** | e.g. bildung-lsa.de, schleswig-holstein.de (varies by Bundesland) | German, Maths | Grade 3 (~8-9) | 🟢 verified, no login | Sample items per state, multiple years | **Official national comparison test** ("Vergleichsarbeiten") — real released items, confirmed by agent as genuinely free government PDFs |
+| **Lernwolf** | lernwolf.de | Maths, German, Science, English, Latin | Kl.1-4 (6-10) | 🟢 verified, no login | Thousands of worksheets w/ solutions | Single-educator run, no signup |
+| **Lernstübchen** | lernstuebchen-grundschule.de | Maths, German | Kl.1-4 | 🟢 verified, no login | 5,100+ files | Largest volume found, well-organized |
+| Grundschul-Blog | grundschul-blog.de | Maths, German, Science | Kl.1-4 | 🟢 | Thousands | Community-driven |
+| Grundschule-arbeitsblaetter.de | grundschule-arbeitsblaetter.de | All subjects | Kl.1-4 | 🟢 | Many | Multi-publisher collection |
+| Grundschulkönig | grundschulkoenig.de | Maths, German, English, Geometry, Science | Kl.1-4 | 🟡 | Free samples; premium bundles paid | Free tier real but limited |
+| Känguru der Mathematik | mathe-kaenguru.de | Maths (24-Q MCQ) | Klasse 3/4 and 5/6 | 🟢 confirmed | 15+ years, past PDFs fully public | Full archive confirmed free (earlier pass under-verified this) |
+| meinUnterricht / Sofatutor / LearnAttack | various | All subjects | All | 🔴 | 40,000+ items | Trial-then-paywall model, not genuinely free |
+
+**Caveat:** Germany turns out to have one of the *strongest* free ecosystems researched — VERA 3 is a real official national assessment with released items, and Lernstübchen/Lernwolf together offer thousands of free worksheets. The original pass missed all of this by only searching in English.
+
+---
+
+## France
+
+*Updated after deeper pass — same story as Germany: French-language search surfaced an official government assessment archive and a large teacher-blog ecosystem invisible to English search.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| **Éduscol national evaluations** | eduscol.education.fr (évaluations CE2/CM2 pages) | French, Maths | CE2 (8-9), CM2 (10-11) | 🟢 verified, no login | Historical since 2003 + annual releases | **Official government diagnostic assessments** — real released items, not just curriculum guidance as the first pass assumed |
+| **Bout de Gomme** | boutdegomme.fr | French, Maths, Sciences | CM1-CM2 (9-11) | 🟢 verified, no login | Large | Well-known teacher-run blog |
+| **Orphéecole** | orpheecole.com | French, Maths, Sciences, Geography, History, Arts, PE, English | CE2-CM2 (8-11) | 🟢 verified, no login | Large, incl. diagnostic evaluations | Broadest subject coverage of any French source found |
+| **Lutin Bazar** | lutinbazar.fr | French, Maths | CE2-CM1 (8-10) | 🟢 verified, no login | Large | |
+| Classe de Stef | laclassedestef.fr | French, Maths, History | CM1-CM2 (9-11) | 🟡 | Medium-large | Some content password-protected |
+| Maikresse72 | maikresse72.fr | French, English, Maths | Cycle 3 (8-11) | 🟢 | Medium | |
+| Édumoov | edumoov.com | French, Maths, English, Geography | Cycle 3 (8-11) | 🟡 | Large free tier | Platform also sells paid courses |
+| Kangourou des Mathématiques | mathkang.org | Maths (competition) | CE2-CM2 | 🟢 confirmed | 2021-2025 PDFs confirmed free | Earlier "unclear" access now confirmed |
+
+**Caveat:** Éduscol itself publishes real diagnostic-assessment released items (not just pedagogical frameworks as first assessed), and the teacher-blog ecosystem is large and genuinely free. One flag: an earlier agent pass characterized the teacher-blog content as "legally shareable under teacher-community norms" — that's the agent's own inference, not a verified legal fact, so treat these as free-to-access but unconfirmed on licensing terms, same caution as the Singapore aggregators above.
+
+---
+
+## Scandinavia (Sweden, Norway, Denmark)
+
+*Updated after deeper pass — the original "no free content anywhere, curriculum-only" conclusion was wrong for all three countries once searched in Swedish/Norwegian/Danish.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| **Skolverket + Uppsala University (national test examples)** | uu.se/nationella-prov, su.se/prim-gruppen | Swedish, English, Maths | Grade 3 (retired 2010-2017 tests) | 🟢 verified, no login | Multi-year archive | **Official retired national-test items**, published after retirement specifically for public use |
+| Matteboken.se | matteboken.se | Maths | Grades 1-6 | 🟢 | Infinite regenerating exercises | |
+| Matematikonline.se | matematikonline.se | Maths | Grades 1-6 | 🟢 | Large | |
+| **Udir (Norway) eksempeloppgaver** | udir.no/eksamen-og-prover | Reading, Maths, English | Grades 5, 8-9 only | 🟡 | Multi-year | Official but **does not cover grade 3** — real gap remains for Norway specifically |
+| Ukemal.no | ukemal.no | Maths | Grades 1-6 | 🟢 | Customizable/printable | |
+| Kittysoppgaver.com | kittysoppgaver.com | Maths, Norwegian | Grade 3 | 🟢 | Moderate | |
+| **testogprover.com (Denmark)** | testogprover.com | Reading, Maths | Grades 2-8 | 🟢 verified, no login | Demo/example tests | Free demo national-test-style items |
+| GratisSkole.dk | gratisskole.dk | Maths, Danish + others | Grades 0-7 | 🟢 | Large | Printable PDFs |
+| Børnenettet.dk / Leg og Lektie / DR Skole | various | Maths, Danish, multi-subject | Grade 3 range | 🟢 | Large combined | DR Skole is the Danish public broadcaster's free teaching-material arm |
+
+**Caveat:** All three countries have real free resources; Sweden and Denmark both have official retired/demo national-assessment items, Norway's official national-test archive has a specific gap at grade 3 (starts at grade 5) but is offset by a strong independent worksheet ecosystem (Ukemal, Kittysoppgaver). This is the single biggest correction in the whole catalog — the entire region went from "nothing free" to "confirmed free content in all three countries."
+
+---
+
+## USA
+
+*Updated after deeper pass — original conclusion (SBAC/EngageNY as the ceiling) undercounted significantly. Multiple individual states publish their own large released-item archives.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| Smarter Balanced (SBAC) | sampleitems.smarterbalanced.org | Maths, ELA | Grades 3-8 | 🟢 | ~500 items | Official, free, searchable, no login |
+| EngageNY (NY State) | engageny.org/3-8 | Maths, ELA | Grades 3-8 | 🟢 | 75%+ of released tests 2015-2021 | Direct PDF download, no login |
+| **Texas STAAR released items** | tea.texas.gov | Maths, Reading/ELA | Grades 3-5 | 🟢 verified, no login | 5+ years (2022-2026) | State-official, direct PDF |
+| **California CAASPP released items** | cde.ca.gov | Maths, ELA | Grades 3-5 | 🟢 verified, no login | Multiple years | State-official |
+| **Massachusetts MCAS released items** | doe.mass.edu/mcas | Maths, ELA, Science | Grades 3-5 | 🟢 verified, no login | Searchable item library, multiple years | State-official |
+| **NY State Regents/EI archive** | nysedregents.org | Maths, ELA, Science, Social Studies | Grades 3-5+ | 🟢 | Decades of past exams | Broadest subject coverage of any US state source |
+| **Khan Academy** | khanacademy.org | Maths, ELA, Science | Grades 3-5 | 🟢 verified, no login | 10,000+ practice problems/grade | Adaptive, no paywall |
+| K5Learning | k5learning.com | Maths, Reading, Grammar, Vocab, Spelling, Science | K-5 | 🟢 (light ads) | 10,000+ worksheets | |
+| TeachersPayTeachers free section | teacherspayteachers.com | Maths, ELA, Science, Social Studies | Grades 3-5 | 🟢 | 1,000s | Teacher-created, genuinely free tier |
+| Math Kangaroo USA | mathkangaroo.org/mks | Maths | Grades 3-6 | 🟢 | 20 years of past papers w/ solutions | |
+| Sporcle Kids / Kahoot | sporcle.com/kids, kahoot.com | GK, Geography, Science, Maths | K-8 | 🟢 | 1,000s community quizzes | Gamified, not exam-format |
+| PARCC released items | via state DOE archives | Maths, ELA | Grades 3-8 | 🟡 | Varies by state | Consortium dissolved |
+| Education.com / IXL | education.com, ixl.com | Maths, ELA, Science, Social Studies | Grades 3-5 | 🔴 | Freemium, heavily gated | Not genuinely free at scale |
+| MATHCOUNTS Gr 3-5 | mathcounts.org | Maths | Grades 3-5 | ⚪ | Announced, not yet operational | Not usable yet |
+
+**Caveat:** USA is confirmed as the deepest free-content system of any researched — official state-released items exist for at least Texas, California, Massachusetts, and New York independently of the multi-state SBAC/EngageNY archives, plus Khan Academy's adaptive bank. Volume here is not a constraint.
+
+---
+
+## Australia
+
+*Updated after deeper pass — found NAP's own public practice-test site (missed originally) and a real free worksheet ecosystem beyond ACARA.*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| **NAP Public Demonstration Site** | nap.edu.au/naplan/public-demonstration-site | Reading, Writing, Language, Numeracy | Years 3, 5, 7, 9 | 🟢 verified, no login | Sample items, all domains | ACARA's **own** public practice test — missed in first pass |
+| NAPLAN past papers (pre-2017) | acara.edu.au/assessment/naplan | Literacy, Numeracy | Years 3, 5 | 🟢 | 2008-2016 (~8 years) | Free PDF, older years only |
+| **AMT free problems** | amt.edu.au/department/free-problems | Maths | Years 3-6 | 🟢 verified, no login | Ongoing monthly releases | Genuinely free tier distinct from the paid past-paper archive |
+| **AMT practice sets (2019)** | amt.edu.au/department/past-papers | Maths | Years 3-4, 5-6 | 🟢 confirmed | Full sets + solutions | At least one full free year confirmed, beyond "samples only" |
+| ICAS sample tests | icasassessments.com/icas-sample-tests-online | English, Maths, Science | Primary (P3-6) | 🟡 | 5-10 sample Qs | Format familiarization only, full archive paid |
+| Cluey Learning worksheets | go.clueylearning.com.au/en/maths-worksheets | Maths | Years 2-12 | 🟢 verified, no login | Thousands | Tutoring-company free lead-magnet content |
+| Kuraplan | kuraplan.com/au/australian-curriculum | Science, English, Maths, HASS | All years | 🟢 | Hundreds/subject/year | Broadest free subject coverage found for Australia |
+| Teach Starter (free tier) | teachstarter.com/au | All subjects | Years 3-5 | 🟡 | Large, mixed free/premium | |
+| Primary Connections | primaryconnections.org.au/teaching-sequences | Science | Primary | 🟢 | Multiple sequences | Best dedicated science source found for AUS |
+
+**Caveat:** AMC's *deep* multi-decade archive is still paid, but a genuine free tier exists (monthly problems + at least one confirmed free full year) that the first pass missed by only checking the paid shop page. NAP's own demo site was also missed entirely originally.
+
+---
+
+## International Olympiad Bodies (not country-specific)
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| Math Kangaroo (international) | mathkangaroo.org | Maths | Grades 1-12 (3-6 = 8-11) | 🟢 | Hundreds of past papers, 6M+ annual participants | Largest global maths competition, free samples |
+| International Junior Math Olympiad (IJMO) | steamahead.simcc.org/ijmo | Maths | Grades 1-6 | 🟡 | ~30 Q/test | Registration required, limited free samples |
+| SOF International English/GK/Science Olympiads (IEO/IGKO/ISO) | sofworld.org | English, GK, History, Geography, Science | Classes 1-12 (early = 6-9) | 🔴 | Limited publicly | School registration required |
+| English Olympiad (Global) | englisholympiad.net | English | Ages 6-11 | 🟢 | Large (175k+ participants reported) | Free registration |
+| International Junior Science Olympiad (IJSO) | ijso.org | Physics, Chemistry, Biology | Age 15 and under (typically 13+) | 🟡 | Moderate | Skews older than our 8-11 target |
+
+---
+
+## Cross-System Summary
+
+*Revised twice: first after the deeper Singapore/HK/India pass, then again after a second deeper pass on USA/Australia/France/Germany/Scandinavia — the latter searched in French, German, Swedish, Norwegian, and Danish rather than English-only. That second pass overturned "curriculum-only, nothing free" for Germany, France, and all three Scandinavian countries — the original conclusion was an artifact of English-only search, not a real absence of content.*
+
+**Genuinely free & public, no login, current (official or independently verified):**
+- USA — deepest system found: SBAC, EngageNY, plus independent state archives (Texas STAAR, California CAASPP, Massachusetts MCAS, NY State) and Khan Academy
+- Germany — **VERA 3** (official national comparison test, released items) + Lernwolf/Lernstübchen (5,100+ free worksheets) + full Känguru archive
+- France — **Éduscol** publishes real official diagnostic-assessment released items (not just frameworks) + large teacher-blog ecosystem (Bout de Gomme, Orphéecole, Lutin Bazar)
+- Sweden & Denmark — official retired/demo national-test items (Skolverket/Uppsala for Sweden, testogprover.com for Denmark) + large worksheet ecosystems
+- UK KS2 SATs (gov.uk) — official free archive
+- Singapore third-party aggregators (testpapersfree.com, sgtestpaper.com, sgprimaryexam.com) — largest raw volume of any system, but see licensing caveat below
+- Australia — NAP's own public demo site (missed originally) + AMT free-problem tier + Kuraplan/Cluey worksheets
+- Hong Kong TSA/BCA (official, but P3/P6 only)
+- India — CBSEClassWorksheets, Studies Today (worksheets); SOF/Silverzone/Indian Talent Olympiad *sample* papers (confirmed free, separate from paid competition)
+- Math Kangaroo (international) — largest free competition archive
+
+**Real, narrower gaps that survived the deeper pass:**
+- Norway's official national-test archive (Udir) starts at grade 5 — no grade 3 coverage, though independent worksheet sites (Ukemal, Kittysoppgaver) fill some of that
+- Hong Kong TSA structurally skips P4-5 (only P3 and P6) — no source found closes this
+- USA MATHCOUNTS elementary: announced, not yet operational
+
+**Paywalled / registration-gated / commercial (confirmed, not just under-researched):**
+- Singapore *official* PSLE past papers (MOE/SEAB distributors, as opposed to the free third-party aggregators above)
+- Australia AMC's full multi-decade archive (a genuine free tier exists alongside it, see Australia section)
+- India: myCBSEguide/Toppr/Byju's (marketed as free, actually subscription-gated)
+- Germany: meinUnterricht/Sofatutor/LearnAttack (trial-then-paywall)
+
+**Coverage gap that's real across every system:** Space/astronomy and general geography as standalone subjects are thin everywhere — every country folds them into "Science" or "Social Studies" rather than testing them separately. No system researched offers dedicated space-content practice material. This gap did not close on the deeper pass and won't close with more searching — it's structural to how these countries organize curricula, not a research gap.
+
+**Licensing note (important, distinct from "accessibility"):** "Free to download" is not the same as "cleared to reuse." Two categories worth distinguishing:
+1. **Official government sources** with a public-sector basis: UK gov.uk, USA state DOEs/SBAC/EngageNY, Germany VERA 3, France Éduscol, Sweden Skolverket/Uppsala, Denmark's Ministry, India NCERT, HK HKEAA, Australia NAP/ACARA.
+2. **Third-party redistributors/aggregators** whose own right to redistribute is unconfirmed: Singapore's testpapersfree.com/sgtestpaper.com/sgprimaryexam.com (redistributing individual schools' exam papers), Hong Kong's Champion Tutor, and — flagged specifically because an agent asserted this without verification — France's teacher-blog ecosystem, which one research pass characterized as "legally shareable under teacher-community norms." That characterization is the agent's own inference, not something I verified against actual license terms, so it should be treated with the same caution as the Singapore/HK aggregators rather than as confirmed.
+
+---
+
+*URLs and accessibility verified by agent web search as of 2026-08-08 (initial pass) and deeper-verification pass same day for Singapore/Hong Kong/India; official sites and third-party aggregators change access policies without notice — reverify before relying on any single source at ingestion time.*

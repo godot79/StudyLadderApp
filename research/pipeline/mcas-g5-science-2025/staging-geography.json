@@ -1,0 +1,35 @@
+[
+  {
+    "subject": "geography",
+    "levelBand": "Age 10",
+    "prompt": "Over many years, wind and rain slowly carved a smooth tunnel through a tall limestone cliff by the ocean. Which process most likely created this tunnel?",
+    "optionA": "Weathering and erosion",
+    "optionB": "Deposition of sediment occurred",
+    "optionC": "Heat and pressure formed new minerals",
+    "optionD": "Lava cooled and solidified",
+    "correctOption": "A",
+    "explanation": "Weathering breaks down rock through wind, rain, and ice, and erosion carries the broken pieces away. Together, they slowly wore away the limestone to create the tunnel."
+  },
+  {
+    "subject": "geography",
+    "levelBand": "Age 10",
+    "prompt": "Colorado Springs has a sunny, dry climate with clear skies most days. Seattle, Washington has a cloudy, rainy climate with many overcast days. Which of the following best explains why solar panels in Colorado Springs can generate more electricity than solar panels in Seattle?",
+    "optionA": "Colorado Springs is at a higher elevation than Seattle",
+    "optionB": "Colorado Springs has more direct hours of sunshine reaching the panels",
+    "optionC": "Solar panels work better in cold, dry climates",
+    "optionD": "Colorado Springs is farther from the Pacific Ocean",
+    "correctOption": "B",
+    "explanation": "Solar panels need sunlight to generate electricity. Colorado Springs has more sunny days and more hours of direct sunlight, so its panels produce more electricity."
+  },
+  {
+    "subject": "geography",
+    "levelBand": "Age 10",
+    "prompt": "A concrete barrier is built to stop flooding. A sand dune is a natural raised bank covered in beach grass and plants. Which of the following is an advantage of using a sand dune instead of a concrete barrier to protect against flooding?",
+    "optionA": "The sand dune is made from natural materials",
+    "optionB": "The sand dune is built faster than a concrete barrier",
+    "optionC": "The sand dune takes up less space than a concrete barrier",
+    "optionD": "The sand dune requires less maintenance over time",
+    "correctOption": "A",
+    "explanation": "A sand dune uses natural materials like sand and plants, while a concrete barrier is an artificial structure. Using natural materials can be better for the environment."
+  }
+]

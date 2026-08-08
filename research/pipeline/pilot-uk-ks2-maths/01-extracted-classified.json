@@ -1,0 +1,314 @@
+{
+  "source": {
+    "name": "UK KS2 Mathematics Paper 1: Arithmetic (2025)",
+    "url": "https://assets.publishing.service.gov.uk/media/682dc2d8e9440506ee9538ef/2025_KS2_mathematics_Paper1_arithmetic.pdf",
+    "publisher": "Standards & Testing Agency (Crown copyright)",
+    "license": "Open Government Licence v3.0 \u2014 explicit reuse permitted, verified in the document footer (page 20). This is a stronger position than most sources in the catalog: not just 'free to access' but explicitly cleared to reuse.",
+    "sourceGrade": "Year 6 (age 10-11), 2025 national curriculum test",
+    "retrievedAt": "2026-08-08"
+  },
+  "note": "Step 1 (extraction) + Step 2 (classification) combined into one file for this pilot. All 36 items on the paper were read; this file lists every item found (full recall) with the internal age-band mapping applied. Fraction-result items (marked deferred=true) were intentionally excluded from Step 3 transformation for this pilot \u2014 see '02-transformed.json' note \u2014 not silently dropped. UPDATE: after building an exact-rational-arithmetic fraction verifier, the 7 fraction-answer items were recovered and transformed (see 02-transformed.json) \u2014 only the degenerate item (#3) and the 2 intentional duplicate-topic items (#14, #33) remain deferred.",
+  "ageBandMapping": "Standard curricula rule from ingestion_pipeline_design.md Step 2: UK KS2 (Year 6, age 10-11) -> 'Age 11' band. This paper is not an Olympiad/competitive source, so no High Achiever tagging applies.",
+  "items": [
+    {
+      "sourceQNum": 1,
+      "sourceExpression": "7,549 = 7,000 + ? + 40 + 9",
+      "sourceAnswer": "500",
+      "topic": "place value",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 2,
+      "sourceExpression": "456 - 385",
+      "sourceAnswer": "71",
+      "topic": "subtraction",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 3,
+      "sourceExpression": "? x 233 = 0",
+      "sourceAnswer": "0",
+      "topic": "multiplication (identity/zero property)",
+      "levelBand": "Age 11",
+      "deferred": true,
+      "deferReason": "degenerate/trivial as a standalone MCQ item"
+    },
+    {
+      "sourceQNum": 4,
+      "sourceExpression": "47.65 + 51.783",
+      "sourceAnswer": "99.433",
+      "topic": "decimal addition",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 5,
+      "sourceExpression": "904 - 8",
+      "sourceAnswer": "896",
+      "topic": "subtraction",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 6,
+      "sourceExpression": "84 / 12",
+      "sourceAnswer": "7",
+      "topic": "division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 7,
+      "sourceExpression": "6 x 832",
+      "sourceAnswer": "4992",
+      "topic": "multiplication",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 8,
+      "sourceExpression": "12 x 3 x 10",
+      "sourceAnswer": "360",
+      "topic": "multiplication chain",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 9,
+      "sourceExpression": "326 + ? = 380",
+      "sourceAnswer": "54",
+      "topic": "missing addend",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 10,
+      "sourceExpression": "72 / ? = 9",
+      "sourceAnswer": "8",
+      "topic": "missing divisor",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 11,
+      "sourceExpression": "2/5 x 5/6",
+      "sourceAnswer": "1/3",
+      "topic": "fraction multiplication",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 12,
+      "sourceExpression": "540 / 6",
+      "sourceAnswer": "90",
+      "topic": "division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 13,
+      "sourceExpression": "807 x 8",
+      "sourceAnswer": "6456",
+      "topic": "multiplication",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 14,
+      "sourceExpression": "614 x 32",
+      "sourceAnswer": "19648",
+      "topic": "long multiplication",
+      "levelBand": "Age 11",
+      "deferred": true,
+      "deferReason": "already covered by item 30's transformed long-multiplication question; skipped to avoid two near-identical topic items in one small pilot batch"
+    },
+    {
+      "sourceQNum": 15,
+      "sourceExpression": "2,000 / 4",
+      "sourceAnswer": "500",
+      "topic": "division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 16,
+      "sourceExpression": "3 x 8.9",
+      "sourceAnswer": "26.7",
+      "topic": "decimal multiplication",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 17,
+      "sourceExpression": "326.8 / 10",
+      "sourceAnswer": "32.68",
+      "topic": "decimal division by 10",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 18,
+      "sourceExpression": "1/3 - 1/9",
+      "sourceAnswer": "2/9",
+      "topic": "fraction subtraction",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 19,
+      "sourceExpression": "896 / 7",
+      "sourceAnswer": "128",
+      "topic": "division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 20,
+      "sourceExpression": "1,004,235 - 52,346",
+      "sourceAnswer": "951889",
+      "topic": "large subtraction",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 21,
+      "sourceExpression": "4,104 / 9",
+      "sourceAnswer": "456",
+      "topic": "division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 22,
+      "sourceExpression": "1/6 + 2/3 + 3/12",
+      "sourceAnswer": "1 1/12",
+      "topic": "fraction addition (mixed)",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 23,
+      "sourceExpression": "17 - 3.6",
+      "sourceAnswer": "13.4",
+      "topic": "decimal subtraction",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 24,
+      "sourceExpression": "2 3/5 + 1 3/5",
+      "sourceAnswer": "4 1/5",
+      "topic": "mixed number addition",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 25,
+      "sourceExpression": "5% of 860",
+      "sourceAnswer": "43",
+      "topic": "percentage",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 26,
+      "sourceExpression": "5/8 / 3",
+      "sourceAnswer": "5/24",
+      "topic": "fraction division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 27,
+      "sourceExpression": "19% of 2,300",
+      "sourceAnswer": "437",
+      "topic": "percentage",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 28,
+      "sourceExpression": "17 | 884 (long division)",
+      "sourceAnswer": "52",
+      "topic": "long division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 29,
+      "sourceExpression": "2 1/6 + 2/5",
+      "sourceAnswer": "2 17/30",
+      "topic": "mixed number addition",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 30,
+      "sourceExpression": "6,419 x 74",
+      "sourceAnswer": "475006",
+      "topic": "long multiplication",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 31,
+      "sourceExpression": "(5^2 + 3) - 12 / 4",
+      "sourceAnswer": "25",
+      "topic": "order of operations",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 32,
+      "sourceExpression": "65% of 540",
+      "sourceAnswer": "351",
+      "topic": "percentage",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 33,
+      "sourceExpression": "3 1/3 x 12",
+      "sourceAnswer": "40",
+      "topic": "mixed number multiplication",
+      "levelBand": "Age 11",
+      "deferred": true,
+      "deferReason": "already covered by item 35's transformed fraction-of-whole-number question; skipped to avoid duplication in a small pilot batch"
+    },
+    {
+      "sourceQNum": 34,
+      "sourceExpression": "45 | 8190 (long division)",
+      "sourceAnswer": "182",
+      "topic": "long division",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 35,
+      "sourceExpression": "3/8 x 240",
+      "sourceAnswer": "90",
+      "topic": "fraction of whole number",
+      "levelBand": "Age 11",
+      "deferred": false
+    },
+    {
+      "sourceQNum": 36,
+      "sourceExpression": "4 3/7 - 1 1/6",
+      "sourceAnswer": "3 11/42",
+      "topic": "mixed number subtraction",
+      "levelBand": "Age 11",
+      "deferred": false
+    }
+  ],
+  "recallVsDeferred": {
+    "totalFound": 36,
+    "carriedToTransformation": 33,
+    "deferred": 3,
+    "deferralReasonBreakdown": {
+      "degenerate/trivial item": 1,
+      "duplicate-topic-in-small-batch": 2
+    }
+  }
+}
