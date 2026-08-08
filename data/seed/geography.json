@@ -2068,5 +2068,195 @@
     "correctOption": "D",
     "levelBand": "Age 10 High Achiever",
     "explanation": "The carbon cycle is the continuous movement of carbon between the atmosphere, living things, oceans, and Earth's crust. Plants absorb CO₂ through photosynthesis; animals and decomposers release it through respiration and decay. Burning fossil fuels releases carbon stored millions of years ago, disrupting the natural balance and contributing to climate change."
+  },
+  {
+    "prompt": "What is the capital city of the United States?",
+    "optionA": "New York",
+    "optionB": "Los Angeles",
+    "optionC": "Washington, D.C.",
+    "optionD": "Chicago",
+    "correctOption": "C",
+    "explanation": "Washington, D.C. is the capital of the United States, though New York City is its largest city.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which country is known as the 'Land of the Rising Sun'?",
+    "optionA": "China",
+    "optionB": "Japan",
+    "optionC": "Thailand",
+    "optionD": "Korea",
+    "correctOption": "B",
+    "explanation": "Japan is called the 'Land of the Rising Sun' because, from Asia, the sun appears to rise from the direction of Japan in the east.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which ocean is the largest in the world?",
+    "optionA": "Atlantic",
+    "optionB": "Indian",
+    "optionC": "Pacific",
+    "optionD": "Arctic",
+    "correctOption": "C",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more area than all of Earth's land combined.",
+    "levelBand": "Age 9"
+  },
+  {
+    "prompt": "Which river flows through London?",
+    "optionA": "Seine",
+    "optionB": "Thames",
+    "optionC": "Rhine",
+    "optionD": "Danube",
+    "correctOption": "B",
+    "explanation": "The Thames river flows through the centre of London, past landmarks like the Tower of London and Big Ben.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "Singapore is located on which continent?",
+    "optionA": "Africa",
+    "optionB": "Asia",
+    "optionC": "Europe",
+    "optionD": "Australia",
+    "correctOption": "B",
+    "explanation": "Singapore is an island city-state in Southeast Asia.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "The Eiffel Tower is located in which city?",
+    "optionA": "London",
+    "optionB": "Paris",
+    "optionC": "Rome",
+    "optionD": "Berlin",
+    "correctOption": "B",
+    "explanation": "The Eiffel Tower is a famous iron tower located in Paris, France, built in 1889.",
+    "levelBand": "Age 9 High Achiever"
+  },
+  {
+    "prompt": "What is the capital of Germany?",
+    "optionA": "Munich",
+    "optionB": "Frankfurt",
+    "optionC": "Berlin",
+    "optionD": "Hamburg",
+    "correctOption": "C",
+    "explanation": "Berlin is the capital and largest city of Germany.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Which mountain range separates Europe from Asia?",
+    "optionA": "Alps",
+    "optionB": "Andes",
+    "optionC": "Ural Mountains",
+    "optionD": "Himalayas",
+    "correctOption": "C",
+    "explanation": "The Ural Mountains in Russia form part of the traditional boundary between the continents of Europe and Asia.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "What is the currency used in both Germany and France?",
+    "optionA": "Pound",
+    "optionB": "Dollar",
+    "optionC": "Euro",
+    "optionD": "Franc",
+    "correctOption": "C",
+    "explanation": "Germany and France are both members of the Eurozone and use the Euro as their currency.",
+    "levelBand": "Age 10"
+  },
+  {
+    "prompt": "Hong Kong is a special administrative region of which country?",
+    "optionA": "Japan",
+    "optionB": "China",
+    "optionC": "Taiwan",
+    "optionD": "Vietnam",
+    "correctOption": "B",
+    "explanation": "Hong Kong is a Special Administrative Region (SAR) of China, with its own legal and economic systems.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which of these countries is part of Scandinavia?",
+    "optionA": "Norway",
+    "optionB": "Poland",
+    "optionC": "Netherlands",
+    "optionD": "Belgium",
+    "correctOption": "A",
+    "explanation": "Scandinavia traditionally refers to Norway, Sweden, and Denmark. Poland, the Netherlands, and Belgium are not part of Scandinavia.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which US state is known as the 'Sunshine State'?",
+    "optionA": "California",
+    "optionB": "Texas",
+    "optionC": "Florida",
+    "optionD": "Arizona",
+    "correctOption": "C",
+    "explanation": "Florida is nicknamed the 'Sunshine State' for its warm, sunny climate year-round.",
+    "levelBand": "Age 10 High Achiever"
+  },
+  {
+    "prompt": "Which desert is located in northern India and Pakistan?",
+    "optionA": "Sahara",
+    "optionB": "Gobi",
+    "optionC": "Thar",
+    "optionD": "Kalahari",
+    "correctOption": "C",
+    "explanation": "The Thar Desert, also called the Great Indian Desert, spans the border region of northern India and Pakistan.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "What is the longest river in the world?",
+    "optionA": "Amazon",
+    "optionB": "Nile",
+    "optionC": "Yangtze",
+    "optionD": "Mississippi",
+    "correctOption": "B",
+    "explanation": "The Nile, flowing through northeastern Africa, is traditionally recognised as the longest river in the world at around 6,650km.",
+    "levelBand": "Age 11"
+  },
+  {
+    "prompt": "The Fjords, deep narrow inlets carved by glaciers, are most famously found in which country?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Denmark",
+    "optionD": "Iceland",
+    "correctOption": "B",
+    "explanation": "Norway's coastline is famous for its dramatic fjords, carved by glaciers during the last Ice Age.",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "prompt": "Which of these is the smallest country in the world by area?",
+    "optionA": "Monaco",
+    "optionB": "Vatican City",
+    "optionC": "San Marino",
+    "optionD": "Liechtenstein",
+    "correctOption": "B",
+    "explanation": "Vatican City, at about 0.49 km², is the smallest country in the world — smaller than Monaco, San Marino, or Liechtenstein.",
+    "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Over many years, wind and rain slowly carved a smooth tunnel through a tall limestone cliff by the ocean. Which process most likely created this tunnel?",
+    "optionA": "Weathering and erosion",
+    "optionB": "Deposition of sediment occurred",
+    "optionC": "Heat and pressure formed new minerals",
+    "optionD": "Lava cooled and solidified",
+    "correctOption": "A",
+    "explanation": "Weathering breaks down rock through wind, rain, and ice, and erosion carries the broken pieces away. Together, they slowly wore away the limestone to create the tunnel."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Colorado Springs has a sunny, dry climate with clear skies most days. Seattle, Washington has a cloudy, rainy climate with many overcast days. Which of the following best explains why solar panels in Colorado Springs can generate more electricity than solar panels in Seattle?",
+    "optionA": "Colorado Springs has a larger population than Seattle",
+    "optionB": "Colorado Springs has more direct hours of sunshine reaching the panels",
+    "optionC": "Solar panels work better in cold, dry climates",
+    "optionD": "Colorado Springs is farther from the Pacific Ocean",
+    "correctOption": "B",
+    "explanation": "Solar panels need sunlight to generate electricity. Colorado Springs has clearer skies and more hours of direct sunshine than cloudy Seattle, so its panels produce more electricity."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A concrete barrier is built to stop flooding. A sand dune is a natural raised bank covered in beach grass and plants. Which of the following is an advantage of using a sand dune instead of a concrete barrier to protect against flooding?",
+    "optionA": "The sand dune is made from natural materials",
+    "optionB": "The sand dune is built faster than a concrete barrier",
+    "optionC": "The sand dune takes up less space than a concrete barrier",
+    "optionD": "The sand dune requires less maintenance over time",
+    "correctOption": "A",
+    "explanation": "A sand dune uses natural materials like sand and plants, while a concrete barrier is an artificial structure. Using natural materials can be better for the environment."
   }
 ]

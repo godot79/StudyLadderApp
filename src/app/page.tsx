@@ -33,6 +33,13 @@ const SUBJECTS = [
     playable: true,
     headerClass: "bg-gradient-to-br from-slate-700 to-indigo-900",
   },
+  {
+    key: "science",
+    label: "Science",
+    emoji: "🔬",
+    playable: true,
+    headerClass: "bg-gradient-to-br from-lime-500 to-green-600",
+  },
 ] as const;
 
 const MEDAL_TIERS = [

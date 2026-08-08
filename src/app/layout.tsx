@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Dharma's Study Ladder",
-  description: "Practice maths, english, geography, and space.",
+  description: "Practice maths, english, geography, space, and science.",
 };
 
 export default function RootLayout({

@@ -3,6 +3,7 @@ import mathsQuestions from "../data/seed/maths.json";
 import englishQuestions from "../data/seed/english.json";
 import geographyQuestions from "../data/seed/geography.json";
 import spaceQuestions from "../data/seed/space.json";
+import scienceQuestions from "../data/seed/science.json";
 
 const prisma = new PrismaClient();
 
@@ -123,6 +124,7 @@ async function main() {
   await seedSubject("english", englishQuestions);
   await seedSubject("geography", geographyQuestions);
   await seedSubject("space", spaceQuestions);
+  await seedSubject("science", scienceQuestions);
 }
 
 main()
