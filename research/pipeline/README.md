@@ -3,6 +3,51 @@
 Status: piloted twice, a third round of 3 sources run in parallel, then a
 fourth round (single source, deliberately not parallelized) for Texas STAAR.
 
+7. Three sources run in parallel (round 7), deliberately targeting Grade 8
+   admins of sources already proven reliable (MCAS, STAAR) plus a new NY
+   Grade 4 admin, specifically to close two gaps flagged after round 6:
+   science volume and zero "High Achiever" band coverage. MCAS Grade 8
+   Science and Technology/Engineering Spring 2023 (14 usable items — the
+   previously-abandoned MCAS Grade 5 Science Spring 2023 PDF was a *different*
+   grade/admin and remains untouched; this Grade 8 source is unrelated and
+   extracted cleanly), Texas STAAR Grade 8 Science May 2022 (33 usable items,
+   9 deferred as image-dependent — topographic map, H-R diagram, weather
+   maps, orbital-position diagram, moon-phase diagram, speed-time graph,
+   satellite photo, electron-shell diagrams, and a food web too complex to
+   restate reliably), and NY State Grade 4 Science June 2022 (29 of 30
+   multiple-choice items usable, Part II's 15 open-ended items excluded per
+   the standing no-fixed-answer rule). Grade 8 content was deliberately
+   borrowed one level above this app's target age to source genuinely harder
+   reasoning for the High Achiever band, rewritten into age-appropriate
+   language for a 9-year-old without softening the underlying difficulty.
+   **Steps 2-3 caught a new, serious defect class**: on the STAAR Grade 8
+   batch, the Haiku subagent's answer-position-rotation step moved
+   `correctOption` to a different letter without moving the correct option's
+   *text* to match — corrupting 21 of 33 items (63%) so the labeled correct
+   answer was wrong, sometimes self-contradictory (e.g. an item stating an
+   object "produces its own light" had `correctOption` pointing at the
+   option calling it a planet). This was NOT caught by verify.ts, dedup.ts,
+   or self-audit.ts — all three passed the corrupted batch cleanly, because
+   those scripts check structural validity and factual plausibility of the
+   labeled answer text, not whether the label matches the *reasoning* laid
+   out in the explanation/factClaim. Only 100%-human review (reading each
+   option against its explanation) caught it. Fixed by hand: for each
+   broken item, matched the correct-answer text (identified from the
+   explanation/factClaim) to its actual option letter and repointed
+   `correctOption`; one item (rocket acceleration) had a second, independent
+   defect where two options shared identical mass/force values producing a
+   genuine tie, fixed by changing one rocket's mass so the intended answer
+   is unambiguous. The other two batches (MCAS Grade 8, NY Grade 4) showed
+   no such corruption on the same check. **Lesson for future rounds:**
+   explicitly instruct answer-rotation subagents to move option TEXT along
+   with the letter, or better, generate correct/incorrect content first and
+   assign the letter last as a single non-repeated step, never a
+   post-hoc "rotate to balance letters" pass applied after content is
+   finalized. 76 items merged into `data/seed/science.json` (72 -> 148):
+   14 MCAS + 33 STAAR (after the fix) + 29 NY. Science's High Achiever band
+   went from 0 to 5 items (plus 13 more at plain "Age 11"), closing the gap
+   flagged after round 6. Cross-subject total now 1,162 (was 1,086).
+
 4. Texas STAAR Grade 5 Mathematics, May 2022 (released test form) — 24 items
    extracted (12 items deferred: scatterplot/graph-selection, tally-mark
    images, ruler-measurement, and other genuinely image-dependent items with

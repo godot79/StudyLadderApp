@@ -1,0 +1,156 @@
+[
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Your body breaks down the apple you eat for breakfast into tiny pieces inside your cells. These pieces then get combined with a gas you breathe in through your lungs. This process releases heat that keeps you warm, plus other materials that leave your body through your breath and sweat. What are the THREE main things needed for this cell-power process to work?",
+    "optionA": "The food from the apple, the oxygen from the air, and the cell releases energy",
+    "optionB": "The food from the apple, carbon dioxide, and stored heat from the sun",
+    "optionC": "Oxygen from the air, water from the apple, and energy the cell creates by itself",
+    "optionD": "Energy from heat, oxygen from the air, and carbon dioxide from the soil",
+    "correctOption": "A",
+    "explanation": "When your body breaks down food (like an apple), it combines the food with oxygen you breathe in. This makes energy your cells can use, plus carbon dioxide (which you breathe out) and water (which you sweat out)."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "A school needs to clear ice from a walkway next to a playground where kids play in winter. The school tested four different materials to see which works best: salt, rock salt crystals, urea, and sand. They measured three things: how much money each costs, how quickly each melted the ice, and whether it hurt the nearby plants. The rock salt crystals worked fastest and could melt ice even when it was extremely cold outside. However, one of the other materials was cheaper. Based on the school's testing, why did they choose to use rock salt crystals instead of the cheaper choice?",
+    "optionA": "Because it did not harm any plants at all",
+    "optionB": "Because it melted ice faster and worked in the coldest weather, even though it cost more money",
+    "optionC": "Because sand could not melt ice no matter how cold it was",
+    "optionD": "Because urea was too expensive for the school budget",
+    "correctOption": "B",
+    "explanation": "The school picked rock salt crystals because it did the best job melting ice in extreme cold—that matters more for safety than saving money. Even though another material cost less, rock salt crystals' superior performance was worth the extra cost."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 10",
+    "prompt": "A gardener is growing vegetables next to the school playground. Every winter, the path gets icy and slippery. The gardener tested materials to spread on the ice: regular salt works okay but kills plants, rock salt works great but also damages plants, a special powder called urea takes 20 minutes to melt ice at cold temperatures but does NOT hurt plants, and sand does nothing to melt ice but is completely safe for plants. The path must: (1) actually melt the ice, and (2) keep the garden plants alive. Which single material should the gardener pick?",
+    "optionA": "Sand, because it will not hurt the plants",
+    "optionB": "Regular salt, because it is easy to find",
+    "optionC": "Urea, because it melts ice and does not damage the garden",
+    "optionD": "Rock salt, because it works fastest at any temperature",
+    "correctOption": "C",
+    "explanation": "Urea is the only material that does both jobs: it actually melts ice (unlike sand) and it doesn't harm the plants (unlike regular salt and rock salt). Even though it takes 20 minutes, it's the right choice for a garden."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 9",
+    "prompt": "A scientist is studying the location of genes inside human body cells. Genes carry instructions for traits like hair color and eye shape. Inside which part of the cell would you find the structure that holds all of a person's genes?",
+    "optionA": "The cell membrane that covers the outside of the cell",
+    "optionB": "The thick liquid inside the cell",
+    "optionC": "The part of the cell that stores water",
+    "optionD": "The control center of the cell where instructions are stored",
+    "correctOption": "D",
+    "explanation": "Genes are stored inside the cell's control center (called the nucleus). The nucleus is like the brain of the cell—it holds all the instructions for what the cell should do and what traits your body will have."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Two children have the same mother and father. One child has dark brown eyes and the other has light blue eyes. The parents notice their eyes are different colors even though they come from the same family. Which best explains why each child has a different eye color?",
+    "optionA": "Each child inherited different instructions from their parents that cause their body to make different colored proteins in their eyes",
+    "optionB": "Each child received a completely different number of genes from their parents",
+    "optionC": "One child's eyes changed color as they grew older",
+    "optionD": "Each child got a different number of chromosomes from one parent",
+    "correctOption": "A",
+    "explanation": "Eye color depends on which versions of genes you inherit. Different gene versions make different proteins, which creates different eye colors. Both kids have the same number of genes and chromosomes—they just inherited different versions of the eye-color genes."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Heat can move from one place to another in different ways. Which of these examples shows heat moving mainly through DIRECT TOUCHING between two materials?",
+    "optionA": "When the sun's light bounces off a mirror",
+    "optionB": "When hot melted rock from inside the Earth touches cold rock surrounding it",
+    "optionC": "When warm air rises up and carries heat across a room",
+    "optionD": "When warm water currents in the ocean move north",
+    "correctOption": "B",
+    "explanation": "Heat moves through direct contact when two materials touch each other—like when hot melted rock touches cold rock. This is called conduction. Light bouncing is radiation, and moving air or water carrying heat is convection, not direct touching."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "A scientist performs four different chemical reactions in sealed containers and measures the total weight before and after each reaction. In Container A, the weight dropped from 100g to 97g. In Container B, the weight dropped from 140g to 138g. In Container C, the weight went up from 120g to 121g. In Container D, the weight stayed exactly the same at 150g before and after. Which container was most likely completely sealed with nothing able to escape or enter?",
+    "optionA": "Container A, because the weight decreased",
+    "optionB": "Container B, because the weight change was small",
+    "optionC": "Container C, because the weight increased",
+    "optionD": "Container D, because the total amount of material did not change",
+    "correctOption": "D",
+    "explanation": "In a completely sealed system, matter cannot escape or enter, so the total weight stays exactly the same. Container D is the sealed system because its weight didn't change—all the material stayed inside the container."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 9",
+    "prompt": "Plant cells contain many tiny structures, each with its own job. One type of structure is found in BOTH plant cells and animal cells. Its main job is to take the food that the cell has and break it down into usable energy. What is this structure's primary role?",
+    "optionA": "To store water in the plant cells",
+    "optionB": "To make new cells by splitting into two",
+    "optionC": "To provide the cell with energy it needs to work",
+    "optionD": "To remove harmful waste products from the cell",
+    "correctOption": "C",
+    "explanation": "This structure is called the mitochondrion (or mitochondria in plural). It is like a tiny power plant inside your cells. It takes nutrients and breaks them down to release energy that the cell uses to do its jobs."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Scientists noticed that a common bacteria species was becoming less able to be killed by a certain medicine over many years. In 1999, about 95% of the bacteria could be killed by the medicine. By 2015, only about 65% could be killed. The bacteria had not decided to change themselves. Instead, what happened to make the bacteria stronger against the medicine?",
+    "optionA": "The bacteria that could survive the medicine made more copies of themselves and passed this survival ability to their offspring, while the weaker bacteria died off",
+    "optionB": "The bacteria became stronger because they tried harder to survive each time they were exposed to the medicine",
+    "optionC": "The medicine got weaker over time and could no longer kill bacteria effectively",
+    "optionD": "All of the bacteria changed their bodies in the same way to protect themselves from the medicine",
+    "correctOption": "A",
+    "explanation": "This is natural selection. Some bacteria naturally had genes that protected them from the medicine. These bacteria survived and had more babies, passing on protection genes. Over generations, more and more bacteria inherited this protection, so fewer could be killed by the medicine. The bacteria didn't choose to change—the stronger ones just had more babies."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Deep under the ocean floor, a diagram shows two giant pieces of the Earth's crust moving apart from each other. Hot, flowing material from deep inside the Earth is shown rising up between them, pushing the crust pieces away from each other on both sides. What force is pushing these enormous pieces of crust in opposite directions?",
+    "optionA": "Waves of cold material sinking from the top of the ocean",
+    "optionB": "Circular movement of hot material inside the Earth rising, spreading sideways, and sinking back down",
+    "optionC": "Explosive pressure from rocks melting at the Earth's center",
+    "optionD": "The spinning rotation of the Earth itself",
+    "correctOption": "B",
+    "explanation": "The crust moves because of convection currents in the mantle—the layer below the crust. Hot material rises up at the ridge, spreads sideways and pushes the crust apart, then cools and sinks back down. This circle of moving material is what forces the plates to separate."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "A weather scientist compares two cities: San Diego is right next to the Pacific Ocean on the California coast, while Phoenix is far inland in the desert. The scientist notices that San Diego's summers are much cooler than Phoenix's summers, even though they are at almost the same distance from the equator. What is the main reason San Diego stays cooler in summer?",
+    "optionA": "Because San Diego is at a higher elevation than Phoenix",
+    "optionB": "Because the nearby ocean water absorbs and stores heat, keeping the air cooler than it would be far from water",
+    "optionC": "Because San Diego gets much more rain than Phoenix",
+    "optionD": "Because the Pacific Ocean creates fog that blocks the sun",
+    "correctOption": "B",
+    "explanation": "Large bodies of water like oceans heat up and cool down much more slowly than land. In summer, the ocean stays cool, and winds blow cool ocean air toward San Diego, keeping the city cooler. Inland cities like Phoenix have no water to cool them down, so summers get much hotter."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Scientists studied the fossils of ocean creatures found in rock layers spanning 600 million years. They made a graph showing how many different groups of ocean animals lived at different times. The graph showed the number of animal groups gradually growing for most of history. Then, suddenly, at a point 250 million years ago, the number dropped sharply. After that drop, the numbers started rising again toward today. What does this sudden drop in the number of animal groups tell us happened at that time?",
+    "optionA": "New ocean animals were first evolving and becoming common",
+    "optionB": "A huge number of ocean animal groups suddenly disappeared, meaning far fewer species existed",
+    "optionC": "Most ocean animals moved onto the land to escape something",
+    "optionD": "Ocean animals adapted to major changes in their environment",
+    "correctOption": "B",
+    "explanation": "When the number of animal groups in the fossil record drops suddenly like this, it means many species died out at the same time—a mass extinction. This shows that something terrible happened to ocean life 250 million years ago, killing most species. A sudden drop in diversity means extinction, not adaptation or evolution of new species."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 10",
+    "prompt": "A geologist is proving that the climate of a region has changed dramatically over millions of years. Which of these pieces of evidence would BEST show that the area was once much colder?",
+    "optionA": "Large mountains in the area",
+    "optionB": "Deep river valleys cutting through rock",
+    "optionC": "Rocks and soil that were clearly scraped and left behind by moving glaciers",
+    "optionD": "Dark volcanic rocks formed from cooled lava",
+    "correctOption": "C",
+    "explanation": "Glacial deposits—rocks and soil left behind when glaciers melted—are the clearest proof that glaciers once covered the area. This shows it was much colder millions of years ago. Mountains can form for many reasons, rivers are always present, and volcanic rocks don't tell us about climate."
+  },
+  {
+    "subject": "science",
+    "levelBand": "Age 11",
+    "prompt": "Scientists studied the bones of three very different animals—a tiger's front paw, a human's arm, and a frog's leg. Even though these animals look completely different on the outside and use their limbs in totally different ways, the bones are arranged in surprisingly the same pattern: one long bone, two bones next to each other, then a cluster of smaller bones at the end. What does this similarity in bone structure suggest about these three animals?",
+    "optionA": "The frog's bones are the simplest and prove it evolved first before tigers and humans",
+    "optionB": "All three animals have not changed their bones at all since they were first created",
+    "optionC": "The three animals evolved from completely different sources but designed their bones the same way",
+    "optionD": "These three animals share a common ancestor from long ago and inherited similar bone patterns from that shared relative",
+    "correctOption": "D",
+    "explanation": "When different animals have the same basic bone structure even though they look and move differently, it's evidence they share an ancestor long ago. That shared ancestor passed down the same bone blueprint. Over time, this structure changed for each animal's specific needs, but the basic pattern stayed the same."
+  }
+]

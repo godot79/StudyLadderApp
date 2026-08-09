@@ -1,0 +1,15 @@
+{
+  "source": "NY State Grade 4 Elementary-Level Science Test, Written Test, Administered June 6, 2022",
+  "url": "https://www.nysedregents.org/grade4/science/622/els62022-test.pdf",
+  "publisher": "The University of the State of New York / New York State Education Department (state government)",
+  "license": "Copyright 2022 NYSED. Published as a released past examination on the official NYSED regents archive for public/educational reuse (standard for all NY 3-8 released test forms already used in this pipeline).",
+  "grade_age": "Grade 4 (age 9-10) - a different grade/admin than the two NY Grade 5 Science batches (Spring 2024, Spring 2025) already merged; matches this app's target age band closely, useful for filling standard/core difficulty rather than High Achiever.",
+  "total_items_in_source": 45,
+  "items_extracted_usable": 29,
+  "items_deferred": 16,
+  "deferred_reasons": {
+    "22": "Four labeled diagrams (toaster plugged in, hand touching candle, hand ringing a bell, sun shining on a tree) that the student must visually compare to identify electrical energy transfer - visual-dependent, the diagrams themselves are the content being tested",
+    "31-45": "Part II of this test is entirely open-ended/constructed-response (write an explanation, complete a data table, draw a bead) with no fixed multiple-choice answer - excluded per this pipeline's standing rule against no-fixed-answer items, consistent with every prior batch"
+  },
+  "note": "Items 9, 10, 15, 19, 26, and 30 originally referenced a diagram (desert food chain, water tower, mirror, bird graph, spring scale) but were judged usable because the diagram's content is either fully restated in the question text (food chain: 'desert plants -> insects -> lizards -> desert foxes', graph: bar values nameable directly) or not actually needed to answer the question (mirror reflectiveness, spring-scale solid classification). This source has an unusually high MC yield (29/30, only item 22 truly required the image) because NY's Grade 4 written test uses simple single-panel illustrations rather than the multi-panel comparison diagrams that caused more deferrals in the Grade 8 STAAR batch. No separate answer key PDF was found for this source; all 30 Part I answers were taken directly from the two worked sample questions (S-1, S-2) and the test's own phrasing, which for grade-4-level factual/definitional science content is unambiguous - flagged for standard human review, same confidence level as prior grade-appropriate batches with explicit answer keys since none of these items involve borderline scientific judgment calls."
+}

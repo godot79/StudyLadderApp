@@ -1,0 +1,22 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A dog breeder has two adult dogs with brown fur. When these dogs have puppies, some puppies have brown fur while others have black fur. Why don't all the puppies look like their parents?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A person picks up a 4-kilogram bowling ball and wants to accelerate it forward at a rate of 3 meters per second squared. What is the net force (in newtons) that must be applied to the bowling ball? (Use: Force = mass × acceleration)\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A chemistry teacher writes out a balanced equation for a reaction: 2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O. If you count all the oxygen atoms on both the left and right sides of this equation, how many oxygen atoms are there in total?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A car engine burns fuel in a cylinder. The fuel releases heat energy that expands into hot gases. These hot gases push a piston down. The piston turns connected parts that make the wheels rotate. Which statement correctly describes the energy changes in this process?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]

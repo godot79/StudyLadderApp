@@ -1,0 +1,235 @@
+[
+  {
+    "sourceItemNumber": 1,
+    "subject": "science",
+    "topic": "genetics",
+    "levelBand": "High Achiever",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 2,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 4,
+    "subject": "science",
+    "topic": "biology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "B"
+  },
+  {
+    "sourceItemNumber": 5,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 6,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "D"
+  },
+  {
+    "sourceItemNumber": 7,
+    "subject": "science",
+    "topic": "ecology",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 8,
+    "subject": "science",
+    "topic": "ecology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "B"
+  },
+  {
+    "sourceItemNumber": 9,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 11,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "High Achiever",
+    "sourceCorrectOption": "numeric",
+    "note": "Converted from numeric (F=ma, 14N) to 4-option multiple choice"
+  },
+  {
+    "sourceItemNumber": 12,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 14,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "High Achiever",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 15,
+    "subject": "science",
+    "topic": "biology",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 16,
+    "subject": "science",
+    "topic": "ecology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 17,
+    "subject": "science",
+    "topic": "astronomy",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 18,
+    "subject": "science",
+    "topic": "biology",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "B"
+  },
+  {
+    "sourceItemNumber": 19,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 20,
+    "subject": "science",
+    "topic": "astronomy",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "D"
+  },
+  {
+    "sourceItemNumber": 21,
+    "subject": "science",
+    "topic": "biology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "B"
+  },
+  {
+    "sourceItemNumber": 22,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "High Achiever",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 24,
+    "subject": "science",
+    "topic": "biology",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "D"
+  },
+  {
+    "sourceItemNumber": 25,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 26,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 30,
+    "subject": "science",
+    "topic": "ecology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "B"
+  },
+  {
+    "sourceItemNumber": 32,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "numeric",
+    "note": "Converted from numeric (neutrons = mass - protons, 10N) to 4-option multiple choice"
+  },
+  {
+    "sourceItemNumber": 33,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "High Achiever",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 34,
+    "subject": "science",
+    "topic": "ecology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "D"
+  },
+  {
+    "sourceItemNumber": 35,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 36,
+    "subject": "science",
+    "topic": "biology",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "B"
+  },
+  {
+    "sourceItemNumber": 37,
+    "subject": "science",
+    "topic": "earth science",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "D"
+  },
+  {
+    "sourceItemNumber": 38,
+    "subject": "science",
+    "topic": "physics",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "A"
+  },
+  {
+    "sourceItemNumber": 39,
+    "subject": "science",
+    "topic": "astronomy",
+    "levelBand": "Age 9",
+    "sourceCorrectOption": "D"
+  },
+  {
+    "sourceItemNumber": 40,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "C"
+  },
+  {
+    "sourceItemNumber": 42,
+    "subject": "science",
+    "topic": "chemistry",
+    "levelBand": "Age 10",
+    "sourceCorrectOption": "B"
+  }
+]

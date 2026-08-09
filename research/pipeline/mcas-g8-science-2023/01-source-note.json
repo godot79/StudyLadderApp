@@ -1,0 +1,23 @@
+{
+  "source": "MCAS Grade 8 Science and Technology/Engineering, Paper-Based Test, Released Items, Spring 2023",
+  "url": "https://www.doe.mass.edu/mcas/2023/release/g8-ste.pdf",
+  "publisher": "Massachusetts Department of Elementary and Secondary Education (state government)",
+  "license": "Copyright 2023 MA DESE. Explicit non-commercial educational-use permission granted in the document's front matter (same license class as the MCAS G5 Science and MCAS G5 Math batches already merged).",
+  "grade_age": "Grade 8 (age 13-14) - a different grade than the two MCAS Grade 5 Science batches already merged (Spring 2025 merged, Spring 2023 abandoned mid-extraction last session due to an unrelated 13.8MB image-heavy PDF for that grade). Deliberately borrowed one grade level up, same rationale as the STAAR Grade 8 Science batch this round, to source content for the missing High Achiever difficulty band.",
+  "total_items_in_source": 20,
+  "items_extracted_usable": 13,
+  "items_deferred": 4,
+  "items_skipped_constructed_response": 3,
+  "deferred_reasons": {
+    "1": "Diagram showing relative positions/sizes of several named galaxies (Milky Way, Boötes Dwarf, Sagittarius Dwarf, Large Magellanic Cloud) - visual-dependent, answer requires reading relative positions from the image",
+    "2": "Four bar-graph options (kinetic/potential energy at two tree positions) - visual-dependent, the graphs themselves are the answer choices being compared",
+    "4": "Four chemical structural-formula diagrams (bonded atom models for urea, CH4N2O) - visual-dependent, distinguishing correct bonding requires seeing the diagrams",
+    "16": "Two paired graphs (line graph of download speed vs. distance, bar graph of download speed vs. three materials) that must be cross-referenced - too complex to restate reliably in text without risk of misrepresenting the data relationships"
+  },
+  "constructed_response_skipped": {
+    "7": "Three-part open-ended explanation (block/sand friction investigation) - no fixed answer, excluded per pipeline's standing no-fixed-answer rule",
+    "8": "Three-part open-ended response (identify tool/fastener, describe use, explain safety equipment) - no fixed answer",
+    "9": "Open-ended explanation citing two pieces of evidence from a continental-fossil map - no fixed answer"
+  },
+  "note": "Item 3 (cellular respiration model) and item 10 (chromosome location / eye-color genetics, a two-part Part A/Part B item) were judged usable despite referencing a diagram/model, because the underlying content (reactants and products of cellular respiration; chromosome location and gene-to-protein inheritance) can be asked directly in text without needing the visual model - the diagram is illustrative, not load-bearing for the answer. Items 14, 15, 17, 18, and 20 originally reference a graph, diagram, or map but were judged usable because the data trend or spatial relationship is fully describable in text (e.g. item 14: bacterial antibiotic sensitivity declining from ~95% to ~65% between 1999-2015; item 17: Los Angeles is coastal and Oklahoma City is inland, a well-established geography fact independent of the map image). All 20 released items (13 usable + 4 deferred + 3 constructed-response skipped = 20) have official correct answers published in this document's item table for selected-response items; constructed-response items have no published answer key (scoring guidelines were noted as 'to be posted later' by MA DESE) and were excluded on that basis as well as being open-ended."
+}

@@ -718,5 +718,765 @@
     "optionD": "Averaging data from more than three trials always reduces the accuracy of the result",
     "correctOption": "A",
     "explanation": "Repeated trials allow researchers to identify and average out random errors that might occur in individual measurements, making the final result more trustworthy."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Your body breaks down the apple you eat for breakfast into tiny pieces inside your cells. These pieces then get combined with a gas you breathe in through your lungs. This process releases heat that keeps you warm, plus other materials that leave your body through your breath and sweat. What are the THREE main things needed for this cell-power process to work?",
+    "optionA": "The food from the apple, the oxygen from the air, and the cell releases energy",
+    "optionB": "The food from the apple, carbon dioxide, and stored heat from the sun",
+    "optionC": "Oxygen from the air, water from the apple, and energy the cell creates by itself",
+    "optionD": "Energy from heat, oxygen from the air, and carbon dioxide from the soil",
+    "correctOption": "A",
+    "explanation": "When your body breaks down food (like an apple), it combines the food with oxygen you breathe in. This makes energy your cells can use, plus carbon dioxide (which you breathe out) and water (which you sweat out)."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A school needs to clear ice from a walkway next to a playground where kids play in winter. The school tested four different materials to see which works best: salt, rock salt crystals, urea, and sand. They measured three things: how much money each costs, how quickly each melted the ice, and whether it hurt the nearby plants. The rock salt crystals worked fastest and could melt ice even when it was extremely cold outside. However, one of the other materials was cheaper. Based on the school's testing, why did they choose to use rock salt crystals instead of the cheaper choice?",
+    "optionA": "Because it did not harm any plants at all",
+    "optionB": "Because it melted ice faster and worked in the coldest weather, even though it cost more money",
+    "optionC": "Because sand could not melt ice no matter how cold it was",
+    "optionD": "Because urea was too expensive for the school budget",
+    "correctOption": "B",
+    "explanation": "The school picked rock salt crystals because it did the best job melting ice in extreme cold—that matters more for safety than saving money. Even though another material cost less, rock salt crystals' superior performance was worth the extra cost."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A gardener is growing vegetables next to the school playground. Every winter, the path gets icy and slippery. The gardener tested materials to spread on the ice: regular salt works okay but kills plants, rock salt works great but also damages plants, a special powder called urea takes 20 minutes to melt ice at cold temperatures but does NOT hurt plants, and sand does nothing to melt ice but is completely safe for plants. The path must: (1) actually melt the ice, and (2) keep the garden plants alive. Which single material should the gardener pick?",
+    "optionA": "Sand, because it will not hurt the plants",
+    "optionB": "Regular salt, because it is easy to find",
+    "optionC": "Urea, because it melts ice and does not damage the garden",
+    "optionD": "Rock salt, because it works fastest at any temperature",
+    "correctOption": "C",
+    "explanation": "Urea is the only material that does both jobs: it actually melts ice (unlike sand) and it doesn't harm the plants (unlike regular salt and rock salt). Even though it takes 20 minutes, it's the right choice for a garden."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A scientist is studying the location of genes inside human body cells. Genes carry instructions for traits like hair color and eye shape. Inside which part of the cell would you find the structure that holds all of a person's genes?",
+    "optionA": "The cell membrane that covers the outside of the cell",
+    "optionB": "The thick liquid inside the cell",
+    "optionC": "The part of the cell that stores water",
+    "optionD": "The control center of the cell where instructions are stored",
+    "correctOption": "D",
+    "explanation": "Genes are stored inside the cell's control center (called the nucleus). The nucleus is like the brain of the cell—it holds all the instructions for what the cell should do and what traits your body will have."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Two children have the same mother and father. One child has dark brown eyes and the other has light blue eyes. The parents notice their eyes are different colors even though they come from the same family. Which best explains why each child has a different eye color?",
+    "optionA": "Each child inherited different instructions from their parents that cause their body to make different colored proteins in their eyes",
+    "optionB": "Each child received a completely different number of genes from their parents",
+    "optionC": "One child's eyes changed color as they grew older",
+    "optionD": "Each child got a different number of chromosomes from one parent",
+    "correctOption": "A",
+    "explanation": "Eye color depends on which versions of genes you inherit. Different gene versions make different proteins, which creates different eye colors. Both kids have the same number of genes and chromosomes—they just inherited different versions of the eye-color genes."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Heat can move from one place to another in different ways. Which of these examples shows heat moving mainly through DIRECT TOUCHING between two materials?",
+    "optionA": "When the sun's light bounces off a mirror",
+    "optionB": "When hot melted rock from inside the Earth touches cold rock surrounding it",
+    "optionC": "When warm air rises up and carries heat across a room",
+    "optionD": "When warm water currents in the ocean move north",
+    "correctOption": "B",
+    "explanation": "Heat moves through direct contact when two materials touch each other—like when hot melted rock touches cold rock. This is called conduction. Light bouncing is radiation, and moving air or water carrying heat is convection, not direct touching."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A scientist performs four different chemical reactions in sealed containers and measures the total weight before and after each reaction. In Container A, the weight dropped from 100g to 97g. In Container B, the weight dropped from 140g to 138g. In Container C, the weight went up from 120g to 121g. In Container D, the weight stayed exactly the same at 150g before and after. Which container was most likely completely sealed with nothing able to escape or enter?",
+    "optionA": "Container A, because the weight decreased",
+    "optionB": "Container B, because the weight change was small",
+    "optionC": "Container C, because the weight increased",
+    "optionD": "Container D, because the total amount of material did not change",
+    "correctOption": "D",
+    "explanation": "In a completely sealed system, matter cannot escape or enter, so the total weight stays exactly the same. Container D is the sealed system because its weight didn't change—all the material stayed inside the container."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Plant cells contain many tiny structures, each with its own job. One type of structure is found in BOTH plant cells and animal cells. Its main job is to take the food that the cell has and break it down into usable energy. What is this structure's primary role?",
+    "optionA": "To store water in the plant cells",
+    "optionB": "To make new cells by splitting into two",
+    "optionC": "To provide the cell with energy it needs to work",
+    "optionD": "To remove harmful waste products from the cell",
+    "correctOption": "C",
+    "explanation": "This structure is called the mitochondrion (or mitochondria in plural). It is like a tiny power plant inside your cells. It takes nutrients and breaks them down to release energy that the cell uses to do its jobs."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Scientists noticed that a common bacteria species was becoming less able to be killed by a certain medicine over many years. In 1999, about 95% of the bacteria could be killed by the medicine. By 2015, only about 65% could be killed. The bacteria had not decided to change themselves. Instead, what happened to make the bacteria stronger against the medicine?",
+    "optionA": "The bacteria that could survive the medicine made more copies of themselves and passed this survival ability to their offspring, while the weaker bacteria died off",
+    "optionB": "The bacteria became stronger because they tried harder to survive each time they were exposed to the medicine",
+    "optionC": "The medicine got weaker over time and could no longer kill bacteria effectively",
+    "optionD": "All of the bacteria changed their bodies in the same way to protect themselves from the medicine",
+    "correctOption": "A",
+    "explanation": "This is natural selection. Some bacteria naturally had genes that protected them from the medicine. These bacteria survived and had more babies, passing on protection genes. Over generations, more and more bacteria inherited this protection, so fewer could be killed by the medicine. The bacteria didn't choose to change—the stronger ones just had more babies."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Deep under the ocean floor, a diagram shows two giant pieces of the Earth's crust moving apart from each other. Hot, flowing material from deep inside the Earth is shown rising up between them, pushing the crust pieces away from each other on both sides. What force is pushing these enormous pieces of crust in opposite directions?",
+    "optionA": "Waves of cold material sinking from the top of the ocean",
+    "optionB": "Circular movement of hot material inside the Earth rising, spreading sideways, and sinking back down",
+    "optionC": "Explosive pressure from rocks melting at the Earth's center",
+    "optionD": "The spinning rotation of the Earth itself",
+    "correctOption": "B",
+    "explanation": "The crust moves because of convection currents in the mantle—the layer below the crust. Hot material rises up at the ridge, spreads sideways and pushes the crust apart, then cools and sinks back down. This circle of moving material is what forces the plates to separate."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A weather scientist compares two cities: San Diego is right next to the Pacific Ocean on the California coast, while Phoenix is far inland in the desert. The scientist notices that San Diego's summers are much cooler than Phoenix's summers, even though they are at almost the same distance from the equator. What is the main reason San Diego stays cooler in summer?",
+    "optionA": "Because San Diego is at a higher elevation than Phoenix",
+    "optionB": "Because the nearby ocean water absorbs and stores heat, keeping the air cooler than it would be far from water",
+    "optionC": "Because San Diego gets much more rain than Phoenix",
+    "optionD": "Because the Pacific Ocean creates fog that blocks the sun",
+    "correctOption": "B",
+    "explanation": "Large bodies of water like oceans heat up and cool down much more slowly than land. In summer, the ocean stays cool, and winds blow cool ocean air toward San Diego, keeping the city cooler. Inland cities like Phoenix have no water to cool them down, so summers get much hotter."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Scientists studied the fossils of ocean creatures found in rock layers spanning 600 million years. They made a graph showing how many different groups of ocean animals lived at different times. The graph showed the number of animal groups gradually growing for most of history. Then, suddenly, at a point 250 million years ago, the number dropped sharply. After that drop, the numbers started rising again toward today. What does this sudden drop in the number of animal groups tell us happened at that time?",
+    "optionA": "New ocean animals were first evolving and becoming common",
+    "optionB": "A huge number of ocean animal groups suddenly disappeared, meaning far fewer species existed",
+    "optionC": "Most ocean animals moved onto the land to escape something",
+    "optionD": "Ocean animals adapted to major changes in their environment",
+    "correctOption": "B",
+    "explanation": "When the number of animal groups in the fossil record drops suddenly like this, it means many species died out at the same time—a mass extinction. This shows that something terrible happened to ocean life 250 million years ago, killing most species. A sudden drop in diversity means extinction, not adaptation or evolution of new species."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A geologist is proving that the climate of a region has changed dramatically over millions of years. Which of these pieces of evidence would BEST show that the area was once much colder?",
+    "optionA": "Large mountains in the area",
+    "optionB": "Deep river valleys cutting through rock",
+    "optionC": "Rocks and soil that were clearly scraped and left behind by moving glaciers",
+    "optionD": "Dark volcanic rocks formed from cooled lava",
+    "correctOption": "C",
+    "explanation": "Glacial deposits—rocks and soil left behind when glaciers melted—are the clearest proof that glaciers once covered the area. This shows it was much colder millions of years ago. Mountains can form for many reasons, rivers are always present, and volcanic rocks don't tell us about climate."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Scientists studied the bones of three very different animals—a tiger's front paw, a human's arm, and a frog's leg. Even though these animals look completely different on the outside and use their limbs in totally different ways, the bones are arranged in surprisingly the same pattern: one long bone, two bones next to each other, then a cluster of smaller bones at the end. What does this similarity in bone structure suggest about these three animals?",
+    "optionA": "The frog's bones are the simplest and prove it evolved first before tigers and humans",
+    "optionB": "All three animals have not changed their bones at all since they were first created",
+    "optionC": "The three animals evolved from completely different sources but designed their bones the same way",
+    "optionD": "These three animals share a common ancestor from long ago and inherited similar bone patterns from that shared relative",
+    "correctOption": "D",
+    "explanation": "When different animals have the same basic bone structure even though they look and move differently, it's evidence they share an ancestor long ago. That shared ancestor passed down the same bone blueprint. Over time, this structure changed for each animal's specific needs, but the basic pattern stayed the same."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A dog breeder has two adult dogs with brown fur. When these dogs have puppies, some puppies have brown fur while others have black fur. Why don't all the puppies look like their parents?",
+    "optionA": "Each puppy inherited a different mix of genes from both parents, creating unique combinations",
+    "optionB": "Some puppies were born from a different father",
+    "optionC": "Puppies with black fur came from asexual reproduction instead of sexual reproduction",
+    "optionD": "All puppies develop the same way, but their fur changes color as they grow older",
+    "correctOption": "A",
+    "explanation": "Sexual reproduction mixes genes from both parents in different ways for each offspring. This genetic mixing creates variation—even siblings can look different because each one gets a unique combination of traits."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Calcium and potassium are two elements that have very similar chemical behavior. What feature of their atoms explains why these elements react in similar ways?",
+    "optionA": "They both have the same number of outer shell electrons",
+    "optionB": "They both are found in the same state of matter at room temperature",
+    "optionC": "They both have more neutrons than protons",
+    "optionD": "They both have the same total number of electrons",
+    "correctOption": "A",
+    "explanation": "The electrons on the outer edge of an atom determine how it reacts with other elements. When two elements have the same pattern of outer electrons, they behave similarly in chemical reactions."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A guide uses a special chart to identify beetles found in gardens. The chart asks: Does the beetle have wings? If yes, does it have one pair or two pairs of wings? For this beetle, the answer is: yes, two pairs of wings. Based on the chart, which group does this beetle belong to?",
+    "optionA": "Flies and mosquitoes (one pair of wings)",
+    "optionB": "Beetles (two pairs of wings)",
+    "optionC": "Lice and fleas (no wings)",
+    "optionD": "Butterflies (two wings that fold closed)",
+    "correctOption": "B",
+    "explanation": "A dichotomous key is a step-by-step guide that narrows down what something is by asking yes/no questions. Each answer leads you to the next question until you reach the correct classification."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A scientist builds a tiny model of an atom using different colored balls. Red balls sit inside a sphere (the nucleus), while a blue ball moves in circles around the outside. What can you say about the electrical charges of these balls?",
+    "optionA": "Both red balls are positive charges; the blue ball is negative",
+    "optionB": "Both red balls are negative charges; the blue ball is positive",
+    "optionC": "One red ball is positive and the other is neutral; the blue ball is negative",
+    "optionD": "One red ball is positive and one is neutral; the blue ball is negative",
+    "correctOption": "D",
+    "explanation": "Atoms have three main parts: protons (positive charge) and neutrons (no charge) in the nucleus, and electrons (negative charge) orbiting outside. The positive and negative charges balance each other out."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A child stands on a skateboard and pushes hard against a wall. As the wall pushes the child forward, what is the correct way to describe the forces involved?",
+    "optionA": "The force of the child on the wall and the force of the wall on the child are action-reaction pairs",
+    "optionB": "The child's push creates movement but the wall doesn't push back",
+    "optionC": "Friction between the skateboard and ground is the only important force",
+    "optionD": "The wall is stronger than the child so it moves in the opposite direction",
+    "correctOption": "A",
+    "explanation": "Newton's third law says forces always come in pairs: when one object pushes on another, the second object pushes back just as hard. The child pushes the wall, and the wall pushes the child equally."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Farmers spray chemicals on crops to kill weeds and insects that damage the plants. These chemicals often wash into nearby rivers and streams. What is the best way for farmers to reduce harm to these waterways?",
+    "optionA": "Use crops that require fewer chemical sprays",
+    "optionB": "Plant more trees near the crops to use up extra water",
+    "optionC": "Use more water to dilute the chemicals",
+    "optionD": "Harvest crops earlier in the growing season",
+    "correctOption": "A",
+    "explanation": "Fewer chemicals mean less pollution washing into waterways. Using crops and practices that need fewer chemicals protects the water quality in nearby streams and rivers."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A type of thick grass from Africa was introduced to grazing areas in the southwestern United States. This African grass grows faster and takes up more space than native grasses, making it hard for native plants to survive. What is most likely to happen to the native grasses in these areas over many years?",
+    "optionA": "The population of native grasses will increase and outcompete the African grass",
+    "optionB": "The population of native grasses will decrease because the African grass takes their space and water",
+    "optionC": "The African grass will evolve to look like the native grasses to blend in",
+    "optionD": "The native grasses will develop new traits to become more competitive",
+    "correctOption": "B",
+    "explanation": "Invasive species compete with native species for the same resources—water, space, and sunlight. When an invasive species is more successful at surviving, native species gradually disappear from that area."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Two runners race along a straight track. Runner A runs 50 meters in 60 seconds. Runner B runs 25 meters in 60 seconds. If they keep running at the same speed, how far will each runner have gone after 120 seconds total?",
+    "optionA": "Runner A: 90 meters, Runner B: 45 meters",
+    "optionB": "Runner A: 75 meters, Runner B: 37.5 meters",
+    "optionC": "Runner A: 120 meters, Runner B: 60 meters",
+    "optionD": "Runner A: 100 meters, Runner B: 50 meters",
+    "correctOption": "D",
+    "explanation": "To find distance at a new time, use the speed (distance ÷ time). Runner A is faster, so in double the time, each runner covers double the original distance."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A person picks up a 4-kilogram bowling ball and wants to accelerate it forward at a rate of 3 meters per second squared. What is the net force (in newtons) that must be applied to the bowling ball? (Use: Force = mass × acceleration)",
+    "optionA": "12 newtons",
+    "optionB": "7 newtons",
+    "optionC": "9 newtons",
+    "optionD": "15 newtons",
+    "correctOption": "A",
+    "explanation": "Force equals mass times acceleration (F = ma). With mass = 4 kg and acceleration = 3 m/s², the force needed is 4 × 3 = 12 newtons. This is multi-step calculation thinking."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Scientists collected data on four elements' positions in the periodic table. Element A: Row 2, Column 1. Element B: Row 2, Column 2. Element C: Row 3, Column 1. Element D: Row 3, Column 2. Which element has the same number of electron energy levels as Element A?",
+    "optionA": "Element B (also in Row 2)",
+    "optionB": "Element C (in Row 3, same column as A)",
+    "optionC": "Element D (in Row 3, same column as B)",
+    "optionD": "All elements have the same number of energy levels",
+    "correctOption": "A",
+    "explanation": "The row (horizontal line) in the periodic table tells you how many electron shells an atom has. Elements in the same row have the same number of energy levels."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A chemistry teacher writes out a balanced equation for a reaction: 2C₂H₆ + 7O₂ → 4CO₂ + 6H₂O. If you count all the oxygen atoms on both the left and right sides of this equation, how many oxygen atoms are there in total?",
+    "optionA": "7 oxygen atoms total",
+    "optionB": "11 oxygen atoms total",
+    "optionC": "14 oxygen atoms total",
+    "optionD": "20 oxygen atoms total",
+    "correctOption": "C",
+    "explanation": "Count carefully: on the left side, 7O₂ molecules = 14 oxygen atoms. On the right side, 4CO₂ (8 atoms) + 6H₂O (6 atoms) = 14 atoms. Balanced equations have equal atoms on both sides."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Two plants grow side by side in the same garden. Plant A has a large root system that reaches deep underground with many branching roots. Plant B is a small plant with short, shallow roots. Why is Plant A better at finding water?",
+    "optionA": "Plant A can absorb more water because its roots reach deeper and spread wider through the soil",
+    "optionB": "Plant A gets more sunlight because its roots are deeper",
+    "optionC": "Plant B absorbs more water because its shallow roots are closer to rainfall",
+    "optionD": "Plant B gets more nutrients because its roots are closer to the surface",
+    "correctOption": "A",
+    "explanation": "Larger, deeper root systems can reach water from a greater area of soil and from deeper underground where water is often available even during dry periods."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In a coastal habitat, energy flows through different organisms: tiny water plants and sea grasses (producers) → small shellfish (primary consumers) → fish (secondary consumers) → sharks (top consumers). Which statement correctly describes how energy moves through this food chain?",
+    "optionA": "Fish get energy directly from both the water plants and the sharks",
+    "optionB": "Sharks get energy directly from the tiny water plants",
+    "optionC": "Sharks receive energy directly from the fish that eat the smaller animals",
+    "optionD": "Water plants get energy from the shellfish and fish",
+    "correctOption": "C",
+    "explanation": "In a food chain or food pyramid, energy flows upward one level at a time. Each consumer eats the level below it and is eaten by the level above. Energy doesn't skip levels."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student uses a lamp, a ball, and a globe to demonstrate a solar eclipse. Which motion of the objects best shows what happens during a solar eclipse?",
+    "optionA": "The ball moves between the lamp and globe, blocking the lamp's light from reaching the globe",
+    "optionB": "The globe moves between the lamp and ball, casting a shadow on the ball",
+    "optionC": "The lamp moves between the globe and ball, creating shadows on both",
+    "optionD": "The ball orbits around the globe while the lamp stays still",
+    "correctOption": "A",
+    "explanation": "A solar eclipse happens when the Moon passes directly between the Sun and Earth, blocking sunlight from reaching Earth. The Moon's shadow falls on Earth."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Plant and animal cells both have structures that surround them and keep water balanced inside the cell. What is the job that BOTH a plant cell wall AND an animal cell membrane perform?",
+    "optionA": "Creating energy for the cell to use",
+    "optionB": "Controlling the movement of water into and out of the cell",
+    "optionC": "Storing genetic information to pass to offspring",
+    "optionD": "Breaking down waste materials from the cell",
+    "correctOption": "B",
+    "explanation": "Both cell membranes and cell walls act as barriers that separate the inside of the cell from the outside, and they both allow water and nutrients to move in and out in a controlled way."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A teacher mixes together a clear colorless liquid with a clear yellow liquid in a test tube. Suddenly, a thick orange solid forms and settles to the bottom. Which observation shows that a chemical reaction has taken place (not just a physical change)?",
+    "optionA": "The mixture boils and steam rises from the test tube",
+    "optionB": "The mixture stays in the test tube but becomes heavier",
+    "optionC": "A completely new solid substance forms that wasn't there before",
+    "optionD": "The liquids mix together and change color to orange",
+    "correctOption": "C",
+    "explanation": "A chemical reaction creates new substances with different properties. When a solid forms from two liquids mixing, that's usually a sign of a chemical reaction that formed a new material."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "If you look up at the night sky, the Sun appears much brighter than any other star, even though some stars are actually much bigger and hotter than the Sun. Why does the Sun seem so bright to us?",
+    "optionA": "The Sun releases more energy than any other star",
+    "optionB": "The Sun has unique chemical reactions that make brighter light",
+    "optionC": "The Sun is much hotter than all other stars in the universe",
+    "optionD": "The Sun is much closer to Earth than any other star",
+    "correctOption": "D",
+    "explanation": "Brightness depends on distance as well as the star's actual brightness. The Sun appears brightest to us because it is by far the closest star to Earth—not because it is the biggest or hottest star overall."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Students exercise by jumping rope for one minute and measure their heart rate and breathing rate before and after. Their heart rate increases from 60 to 120 beats per minute, and their breathing rate increases from 15 to 35 breaths per minute. Which pair of body systems are working together to handle this exercise?",
+    "optionA": "Nervous system adds oxygen to blood; Skeletal system removes carbon dioxide",
+    "optionB": "Circulatory system pumps blood to carry oxygen and remove waste; Respiratory system brings oxygen into the blood and releases carbon dioxide",
+    "optionC": "Digestive system provides energy; Skeletal system holds the body upright",
+    "optionD": "Muscular system pumps blood; Nervous system controls all movement",
+    "correctOption": "B",
+    "explanation": "During exercise, your heart pumps faster to deliver oxygen-rich blood to your muscles. Your breathing speeds up to bring more oxygen in through your lungs. The circulatory and respiratory systems work together."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A car engine burns fuel in a cylinder. The fuel releases heat energy that expands into hot gases. These hot gases push a piston down. The piston turns connected parts that make the wheels rotate. Which statement correctly describes the energy changes in this process?",
+    "optionA": "Chemical energy from the fuel becomes heat energy, which then becomes movement energy",
+    "optionB": "Heat energy from the fuel becomes mechanical energy, which becomes electrical energy",
+    "optionC": "Electrical energy in the fuel becomes heat energy, which then becomes mechanical energy",
+    "optionD": "Movement energy in the fuel becomes electrical energy, which becomes heat energy",
+    "correctOption": "A",
+    "explanation": "Energy transformation: fuel (chemical energy) burns and releases heat (thermal energy), which pushes the piston and turns wheels (mechanical energy). This shows how different forms of energy change from one type to another."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A scientist observes an unknown organism and records these facts: it has many cells, it makes its own food from sunlight, and it can reproduce in two different ways—with and without mating. Which kingdom does this organism most likely belong to?",
+    "optionA": "Bacteria (single-celled organisms)",
+    "optionB": "Animals (they eat food, not make it)",
+    "optionC": "Fungi (they don't make food from sunlight)",
+    "optionD": "Plants (multicellular, autotrophic, reproduce sexually and asexually)",
+    "correctOption": "D",
+    "explanation": "Plants are multicellular organisms that use sunlight to make their own food through photosynthesis. Many plants can reproduce both sexually (with seeds) and asexually (through runners or bulbs)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A truck is initially driving north at 10 meters per second. Then it speeds up to 20 meters per second while still heading north. Which statement correctly describes how speed and velocity changed?",
+    "optionA": "Speed increased from 10 m/s to 20 m/s; Velocity increased from 10 m/s north to 20 m/s north",
+    "optionB": "Speed is just 10 m/s; Velocity is 20 m/s north",
+    "optionC": "Velocity is the same as before because direction didn't change",
+    "optionD": "Speed always includes direction; Velocity does not include direction",
+    "correctOption": "A",
+    "explanation": "Speed is how fast something is moving (just a number: 10 m/s). Velocity is speed plus direction (10 m/s north). When the truck goes faster in the same direction, both speed and velocity increase."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Sulfur is an element that has specific chemical reactions it can do. Selenium is another element on the periodic table, located directly below sulfur in the same vertical column. Which element has chemical properties MOST similar to sulfur?",
+    "optionA": "Phosphorus (one column to the left)",
+    "optionB": "Chlorine (one column to the right)",
+    "optionC": "Selenium (directly below in the same column)",
+    "optionD": "Calcium (in the same period, but far away)",
+    "correctOption": "C",
+    "explanation": "Elements in the same vertical column (group) of the periodic table have similar chemical properties because they have the same number of electrons in their outer shell."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which of these facts provides the BEST proof that human fishing practices are harming the ocean's food supply?",
+    "optionA": "Tourists touch and break pieces of coral reefs",
+    "optionB": "Humans catch fish faster than the fish populations can reproduce and replace themselves",
+    "optionC": "Fish farms raise and sell fish to restaurants and stores",
+    "optionD": "Builders create artificial reefs made of concrete to attract more fish to certain areas",
+    "correctOption": "B",
+    "explanation": "When fishing removes more fish than can be replenished through natural reproduction, fish populations shrink and food supplies dwindle. This directly shows negative human impact on ocean resources."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A scientist studies the atoms in the element fluorine. She finds that each fluorine atom has 9 protons in its nucleus and a mass number of 19. How many neutrons does a fluorine atom contain? (Use: Neutrons = mass number − protons)",
+    "optionA": "9 neutrons",
+    "optionB": "19 neutrons",
+    "optionC": "10 neutrons",
+    "optionD": "28 neutrons",
+    "correctOption": "C",
+    "explanation": "Neutrons = mass number − protons = 19 − 9 = 10 neutrons. This is a direct calculation using atomic information. Understanding atomic structure requires this step-by-step thinking."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Four students built rockets that they launch with compressed air. Each rocket has a different mass and receives a different force. Which rocket will accelerate the fastest? Rocket A (mass 0.5 kg, force 12 N); Rocket B (mass 0.4 kg, force 8 N); Rocket C (mass 0.6 kg, force 12 N); Rocket D (mass 0.5 kg, force 8 N). (Acceleration = Force ÷ mass; bigger ratio = faster acceleration)",
+    "optionA": "Rocket A has the highest acceleration at 24 m/s²",
+    "optionB": "Rocket B has the highest acceleration at 20 m/s²",
+    "optionC": "Rocket C has the highest acceleration at 20 m/s²",
+    "optionD": "Rocket D has the highest acceleration at 16 m/s²",
+    "correctOption": "A",
+    "explanation": "Acceleration = Force ÷ mass. Rocket A: 12 ÷ 0.5 = 24. This requires understanding the inverse relationship between mass and acceleration—lighter objects or stronger forces cause greater acceleration."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A clown fish and a sea anemone live together on a reef and help each other survive. The clown fish moves water around the sea anemone by swimming nearby. In a low-oxygen area of the reef, the movement of water helps the sea anemone get more dissolved oxygen. Which description best explains this relationship?",
+    "optionA": "The clown fish protects the anemone from enemies (biotic factor)",
+    "optionB": "The clown fish eats leftover food the anemone drops (biotic factor)",
+    "optionC": "The clown fish creates more algae for the anemone to eat (biotic factor)",
+    "optionD": "The clown fish affects a non-living part of the anemone's environment by improving water flow and oxygen levels (abiotic factor)",
+    "correctOption": "D",
+    "explanation": "Abiotic factors are non-living things like water, oxygen, sunlight, and temperature. Biotic factors are living things. The clown fish's movement improves an abiotic factor (oxygen availability)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A cyclist riding a bike speeds up while going downhill. As they go faster down the slope, what happens to their potential energy and kinetic energy?",
+    "optionA": "Kinetic energy increases; Potential energy decreases",
+    "optionB": "Kinetic energy increases; Potential energy stays the same",
+    "optionC": "Kinetic energy stays the same; Potential energy decreases",
+    "optionD": "Both kinetic and potential energy increase",
+    "correctOption": "A",
+    "explanation": "Potential energy depends on height. As the cyclist goes downhill (loses height), potential energy decreases. Kinetic energy depends on speed. As the cyclist speeds up, kinetic energy increases. Energy transforms from potential to kinetic."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Plants lose water vapor through their leaves in a process called transpiration. In a region experiencing a long drought with very little rain, which leaf feature would help a plant survive by reducing water loss?",
+    "optionA": "Broad, thin leaves that absorb more sunlight",
+    "optionB": "Leaves covered with a waxy or thick coating that reduces evaporation",
+    "optionC": "Large, flat leaves with many pores for gas exchange",
+    "optionD": "Thin leaves without any protective structures",
+    "correctOption": "B",
+    "explanation": "Adaptations that reduce water loss—like waxy coatings, small leaves, or needle-like leaves—help plants survive in dry areas. These features slow down evaporation so plants lose less water."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A diagram shows two tectonic plates on the ocean floor moving apart, with new rock forming in the gap between them. Which type of plate boundary is shown?",
+    "optionA": "Convergent boundary (plates moving together)",
+    "optionB": "Subduction boundary (one plate sliding under another)",
+    "optionC": "Transform boundary (plates sliding sideways past each other)",
+    "optionD": "Divergent boundary (plates spreading apart)",
+    "correctOption": "D",
+    "explanation": "Divergent boundaries occur where two plates move away from each other. As they separate, hot molten rock from below fills the gap, creating new oceanic crust and underwater ridges."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A ball is tossed straight up into the air. It rises up, slows down as it climbs, stops momentarily at the top, and then falls back down with increasing speed. Which force is responsible for all of this motion?",
+    "optionA": "The ball's weight changes as it goes higher and lower",
+    "optionB": "Air resistance is the main force that changes the ball's motion after it's thrown",
+    "optionC": "Gravity constantly pulls the ball downward, slowing it on the way up and speeding it on the way down",
+    "optionD": "The force from your hand keeps pushing the ball even after you release it",
+    "correctOption": "C",
+    "explanation": "Gravity is a constant force pulling everything toward Earth. On the way up, gravity slows the ball's upward motion. On the way down, gravity speeds up the ball's downward motion."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Alpha Centauri appears in the night sky as a bright object. Scientists observe that this object produces its own light through nuclear reactions and spins on its axis. What is Alpha Centauri most likely?",
+    "optionA": "An asteroid that reflects sunlight",
+    "optionB": "A comet orbiting the sun",
+    "optionC": "A planet that circles a star",
+    "optionD": "A star that produces its own light",
+    "correctOption": "D",
+    "explanation": "Stars produce their own light through nuclear fusion in their cores. Objects that produce light and rotate on their axis are stars, not planets, asteroids, or comets."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student pours vinegar (an acid) into a beaker and measures the temperature. Then the student adds a piece of steel wool and measures the temperature again. The temperature increases noticeably. What does this temperature change tell us?",
+    "optionA": "The steel wool simply dissolved into the vinegar (physical change)",
+    "optionB": "The steel wool absorbed heat from nearby objects (physical change)",
+    "optionC": "The steel wool underwent a chemical reaction with the vinegar that released heat energy",
+    "optionD": "The steel wool expanded when the temperature was measured (physical change)",
+    "correctOption": "C",
+    "explanation": "A temperature increase during a reaction is evidence that a chemical reaction occurred and energy was released. Physical changes like dissolving or mixing usually don't produce such a noticeable temperature change."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A scientist tests properties of four different materials: Element W: shiny, conducts electricity, conducts heat, low melting point. Element X: dull, does NOT conduct electricity, does NOT conduct heat, low melting point. Element Y: shiny, conducts electricity, conducts heat, high melting point. Element Z: dull, conducts electricity, conducts heat, high melting point. Which element is most likely a NONMETAL?",
+    "optionA": "Element W (shiny and conducts electricity, so it's a metal)",
+    "optionB": "Element X (dull, doesn't conduct, these are nonmetal properties)",
+    "optionC": "Element Y (shiny and conducts, so it's a metal)",
+    "optionD": "Element Z (conducts electricity but is dull, so it's a metalloid)",
+    "correctOption": "B",
+    "explanation": "Nonmetals typically don't shine, don't conduct electricity well, and don't conduct heat well. Element X has all these nonmetal properties. Metals are shiny and conduct electricity and heat."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which of these is something a child must learn how to do by practicing and being taught?",
+    "optionA": "Sneezing when dust enters the nose",
+    "optionB": "Blinking when wind blows in the eyes",
+    "optionC": "Digesting food after eating",
+    "optionD": "Playing a musical instrument",
+    "correctOption": "D",
+    "explanation": "Playing an instrument requires practice and teaching—it is a learned behavior. Sneezing, digestion, and blinking are automatic, built-in responses that happen without learning."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A male peacock has bright blue and green feathers that fan out in a spectacular display. What is the main reason peacocks have developed this showy plumage?",
+    "optionA": "To help them run faster through the jungle",
+    "optionB": "To catch the attention of female peacocks during mating season",
+    "optionC": "To blend in with trees and stay hidden from predators",
+    "optionD": "To stay warm during cold monsoon rains",
+    "correctOption": "B",
+    "explanation": "Bright, eye-catching feathers help male peacocks attract females for reproduction. Over time, peacocks with showier feathers were more successful at finding mates."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A camel's feet are wide and padded with thick, leathery skin. How does this foot structure help a camel survive in hot desert environments?",
+    "optionA": "It helps the camel climb rocky mountains faster",
+    "optionB": "It helps the camel spot predators at a distance",
+    "optionC": "It lets the camel swim quickly through water",
+    "optionD": "It prevents the camel from sinking into hot, loose desert sand",
+    "correctOption": "D",
+    "explanation": "Wide, padded feet spread the camel's weight over a larger surface area, preventing it from sinking into soft sand. This is a key adaptation for life in desert environments."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Every autumn, monarch butterflies fly thousands of miles south to find warmer places to spend the winter. When spring returns, they fly back north. What is this regular, long-distance journey called?",
+    "optionA": "Migration",
+    "optionB": "Hibernation",
+    "optionC": "Adaptation",
+    "optionD": "Camouflage",
+    "correctOption": "A",
+    "explanation": "Migration is when animals travel long distances from one place to another in response to seasonal changes. Monarchs migrate to escape cold winters and find food and shelter."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A turtle's shell is colored brown and green with patterns that look like leaves and branches. When the turtle stays still in a forest, it is very hard to see. Why is this beneficial?",
+    "optionA": "It makes the turtle larger and more intimidating",
+    "optionB": "It helps the turtle swim faster underwater",
+    "optionC": "Its colors and patterns blend into its surroundings, making it harder for predators to find it",
+    "optionD": "It helps the turtle find food in the dark",
+    "correctOption": "C",
+    "explanation": "Camouflage is when an animal's coloring and patterns match its environment. A camouflaged turtle is protected from predators because they can't easily spot it."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A lifespan describes what characteristic of an organism?",
+    "optionA": "How much an animal eats in one day",
+    "optionB": "The total length of time from when an animal is born until it dies",
+    "optionC": "How fast an animal can move",
+    "optionD": "The number of babies an animal produces",
+    "correctOption": "B",
+    "explanation": "A lifespan is simply the total time an animal lives from birth to death. Different animals have very different lifespans—some live just days, others live many decades."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "When an animal eats food, what does it use from the food?",
+    "optionA": "The water stored inside the food",
+    "optionB": "The stored nutrients and energy",
+    "optionC": "The sunlight that hit the food",
+    "optionD": "The oxygen the food produces",
+    "correctOption": "B",
+    "explanation": "Animals get energy and nutrients from food to help them grow, move, and stay alive. Without food energy, animals cannot survive."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Every spring, trees that were bare and leafless all winter suddenly start producing new leaves and buds. What seasonal change is causing this response?",
+    "optionA": "Strong winds blowing new seeds",
+    "optionB": "Animals eating the old bark off branches",
+    "optionC": "Increased rainfall in the soil",
+    "optionD": "Longer days and warmer temperatures",
+    "correctOption": "D",
+    "explanation": "As days get longer and temperatures warm in spring, trees sense these changes and begin growing. Buds open and leaves unfold in response to these seasonal signals."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Here is a desert food chain showing how energy flows: The Sun provides energy to desert plants. Desert plants are eaten by insects. Insects are eaten by lizards. Lizards are eaten by desert foxes. In this food chain, which organisms are the producers?",
+    "optionA": "The insects and lizards",
+    "optionB": "The lizards and desert foxes",
+    "optionC": "The insects",
+    "optionD": "The desert plants",
+    "correctOption": "D",
+    "explanation": "Producers are organisms that make their own food using energy from the sun. Desert plants are producers because they capture sunlight and convert it into food through photosynthesis. All other organisms are consumers."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In a desert, the Sun provides energy to desert plants, which are eaten by insects, which are eaten by lizards, which are eaten by desert foxes. The arrow from insects to lizards shows that lizards obtain what from insects?",
+    "optionA": "Energy stored in the insect's body",
+    "optionB": "Water to keep them hydrated",
+    "optionC": "Oxygen to help them breathe",
+    "optionD": "Waste products",
+    "correctOption": "A",
+    "explanation": "In a food chain, arrows show the direction of energy flow. When a lizard eats an insect, energy stored in the insect's body transfers to the lizard. This energy originally came from the plants the insect ate."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A forest fire destroyed most of the plants in a forest area, but a few plants survived. How will the plant population gradually recover and repopulate the forest?",
+    "optionA": "Remaining plants will slow down their growth to reduce competition",
+    "optionB": "The surviving plants will migrate to other forests",
+    "optionC": "New plants will only grow if humans plant seeds there",
+    "optionD": "The surviving plants will reproduce and produce seeds that grow into new plants",
+    "correctOption": "D",
+    "explanation": "Reproduction allows populations to grow and recover. Surviving plants produce seeds and offspring that germinate and grow, gradually filling the burned area and rebuilding the forest."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What is the main energy source that powers the water cycle, causing water to evaporate, rise into the atmosphere, condense into clouds, and fall as rain?",
+    "optionA": "Energy from the Sun",
+    "optionB": "Energy from Earth's hot interior",
+    "optionC": "The Moon's gravitational pull",
+    "optionD": "Wind and storms",
+    "correctOption": "A",
+    "explanation": "The Sun's thermal energy heats water in oceans, lakes, and rivers, causing it to evaporate. This solar energy is the power source that drives the entire water cycle."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which human activity would cause the most serious harm to river ecosystems and organisms living in the water?",
+    "optionA": "Putting solar panels on a nearby building",
+    "optionB": "Dumping factory chemicals into the river",
+    "optionC": "Planting trees along the riverbank",
+    "optionD": "Building a dock for fishing boats",
+    "correctOption": "B",
+    "explanation": "Toxic chemical pollution poisons the water and kills fish, plants, and insects that depend on clean water to survive. Chemical dumping causes severe environmental damage to water ecosystems."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Earth spins on its axis, completing one full rotation every 24 hours. How many times does Earth spin in one week?",
+    "optionA": "1 time",
+    "optionB": "7 times",
+    "optionC": "14 times",
+    "optionD": "365 times",
+    "correctOption": "B",
+    "explanation": "Since Earth rotates once each day, and there are 7 days in a week, Earth completes 7 rotations in one week."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A water storage tank sits on tall legs above the ground. Water flows downward through pipes from the tank to homes below. What force causes the water to flow downward?",
+    "optionA": "Electricity from power cables",
+    "optionB": "Friction between water and pipes",
+    "optionC": "Gravity pulling the water down",
+    "optionD": "Magnetism from the Earth",
+    "correctOption": "C",
+    "explanation": "Gravity is the force that pulls objects downward. Because the tank is higher than the homes, gravity pulls the water down through the pipes from high to low elevation."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "On a hot, sunny morning, a large puddle of water sits on a playground. By the end of the hot day, the puddle has disappeared without any rain falling. Which water cycle process best explains what happened?",
+    "optionA": "Condensation turned the water into clouds",
+    "optionB": "Precipitation removed the water as rain",
+    "optionC": "Evaporation turned the water into water vapor that rose into the air",
+    "optionD": "Freezing turned the water into ice",
+    "correctOption": "C",
+    "explanation": "Evaporation occurs when the Sun's heat turns liquid water into invisible water vapor that rises into the atmosphere. The puddle evaporated on the hot day."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Hurricanes bring powerful winds and extremely heavy rainfall to coastal areas. Which of the following is a major NEGATIVE impact that hurricanes have on the land?",
+    "optionA": "Creating new habitats for animals",
+    "optionB": "Increasing the number of prey animals",
+    "optionC": "Widespread flooding that damages buildings and destroys habitats",
+    "optionD": "Providing more water for plants to use",
+    "correctOption": "C",
+    "explanation": "Hurricanes cause catastrophic flooding that destroys homes, washes away soil, creates mudslides, and kills plants and animals. Flooding is one of the most destructive consequences of powerful storms."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What two key properties must something have to be classified as matter?",
+    "optionA": "Mass and volume",
+    "optionB": "Color and texture",
+    "optionC": "Shape and hardness",
+    "optionD": "Temperature and weight",
+    "correctOption": "A",
+    "explanation": "Matter is defined as anything that has mass (the amount of material) and volume (the space it takes up). All physical objects—solid, liquid, or gas—have these two properties."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student polishes an old piece of metal until it shines brightly. They can now see their face reflected in it as if it were a mirror. Which property of the polished metal surface makes this reflection possible?",
+    "optionA": "Its reflectiveness",
+    "optionB": "Its hardness",
+    "optionC": "Its temperature",
+    "optionD": "Its density",
+    "correctOption": "A",
+    "explanation": "A polished, smooth metal surface has the property of reflectiveness—it bounces light rays back in organized ways, creating a mirror-like reflection."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A cork floats on water while a rock sinks. What combination of properties determines whether each object floats or sinks?",
+    "optionA": "The color and temperature of the object",
+    "optionB": "The material and shape of the object",
+    "optionC": "The location and time of the object",
+    "optionD": "The size and age of the object",
+    "correctOption": "B",
+    "explanation": "An object's material determines its density (heaviness relative to size), and its shape affects how much water it displaces. These two properties together determine if something floats or sinks."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "During fall, a green leaf on a tree gradually changes to bright red over several days. Which physical property of the leaf is changing?",
+    "optionA": "Its weight",
+    "optionB": "Its size",
+    "optionC": "Its color",
+    "optionD": "Its texture",
+    "correctOption": "C",
+    "explanation": "Color is a physical property that can change. In fall, the green chlorophyll pigment in leaves breaks down, revealing red and orange pigments that were hidden underneath."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Several different colored shirts hang on a clothesline on a very hot, sunny day. Which color shirt would absorb the most sunlight and become the hottest?",
+    "optionA": "Light blue",
+    "optionB": "White",
+    "optionC": "Yellow",
+    "optionD": "Black",
+    "correctOption": "D",
+    "explanation": "Dark colors, especially black, absorb more of the sun's light energy and convert it into heat. Light colors reflect most sunlight away, staying much cooler. This is why wearing black in hot weather makes you feel hotter."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Two students make observations during a nature walk. Student A notes: sweet smell, long green stems, yellow flowers. Student B notes: brown stems, yellow flowers, shiny leaves. What type of organism were they most likely observing?",
+    "optionA": "Insects",
+    "optionB": "Rocks and minerals",
+    "optionC": "Water organisms",
+    "optionD": "Plants",
+    "correctOption": "D",
+    "explanation": "Features like stems, flowers, and leaves are all characteristics of plants. Based on these observations alone, they were clearly observing plant structures and features."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A scientist needs to measure the exact volume of liquid in a chemistry experiment. Which tool should they use?",
+    "optionA": "A graduated cylinder",
+    "optionB": "A thermometer",
+    "optionC": "A ruler",
+    "optionD": "A balance scale",
+    "correctOption": "A",
+    "explanation": "A graduated cylinder is a glass container marked with volume measurements. Scientists use it to measure exact volumes of liquids by reading the liquid level at the marks."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Students recorded bird counts from the playground during a one-hour observation: Blue Jay: 2, Robin: 8, Sparrow: 4, Finch: 6. Which data table shows these exact counts correctly?",
+    "optionA": "Blue Jay 2, Robin 8, Sparrow 4, Finch 6",
+    "optionB": "Blue Jay 2, Robin 6, Sparrow 4, Finch 8",
+    "optionC": "Blue Jay 2, Robin 4, Sparrow 8, Finch 6",
+    "optionD": "Blue Jay 0, Robin 8, Sparrow 6, Finch 4",
+    "correctOption": "A",
+    "explanation": "An accurate data table must show exactly what was observed. Only option A matches the observed counts: 2, 8, 4, and 6 respectively."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A weather forecast table shows: June 28—scattered thunderstorms, high 80°F, low 61°F, 60% chance of rain. June 29—partly cloudy, high 72°F, low 56°F, 10% chance of rain. June 30—sunny, high 75°F, low 60°F, 0% chance of rain. What is the predicted highest temperature for June 29?",
+    "optionA": "56°F",
+    "optionB": "72°F",
+    "optionC": "75°F",
+    "optionD": "80°F",
+    "correctOption": "B",
+    "explanation": "In a weather table, 'high' refers to the highest predicted temperature for that day. For June 29, the high is 72°F, even though other temperatures and conditions are also listed."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A weather data table for one week includes columns for: sky condition (sunny/cloudy/rainy), highest temperature, lowest temperature, and percentage chance of precipitation. Which TWO weather elements are being tracked in this table?",
+    "optionA": "Wind speed and atmospheric pressure",
+    "optionB": "Wind direction and humidity",
+    "optionC": "Air temperature and precipitation probability",
+    "optionD": "Wind speed and humidity",
+    "correctOption": "C",
+    "explanation": "The table explicitly tracks temperature (high and low values) and precipitation (percent chance of rain). Wind and humidity information are not included in this table."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A ball is rolled across four different surfaces. On which surface would it roll the FASTEST before stopping?",
+    "optionA": "A thick, soft carpet",
+    "optionB": "A sandy beach",
+    "optionC": "A smooth, polished wood gymnasium floor",
+    "optionD": "A gravel driveway",
+    "correctOption": "C",
+    "explanation": "Friction is the force that slows rolling objects. A smooth gym floor has very low friction, so the ball rolls fastest and farthest. Carpet, sand, and gravel all create much more friction and slow the ball quickly."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A soccer ball is classified as a solid object. Which two properties define what makes something a solid?",
+    "optionA": "No definite shape and no definite volume",
+    "optionB": "Definite shape but no definite volume",
+    "optionC": "Definite shape and definite volume",
+    "optionD": "No definite shape but definite volume",
+    "correctOption": "C",
+    "explanation": "Solids have two key properties: they maintain their shape (a soccer ball stays ball-shaped) and occupy a fixed volume (take up a specific amount of space). This distinguishes them from liquids and gases."
   }
 ]

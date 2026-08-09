@@ -1,0 +1,100 @@
+[
+  {
+    "sourceItemNum": 3,
+    "subject": "science",
+    "topic": "cellular respiration",
+    "levelBand": "Age 11",
+    "classification_note": "Multi-step biochemical process requiring understanding of inputs/outputs and energy production"
+  },
+  {
+    "sourceItemNum": 5,
+    "subject": "science",
+    "topic": "material properties",
+    "levelBand": "Age 11",
+    "classification_note": "Select-two source converted to single best-answer; requires multi-criteria reasoning and trade-off evaluation"
+  },
+  {
+    "sourceItemNum": 6,
+    "subject": "science",
+    "topic": "material properties / environmental application",
+    "levelBand": "Age 10",
+    "classification_note": "Applying material properties to real-world constraints (ice melting AND plant safety)"
+  },
+  {
+    "sourceItemNum": "10A",
+    "subject": "science",
+    "topic": "cell biology",
+    "levelBand": "Age 9",
+    "classification_note": "Part A: Basic cell biology fact—chromosome location in nucleus"
+  },
+  {
+    "sourceItemNum": "10B",
+    "subject": "science",
+    "topic": "genetics / inheritance",
+    "levelBand": "Age 11",
+    "classification_note": "Part B: Multi-step genetics reasoning—alleles produce different proteins leading to trait variation"
+  },
+  {
+    "sourceItemNum": 11,
+    "subject": "science",
+    "topic": "heat transfer",
+    "levelBand": "Age 11",
+    "classification_note": "Distinguishing three heat transfer mechanisms (conduction vs convection vs radiation)"
+  },
+  {
+    "sourceItemNum": 12,
+    "subject": "science",
+    "topic": "conservation of mass / closed systems",
+    "levelBand": "Age 11",
+    "classification_note": "Applying law of conservation of mass to identify closed system based on mass data"
+  },
+  {
+    "sourceItemNum": 13,
+    "subject": "science",
+    "topic": "cell biology",
+    "levelBand": "Age 9",
+    "classification_note": "Basic recall—mitochondria function as cellular energy source"
+  },
+  {
+    "sourceItemNum": 14,
+    "subject": "science",
+    "topic": "evolution / natural selection",
+    "levelBand": "Age 11",
+    "classification_note": "Understanding natural selection mechanism (not Lamarckian) explaining population-level trait change; requires rejecting misconceptions"
+  },
+  {
+    "sourceItemNum": 15,
+    "subject": "science",
+    "topic": "plate tectonics",
+    "levelBand": "Age 11",
+    "classification_note": "Understanding mantle convection as driving force for plate movement at mid-ocean ridges"
+  },
+  {
+    "sourceItemNum": "17A+B",
+    "subject": "science",
+    "topic": "climate / oceanography",
+    "levelBand": "Age 11",
+    "classification_note": "Two-part combined: understanding ocean's thermal moderating effect on coastal climates"
+  },
+  {
+    "sourceItemNum": 18,
+    "subject": "science",
+    "topic": "paleontology / extinction events",
+    "levelBand": "Age 11",
+    "classification_note": "Interpreting fossil record data showing sudden biodiversity decrease (mass extinction)"
+  },
+  {
+    "sourceItemNum": 19,
+    "subject": "science",
+    "topic": "paleoclimatology / geology",
+    "levelBand": "Age 10",
+    "classification_note": "Identifying glacial deposits as evidence of past ice-age climate"
+  },
+  {
+    "sourceItemNum": 20,
+    "subject": "science",
+    "topic": "evolution / comparative anatomy",
+    "levelBand": "Age 11",
+    "classification_note": "Homologous structures as evidence for common ancestry and evolution"
+  }
+]

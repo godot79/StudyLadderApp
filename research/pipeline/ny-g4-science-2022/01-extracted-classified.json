@@ -1,0 +1,292 @@
+[
+  {
+    "sourceItemNum": 1,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - behavior",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "An example of a learned behavior is — A) breathing B) blinking C) growing D) reading"
+  },
+  {
+    "sourceItemNum": 2,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - animal adaptations",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "Some birds have colorful feathers for — A) laying eggs B) building a nest C) attracting a mate D) finding food"
+  },
+  {
+    "sourceItemNum": 3,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - structural adaptations",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "Camels have wide, flat feet that prevent them from sinking into the sand. These structures best help the camel with — A) growth B) movement C) reproduction D) coloration"
+  },
+  {
+    "sourceItemNum": 4,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - animal behavior",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "Monarch butterflies fly south when daylight length decreases as winter approaches. This is an example of an organism — A) migrating B) germinating C) escaping predators D) recycling nutrients"
+  },
+  {
+    "sourceItemNum": 5,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - adaptation and camouflage",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "A turtle will be best camouflaged when it — A) swims quickly in the water B) blends in with its environment C) sits in the sunlight D) eats both plants and animals"
+  },
+  {
+    "sourceItemNum": 6,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - life cycle and lifespan",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "The life span of an animal can be described as — A) the basic needs of an animal B) the time from birth to death C) how an animal changes D) traits the animal passes to offspring"
+  },
+  {
+    "sourceItemNum": 7,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - energy and nutrition",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "Animals get the energy needed for growth and repair by taking in — A) heat B) food C) water D) sunlight"
+  },
+  {
+    "sourceItemNum": 8,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - life cycles and seasonal change",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "Each year, buds and leaves begin to develop on trees. This is an example of trees responding to — A) gravity B) germination C) seed dispersal D) seasonal changes"
+  },
+  {
+    "sourceItemNum": 9,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - food chains and ecosystems",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "A desert food chain: Sun → Desert plants → Insects → Lizards → Desert foxes (arrows show energy flow). The producers in this food chain are the — A) insects B) lizards C) desert foxes D) desert plants"
+  },
+  {
+    "sourceItemNum": 10,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - food chains and energy transfer",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "In the same desert food chain, the arrow pointing to the lizard shows that lizards — A) receive energy from the insects B) receive water from the desert foxes C) provide food to the desert plants D) provide mates for other lizards"
+  },
+  {
+    "sourceItemNum": 11,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - population dynamics and reproduction",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "A forest fire destroyed many plants in a forest. Some plants survived. The process that will allow the population of these plants to increase is — A) hibernation B) reproduction C) competition D) communication"
+  },
+  {
+    "sourceItemNum": 12,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - water cycle and energy",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "The water cycle gets its energy from — A) Earth B) distant stars C) the Sun D) the Moon"
+  },
+  {
+    "sourceItemNum": 13,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - environmental impacts",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "Which human activity has the most HARMFUL effect on the environment? A) putting up solar panels B) building shelters for animals C) planting crops on farms D) spilling oil in a river"
+  },
+  {
+    "sourceItemNum": 14,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - Earth's rotation",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "How many times does Earth spin on its axis in one week? A) 1 B) 7 C) 30 D) 365"
+  },
+  {
+    "sourceItemNum": 15,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - forces and gravity",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "A water storage tank on a tower supplies water for homes through pipes leading down to a water main below. Which force causes the water from the storage tank to flow down to the pipes below it? A) electricity B) magnetism C) gravity D) friction"
+  },
+  {
+    "sourceItemNum": 16,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - water cycle processes",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "In the morning, a student observed a puddle of water on the school playground. By the end of the day, the puddle was gone. Which process most likely caused the puddle to disappear? A) condensation B) deposition C) evaporation D) erosion"
+  },
+  {
+    "sourceItemNum": 17,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - weather and natural disasters",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "A negative effect of most hurricanes is — A) more places for animals to live B) an increase in prey C) land habitats become flooded D) more water for plants to grow"
+  },
+  {
+    "sourceItemNum": 18,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - matter and its properties",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "In order for an object to be classified as matter, it must have — A) mass and volume B) mass and shape C) size and shape D) size and volume"
+  },
+  {
+    "sourceItemNum": 19,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - properties of matter",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "A person stands in front of a mirror to tie a necktie and can see their reflection. Which property of the mirror allows the person to see themself? A) magnetism B) volume C) hardness D) reflectiveness"
+  },
+  {
+    "sourceItemNum": 20,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - density and buoyancy",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "Which properties of an object will determine if the object will sink or float in water? A) length and shape B) length and color C) material and shape D) material and color"
+  },
+  {
+    "sourceItemNum": 21,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - properties of objects",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "A student observes a green leaf on a tree in fall turning red over a few days. Which physical property of the leaf is changing? A) texture B) shape C) color D) volume"
+  },
+  {
+    "sourceItemNum": 23,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - light and absorption",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "Which color shirt would absorb the greatest amount of sunlight? A) red B) green C) white D) black"
+  },
+  {
+    "sourceItemNum": 24,
+    "classification": {
+      "subject": "science",
+      "topic": "life science - scientific observation",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "Two students made observations on an outdoor field trip. Student A noted: sweet smell, long stems, yellow flowers. Student B noted: brown stems, yellow flowers, shiny leaves. Based on these journals, an inference that can be made is that the students were observing — A) plants B) water C) birds D) insects"
+  },
+  {
+    "sourceItemNum": 25,
+    "classification": {
+      "subject": "science",
+      "topic": "science - scientific tools and measurement",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "Which scientific tool would be needed to measure the volume of water in an experiment? A) graduated cylinder B) magnet C) pan balance D) hand lens"
+  },
+  {
+    "sourceItemNum": 26,
+    "classification": {
+      "subject": "science",
+      "topic": "science - data analysis and graphing",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "A group of students counted birds in the playground for one hour and made a bar graph: Blue Jay=2, Robin=8, Sparrow=4, Finch=6. Which table did the students use to make the graph? A) Blue Jay 2, Robin 8, Sparrow 4, Finch 6 B) Blue Jay 2, Robin 6, Sparrow 4, Finch 6 C) Blue Jay 2, Robin 4, Sparrow 8, Finch 6 D) Blue Jay 0, Robin 8, Sparrow 6, Finch 4"
+  },
+  {
+    "sourceItemNum": 27,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - weather prediction and data",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "B",
+    "sourcePrompt": "A data table shows predicted weather for Rochester, NY: June 28 (scattered thunderstorms, high 80°F, low 61°F, 60% rain chance), June 29 (partly cloudy, high 72°F, low 56°F, 10% rain chance), June 30 (sunny, high 75°F, low 60°F, 0% rain chance). What is the predicted highest air temperature for June 29? A) 56°F B) 72°F C) 75°F D) 80°F"
+  },
+  {
+    "sourceItemNum": 28,
+    "classification": {
+      "subject": "science",
+      "topic": "earth science - weather data interpretation",
+      "levelBand": "Age 10"
+    },
+    "sourceCorrectAnswer": "D",
+    "sourcePrompt": "Using the same weather data table (which tracks sky condition, highest/lowest air temperature, and chance of rain for each day), which two weather conditions are being predicted in this data table? A) wind speed and air temperature B) sky condition and wind direction C) wind direction and chance of precipitation D) chance of precipitation and air temperature"
+  },
+  {
+    "sourceItemNum": 29,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - friction and motion",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "C",
+    "sourcePrompt": "A rubber ball would roll fastest on which surface? A) sandy beach B) grassy field C) gym floor D) thick rug"
+  },
+  {
+    "sourceItemNum": 30,
+    "classification": {
+      "subject": "science",
+      "topic": "physical science - properties of solids",
+      "levelBand": "Age 9"
+    },
+    "sourceCorrectAnswer": "A",
+    "sourcePrompt": "A box is lifted with a spring scale to find its weight. The box is classified as a solid because it has — A) a definite shape and a definite volume B) a definite shape but no definite volume C) no definite shape but a definite volume D) no definite shape and no definite volume"
+  }
+]

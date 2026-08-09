@@ -1,0 +1,23 @@
+{
+  "source": "Texas STAAR Grade 8 Science, Administered May 2022, Released Test Form",
+  "url": "https://tea.texas.gov/data-reports/staar/released-test-questions/2022-staar-may-grade-8-science-releasedtest.pdf",
+  "answer_key_url": "https://tea.texas.gov/data-reports/staar/released-test-questions/may-2022-staar-science-8-answerkey-final-2.pdf",
+  "publisher": "Texas Education Agency (state government)",
+  "license": "Copyright TEA 2022, released test form explicitly published by TEA for public/educational reuse.",
+  "grade_age": "Grade 8 (age 13-14) - deliberately borrowed one grade level up from this app's target age (9) to source genuinely harder content for the missing High Achiever difficulty band; items must be rewritten in age-appropriate language for a 9-year-old while preserving the underlying reasoning difficulty.",
+  "total_items_in_source": 42,
+  "items_extracted_usable": 33,
+  "items_deferred": 9,
+  "deferred_reasons": {
+    "3": "Topographic contour map with elevation labels - visual-dependent, erosion/slope answer requires reading the contour lines",
+    "10": "Hertzsprung-Russell diagram (star luminosity vs temperature scatter plot with labeled regions) - visual-dependent classification task",
+    "13": "Two side-by-side weather prediction maps (Day 1/Day 2) with H/L pressure symbols and fronts - visual-dependent",
+    "23": "Earth orbital position diagram (4 numbered positions with arrows showing direction/tilt) - visual-dependent, position layout can't be restated in text without losing the geometry the question tests",
+    "27": "Moon-phase diagram requiring matching an observed photo to one of four sun-Earth-moon position diagrams - visual-dependent",
+    "28": "Speed vs. time line graph (three-segment motion) - visual-dependent; answer choices already restate the graph in words, so rewriting would just hand the child the graph reading instead of testing it",
+    "29": "Satellite photograph of a specific point on a desert coastline - visual-dependent, erosion cause depends on seeing the coastal geometry",
+    "31": "Two electron-shell diagrams (dots/circles model of atoms) requiring identification of elements by electron count - visual-dependent",
+    "41": "Complex multi-species food web diagram (7 organisms, multiple arrows) - too many relationships to restate reliably in text without risk of transcription error"
+  },
+  "note": "This is a Grade 8 source (one grade above the STAAR G5 Science 2022 batch already merged) - deliberately selected to fill the missing 'High Achiever' difficulty band in the science subject, which otherwise has zero items at that band. Some items (4, 5, 15, 22, 37) originally relied on a diagram but were judged usable because the diagram's content can be fully restated in the item text without losing what the question tests (e.g. item 4's dichotomous key insect is described as having two pairs of triangular wings; item 37's oceanic-plate diagram is described as two plates spreading apart from a central ridge). No official answer key gap this time - TEA published a separate answer key PDF (may-2022-staar-science-8-answerkey-final-2.pdf) with all 42 correct answers, so all 33 extracted items have a verified correct answer, unlike the STAAR G5 Science 2022 and NY Social Studies 2006 batches which had to reason through answers by hand."
+}
