@@ -35,7 +35,10 @@
       "Bash(sqlite3 prisma/dev.db \"SELECT COUNT\\(*\\) FROM ShownQuestion sq JOIN Question q ON sq.questionId=q.id WHERE q.subject='maths' AND q.levelBand IS NULL;\")",
       "Bash(sqlite3 prisma/dev.db \"SELECT subject, levelBand, COUNT\\(*\\) as count FROM Question WHERE isActive=1 GROUP BY subject, levelBand ORDER BY subject, levelBand;\")",
       "Bash(sqlite3 prisma/dev.db \"SELECT COUNT\\(*\\) as missing_explanation FROM Question WHERE isActive=1 AND explanation IS NULL;\")",
-      "Bash(git fetch *)"
+      "Bash(git fetch *)",
+      "Bash(echo \"MCAS G8 Science: $\\(python3 -c \"import json;print\\(len\\(json.load\\(open\\('research/pipeline/mcas-g8-science-2023/staging.json'\\)\\)\\)\\)\"\\)\")",
+      "Bash(echo \"STAAR G8 Science: $\\(python3 -c \"import json;print\\(len\\(json.load\\(open\\('research/pipeline/staar-g8-science-2022/staging.json'\\)\\)\\)\\)\"\\)\")",
+      "Bash(echo \"NY G4 Science: $\\(python3 -c \"import json;print\\(len\\(json.load\\(open\\('research/pipeline/ny-g4-science-2022/staging.json'\\)\\)\\)\\)\"\\)\")"
     ]
   }
 }
