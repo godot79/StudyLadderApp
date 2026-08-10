@@ -1,0 +1,195 @@
+{
+  "source": "MCAS Grade 5 Science and Technology/Engineering, Spring 2019 (paper-based released items)",
+  "sourceUrl": "https://www.doe.mass.edu/mcas/2019/release/gr5-ste.pdf",
+  "usableItems": [
+    {
+      "id": "item1",
+      "prompt": "A teacher has five samples of unlabeled substances. The table shows: Sample 1 - dissolves in water: yes, magnetic: no, floats: no, weight 10g. Sample 2 - dissolves: yes, magnetic: no, floats: no, weight 15g. Sample 3 - dissolves: no, magnetic: yes, floats: no, weight 18g. Sample 4 - dissolves: no, magnetic: no, floats: no, weight 2g. Sample 5 - dissolves: no, magnetic: no, floats: yes, weight 5g. The teacher adds three of the samples to a beaker, adds water, stirs with a powerful magnet, then removes the magnet. After the magnet is removed, only a colorless liquid remains in the beaker. Which three samples did the teacher most likely mix together?",
+      "options": {"A": "samples 1, 2, and 5", "B": "samples 1, 2, and 3", "C": "samples 2, 3, and 4", "D": "samples 3, 4, and 5"},
+      "correctAnswer": "B",
+      "reasoning": "Samples 1 and 2 fully dissolve leaving no solid or floating residue; sample 3 is magnetic so it would be removed by the magnet. Result: colorless liquid only.",
+      "topic": "properties of matter / mixtures",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item2",
+      "prompt": "Students used sand, gravel, and a coffee filter layered in a container to make a simple water filter (water poured through sand on top, then gravel, then out through a coffee filter at the bottom). Which of the following should the students observe or measure to find out how well the water filter works?",
+      "options": {"A": "how clear the filtered water is", "B": "how much water needs to be filtered", "C": "the length and width of the water filter", "D": "the amount of sand used to make the water filter"},
+      "correctAnswer": "A",
+      "reasoning": "The purpose of a water filter is to remove particles/cloudiness from water, so clarity of the output water is the direct measure of how well it works.",
+      "topic": "engineering design / testing a solution",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item3",
+      "prompt": "The vegetable plants in a school garden used photosynthesis to grow. Which of the following describes how the vegetable plants use photosynthesis to grow?",
+      "options": {
+        "A": "In photosynthesis, vegetable plants use the energy from sunlight to convert air and water into sugar.",
+        "B": "In photosynthesis, vegetable plants use the energy from sugar to convert sunlight into air and water.",
+        "C": "In photosynthesis, vegetable plants use the energy from air and water to convert sunlight into sugar.",
+        "D": "In photosynthesis, vegetable plants use the energy from sunlight to convert sugar into air and water."
+      },
+      "correctAnswer": "A",
+      "reasoning": "Photosynthesis: light energy from the sun powers the conversion of carbon dioxide (air) and water into sugar (glucose).",
+      "topic": "life science / photosynthesis",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item4",
+      "prompt": "Students built two composter prototypes. Composter 1 has solid wooden sides and an open top; its vegetable waste is mixed once a week, exposing it to air only when mixed. Composter 2 has sides made of wire mesh (allowing air to pass through the sides at all times) plus a divider; waste is moved from one side to the other weekly, mixing and exposing it to air. Students added the same amount and type of vegetable waste to each composter. After several weeks, the waste in composter 2 was breaking down faster than in composter 1. Which of the following changes could students make to composter 1 so that waste breaks down more quickly?",
+      "options": {"A": "drill many small holes in each side", "B": "cover the top with a lid made out of wire mesh", "C": "cover the top with a lid made out of clear plastic", "D": "replace the wooden sides with thick plastic sides"},
+      "correctAnswer": "A",
+      "reasoning": "Composter 2 breaks down waste faster because its mesh sides let air reach the waste constantly, not just when mixed. Drilling holes in composter 1's solid wooden sides would let more air reach the waste continuously, matching the reason composter 2 works better. Covering the top or replacing with solid plastic sides does not increase air exposure to the waste.",
+      "topic": "engineering design / decomposition and air exposure",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item5",
+      "prompt": "Bacteria play an important role in the movement of matter in a composter, breaking down vegetable waste into compost over time. Which of the following describes the role of bacteria in a composter?",
+      "options": {
+        "A": "Bacteria in a composter are producers because they produce sugars.",
+        "B": "Bacteria in a composter are composers because they produce sugars.",
+        "C": "Bacteria in a composter are consumers because they recycle materials.",
+        "D": "Bacteria in a composter are decomposers because they recycle materials."
+      },
+      "correctAnswer": "D",
+      "reasoning": "Bacteria that break down dead organic matter (like vegetable waste) into simpler substances are decomposers, and this process recycles materials back into the ecosystem.",
+      "topic": "life science / decomposers and matter cycling",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item7",
+      "prompt": "A town is having a water shortage, and residents have been asked to reduce their use of the town's water supply. A gardener wants to continue watering plants in a garden. Which of the following would be the most effective way to water the plants and still reduce town water use?",
+      "options": {"A": "use soapy water", "B": "use filtered water", "C": "use water from water bottles sold in stores", "D": "use water from rain collected in large containers"},
+      "correctAnswer": "D",
+      "reasoning": "Collected rainwater is a source that does not draw from the town's water supply at all, directly reducing the town's water use while still watering the plants. Filtered town water and bottled water (usually sourced from treated water) still use water resources; soapy water can harm plants.",
+      "topic": "earth science / water resources and conservation",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item8a",
+      "prompt": "A scientist finds fossils in three rock layers of a cliff, stacked from top to bottom: Layer W (top) contains fern and dragonfly fossils. Layer X (middle) contains shell and fish fossils. Layer Y (bottom) contains snail and trilobite fossils. In an undisturbed sequence of rock layers, the fossils in which layer are the oldest?",
+      "options": {
+        "A": "Layer W, because the fossils are in the top layer",
+        "B": "Layer X, because the fossils were formed from ocean organisms",
+        "C": "Layer Y, because the fossils are in the bottom layer",
+        "D": "Layer W, because the fossils were formed from land organisms"
+      },
+      "correctAnswer": "C",
+      "reasoning": "In undisturbed rock layers, deeper (lower) layers formed first and are older than layers above them, so the bottom layer's fossils are the oldest.",
+      "topic": "earth science / rock layers and relative age",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item8b",
+      "prompt": "Which of the following best explains why scientists study fossils?",
+      "options": {
+        "A": "to learn about rocks that formed many years ago",
+        "B": "to learn about different types of very old minerals",
+        "C": "to learn about extinct organisms that lived long ago",
+        "D": "to learn about ancient technologies humans once used"
+      },
+      "correctAnswer": "C",
+      "reasoning": "Fossils are the preserved remains or traces of organisms; scientists study them mainly to learn about organisms, many now extinct, that lived long ago.",
+      "topic": "earth/life science / purpose of fossil study",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item9",
+      "prompt": "An engineer is testing different types of pervious concrete (a special concrete that reduces flooding by letting rainwater pass through and soak into the ground) for use in a new parking area. Which of the following should the engineer measure to see how well a type of pervious concrete will reduce flooding?",
+      "options": {
+        "A": "the weight of 10 cubic meters of the concrete",
+        "B": "the strength of a 15-centimeter layer of the concrete",
+        "C": "the amount of water needed to mix a cubic meter of the concrete",
+        "D": "the number of liters of water per minute that can move through the concrete"
+      },
+      "correctAnswer": "D",
+      "reasoning": "Reducing flooding depends on how fast water can pass through the concrete into the ground, so the flow rate of water through the material (liters per minute) is the direct, relevant measurement. Weight, strength, and mixing water amount do not measure flood-reduction performance.",
+      "topic": "engineering design / testing a solution against a criterion",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item11",
+      "prompt": "Average monthly temperature and precipitation data for four regions: Region W has temperatures ranging about 22-35 degrees F with moderate precipitation (2-8 inches) year-round. Region X has extreme temperature swings from -38 to 64 degrees F with very low precipitation (0-2 inches). Region Y has temperatures 48-70 degrees F with low precipitation (0-2 inches). Region Z has consistently warm temperatures (77-84 degrees F) year-round with high precipitation (2-10 inches every month). Which region is most likely a tropical rainforest?",
+      "options": {"A": "region W", "B": "region X", "C": "region Y", "D": "region Z"},
+      "correctAnswer": "D",
+      "reasoning": "Tropical rainforests have consistently warm/hot temperatures year-round and high precipitation every month, matching Region Z's data. The other regions have cold winters, temperature swings, or low precipitation, ruling out a rainforest classification.",
+      "topic": "earth science / climate and biomes",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item14",
+      "prompt": "Sometimes seeds from plants that produce red raspberries will grow into plants that produce yellow raspberries. When two yellow-raspberry plants reproduce with each other, the resulting seeds always grow into plants that also produce yellow raspberries. Which of the following best describes how raspberries get their color?",
+      "options": {
+        "A": "Raspberry color is an inherited trait that varies among raspberry plants.",
+        "B": "Raspberry color is controlled by the amount of sugar that raspberry plants produce.",
+        "C": "Raspberry color is controlled by the amount of sunlight that raspberry plants receive.",
+        "D": "Raspberry color is an inherited trait that changes when raspberry plants have a disease."
+      },
+      "correctAnswer": "A",
+      "reasoning": "Because yellow-raspberry parent plants reliably produce yellow-raspberry offspring, the color is passed down genetically (inherited) rather than caused by environmental factors like sugar or sunlight, and there's no indication of disease.",
+      "topic": "life science / inherited traits",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item16",
+      "prompt": "Which of the following statements best describes how Earth moves in the six months from June 21 to December 21?",
+      "options": {
+        "A": "Earth makes half a rotation on its axis.",
+        "B": "Earth moves farther away from the Sun.",
+        "C": "Earth makes half a revolution around the Sun.",
+        "D": "Earth begins to rotate more slowly in its orbit."
+      },
+      "correctAnswer": "C",
+      "reasoning": "Earth completes one full revolution (orbit) around the Sun in about a year (365 days), so in six months it completes about half of that orbit -- half a revolution.",
+      "topic": "earth/space science / Earth's orbit and revolution",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item18a",
+      "prompt": "In Florida, the Caloosahatchee River, Kissimmee River, Peace River, Lake Istokpoga, and Lake Okeechobee are all inland freshwater bodies, while the Atlantic Ocean and Gulf of Mexico are the surrounding saltwater bodies. Which of the following correctly groups these bodies of water into freshwater sources and saltwater sources?",
+      "options": {
+        "A": "Freshwater: Caloosahatchee River, Kissimmee River, Lake Istokpoga, Lake Okeechobee, Peace River. Saltwater: Atlantic Ocean, Gulf of Mexico.",
+        "B": "Freshwater: Caloosahatchee River, Kissimmee River, Peace River. Saltwater: Atlantic Ocean, Gulf of Mexico, Lake Istokpoga, Lake Okeechobee.",
+        "C": "Freshwater: Caloosahatchee River, Kissimmee River, Lake Istokpoga, Peace River. Saltwater: Lake Okeechobee, Atlantic Ocean, Gulf of Mexico.",
+        "D": "Freshwater: Atlantic Ocean, Gulf of Mexico, Lake Istokpoga, Lake Okeechobee. Saltwater: Caloosahatchee River, Kissimmee River, Peace River."
+      },
+      "correctAnswer": "A",
+      "reasoning": "Rivers and inland lakes are freshwater bodies; oceans and gulfs (connected to the sea) are saltwater bodies. All five named rivers/lakes are freshwater, and both the Atlantic Ocean and Gulf of Mexico are saltwater.",
+      "topic": "earth science / freshwater vs saltwater bodies",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item19",
+      "prompt": "Polar bears hunt seals from sea ice in the Arctic. Warming Arctic temperatures have reduced the amount of sea ice, making it harder for polar bears to find food. How has the reduced amount of sea ice most likely affected polar bears?",
+      "options": {"A": "They swim less often.", "B": "Their fur is changing color.", "C": "They must eat a lot more food.", "D": "Their population size is decreasing."},
+      "correctAnswer": "D",
+      "reasoning": "Less sea ice means polar bears have more difficulty hunting seals and getting enough food, which over time reduces survival and reproduction, causing the population to decrease.",
+      "topic": "life science / habitat change and population effects",
+      "sourceGrade": "Grade 5"
+    },
+    {
+      "id": "item20",
+      "prompt": "A bicycle has a front gear (attached to the pedal), a rear gear (attached to the wheel), and a chain that loops around and connects the front gear to the rear gear. When the pedal is turned, the front gear, chain, rear gear, and wheel all turn together. Which of the following best describes the function of the chain?",
+      "options": {
+        "A": "The chain keeps the spokes attached to the wheel.",
+        "B": "The chain keeps the wheel attached to the front gear.",
+        "C": "The chain transfers energy from the pedal to the front gear.",
+        "D": "The chain transfers motion from the front gear to the rear gear."
+      },
+      "correctAnswer": "D",
+      "reasoning": "The chain physically links the front gear (turned by the pedal) to the rear gear (attached to the wheel), transferring the turning motion from the front gear to the rear gear so the wheel turns.",
+      "topic": "physical science/engineering / simple machines and motion transfer",
+      "sourceGrade": "Grade 5"
+    }
+  ],
+  "deferredItems": [
+    {"id": "item6", "reason": "Constructed-response, no single fixed answer (three-part open-ended explanation about prototypes vs diagrams and cardboard vs wood)."},
+    {"id": "item10", "reason": "Diagram-dependent: relies on reading exact before/after distances of a magnet and toy car along a printed ruler/measurement diagram; cannot be faithfully restated in text without inventing visual measurement data not otherwise given."},
+    {"id": "item12", "reason": "Answer options are themselves pictograms (grids of light/dark mice before and after selection pressure) with no text description of each option's exact distribution given in the source; cannot restate without fabricating which mice appear in each option."},
+    {"id": "item13", "reason": "Answer options are ray diagrams (arrows between light source, object, and eye) with no fixed textual description distinguishing the four options given in the source text."},
+    {"id": "item15", "reason": "Answer options are diagrams showing gravitational-force arrow directions on a globe; cannot restate the four distinct arrow-direction options in text without fabricating visual content."},
+    {"id": "item17", "reason": "Constructed-response, no single fixed answer (two-part open-ended explanation of energy conversions in a solar panel/bell setup)."},
+    {"id": "item18b", "reason": "Constructed-response, no single fixed answer (compare relative amounts of fresh vs salt water shown on the map)."}
+  ]
+}

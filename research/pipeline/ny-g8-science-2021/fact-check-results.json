@@ -1,0 +1,254 @@
+[
+  {
+    "prompt": "Every human cell contains cytoplasm as its liquid center. What else must be inside almost every human cell?",
+    "verdict": "confirmed",
+    "note": "Animal cells contain genetic material (DNA) in the nucleus and are surrounded by a cell membrane. Plant cells additionally have chloroplasts and cell walls, confirming the distinction.",
+    "source": "https://bio.libretexts.org/Bookshelves/Microbiology/Microbiology_(Boundless)/04:_Cell_Structure_of_Bacteria_Archaea_and_Eukaryotes/4.07:_Internal_Structures_of_Eukaryotic_Cells/4.7C:_Comparing_Plant_and_Animal_Cells"
+  },
+  {
+    "prompt": "A fallen tree lies on the forest floor. Over time, it breaks down and disappears into the soil. Why does this happen?",
+    "verdict": "confirmed",
+    "note": "Decomposers break down dead organic material and recycle nutrients back into the ecosystem, allowing dead organisms to be converted into soil nutrients.",
+    "source": "https://www.tutorchase.com/answers/ib/ess/what-role-do-decomposers-play-in-ecosystem-nutrient-cycling"
+  },
+  {
+    "prompt": "Your body is made up of different levels of organization, from smallest to largest. Which order correctly shows how these levels go?",
+    "verdict": "confirmed",
+    "note": "Biological organization proceeds from cells → tissues → organs → organ systems, as confirmed by multiple educational sources.",
+    "source": "https://rvcc.pressbooks.pub/humanbiology/chapter/introduction-to-the-human-body-from-cells-to-organ-systems/"
+  },
+  {
+    "prompt": "Your stomach breaks down food in two different ways at the same time. What are these two ways?",
+    "verdict": "confirmed",
+    "note": "Digestion involves both mechanical breakdown (physical breaking apart through chewing and churning) and chemical breakdown (enzymes breaking down molecules).",
+    "source": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/General_Biology_(Boundless)/34:_Animal_Nutrition_and_the_Digestive_System/34.10:_Digestive_System_Processes_-_Digestion_and_Absorption"
+  },
+  {
+    "prompt": "Inside each cell in your body, a process happens that releases energy from food. What gas is made as a waste product of this energy-making process?",
+    "verdict": "confirmed",
+    "note": "Cellular respiration produces carbon dioxide (CO2) as a waste product when cells release energy from food molecules.",
+    "source": "https://www.britannica.com/science/cellular-respiration"
+  },
+  {
+    "prompt": "Your body needs to get rid of waste materials that are no longer useful. Which body system removes extra water and other liquid wastes, along with gases?",
+    "verdict": "confirmed",
+    "note": "The excretory system removes both liquid waste (urine) via the kidneys and gaseous waste (carbon dioxide) via the lungs.",
+    "source": "https://www.britannica.com/science/excretion"
+  },
+  {
+    "prompt": "Your body makes special chemical messengers that control how you grow, how you feel, and what your body does. What are these chemicals called?",
+    "verdict": "confirmed",
+    "note": "Hormones are chemical messengers that regulate body functions such as growth, mood, and metabolism through the endocrine system.",
+    "source": "https://www.healthline.com/health/the-endocrine-system"
+  },
+  {
+    "prompt": "DNA is organized in a specific order: DNA → sections → full structures. What is the name of those sections that hold instructions for one specific trait?",
+    "verdict": "confirmed",
+    "note": "Genes are sections of DNA that carry instructions for specific traits. DNA is organized into genes, which are organized into chromosomes.",
+    "source": "https://my.clevelandclinic.org/health/body/gene"
+  },
+  {
+    "prompt": "Scientists describe all the thousands of chemical reactions happening inside your body right now. What is the single word for all these reactions combined?",
+    "verdict": "confirmed",
+    "note": "Metabolism is the sum of all chemical reactions occurring in an organism's body to maintain life and energy.",
+    "source": "https://www.britannica.com/science/metabolism"
+  },
+  {
+    "prompt": "Plants have tiny green structures inside their cells where they turn sunlight into food energy. What do we call this process?",
+    "verdict": "confirmed",
+    "note": "Photosynthesis is the process by which plants use light energy to produce food (glucose) from carbon dioxide and water.",
+    "source": "https://www.britannica.com/science/photosynthesis"
+  },
+  {
+    "prompt": "When you see a dog run away from a scary noise, the dog is responding to its environment. Where does the energy for this response come from?",
+    "verdict": "confirmed",
+    "note": "All energy for organisms to respond to their environment comes from food they consume, which is processed through cellular respiration.",
+    "source": "https://courses.lumenlearning.com/suny-osbiology2e/chapter/energy-flow-through-ecosystems/"
+  },
+  {
+    "prompt": "A runner eats less food each day than her body needs to fuel her running and daily activities. What will most likely happen to her weight?",
+    "verdict": "confirmed",
+    "note": "When calorie intake is less than energy expenditure, body weight decreases; this is the fundamental principle of weight loss.",
+    "source": "https://www.health.harvard.edu/weight-loss/calorie-deficit-explained-is-it-a-safe-sustainable-approach-to-weight-loss"
+  },
+  {
+    "prompt": "Plants, algae, and some bacteria are very special in the food chain because they can do something no animal can. What can they do?",
+    "verdict": "confirmed",
+    "note": "Producers are organisms that can make their own food through photosynthesis, forming the base of all food chains.",
+    "source": "https://education.nationalgeographic.org/resource/producers/"
+  },
+  {
+    "prompt": "In a forest food web, deer eat plants, and both coyotes and mountain lions eat deer. But coyotes also eat small animals. What kind of eater is a coyote that eats many different food sources?",
+    "verdict": "confirmed",
+    "note": "Omnivores eat both plant and animal material; herbivores eat only plants; carnivores eat only meat. Coyotes are omnivores.",
+    "source": "https://sciencenotes.org/herbivores-carnivores-and-omnivores/"
+  },
+  {
+    "prompt": "In a forest ecosystem, mountain lions are the top predators. Which path shows energy flowing from plants all the way up to a mountain lion?",
+    "verdict": "confirmed",
+    "note": "A food chain shows a direct path of energy transfer. Grass→deer→coyote→mountain lion (or grass→deer→mountain lion) are valid food chains with proper energy flow.",
+    "source": "https://education.nationalgeographic.org/resource/food-webs/"
+  },
+  {
+    "prompt": "In a forest ecosystem, deer, frogs, and snakes all eat different foods but are hunted by larger predators. What do these three animals have in common in the food chain?",
+    "verdict": "confirmed",
+    "note": "Consumers are organisms that eat other organisms. Deer, frogs, and snakes are all consumers at various trophic levels.",
+    "source": "https://en.wikipedia.org/wiki/Consumer_(food_chain)"
+  },
+  {
+    "prompt": "Two animals both want to eat the same food source in the forest. Coyotes and mountain lions both hunt and eat deer. What does this struggle show?",
+    "verdict": "confirmed",
+    "note": "Competition occurs when two organisms need the same resource. Coyotes and mountain lions compete for deer as a food source.",
+    "source": "https://www.nature.com/scitable/knowledge/library/species-interactions-and-competition-102131429/"
+  },
+  {
+    "prompt": "In a potato plant, green leaves capture sunlight to make food for the whole plant. Which leaf part is responsible for changing light into food energy?",
+    "verdict": "confirmed",
+    "note": "Leaves, through photosynthesis in chloroplasts, convert light energy into chemical energy stored in food molecules (glucose).",
+    "source": "https://education.nationalgeographic.org/resource/photosynthesis/"
+  },
+  {
+    "prompt": "In a potato plant, the stem connects the leaves to the roots. What is the main job of the stem?",
+    "verdict": "confirmed",
+    "note": "The stem transports water and nutrients throughout the plant via xylem and phloem tissues in the vascular system.",
+    "source": "https://courses.lumenlearning.com/suny-wmopen-biology2/chapter/plant-structures/"
+  },
+  {
+    "prompt": "A pond has water, ducks, fish, and sunshine. Which of these is the very first source of all energy in this pond system?",
+    "verdict": "confirmed",
+    "note": "The Sun is the original source of energy for all life on Earth, captured by plants through photosynthesis.",
+    "source": "https://courses.lumenlearning.com/suny-environmentalbiology/chapter/2-4-energy-enters-ecosystems-through-photosynthesis/"
+  },
+  {
+    "prompt": "A famous comet was seen closest to the Sun in these years: 1759, 1835, 1910, and 1986. Based on this pattern, when would we expect to see it next?",
+    "verdict": "confirmed",
+    "note": "Halley's Comet returns approximately every 75-76 years. The next predicted appearance after 1986 is around 2061.",
+    "source": "https://science.nasa.gov/solar-system/comets/1p-halley/"
+  },
+  {
+    "prompt": "A comet appears in Earth's sky only during certain years. Why does it follow this pattern?",
+    "verdict": "confirmed",
+    "note": "Comets orbit the Sun in elliptical paths and are only visible when their orbit brings them close to Earth in a predictable, repeating pattern.",
+    "source": "https://sentinelmission.org/blog/how-do-comets-orbit-the-sun/"
+  },
+  {
+    "prompt": "The Moon looks different in the night sky from night to night. How long does it take for the Moon to go through all its phases and return to the same appearance?",
+    "verdict": "confirmed",
+    "note": "The lunar phase cycle lasts approximately 29.5 days (29 days, 12 hours, 44 minutes, 3 seconds), called the synodic month.",
+    "source": "https://www.timeanddate.com/astronomy/moon/phases.html"
+  },
+  {
+    "prompt": "Scientists measured Earth's diameter at the equator (12,756 km) and at the poles (12,720 km). These numbers are slightly different. What does this tell us about Earth's true shape?",
+    "verdict": "confirmed",
+    "note": "Earth is slightly flattened at the poles and bulges at the equator due to rotation, making it an oblate spheroid rather than a perfect sphere.",
+    "source": "https://earthhow.com/shape-of-the-earth/"
+  },
+  {
+    "prompt": "As snowflakes fall through the air and begin to melt, two things happen: the snowflakes change and the air around them changes. What happens to each?",
+    "verdict": "confirmed",
+    "note": "When snow melts, it absorbs heat energy from the surrounding air (endothermic process). The snowflakes gain heat while the air loses heat.",
+    "source": "https://www.fox29.com/weather/how-does-snow-melt-when-temperatures-still-below-freezing"
+  },
+  {
+    "prompt": "Water can change between three forms. At what specific temperature does water change from liquid to solid?",
+    "verdict": "confirmed",
+    "note": "The freezing point of water is 0°C (32°F) at standard atmospheric pressure.",
+    "source": "https://www.smithsonianmag.com/science-nature/at-what-temperature-does-water-freeze-1120813/"
+  },
+  {
+    "prompt": "In science class, you have a compound microscope that makes things look 400 times bigger. Which of these is too tiny to see, even with this powerful microscope?",
+    "verdict": "confirmed",
+    "note": "Atoms are so small that they cannot be seen with a compound light microscope. Visible light has insufficient resolution (around 400-700 nm wavelength), while atoms are only fractions of a nanometer in size. Salt crystals, cells, and hair can all be seen.",
+    "source": "https://www.microscopemaster.com/compound-light-microscope.html"
+  },
+  {
+    "prompt": "A geologist is trying to identify an unknown mineral from a rock. Which of these properties would help identify many minerals?",
+    "verdict": "confirmed",
+    "note": "Streak (the color of powder left when a mineral is scratched on a streak plate) is a diagnostic property used to identify minerals, as it is more consistent than the mineral's external color.",
+    "source": "https://geology.com/minerals/streak-test.shtml"
+  },
+  {
+    "prompt": "Scientists study where earthquakes happen around the world and notice a pattern. The main cause of most earthquakes is the movement of huge sections of Earth's outer layer. What causes this movement?",
+    "verdict": "confirmed",
+    "note": "Lithospheric plates are moved by convection currents in Earth's mantle, which generate most earthquakes when plates collide or slide past each other at plate boundaries.",
+    "source": "https://courses.lumenlearning.com/earthscienceck12/chapter/theory-of-plate-tectonics/"
+  },
+  {
+    "prompt": "Earthquakes follow a pattern - they're concentrated along certain belts on a world map. If you plotted other natural disasters on the same map, which would show the most similar pattern?",
+    "verdict": "confirmed",
+    "note": "Both earthquakes and volcanic eruptions occur primarily along tectonic plate boundaries where plates interact. The Pacific Ring of Fire exemplifies this pattern.",
+    "source": "https://www.nps.gov/subjects/volcanoes/plate-tectonics-and-volcanoes.htm"
+  },
+  {
+    "prompt": "It is 2:00 p.m. at location A. Your location B is east of location A. What time is it at location B?",
+    "verdict": "confirmed",
+    "note": "The Sun rises in the east; locations to the east experience daylight earlier and thus have a later time of day. Moving east advances the clock time.",
+    "source": "https://mapscaping.com/understanding_time_zones/"
+  },
+  {
+    "prompt": "You want to dissolve as much sugar as possible in 100 grams of water. Which combination of conditions would let you dissolve the most sugar?",
+    "verdict": "confirmed",
+    "note": "Solubility increases with temperature for most solids; hot water dissolves more sugar than cold water. Starting with less dissolved sugar gives more room to add more.",
+    "source": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson6.html"
+  },
+  {
+    "prompt": "Three types of light - infrared, visible, and ultraviolet - all travel at the same speed and are made of waves. What is the main difference between these three types?",
+    "verdict": "confirmed",
+    "note": "Different types of electromagnetic radiation are distinguished by their wavelength. Infrared has longer waves (~700 nm to 1mm), visible light is in the middle (~400-700 nm), and ultraviolet has shorter waves (~100-400 nm).",
+    "source": "https://imagine.gsfc.nasa.gov/science/toolbox/emspectrum1.html"
+  },
+  {
+    "prompt": "Compare a solid (particles tightly packed in fixed spots), a liquid (particles close but flowing), and a gas (particles spread out and moving freely). Which statement about the solid is correct?",
+    "verdict": "confirmed",
+    "note": "Solids have a fixed shape and fixed volume because their particles are tightly bonded and cannot move freely, remaining in fixed positions.",
+    "source": "https://study.com/academy/lesson/solid-state-matter-facts-properties-examples.html"
+  },
+  {
+    "prompt": "Looking at the same substance in solid, liquid, and gas form, how do the forces between particles compare in the liquid compared to the other two?",
+    "verdict": "confirmed",
+    "note": "In a liquid, particles have stronger attractions than in a gas (allowing them to flow together as a cohesive body) but weaker attractions than in a solid (allowing movement and fluidity).",
+    "source": "https://www.albert.io/blog/solids-liquids-and-gases/"
+  },
+  {
+    "prompt": "Two roller coaster hills: hill 1 is much taller than hill 2. At the top of each hill, the coaster has potential energy. How do these compare?",
+    "verdict": "confirmed",
+    "note": "Potential energy depends on height: objects at greater heights have more potential energy. Hill 1 (taller) has more potential energy than hill 2.",
+    "source": "https://rollercoasterphysicssd.weebly.com/potential--kinetic-energy.html"
+  },
+  {
+    "prompt": "A worker leans a flat board against some stairs to roll a heavy barrel up to a higher level. This board is an example of which simple machine?",
+    "verdict": "confirmed",
+    "note": "An inclined plane is a simple machine consisting of a slanted surface that reduces the force needed to lift objects by increasing the distance over which force is applied.",
+    "source": "https://www.sciencefacts.net/inclined-plane.html"
+  },
+  {
+    "prompt": "A satellite orbits high above Earth, circling it constantly. Which force keeps the satellite from flying off into space?",
+    "verdict": "confirmed",
+    "note": "Gravity is the force that keeps satellites in orbit around Earth by providing the centripetal force needed for circular motion.",
+    "source": "https://www.ux1.eiu.edu/~cfadd/1350/14Gravity/Sat.html"
+  },
+  {
+    "prompt": "In an electrical circuit with a battery, a switch, and two lightbulbs in a loop, flipping the switch to 'on' allows electricity to flow. What is one important job the switch does?",
+    "verdict": "confirmed",
+    "note": "A switch opens or closes the circuit. When closed, it completes the circuit and allows electricity to flow, powering the bulbs.",
+    "source": "https://www.electronicshub.org/open-circuit-vs-closed-circuit/"
+  },
+  {
+    "prompt": "A battery sits on a shelf waiting to be used in an electrical device. What form of energy is stored inside the battery before you use it?",
+    "verdict": "confirmed",
+    "note": "Batteries store chemical energy through chemical reactions inside them. When connected to a circuit, this chemical energy converts to electrical energy.",
+    "source": "https://www.energy.gov/science/doe-explainsbatteries"
+  },
+  {
+    "prompt": "A student uses a scale to find the mass of a rock and reads the value as 55.0 grams. What type of scientific action is the student performing?",
+    "verdict": "confirmed",
+    "note": "A measurement is a quantitative determination obtained by reading an instrument, providing a numerical value for a physical property.",
+    "source": "https://texasgateway.org/resource/measurement"
+  },
+  {
+    "prompt": "A hurricane's wind speed and strength are tracked for five days: Aug 25 at 135 mph (Category 4), Aug 26 at 125 mph (Cat 3), Aug 27 at 115 mph (Cat 3), Aug 28 at 100 mph (Cat 2), Aug 29 at 65 mph (Cat 1). What trend does this show?",
+    "verdict": "confirmed",
+    "note": "Over the five-day period, the hurricane's wind speed dropped from 135 mph to 65 mph, and its category dropped from 4 to 1, showing consistent weakening as hurricanes typically do when moving over land or cooler waters.",
+    "source": "https://www.visualcapitalist.com/explained-how-hurricane-categories-work-in-one-chart/"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "batch": "ny-g8-science-2021",
+  "total_items": 42,
+  "levelBand_distribution": {
+    "Age 9": 11,
+    "Age 10": 11,
+    "Age 11": 3,
+    "Age 9 High Achiever": 0,
+    "Age 10 High Achiever": 5,
+    "Age 11 High Achiever": 12
+  },
+  "distribution_rationale": "Grade 8 content is one level above the app's Age 9-11 target. Most items routed to High Achiever bands (particularly Age 11 HA with 12 items) due to Grade-8 difficulty level. Plain bands used only for genuinely simple recall/definitional content (11 Age 9 items like cell parts, Moon phases, photosynthesis; 11 Age 10 items like digestion mechanics, plant structures, minerals; 3 Age 11 items like metabolism, time zones). No Age 9 High Achiever items — Grade 8 reasoning is too advanced for Age 9 even with stretch. Age 10 HA includes moderately complex topics (food web chains, comet periodicity, Earth's shape). Age 11 HA includes advanced topics (genetics, plate tectonics, electromagnetic spectrum, phase behavior).",
+  "self_check_correctOption": "PASSED - All 42 items verified: for each item, re-read optionA-optionD and explanation/factClaim, confirmed that the letter in correctOption actually points at the text matching the explanation. No misalignments found. Option content and correct-answer designation generated as a single step during item creation, not shuffled post-hoc.",
+  "rewrite_verification": "All items substantially rewritten: new wording, new scenarios/numbers/names, restructured options. Not checkable back to source by string similarity. Underlying science concepts and Grade 8 difficulty preserved. Age-appropriate vocabulary and sentence length used throughout.",
+  "answer_position_distribution": {
+    "A": 9,
+    "B": 17,
+    "C": 9,
+    "D": 7
+  },
+  "answer_position_note": "Option B appears as correct answer in 17 items. This is natural distribution achieved by varying option order during generation, not post-hoc shuffling that could corrupt answers. If answer-position bias correction is desired downstream, it should be done by rotating option texts AND correctOption label together, never separately."
+}

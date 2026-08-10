@@ -1,0 +1,17 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A baker tests five unlabeled food ingredients: powdered sugar (dissolves in water), table salt (dissolves in water), iron filings (attracted to magnets), flour (does not dissolve), and cork pieces (float in water). The baker mixes three of these ingredients in a bowl of water, stirs the mixture with a strong magnet to remove anything magnetic, then removes the magnet. Only a clear solution remains with no visible particles. Which three ingredients were mixed together?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Two students set up composting experiments. Container A has solid walls and is opened only once a week for mixing. Container B has ventilation holes in the sides, allowing air to reach the waste at all times. Both containers have identical waste added at the same time. After eight weeks, the waste in Container B has broken down much faster than in Container A. What single change to Container A would most help speed up decomposition?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Scientists record climate data from four locations. Location W: temperatures range from 5°C to 20°C throughout the year, with 1–3 inches of rain; Location X: temperatures swing from -40°C to 25°C, with almost no rain (0–1 inch); Location Y: temperatures stay between 18°C and 22°C year-round, with 8–12 inches of rain every month; Location Z: temperatures range from 10°C to 15°C with 2–4 inches of rain per month. Which location is most likely a tropical rainforest?\") assigned Age 11 but has a low difficulty-heuristic score (2) — check it isn't too easy for this band."
+  }
+]

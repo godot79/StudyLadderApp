@@ -1,0 +1,92 @@
+[
+  {
+    "prompt": "A baker tests five unlabeled food ingredients: powdered sugar (dissolves in water), table salt (dissolves in water), iron filings (attracted to magnets), flour (does not dissolve), and cork pieces (float in water). The baker mixes three of these ingredients in a bowl of water, stirs the mixture with a strong magnet to remove anything magnetic, then removes the magnet. Only a clear solution remains with no visible particles. Which three ingredients were mixed together?",
+    "verdict": "confirmed",
+    "note": "Basic physical-science fact about mixtures: soluble substances (sugar, salt) dissolve and become invisible in solution; magnetic materials (iron filings) can be physically removed with a magnet; insoluble non-magnetic solids (flour, cork) would remain visible. This is standard grade-school separation-of-mixtures content, not in dispute.",
+    "source": "General physical science curriculum knowledge (solubility and magnetic separation); no single authoritative source needed for this uncontroversial classroom-level claim."
+  },
+  {
+    "prompt": "A student builds a device with a mesh screen to strain solid particles out of muddy water. To know if the device is working well, what should the student measure?",
+    "verdict": "confirmed",
+    "note": "Measuring water clarity (e.g., turbidity) after straining is a standard, direct way to evaluate filter/strainer performance in basic engineering-design tasks.",
+    "source": "General engineering-design pedagogy; consistent with the source MCAS item's own official answer key (which used the same reasoning for the original water-filter item)."
+  },
+  {
+    "prompt": "Green algae floats in a pond and uses sunlight to create its own food for energy and growth. Which description best explains how algae carry out photosynthesis?",
+    "verdict": "confirmed",
+    "note": "Photosynthesis converts carbon dioxide and water into sugar (glucose) using light energy, producing oxygen as a byproduct: 6CO2 + 6H2O + light -> C6H12O6 + 6O2. Confirmed by standard biology references.",
+    "source": "https://www.britannica.com/science/photosynthesis ; https://www.livescience.com/51720-photosynthesis.html"
+  },
+  {
+    "prompt": "Two students set up composting experiments. Container A has solid walls and is opened only once a week for mixing. Container B has ventilation holes in the sides, allowing air to reach the waste at all times. Both containers have identical waste added at the same time. After eight weeks, the waste in Container B has broken down much faster than in Container A. What single change to Container A would most help speed up decomposition?",
+    "verdict": "confirmed",
+    "note": "Aerobic decomposer organisms (most compost bacteria/fungi) need oxygen and decompose organic waste faster with continuous air exposure/aeration; adding airflow (e.g., holes) speeds up decomposition compared to only periodic mixing.",
+    "source": "https://www.the-compost-gardener.com/aerobic-decomposition.html ; https://aggie-horticulture.tamu.edu/earthkind/landscape/dont-bag-it/chapter-1-the-decomposition-process/"
+  },
+  {
+    "prompt": "In a garden, fungi grow on fallen leaves and rotting wood, breaking them down into crumbly soil-like material. What is the role of fungi in this ecosystem?",
+    "verdict": "confirmed",
+    "note": "Fungi that break down dead organic matter (leaves, wood) and release nutrients back into soil are classic decomposers, a standard ecology fact taught at this grade level.",
+    "source": "General ecology curriculum (decomposer role of fungi and bacteria); consistent with the source MCAS item's own official answer key for the equivalent bacteria/composter item."
+  },
+  {
+    "prompt": "A town is experiencing a severe water shortage, and all residents are asked to use less water. A homeowner wants to water a vegetable garden without using water from the town's supply. Which method would best help the homeowner conserve the town's water?",
+    "verdict": "confirmed",
+    "note": "Collected rainwater is not drawn from a municipal/town water supply, so using it for irrigation directly reduces demand on that supply during a shortage -- a standard water-conservation fact, and matches the source MCAS item's own answer key logic.",
+    "source": "General water-conservation pedagogy; consistent with source item's official answer key."
+  },
+  {
+    "prompt": "A paleontologist discovers fossils in four stacked rock layers that have never been disturbed or turned over. From top to bottom: Layer 1 contains bird and plant fossils; Layer 2 contains fish and shell fossils; Layer 3 contains dinosaur teeth and fern fossils; Layer 4 contains sea scorpion and trilobite fossils. Which layer's fossils are the oldest?",
+    "verdict": "confirmed",
+    "note": "The geologic principle of superposition states that in an undisturbed sequence of rock layers, the oldest layers are at the bottom and the youngest at the top. Layer 4 (bottom) is therefore oldest.",
+    "source": "https://en.wikipedia.org/wiki/Law_of_superposition ; https://www.nps.gov/articles/geologic-principles-superposition-and-original-horizontality.htm"
+  },
+  {
+    "prompt": "A museum displays fossil imprints of ancient insects and shells found in rock formations. Why do paleontologists study and collect fossils like these?",
+    "verdict": "confirmed",
+    "note": "Fossils are preserved remains/traces of past organisms, and paleontologists study them primarily to learn about organisms (many now extinct) that lived long ago -- a standard, uncontroversial definitional fact.",
+    "source": "General earth-science/paleontology curriculum knowledge; consistent with source item's official answer key."
+  },
+  {
+    "prompt": "An engineer designs a special porous surface treatment for parking lots that absorbs rainwater instead of letting it run off into streets and storm drains. What measurement would best show whether this treatment actually reduces flooding?",
+    "verdict": "confirmed",
+    "note": "The flow rate of water absorbed through a permeable/pervious surface (e.g., liters per minute) is the direct, relevant measurement of flood-reduction performance, matching real-world pervious-pavement engineering criteria and the source item's own answer key logic.",
+    "source": "General civil-engineering/pervious-pavement design principles; consistent with source item's official answer key."
+  },
+  {
+    "prompt": "Scientists record climate data from four locations. Location W: temperatures range from 5°C to 20°C throughout the year, with 1–3 inches of rain; Location X: temperatures swing from -40°C to 25°C, with almost no rain (0–1 inch); Location Y: temperatures stay between 18°C and 22°C year-round, with 8–12 inches of rain every month; Location Z: temperatures range from 10°C to 15°C with 2–4 inches of rain per month. Which location is most likely a tropical rainforest?",
+    "verdict": "confirmed",
+    "note": "Tropical rainforests are characterized by consistently warm temperatures (roughly 18-29 C / 64-84 F) year-round with minimal seasonal variation, and heavy rainfall in every month of the year. Location Y (18-22C, 8-12in of rain every month) matches this profile; the others do not (too cold, too dry, or too much temperature swing).",
+    "source": "https://www.blueplanetbiomes.org/rainforest_climate.php ; https://en.wikipedia.org/wiki/Tropical_rainforest"
+  },
+  {
+    "prompt": "A farmer grows sunflowers. Some have yellow petals and some have orange petals. Every orange-petaled sunflower produces only orange-petaled offspring. Every yellow-petaled sunflower produces only yellow-petaled offspring. How is petal color inherited in these sunflowers?",
+    "verdict": "confirmed",
+    "note": "A trait that breeds true (offspring always match the parent's form) across generations, independent of environment, is a classic signature of a genetically inherited trait -- standard grade-school genetics reasoning, matching the source item's raspberry-color logic.",
+    "source": "General basic genetics/heredity curriculum; consistent with source item's own answer key logic (applied there to raspberry color)."
+  },
+  {
+    "prompt": "The spring equinox (equal day and night) occurs around March 20. The fall equinox (equal day and night) occurs around September 22. What portion of Earth's orbit around the Sun does this six-month period represent?",
+    "verdict": "confirmed",
+    "note": "Earth takes about 365.25 days (one year) to complete one full revolution around the Sun, so a six-month period represents approximately half of one orbit/revolution.",
+    "source": "https://en.wikipedia.org/wiki/Earth's_orbit ; https://www.forbes.com/sites/startswithabang/2020/12/04/ask-ethan-does-earth-orbit-the-sun-more-slowly-with-each-new-year/"
+  },
+  {
+    "prompt": "A student learns about water bodies in South America: the Amazon River, the Paraná River, Lake Titicaca, the Caribbean Sea, and the Atlantic Ocean. Which correctly sorts these by whether they are freshwater or saltwater?",
+    "verdict": "confirmed",
+    "note": "Rivers (Amazon, Paraná) and inland lakes (Titicaca) are freshwater bodies; seas and oceans (Caribbean Sea, Atlantic Ocean) are saltwater bodies. This is standard, uncontroversial geography/earth-science classification, matching the source item's Florida-based logic.",
+    "source": "General geography reference knowledge (well-established freshwater vs. saltwater classification of named, real-world water bodies)."
+  },
+  {
+    "prompt": "Insect-eating birds depend on insects for food in a forest ecosystem. An invasive plant species takes over the forest, killing the trees that insects live on. As trees disappear, insects become scarce. How has this habitat change most likely affected the insect-eating bird population?",
+    "verdict": "confirmed",
+    "note": "When a species' primary food source becomes scarce due to habitat loss, its population typically declines over time due to reduced survival and reproduction -- a standard basic-ecology cause-effect relationship, matching the source item's polar-bear/sea-ice logic.",
+    "source": "General ecology curriculum (habitat loss and population decline); consistent with source item's own answer key logic."
+  },
+  {
+    "prompt": "A flagpole uses a rope looped around two pulleys (wheels). When a person pulls down on one end of the rope, the flag rises on the other end. What is the rope's purpose in this pulley system?",
+    "verdict": "confirmed",
+    "note": "In a simple pulley system, the rope is the mechanical linkage that transfers the applied pulling force/motion from one end to the pulley wheel(s) and on to the load (the flag) -- standard simple-machines physics, matching the source item's bicycle-chain logic.",
+    "source": "General physics/simple-machines curriculum (pulley systems); consistent with source item's own answer key logic (applied there to a bicycle chain)."
+  }
+]

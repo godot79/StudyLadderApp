@@ -1,0 +1,16 @@
+{
+  "sourceName": "Massachusetts DESE Grade 5 Science and Technology/Engineering Test, Spring 2019 (paper-based test released items)",
+  "sourceUrl": "https://www.doe.mass.edu/mcas/2019/release/gr5-ste.pdf",
+  "sourceGrade": "Grade 5",
+  "sourceAgeRange": "age 10-11",
+  "releaseDate": "2019 (document confirmed live August 2026)",
+  "licenseText": "Not independently re-quoted here; same MCAS released-item series and licensing basis as the already-piloted Spring 2025 MCAS Grade 5 STE batches (research/pipeline/mcas-g5-science-2025, mcas-g5-science-spring2025), which quote: \"Permission is hereby granted to copy for non-commercial educational purposes any or all parts of this document. Please credit the Massachusetts Department of Elementary and Secondary Education.\" This is a science test, no ELA passages, so no exclusion applies.",
+  "licenseType": "Free for educational reuse with attribution",
+  "fileSizeNote": "2.5MB PDF, 29 pages of content -- much lighter than the abandoned Spring 2023 g5-ste PDF (13.8MB, unusually image-heavy). This 2019 document is largely text with occasional simple diagrams, and rendered cleanly via Read.",
+  "differentFromPriorBatches": "Different administration year (Spring 2019) than both prior MCAS G5 Science batches merged/staged so far (both were Spring 2025, per 01-source-note.json in mcas-g5-science-2025 and mcas-g5-science-spring2025 -- both cite sourceUrl doe.mass.edu/mcas/2025/release/g5-ste.pdf). Also different from the abandoned Spring 2023 admin (never extracted) and unrelated to the Spring 2025 batches' item content.",
+  "extractionNotes": "20 released operational items (Session 1: 11 items, Session 2: 9 items) with an official answer key printed in the release table. Item 6 (composter design representations) and item 17 (energy conversion in solar-bell setup) are constructed-response (CR) with no single fixed answer -- excluded per standing no-fixed-answer rule. Item 18 has two parts: Part A (freshwater vs saltwater classification, selected-response, answer A) is usable; Part B (compare amounts, CR) is excluded. Item 8 has two parts, both selected-response with fixed answers (Part A answer C, Part B answer C) -- both usable, split into two items since they test genuinely different facts (rock-layer age ordering vs why scientists study fossils). Items 10, 12, 13, 15 are excluded as diagram/image-dependent in a way that cannot be faithfully restated in text: item 10 depends on reading exact before/after distances of a car and magnet on a printed ruler diagram; items 12, 13, 15 have answer OPTIONS that are themselves diagrams/pictures (population pictograms, ray diagrams, force-arrow diagrams) with no fixed-answer text description possible without inventing visual content not actually verifiable from the extracted text alone.",
+  "itemsExtractedTotal": 20,
+  "itemsUsable": 15,
+  "itemsExcludedReason": "Constructed-response with no fixed answer (items 6, 17, 18 Part B), or diagram/image-dependent with answer content not reliably restatable in text (items 10, 12, 13, 15)",
+  "pipelineStep": "Step 1 extraction (human, by reading the saved PDF directly) complete; Steps 2-3 (classification, rewrite) to be delegated to a Haiku subagent"
+}

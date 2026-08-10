@@ -1,0 +1,77 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Inside each cell in your body, a process happens that releases energy from food. What gas is made as a waste product of this energy-making process?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"DNA is organized in a specific order: DNA → sections → full structures. What is the name of those sections that hold instructions for one specific trait?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Scientists describe all the thousands of chemical reactions happening inside your body right now. What is the single word for all these reactions combined?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"In a forest ecosystem, mountain lions are the top predators. Which path shows energy flowing from plants all the way up to a mountain lion?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Two animals both want to eat the same food source in the forest. Coyotes and mountain lions both hunt and eat deer. What does this struggle show?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A comet appears in Earth's sky only during certain years. Why does it follow this pattern?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"As snowflakes fall through the air and begin to melt, two things happen: the snowflakes change and the air around them changes. What happens to each?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"In science class, you have a compound microscope that makes things look 400 times bigger. Which of these is too tiny to see, even with this powerful microscope?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (3) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Scientists study where earthquakes happen around the world and notice a pattern. The main cause of most earthquakes is the movement of huge sections of Earth's outer layer. What causes this movement?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Earthquakes follow a pattern - they're concentrated along certain belts on a world map. If you plotted other natural disasters on the same map, which would show the most similar pattern?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"It is 2:00 p.m. at location A. Your location B is east of location A. What time is it at location B?\") assigned Age 11 but has a low difficulty-heuristic score (2) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"You want to dissolve as much sugar as possible in 100 grams of water. Which combination of conditions would let you dissolve the most sugar?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (3) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Three types of light - infrared, visible, and ultraviolet - all travel at the same speed and are made of waves. What is the main difference between these three types?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Looking at the same substance in solid, liquid, and gas form, how do the forces between particles compare in the liquid compared to the other two?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Two roller coaster hills: hill 1 is much taller than hill 2. At the top of each hill, the coaster has potential energy. How do these compare?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  }
+]

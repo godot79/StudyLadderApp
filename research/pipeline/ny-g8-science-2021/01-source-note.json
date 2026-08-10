@@ -1,0 +1,32 @@
+{
+  "source": "NY State Grade 8 Intermediate-Level Science Test, Written Test, June 2021 (v202)",
+  "url_exam": "https://www.nysedregents.org/grade8/science/621/ils-v202-exam.pdf",
+  "url_scoring_key": "https://www.nysedregents.org/grade8/science/621/ils-v202-sk.pdf",
+  "root_confirmed_live": "https://www.nysedregents.org/grade8/science/home.html",
+  "license_note": "Free, no-login, publicly posted by NY State Education Department (nysedregents.org). Booklet text states 'NO PART OF THIS TEST MAY BE REPRODUCED AND/OR TRANSMITTED BY ANY MEANS WITHOUT WRITTEN PERMISSION' - same posture as prior NY Grade 4/5 batches already run through this pipeline; treated as topic/difficulty inspiration only, with a mandatory substantial rewrite (per pipeline design Step 3), not verbatim reproduction.",
+  "structure": "Part I: 45 multiple-choice questions (3 or 4 options each), official answer key provided as a separate scoring-key PDF (numeric option 1-4). Part II: 40 open-ended constructed-response questions, no fixed single answer, no distractor options - excluded per standing pipeline rule (no-fixed-answer items are out of scope).",
+  "extraction_scope": "Part I only (45 items). All 45 read from the exam PDF and cross-checked against the scoring key PDF's numeric answers.",
+  "deferred_items": [
+    {
+      "qnum": 26,
+      "reason": "image/diagram-dependent - identifies Earth's outer core from an unlabeled concentric-circle cross-section diagram (layers A-D marked only by pointer lines on the image); no way to restate the diagram in text without simply telling the answer."
+    },
+    {
+      "qnum": 30,
+      "reason": "image/diagram-dependent - asks which of four lettered points (A-D) on a world map (plotted against real earthquake-belt shading) is at greatest tsunami risk; the answer depends on each point's exact plotted position on the shaded map, not restateable in text without fabricating coordinates."
+    },
+    {
+      "qnum": 33,
+      "reason": "image/diagram-dependent - asks for the latitude/longitude of a point A marked only by its position on a printed map with gridlines; no textual data given for where A sits, so restating it would require fabricating the point's coordinates."
+    }
+  ],
+  "items_deliberately_kept_despite_being_map_or_diagram_associated": [
+    "Q31 (major cause of earthquakes) and Q32 (which other event matches the earthquake-belt shading pattern) are standalone science-knowledge questions in the source and don't require reading the map - kept.",
+    "Q34 (time-zone reasoning between two points) restated with an explicit longitude relationship instead of requiring the map image - kept.",
+    "Q14-17 (food web), Q18-19 (potato plant parts), Q20 (pond energy source), Q37-38 (phase diagram of particles), Q39 (roller coaster hills), Q40 (inclined plane), Q42-43 (circuit) are all diagrams whose informational content is fully describable in text (labeled relationships/comparisons, not points on a map) - kept, restated as text descriptions of the scenario rather than referencing an image."
+  ],
+  "part_ii_excluded": "All 40 Part II items are open-ended constructed-response (short-answer, plot-a-point, draw-an-arrow, circle-an-answer) with no fixed multiple-choice answer - excluded per the pipeline's standing no-fixed-answer rule.",
+  "total_extracted_usable": 42,
+  "total_deferred": 3,
+  "why_this_source": "science.json is the thinnest subject (148 items) with almost no High Achiever band coverage (5 at Age 11 High Achiever, 0 at Age 9/10 High Achiever). This is a Grade 8 admin (one level above the app's Age 9-11 target), deliberately mined for High-Achiever-band difficulty per round 7's proven approach - content rewritten into age-appropriate language for a 9-year-old without softening the underlying difficulty."
+}

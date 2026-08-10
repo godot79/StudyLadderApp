@@ -1,0 +1,32 @@
+{
+  "source": "California CAASPP Science Test (CAST), Grade 5 released/practice items",
+  "assignedBy": "round 8 task, targeting science Age 10/11 gap",
+  "status": "ABANDONED - no usable item text available from an official static source",
+  "urlsChecked": [
+    {
+      "url": "https://www.cde.ca.gov/ta/tg/ca/rtqs.asp",
+      "result": "cde.ca.gov's own pages are behind a Radware bot-check redirect (validate.perfdrive.com) when fetched programmatically; PDFs linked from cde.ca.gov (e.g. castpracticetraining.pdf, castblueprint.pdf) return 200 directly via curl."
+    },
+    {
+      "url": "https://www.cde.ca.gov/ta/tg/ca/documents/castpracticetraining.pdf",
+      "result": "200 OK - a short flyer describing the practice/training test program, not item content."
+    },
+    {
+      "url": "https://www.caaspp-elpac.org/s/docs/CAST.Practice-Scoring-Guide-Gr5.pdf",
+      "result": "200 OK, 18-page official CAASPP/ELPAC contractor document, fetched and read in full. Contains a metadata table for all 41 grade-5 CAST practice test items: item number, correct-answer key, NGSS Performance Expectation code, SEP/DCI/CCC alignment, and a one-sentence 'Item-Level Claim Statement' (ILCS) paraphrasing what the item measures (e.g. 'Use data to identify which group of seedlings grown with air and/or water in the absence of soil gained the most mass.'). It explicitly states: 'This scoring guide should be used alongside the online practice tests, which can be accessed on the Practice and Training Tests web page' - i.e. the actual question stems, answer options, stimulus data/diagrams/tables are NOT in this document. Only 5 of the 41 items are constructed-response with worked exemplar answers (items 9, 16, 29, 36, 41) - even those only show scoring rubrics/exemplar student answers, not the original prompt text or any diagrams referenced (e.g. item 41 references a rock-layer diagram never shown)."
+    },
+    {
+      "url": "https://www.caaspp-elpac.org/s/practice-tests and https://www.caaspp-elpac.org/practice-and-training",
+      "result": "404 on both guessed paths; did not locate the actual interactive test launch page within budget."
+    },
+    {
+      "url": "https://education4equity.com/wp-content/uploads/2022/10/5th-Grade-CAST-Practice-Test-SAMPLE-TEACHER.pdf",
+      "result": "200 OK but third-party (a for-profit tutoring/consulting site, not cde.ca.gov or caaspp-elpac.org). Not used: it appears to be an unofficial screenshot capture/reproduction of the state's interactive test, so its licensing/accuracy is unverified and it is not the assigned official source."
+    }
+  ],
+  "coreFinding": "Unlike MCAS/STAAR/NY, which publish full released item text (prompt + options + diagrams) as downloadable PDFs, California's CAST does NOT have a 'released test questions' program for its NGSS-aligned science test. The only official artifacts found are: (1) a short practice/training flyer, (2) a blueprint doc, (3) a 'Practice Test Scoring Guide' with answer keys and one-line item summaries but NOT the actual prompt/option text, and (4) the actual test content, delivered only inside an interactive JavaScript test-delivery-system (TDS) application on caaspp-elpac.org, not as static text extractable by WebFetch or Read the way a PDF is.",
+  "decision": "STOP - no extraction performed, per pipeline hard constraint: 'If the source turns out to be dead, paywalled, or yields near-zero usable content, stop and report that clearly rather than fabricating items.' The ILCS one-line summaries in the scoring guide are not sufficient to write full items from - reconstructing a multiple-choice prompt and 4 options from a single paraphrased sentence (e.g. inventing what 'the fourth and fifth options' of item 15 actually said) would mean inventing item content never actually seen, which violates the project's no-hallucination / no-invented-content rule. Scraping the interactive TDS application via browser automation to recover real stems/options was considered but not attempted: it is a materially different and riskier operation than this pipeline's established 'fetch static PDF, Read it' pattern, was not pre-approved for this run, and its output-licensing status (an interactive assessment delivery interface, not a downloadable public document) is unclear.",
+  "itemsExtracted": 0,
+  "itemsToStaging": 0,
+  "recommendation": "Update research/source_catalog.md's California CAASPP entry to note CAST (science) specifically does not have a released-items PDF like its Maths/ELA (Smarter Balanced) siblings do - the existing catalog entry already only lists 'Maths, ELA' for CAASPP, which happens to be accurate for exactly this reason, so CAST should not be treated as a usable Science source without a caveat or a separate feasibility check (e.g. confirming the interactive practice test can be browsed and read via claude-in-chrome without login, and getting explicit sign-off to do so given the licensing ambiguity). If closing the science Grade 5/High-Achiever gap is still the priority this round, the next candidate should be a source with genuine full-text released items (e.g. a Grade 4 or Grade 6 NY State Science admin not yet mined, or another STAAR/MCAS Grade 5/8 Science administration year not yet used)."
+}
