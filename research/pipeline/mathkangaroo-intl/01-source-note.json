@@ -1,0 +1,27 @@
+{
+  "sourceName": "Math Kangaroo USA (mathkangaroo.org) — free official Sample Questions PDFs",
+  "dateChecked": "2026-08-09",
+  "step0Findings": {
+    "assumedInCatalog": "research/source_catalog.md listed 'Math Kangaroo (international), mathkangaroo.org, Grades 1-12 (3-6 = 8-11), Hundreds of past papers'.",
+    "actualStructureFound": "The site's real 'past exams' archive (mathkangaroo.org/mks/practice/pdf-exams/) links out to an OASIS LMS storefront (mathkangaroo.oasis-lms.com) that is a paid/login-gated catalog, not a direct free download — confirmed by fetching a catalog URL and finding 'login'/'price' markup in the response. This is NOT freely accessible and was not used.",
+    "actuallyFreeNoLogin": "A separate page, mathkangaroo.org/mks/practice/free-question-samples/, links directly to yearly 'Sample Questions' PDFs (one per year, 2006-2026) hosted on mathkangaroo.org's own WordPress uploads directory. These returned HTTP 200 with no login/paywall (verified with curl -I on several URLs). Each PDF contains exactly 3 sample questions per grade band (3 points / 4 points / 5 points, roughly easy/medium/hard) for each of 6 grade bands (1-2, 3-4, 5-6, 7-8, 9-10, 11-12), with an answer key on the following page.",
+    "conclusion": "The catalog's premise (free past papers) does not hold for the full-exam archive, but a genuinely free, no-login alternative exists (the yearly sample-question PDFs) with much lower per-year volume (3 questions per grade band per year, not a full ~24-30 question exam). Proceeded with this real free source rather than the gated one, per Step 0's instruction to stop and report rather than guess if the site structure differs from the catalog's assumption."
+  },
+  "urlsUsed": [
+    "https://mathkangaroo.org/mks/practice/free-question-samples/ (index page)",
+    "https://mathkangaroo.org/mks/wp-content/uploads/2025/12/2025-MK-Sample-Questions-Updated-121525.pdf",
+    "https://mathkangaroo.org/mks/wp-content/uploads/2024/04/2024-MK-Sample-Questions.pdf",
+    "https://mathkangaroo.org/mks/wp-content/uploads/2023/05/2023-MK-Sample-Questions.pdf",
+    "https://mathkangaroo.org/mks/wp-content/uploads/2022/05/2022-MK-Sample-Questions.pdf",
+    "https://mathkangaroo.org/mks/wp-content/uploads/2025/04/2020-MK-Sample-Questions-NEW1059.pdf"
+  ],
+  "urlsCheckedButNotUsed": [
+    "https://mathkangaroo.org/mks/practice/pdf-exams/ (links to gated OASIS LMS store, not directly free)",
+    "https://mathkangaroo.oasis-lms.com/Public/Catalog/Details.aspx?id=3NegJsVTIbvBIQB%2bIwp60g%3d%3d (returns a login/price catalog page, confirmed gated)"
+  ],
+  "licenseNotes": "Each PDF is marked '© Math Kangaroo USA, NFP, Inc. All rights reserved' — explicitly copyrighted, not openly licensed for reuse. Freely accessible without login, but 'free to access' is not 'free to reuse' (per the standing distinction in the pipeline design doc). This is exactly the kind of source the pipeline's Step 3 rewrite exists for: every item below has been substantively reworded (new names, numbers, scenarios, and option ordering) rather than reproduced, and originals were used only as difficulty/topic inspiration.",
+  "yearsCovered": ["2025", "2024", "2023", "2022", "2020"],
+  "yearsNotFetched": "2026, 2021, 2019 and earlier were not fetched — 5 years' worth of sample-question PDFs (15 candidate questions per grade band across the two target bands) was judged sufficient for a first pilot batch of this source, given its low per-year yield (only 3 questions per grade band per year) and the time cost of reading each additional PDF. Additional years remain available for a future round if this source proves productive after review.",
+  "gradeBandsTargeted": ["GRADES 3 AND 4", "GRADES 5 AND 6"],
+  "gradeBandsSkippedEntirely": "GRADES 1-2, 7-8, 9-10, 11-12 sections exist in the same PDFs but were not extracted — out of scope for this batch (ages ~8-11 only)."
+}

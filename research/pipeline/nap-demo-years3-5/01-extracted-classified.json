@@ -1,0 +1,125 @@
+{
+  "extractionNotes": "Recall-first per Step 1. Every fixed-answer (MC or single-value fill-in-blank with a determinable correct answer) item from Year 3 and Year 5 2016 Numeracy and Language Conventions was reviewed. Items requiring a diagram/image to determine the answer (bar charts read visually, clock faces, tally marks as images, spinners, grids, folded-paper nets, balance-scale pictures where the weights are shown only as pictures, broken rulers, dot plots, area-shading grids, symmetry stars, number-line arc patterns) were excluded as 'image-dependent'. Spelling items (both years' Language Conventions Q1-25) were excluded as 'open-ended' -- they require writing a corrected spelling with no fixed set of options, not a genuine fixed-answer/MC format. Reading and Writing tests were not processed at all (see 01-source-note.json). Where an item was textually identical between Year 3 and Year 5 papers, only the Year 3 occurrence was kept and the Year 5 duplicate is logged below.",
+  "extractedCount": {
+    "numeracyYear3": 17,
+    "numeracyYear5": 11,
+    "languageConventionsYear3": 26,
+    "languageConventionsYear5Unique": 17,
+    "totalUsable": 71
+  },
+  "extractedItems": {
+    "note": "Full source text/options/answers for every usable item are recorded in research/pipeline convention as the working set behind 02-transformed.json; this section lists each source item by year/subject/question-number/topic/correct-answer for audit traceability. Verbatim source wording is intentionally not reproduced a second time here beyond what's needed for audit, consistent with this pipeline's style-inspired-not-verbatim policy; the authoritative rewritten content is in 02-transformed.json.",
+    "numeracyYear3": [
+      {"q": 3, "topic": "money/coins", "answer": "60 cents"},
+      {"q": 6, "topic": "multiplication (equal groups)", "answer": "18"},
+      {"q": 10, "topic": "number range/inequalities", "answer": "326"},
+      {"q": 13, "topic": "balance/mass (text-derivable)", "answer": "15 grams"},
+      {"q": 14, "topic": "place value/numeral writing", "answer": "4037 km"},
+      {"q": 16, "topic": "repeated addition/multiplication", "answer": "10+10+10+10+10"},
+      {"q": 19, "topic": "multiplication word problems", "answer": "Henry has 12 friends, buys 6 apples each"},
+      {"q": 21, "topic": "division (equal shares)", "answer": "9"},
+      {"q": 23, "topic": "money/change", "answer": "$6"},
+      {"q": 26, "topic": "number sentences (subtraction)", "answer": "51 - 38 = 13"},
+      {"q": 27, "topic": "probability reasoning", "answer": "Both are equally likely to win"},
+      {"q": 29, "topic": "number puzzles/place value", "answer": "909"},
+      {"q": 30, "topic": "equivalent number sentences", "answer": "2 + 5 = ?"},
+      {"q": 31, "topic": "fractions", "answer": "4/6"},
+      {"q": 33, "topic": "equivalent number sentences", "answer": "-2"},
+      {"q": 34, "topic": "perimeter (fill-in)", "answer": "28"},
+      {"q": 35, "topic": "word problems/addition-subtraction (fill-in)", "answer": "21"}
+    ],
+    "numeracyYear5": [
+      {"q": 1, "topic": "money/multiplication", "answer": "$1.90"},
+      {"q": 9, "topic": "estimation/number sentences", "answer": "50+40+10=100"},
+      {"q": 11, "topic": "odd/even reasoning", "answer": "always even"},
+      {"q": 19, "topic": "money/coins", "answer": "$7"},
+      {"q": 24, "topic": "decimal number patterns", "answer": "1.65"},
+      {"q": 25, "topic": "elapsed time", "answer": "1:15 pm"},
+      {"q": 28, "topic": "inverse operations", "answer": "45 + 38"},
+      {"q": 31, "topic": "logical reasoning", "answer": "Teams A and F both win"},
+      {"q": 32, "topic": "division with remainder", "answer": "3"},
+      {"q": 37, "topic": "fraction-decimal equivalence", "answer": "0.2"},
+      {"q": 38, "topic": "perimeter (table lookup)", "answer": "Rectangle A"}
+    ],
+    "languageConventionsYear3_q26to51": [
+      {"q": 26, "topic": "word choice/adverbs", "answer": "outside"},
+      {"q": 27, "topic": "prepositions", "answer": "on"},
+      {"q": 28, "topic": "modal verbs", "answer": "would"},
+      {"q": 29, "topic": "subject-verb agreement", "answer": "there are"},
+      {"q": 30, "topic": "contractions", "answer": "He's"},
+      {"q": 31, "topic": "sentence punctuation (exclamation vs statement)", "answer": "What a beautiful rainbow!"},
+      {"q": 32, "topic": "adverbs", "answer": "quickly"},
+      {"q": 33, "topic": "subject-verb agreement", "answer": "were"},
+      {"q": 34, "topic": "modal verbs", "answer": "would have"},
+      {"q": 35, "topic": "nouns", "answer": "playground"},
+      {"q": 36, "topic": "capitalisation", "answer": "the sentence naming 'buddy' (proper noun needing a capital)"},
+      {"q": 37, "topic": "quotation marks", "answer": "\"Bring your sneakers,\" Joe said, \"and we will go for a walk.\""},
+      {"q": 38, "topic": "commas in a list", "answer": "I had tomato, a slice of cheese and lettuce on my sandwich."},
+      {"q": 39, "topic": "question marks vs statements", "answer": "Can I ride my bike to school tomorrow?"},
+      {"q": 40, "topic": "conjunctions", "answer": "He ate the potato but not the carrots."},
+      {"q": 41, "topic": "sentence fragments/independent clauses", "answer": "we are going for a walk"},
+      {"q": 42, "topic": "verb tense consistency", "answer": "Sue will buy bananas and milk when she goes shopping."},
+      {"q": 43, "topic": "apostrophes of contraction", "answer": "He said he'd love to come."},
+      {"q": 44, "topic": "adjectives", "answer": "next"},
+      {"q": 45, "topic": "pronoun replacement", "answer": "Mum and Dad"},
+      {"q": 46, "topic": "subject-verb agreement", "answer": "The sheep are in the yard."},
+      {"q": 47, "topic": "past tense", "answer": "The tree blew over in the wind."},
+      {"q": 48, "topic": "capitalisation of proper nouns", "answer": "We camped beside the Murray River."},
+      {"q": 49, "topic": "pronoun reference", "answer": "pots"},
+      {"q": 50, "topic": "articles (a/an)", "answer": "A wombat dug that deep hole."},
+      {"q": 51, "topic": "apostrophes (contraction vs possessive confusion)", "answer": "My uncle's riding in the show next month."}
+    ],
+    "languageConventionsYear5_uniqueOnly": [
+      {"q": 33, "topic": "punctuation (reported vs direct question)", "answer": "a full stop"},
+      {"q": 34, "topic": "adverbs", "answer": "clearly"},
+      {"q": 35, "topic": "reflexive pronouns", "answer": "It would be nice to have a dog that could take itself for a walk."},
+      {"q": 38, "topic": "commas in a list", "answer": "The summer months in England are June, July and August."},
+      {"q": 39, "topic": "apostrophes of contraction", "answer": "My whole schools taking part in the fun run."},
+      {"q": 40, "topic": "list punctuation", "answer": "I gave cards to Mum and Dad, my aunt and uncle and my cousin."},
+      {"q": 41, "topic": "combining sentences/relative clauses", "answer": "Max, who is in a marching band, plays the drums."},
+      {"q": 42, "topic": "articles (a/an)", "answer": "When I grow up I want to become an astronaut."},
+      {"q": 43, "topic": "redundant words", "answer": "eyes"},
+      {"q": 44, "topic": "subject-verb agreement with uncountable nouns", "answer": "There's more hot soup in the pot."},
+      {"q": 45, "topic": "parts of speech (verb)", "answer": "a verb"},
+      {"q": 46, "topic": "pronoun reference", "answer": "the library"},
+      {"q": 47, "topic": "apostrophes of contraction vs possession", "answer": "The television's hard to hear with all the noise."},
+      {"q": 48, "topic": "reported speech", "answer": "Joe told us that we should hurry because the bus was coming."},
+      {"q": 49, "topic": "adverbs of time", "answer": "later"},
+      {"q": 50, "topic": "parts of speech (adjective)", "answer": "That word has a double meaning."},
+      {"q": 51, "topic": "compound sentences", "answer": "It is a close game but our team has a small lead."}
+    ]
+  },
+  "skipped": {
+    "imageDependent": [
+      "Y3 Numeracy Q1 (bar-chart image), Q2 (paperclip-length image), Q4 (eye-colour graph read visually), Q5 (shape-joining images), Q7 (clock faces), Q8 (money picture, also open-ended), Q9 (tally-mark image, also open-ended), Q11 (paper-fold net), Q12 (tile-rotation pattern image), Q15 (picture graph), Q17 (spinner image), Q18 (egg-grouping image), Q20 (container image), Q22 (treasure-map grid image), Q24 (area-shading grid image), Q25 (balance-scale picture), Q28 (number-line arc-pattern image -- step size not determinable from text alone), Q32 (broken-ruler image).",
+      "Y5 Numeracy Q2 (tally-mark image, also open-ended), Q4 (paper-fold net), Q8 (shape-division image), Q10 (map-grid image), Q12 (animal-count table shown as tally images), Q13 (ladder-angle image), Q14 (dot-plot images), Q15 (measuring-jug image), Q17 (area-shading grid image), Q18 (balance-scale picture -- also a Y3 duplicate), Q20 (spinner image), Q21 (perimeter shape image), Q22 (dog-weight bar graph), Q23 (symmetry-star image), Q29 (number-line fraction-position image), Q30 (tally-mark table image), Q33 (broken-ruler image -- also a Y3 duplicate), Q34 (leaf reflection/rotation image)."
+    ],
+    "openEnded_noFixedOptions": [
+      "Y3 and Y5 Language Conventions Q1-25 (spelling correction items -- student writes the corrected spelling of a circled/identified misspelled word; there is no fixed set of options to classify as A-D, so these do not fit this pipeline's MC/fixed-answer format).",
+      "Y5 Numeracy Q35 (silkworm leaves pattern, fill-in with no options given, but see note: several other fill-in items WERE kept where a small, clearly-boundable set of plausible distractor options could be constructed without inventing the underlying problem -- Q35 was skipped instead because it duplicates the skill already covered by the kept Y5 Q24 decimal-pattern item), Q36 (day-trip total cost, fill-in), Q39 (sale-price percentage, fill-in), Q40 (sheep ratio, fill-in)."
+    ],
+    "duplicateAcrossYearLevels": [
+      "Y5 Numeracy Q3 duplicates Y3 Numeracy Q10 (identical 'book has more than 324 pages...' text).",
+      "Y5 Numeracy Q5 duplicates Y3 Numeracy Q13 (identical balance-scale 28g/13g text).",
+      "Y5 Numeracy Q6 duplicates Y3 Numeracy Q14 (identical 'four thousand and thirty-seven kilometres' text).",
+      "Y5 Numeracy Q7 duplicates Y3 Numeracy Q19 (identical Henry/12x6 text).",
+      "Y5 Numeracy Q16 duplicates Y3 Numeracy Q23 (identical Shana/$30 shopping text).",
+      "Y5 Numeracy Q18 duplicates Y3 Numeracy Q25 (identical balance-scale heaviest-object text; also image-dependent).",
+      "Y5 Numeracy Q26 duplicates Y3 Numeracy Q29 (identical Ari's-number text).",
+      "Y5 Numeracy Q27 duplicates Y3 Numeracy Q31 (identical apples-fraction text).",
+      "Y5 Numeracy Q33 duplicates Y3 Numeracy Q32 (identical broken-ruler text; also image-dependent).",
+      "Y5 Language Conventions Q26 duplicates Y3 Language Conventions Q26 (identical 'wet shoes' text).",
+      "Y5 Language Conventions Q27 duplicates Y3 Language Conventions Q28 (identical 'My friend ___ like to go camping' text).",
+      "Y5 Language Conventions Q28 duplicates Y3 Language Conventions Q30 (identical '___ excited that a new family is moving in' text).",
+      "Y5 Language Conventions Q29 duplicates Y3 Language Conventions Q33 (identical 'All the players ___ at the practice' text).",
+      "Y5 Language Conventions Q31 duplicates Y3 Language Conventions Q36 (identical missing-capital-letter option set).",
+      "Y5 Language Conventions Q32 duplicates Y3 Language Conventions Q42 (identical dog/Bill/Dan/Sue tense-consistency option set).",
+      "Y5 Language Conventions Q36 duplicates Y3 Language Conventions Q45 (identical 'Jack said that they will be here later' pronoun text).",
+      "Y5 Language Conventions Q37 duplicates Y3 Language Conventions Q46 (identical teeth/cattle/sheep/mouse option set)."
+    ],
+    "excludedEntireTests": [
+      "Reading (both years) -- see 01-source-note.json 'readingTestNotProcessed'.",
+      "Writing (both years) -- constructed-response with no fixed answer key, out of scope for this pipeline by standing rule."
+    ]
+  }
+}

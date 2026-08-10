@@ -1,0 +1,272 @@
+[
+  {
+    "item": {
+      "subject": "english",
+      "topic": "sentence punctuation",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "What time is it.",
+      "optionB": "Where is my hat.",
+      "optionC": "When the bell rings I go outside?",
+      "optionD": "What a delicious cake!",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'What a delicious cake!' is an exclamation and correctly ends with an exclamation mark.",
+      "explanation": "The first two are questions but wrongly end with a full stop, and the third is a statement wrongly ending with a question mark."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "quotation marks",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "\"Grab your umbrella, Mia said, and we will go for a walk.\"",
+      "optionB": "Grab your umbrella, \"Mia said,\" and we will go for a walk.",
+      "optionC": "Grab your umbrella,\" Mia said, \"and we will go for a walk.",
+      "optionD": "\"Grab your umbrella,\" Mia said, \"and we will go for a walk.\"",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "Each separate piece of Mia's actual spoken words needs its own pair of quotation marks around it.",
+      "explanation": "The other options place the quotation marks around the wrong parts of the sentence, mixing up what Mia actually said versus who said it."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "commas in a list",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "I packed apples a sandwich, and juice for lunch.",
+      "optionB": "I packed apples, a sandwich and, juice for lunch.",
+      "optionC": "I packed apples, a sandwich, and, juice for lunch.",
+      "optionD": "I packed apples, a sandwich and juice for lunch.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "A list of three items needs commas after the first two items, with no comma before 'and juice'.",
+      "explanation": "The other options place commas in the wrong spots, either missing a needed comma or adding an extra one before 'and'."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "question marks vs statements",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "I asked Mum if I could walk to the park?",
+      "optionB": "My friend asked me if I walked to school?",
+      "optionC": "Mum said that I can walk to the park?",
+      "optionD": "Can I walk to the park after school?",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "Only 'Can I walk to the park after school?' is a direct question; the other sentences are reported statements and should end with a full stop.",
+      "explanation": "The first three sentences report what someone asked or said and are actually statements, not questions."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "verb tense consistency",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is correct?",
+      "optionA": "The dog runs around the yard and chases the ball.",
+      "optionB": "Bill went riding and he falls off the horse.",
+      "optionC": "Dan is going to camp and he packs his bag.",
+      "optionD": "Tom will walk the dog and feed the cat when he gets home.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'Tom will walk the dog and feed the cat' keeps a consistent future tense throughout the sentence.",
+      "explanation": "The other sentences mix past and present tense verbs (e.g. 'went' with 'falls'), which is inconsistent."
+    },
+    "reasonCode": "duplicate",
+    "detail": "duplicate within this batch"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "apostrophes of contraction",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "Il'l bring a snack for lunch.",
+      "optionB": "Whats' for dinner tonight?",
+      "optionC": "She said she'd love to help.",
+      "optionD": "Tomorrow wer'e going to the beach.",
+      "correctOption": "C",
+      "answerType": "fact",
+      "factClaim": "\"She'd\" correctly places the apostrophe to contract 'she would', while the other options misplace their apostrophes.",
+      "explanation": "'Il'l', 'Whats'' and 'wer'e' all have the apostrophe in the wrong position for the contractions they intend."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "subject-verb agreement",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is correct?",
+      "optionA": "My tooth need brushing.",
+      "optionB": "The herd is under the shade.",
+      "optionC": "The children are in the garden.",
+      "optionD": "The rabbit eat the lettuce.",
+      "correctOption": "C",
+      "answerType": "fact",
+      "factClaim": "'Children' is plural and correctly pairs with the plural verb 'are'.",
+      "explanation": "'Tooth need' and 'rabbit eat' don't agree in number, and while 'herd is' is grammatically fine, 'The children are in the garden' is the option without any agreement error."
+    },
+    "reasonCode": "duplicate",
+    "detail": "duplicate within this batch"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "capitalisation of proper nouns",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "The Capital City of Australia is Canberra.",
+      "optionB": "The Dentist is called Dr Lee.",
+      "optionC": "My School Bag is red and black.",
+      "optionD": "We camped beside Lake Eyre.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'Lake Eyre' is a proper noun (a specific place name) and correctly keeps its capital letters, while the other sentences wrongly capitalise common nouns.",
+      "explanation": "'Capital City', 'Dentist' and 'School Bag' are common nouns and shouldn't be capitalised."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "articles (a/an)",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is correct?",
+      "optionA": "We saw an baby dingo in the paddock.",
+      "optionB": "A echidna crossed the road.",
+      "optionC": "There is an kangaroo in the paddock.",
+      "optionD": "A koala climbed that tall tree.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'A koala' correctly uses 'a' before a consonant sound, while the other sentences misuse 'a' and 'an'.",
+      "explanation": "'Baby' and 'kangaroo' start with consonant sounds and need 'a', while 'echidna' starts with a vowel sound and needs 'an' -- the other three sentences all get this backwards."
+    },
+    "reasonCode": "duplicate",
+    "detail": "duplicate within this batch"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "apostrophes (contraction vs possessive confusion)",
+      "levelBand": "Age 9",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "My sister love's playing the piano.",
+      "optionB": "She get's up early every day to train.",
+      "optionC": "Sometimes she let's me watch her practise.",
+      "optionD": "My sister's playing in the concert next week.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "\"Sister's\" correctly uses an apostrophe to contract 'sister is', while the other options wrongly add apostrophes to ordinary verbs.",
+      "explanation": "'Love's', 'get's' and 'let's' (in the sense of 'lets') are ordinary present-tense verbs and should not have an apostrophe at all."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "reflexive pronouns",
+      "levelBand": "Age 10",
+      "prompt": "Which sentence is correct?",
+      "optionA": "Both Sam and Jo are very good friends of myself.",
+      "optionB": "I know yourself will be keen to know who won.",
+      "optionC": "Either himself or I will meet you at the station.",
+      "optionD": "It would be funny to have a cat that could feed itself breakfast.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'Itself' correctly refers back to the cat, the subject performing the action of feeding.",
+      "explanation": "'Myself', 'yourself' and 'himself' are used incorrectly in the other sentences -- reflexive pronouns must refer back to the subject of the same clause."
+    },
+    "reasonCode": "duplicate",
+    "detail": "duplicate within this batch"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "commas in a list",
+      "levelBand": "Age 10",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "The winter months in Canada, are December, January and February.",
+      "optionB": "The winter months in Canada are, December, January, and February.",
+      "optionC": "The winter months in Canada, are December January and February.",
+      "optionD": "The winter months in Canada are December, January and February.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "No comma is needed between the subject and verb, and the list of months only needs commas between the items.",
+      "explanation": "The other options incorrectly place a comma right after 'Canada', before the verb 'are'."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "list punctuation",
+      "levelBand": "Age 10",
+      "prompt": "Which sentence is punctuated correctly?",
+      "optionA": "I sent letters to Mum, and Dad, my uncle, and aunt, and my cousin.",
+      "optionB": "I sent letters to Mum and Dad, my uncle, and aunt and, my cousin.",
+      "optionC": "I sent letters to Mum, and Dad, my uncle and aunt, and my cousin.",
+      "optionD": "I sent letters to Mum and Dad, my uncle and aunt and my cousin.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "The three pairs/items ('Mum and Dad', 'my uncle and aunt', 'my cousin') only need commas between the groups, not inside each pair.",
+      "explanation": "The other options scatter extra, misplaced commas inside the paired names ('Mum, and Dad')."
+    },
+    "reasonCode": "duplicate",
+    "detail": "matches an existing question already in data/seed/*.json (checked all subjects)"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "articles (a/an)",
+      "levelBand": "Age 10",
+      "prompt": "Which sentence is correct?",
+      "optionA": "My first flight in a aeroplane was very exciting.",
+      "optionB": "I would love to ride in an hot air balloon next.",
+      "optionC": "It would be thrilling to fly in a actual space rocket.",
+      "optionD": "When I grow up I want to become an engineer.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'An engineer' correctly uses 'an' before a vowel sound.",
+      "explanation": "'Aeroplane', 'hot' and 'actual' all start with sounds that need 'an' or 'a' the other way around from how the other sentences use them."
+    },
+    "reasonCode": "duplicate",
+    "detail": "duplicate within this batch"
+  },
+  {
+    "item": {
+      "subject": "english",
+      "topic": "subject-verb agreement with uncountable nouns",
+      "levelBand": "Age 10",
+      "prompt": "Which sentence is correct?",
+      "optionA": "There's pretty shells on the beach.",
+      "optionB": "There's too few trees in the park.",
+      "optionC": "There's many good jokes in that book.",
+      "optionD": "There's more cold lemonade in the jug.",
+      "correctOption": "D",
+      "answerType": "fact",
+      "factClaim": "'Lemonade' is uncountable and singular, correctly matching the singular contraction 'There's'.",
+      "explanation": "The other sentences use plural nouns (shells, trees, jokes) which don't agree with the singular verb in 'There's'."
+    },
+    "reasonCode": "duplicate",
+    "detail": "duplicate within this batch"
+  }
+]

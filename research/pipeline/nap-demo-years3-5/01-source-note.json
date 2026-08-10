@@ -1,0 +1,58 @@
+{
+  "source": "ACARA NAPLAN 2016 past test papers with official answers (Numeracy and Language Conventions, Year 3 and Year 5)",
+  "status": "PIVOTED from the originally-named source. The NAP Public Demonstration Site (pages.assessform.edu.au) remains blocked by bot-detection WAF and, independently, has no official answer key (see prior findings below, preserved for record). Per this task's explicit instruction, that source was abandoned and ACARA's own past-papers archive was used instead.",
+  "pivotRationale": "nap.edu.au/naplan/whats-in-the-tests explicitly points to 'past NAPLAN test papers and answers on the ACARA website' as a separate, distinct resource from the blocked demo platform. This task's instructions explicitly authorized using that alternative, so it was not a unilateral substitution.",
+  "urlsUsed": [
+    {
+      "url": "https://acara.edu.au/assessment/naplan/naplan-2012-2016-test-papers",
+      "result": "LIVE, free, no login. Index page linking to individual PDF test papers and answer-key PDFs for Years 3, 5, 7, 9, 2012-2016."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/e5-naplan-2016-final-test-numeracy-year-3.pdf",
+      "result": "Downloaded successfully via curl with a standard browser User-Agent header (no bot-detection encountered on this domain, unlike assessform.edu.au). WebFetch's normal PDF-text extraction path was not attempted directly; file was saved and read via the Read tool per this pipeline's established PDF-handling pattern."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/e6-naplan-2016-final-test-language-conventions-year-3.pdf",
+      "result": "Downloaded and read successfully."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/e5-naplan-2016-final-test-numeracy-year-5.pdf",
+      "result": "Downloaded and read successfully."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/e6-naplan-2016-final-test-language-conventions-year-5.pdf",
+      "result": "Downloaded and read successfully."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/naplan-2016-yr-3-paper-test-answers.pdf",
+      "result": "Downloaded and read successfully. Official answer key covering Reading, Numeracy, and Language Conventions for Year 3, 2016."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/naplan-2016-yr-5-paper-test-answers.pdf",
+      "result": "Downloaded and read successfully. Official answer key covering Reading, Numeracy, and Language Conventions for Year 5, 2016."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/e4-naplan-2016-final-test-reading-year-3.pdf",
+      "result": "Downloaded but NOT extracted from -- see 'Reading test deliberately not processed' below."
+    },
+    {
+      "url": "https://acaraweb.blob.core.windows.net/acaraweb/docs/default-source/assessment-and-reporting-publications/e4-naplan-2016-final-test-reading-year-5.pdf",
+      "result": "Downloaded but NOT extracted from -- see 'Reading test deliberately not processed' below."
+    }
+  ],
+  "sourceUsedThisBatch": "NAPLAN 2016 final test papers: Year 3 Numeracy, Year 3 Language Conventions, Year 5 Numeracy, Year 5 Language Conventions, plus the official 2016 Year 3 and Year 5 paper-test-answers keys.",
+  "licenseAndAccess": "Free to access, no login required, hosted directly on ACARA's own domain (acara.edu.au / acaraweb.blob.core.windows.net). ACARA's past-papers pages state these are made available for personal/educational download, print and copy use; ACARA does not release papers after 2016. Per this pipeline's standing policy (style-inspired, not verbatim -- see ingestion_pipeline_design.md), Step 3 rewrote every item's wording, numbers, names and option order regardless of the underlying license, so this batch does not depend on resolving the free-to-access-vs-free-to-reuse distinction in our favour.",
+  "dateChecked": "2026-08-09",
+  "readingTestNotProcessed": "The Year 3 and Year 5 Reading tests were downloaded but deliberately not extracted from, per a known, previously-documented gap in this pipeline (see research/pipeline/README.md, 'What changed from the original design' / 'Passage-based reading comprehension has no destination format yet'): data/seed/english.json only supports standalone grammar/vocabulary items, with no `passage` field and no way to group several questions under one shared reading text. Writing was also excluded entirely -- it is constructed-response with no fixed answer key, out of scope for this pipeline by standing rule.",
+  "duplicateNumeracyAndLanguageConventionsItemsAcrossYearLevels": "NAPLAN reuses a number of identical items verbatim between the Year 3 and Year 5 2016 papers (e.g. the balance-scale cube-weight item, the 'four thousand and thirty-seven kilometres' item, Henry's 12x6 apples item, Shana's $30 shopping item, Ari's number-clue item, the apples-fraction-sharing item, and at least 7 identical Language Conventions grammar items). Where a Numeracy or Language Conventions item was found to be textually identical (or near-identical with only trivial value changes) between the two year levels, it was extracted and logged once against its first occurrence (Year 3) and the Year 5 duplicate was recorded as skipped, to avoid manufacturing two near-duplicate entries in the seed data from what is really one source item. See 01-extracted-classified.json's `skipped` list for the specific duplicate pairs.",
+  "priorBlockedAttempt_preservedForRecord": {
+    "source": "Australia's NAP (National Assessment Program) Public Demonstration Site -- NAPLAN",
+    "status": "BLOCKED -- Step 0 did not clear for this source specifically. No extraction was ever performed from it. No content was fabricated.",
+    "findings": [
+      "The NAP public demonstration site's marketing/info pages are live and genuinely describe a free, no-login demo test.",
+      "The actual interactive test delivery platform (pages.assessform.edu.au / assessform.edu.au) is protected by bot-detection / WAF middleware that returned an explicit block page to both WebFetch and a real Chrome browser session automated via claude-in-chrome.",
+      "Separately and independently of the block: the demo site's own text states 'answers are not provided' for its tests, so even with access there would have been no official answer key for that specific source."
+    ],
+    "conclusion": "This specific source (the interactive demo platform) remains unreached and was not attempted again in this run, per explicit task instruction not to try to bypass bot detection."
+  }
+}

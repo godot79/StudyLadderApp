@@ -2274,5 +2274,455 @@
     "explanation": "A warped door, rusty handle, and thick dust all show decay and abandonment over many years. These physical details provide the strongest evidence that no one had entered or worked in the workshop for a long time.",
     "passage": "The Hidden Workshop\n\nMaya squeezed through the narrow garden gate and looked around. Grandmother's garden had always felt like a secret world, with overgrown roses and twisted apple trees. But today she was looking for something specific: the old shed at the far corner, hidden behind the tallest oak tree.\n\nShe had found a key in Grandmother's desk, tagged with a faded label: \"Workshop – 1987.\" Grandmother had been in hospital for three weeks now, and Mum had asked Maya to collect some things from the house. This key didn't match any door inside the cottage, so Maya decided to explore.\n\nThe shed was smaller than she expected. Its wooden door was warped with age, and the handle felt rough with rust. Inside, dust danced in the single shaft of sunlight coming through a grimy window. But what made Maya's breath catch was what she saw arranged carefully on wooden tables: tools.\n\nHammers of different sizes. Chisels with worn handles. A plane for smoothing wood. Sketches pinned to the wall showed furniture designs – chairs with curved legs, tables with intricate patterns, a dresser with carved panels. Next to the sketches hung a faded photograph of a young woman, laughing, holding a piece of polished wood. It took Maya a moment to recognize her own grandmother, decades younger.\n\nIn the corner sat an abandoned wooden chest, half-finished. The front panel showed the beginning of a beautiful carving – flowers that seemed to bloom from the wood itself. But the work had stopped mid-stroke, as if the craftsperson had simply put down their tools and walked away.\n\n\"You found it,\" a voice said behind her.\n\nMaya spun around. Grandmother was standing in the doorway, leaning on her walking stick. She looked smaller than usual, tired, but her eyes were bright.\n\n\"Mum didn't know you were here,\" Maya said, surprised.\n\n\"I escaped,\" Grandmother said with a small smile. \"I wanted to show you this place before... well, before I forget more things.\"\n\nThey stood together in the dusty workshop. Grandmother pointed to the chest. \"That was my last piece. 1987. I was thirty years old and thought I had forever to make beautiful things. But your grandfather got ill, and then you were born, and life became about caring for people I loved. By the time things calmed down, I'd forgotten how much I missed this.\"\n\nMaya ran her fingers gently along the unfinished carving. \"Why didn't you come back?\"\n\n\"I told myself I would,\" Grandmother said softly. \"But the longer you stay away, the harder it is to return. Eventually, you stop trying.\"\n\nLooking at the tools, the sketches, the half-finished chest, Maya felt something shift inside her. \"These flowers are beautiful,\" she whispered. \"Like real ones.\"\n\nGrandmother put her hand on Maya's shoulder. \"Your mother says you like to draw. That you stay up late filling sketchbooks with designs. I didn't know that about you.\"\n\nMaya looked up at her grandmother's face – really looked at it – and saw in her features something she recognized from her own reflection. The same stubborn chin. The same way of tilting their head when thinking hard.\n\n\"Could you teach me?\" Maya asked. \"To carve like you did?\"\n\nGrandmother's eyes filled with tears. \"I would like that very much.\"",
     "passageId": "uk-ks2-2025-passage-1"
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word completes this sentence correctly? Please put your muddy boots ___.",
+    "optionA": "earlier",
+    "optionB": "soon",
+    "optionC": "lastly",
+    "optionD": "outside",
+    "correctOption": "D",
+    "explanation": "'Soon', 'lastly' and 'earlier' describe time, not location, so they don't fit where the boots should be put."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word completes this sentence correctly? You can put your lunchbox ___ the shelf.",
+    "optionA": "down",
+    "optionB": "for",
+    "optionC": "in",
+    "optionD": "on",
+    "correctOption": "D",
+    "explanation": "'For', 'in' and 'down' don't correctly describe the position of an object placed on a shelf's surface."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word completes this sentence correctly? My cousin ___ like to come to the party.",
+    "optionA": "always",
+    "optionB": "maybe",
+    "optionC": "would",
+    "optionD": "can",
+    "correctOption": "C",
+    "explanation": "'Can', 'always' and 'maybe' don't fit grammatically before 'like to come'; only 'would' forms the correct modal phrase."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word completes this sentence correctly? When there is rain in the garden ___ lots of puddles.",
+    "optionA": "it is",
+    "optionB": "there are",
+    "optionC": "which is",
+    "optionD": "they are",
+    "correctOption": "B",
+    "explanation": "'Puddles' is plural, and the sentence needs 'there are' to introduce them; 'they are', 'it is' and 'which is' don't fit grammatically here."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word completes this sentence correctly? ___ thrilled that his best friend is moving in next door.",
+    "optionA": "There's",
+    "optionB": "He's",
+    "optionC": "That's",
+    "optionD": "It's",
+    "correctOption": "B",
+    "explanation": "'It's', 'There's' and 'That's' don't refer to a person who can feel an emotion like being thrilled."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word describes how the kitten crept in this sentence? The fluffy kitten crept quietly across the cold floor.",
+    "optionA": "quietly",
+    "optionB": "fluffy",
+    "optionC": "across",
+    "optionD": "cold",
+    "correctOption": "A",
+    "explanation": "'Fluffy' and 'cold' are adjectives describing the kitten and floor, and 'across' is a preposition, not a word describing how the kitten moved."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word completes this sentence correctly? All the dancers in the group ___ at the rehearsal yesterday.",
+    "optionA": "are",
+    "optionB": "were",
+    "optionC": "was",
+    "optionD": "been",
+    "correctOption": "B",
+    "explanation": "'Was' and 'are' don't match a plural past-tense subject, and 'been' cannot stand alone as the main verb here."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word or words complete this sentence correctly? We ___ arrived on time but the train was delayed.",
+    "optionA": "would have",
+    "optionB": "could not",
+    "optionC": "did not",
+    "optionD": "will",
+    "correctOption": "A",
+    "explanation": "'Could not', 'did not' and 'will' don't correctly pair with 'arrived' to express this hypothetical past outcome."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word in this sentence is a noun? The classroom is quiet.",
+    "optionA": "The",
+    "optionB": "is",
+    "optionC": "quiet",
+    "optionD": "classroom",
+    "correctOption": "D",
+    "explanation": "'The' is an article, 'is' is a verb, and 'quiet' is an adjective describing the classroom."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which sentence contains a word that is missing a capital letter?",
+    "optionA": "My new kitten is called whiskers.",
+    "optionB": "Mum drove me to see the doctor.",
+    "optionC": "We went for a swim near the lighthouse.",
+    "optionD": "They are caring for an injured possum.",
+    "correctOption": "A",
+    "explanation": "The other sentences use only common nouns, correctly left lower-case."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which sentence is correct?",
+    "optionA": "We either walk to school and take the bus.",
+    "optionB": "The weather was sunny nor rainy.",
+    "optionC": "She packed a jacket but not an umbrella.",
+    "optionD": "Bring both a jacket or an umbrella.",
+    "correctOption": "C",
+    "explanation": "'Both' should pair with 'and', 'either' should pair with 'or', and 'nor' needs 'neither', so only the last sentence uses its conjunction correctly."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which part of this sentence can be a correct sentence on its own? Before we go to bed, we brush our teeth and read a short story together.",
+    "optionA": "Before we go to bed",
+    "optionB": "and read",
+    "optionC": "a short story together",
+    "optionD": "we brush our teeth",
+    "correctOption": "D",
+    "explanation": "The other parts are incomplete fragments that depend on the rest of the sentence to make sense."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which word in this sentence is used as an adjective? The tall ladder in the shed will help him reach the roof.",
+    "optionA": "roof",
+    "optionB": "tall",
+    "optionC": "ladder",
+    "optionD": "shed",
+    "correctOption": "B",
+    "explanation": "'Ladder', 'shed' and 'roof' are all nouns naming things, not describing words."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which sentence is written in the past tense?",
+    "optionA": "There is a very old building in our street.",
+    "optionB": "We play handball every Saturday.",
+    "optionC": "The kite flew high above the park.",
+    "optionD": "The apples are ready to pick.",
+    "correctOption": "C",
+    "explanation": "'Are', 'is' and 'play' are all present-tense verbs describing what is currently or regularly happening."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What does the pronoun them refer to in this sentence? The students painted boxes for their teachers and then they placed pencils in them.",
+    "optionA": "pencils",
+    "optionB": "boxes",
+    "optionC": "students",
+    "optionD": "teachers",
+    "correctOption": "B",
+    "explanation": "'Them' refers back to the boxes, the object being filled, not the students, teachers or pencils."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What punctuation is needed to make this a correct sentence? He asked me if I wanted to play chess",
+    "optionA": "a full stop",
+    "optionB": "quotation marks",
+    "optionC": "a question mark",
+    "optionD": "an exclamation mark",
+    "correctOption": "A",
+    "explanation": "Because it's reported speech ('he asked... if...') rather than a direct quoted question, a full stop is correct."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which word completes this sentence correctly? Marcus can only hear ___ when he is wearing his hearing aid.",
+    "optionA": "clearer",
+    "optionB": "clearly",
+    "optionC": "clear",
+    "optionD": "clearest",
+    "correctOption": "B",
+    "explanation": "'Clear', 'clearest' and 'clearer' are adjective forms and don't correctly modify the verb 'hear'."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which sentence has a word that needs an apostrophe?",
+    "optionA": "All the neighbours started clapping at once.",
+    "optionB": "My whole street throwing a party this weekend.",
+    "optionC": "The children were laughing around the fire.",
+    "optionD": "My favourite hobbies are drawing and painting.",
+    "correctOption": "B",
+    "explanation": "The other sentences are already grammatically complete and don't need an apostrophe added."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which sentence combines these two sentences correctly? Ella sings soprano. She is in the school choir.",
+    "optionA": "Ella, that is in the school choir, sings soprano.",
+    "optionB": "Ella is in the school choir, that sings soprano.",
+    "optionC": "Ella, that sings soprano, is in the school choir.",
+    "optionD": "Ella, who is in the school choir, sings soprano.",
+    "correctOption": "D",
+    "explanation": "The other options incorrectly use 'that' to refer to a person, where 'who' is required."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which underlined word could be left out of this sentence without changing the meaning? Most cats have soft fur but some have short fur, coarse or wiry fur.",
+    "optionA": "soft",
+    "optionB": "coarse",
+    "optionC": "fur",
+    "optionD": "Most",
+    "correctOption": "C",
+    "explanation": "Removing the repeated word 'fur' after 'short' doesn't change the sentence's meaning, since the list of fur types is already clear."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which type of word is live in this sentence? Our rabbits live in the hutch.",
+    "optionA": "an adjective",
+    "optionB": "an adverb",
+    "optionC": "a verb",
+    "optionD": "a noun",
+    "correctOption": "C",
+    "explanation": "'Live' isn't naming a thing, describing a noun, or modifying a verb -- it is the action word itself."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What does the word it refer to in the second sentence? The community pool is full of swimmers. On Mondays there is a lap-swimming session and on Fridays there is a kids' class, but on Sundays it closes early.",
+    "optionA": "the community pool",
+    "optionB": "a lap-swimming session",
+    "optionC": "a kids' class",
+    "optionD": "Sundays",
+    "correctOption": "A",
+    "explanation": "A swimming session, a class, or a day of the week can't 'close', so 'it' must refer to the pool."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which sentence contains an apostrophe of contraction?",
+    "optionA": "Ravi's parents let him stay up late.",
+    "optionB": "We spent the day at my friend Ana's house.",
+    "optionC": "Our neighbour's cat is in the garden.",
+    "optionD": "The radio's difficult to hear over the wind.",
+    "correctOption": "D",
+    "explanation": "The other sentences use apostrophes to show possession (Ana's house, neighbour's cat, Ravi's parents), not to shorten two words into one."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which sentence contains reported speech?",
+    "optionA": "\"Hurry up!\" said Mum as she grabbed her keys.",
+    "optionB": "Mia told us that we should leave early because the storm was coming.",
+    "optionC": "As she opened the door, Dad asked, \"Are you ready yet?\"",
+    "optionD": "We could hear the thunder rumbling from far away.",
+    "correctOption": "B",
+    "explanation": "The other options quote someone's exact spoken words using quotation marks, which is direct speech, not reported speech."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which underlined word tells when an action happens? The bell rang loudly. We will call you tomorrow. They ran downstairs. They walked away.",
+    "optionA": "away",
+    "optionB": "tomorrow",
+    "optionC": "loudly",
+    "optionD": "downstairs",
+    "correctOption": "B",
+    "explanation": "'Loudly' describes how the bell rang, and 'downstairs' and 'away' describe where they went, not when."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In which sentence is the word double used as an adjective?",
+    "optionA": "I thought I was seeing double when I met the twins.",
+    "optionB": "That road has a double lane.",
+    "optionC": "That number is expected to double over the next decade.",
+    "optionD": "The actor had a stunt double for some of the scenes.",
+    "correctOption": "B",
+    "explanation": "In the other sentences, 'double' is used as a verb (to double) or a noun (a stunt double, seeing double), not as a describing word."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which is a compound sentence?",
+    "optionA": "It is a hot day but the pool is closed.",
+    "optionB": "The car is parked over there near the tree.",
+    "optionC": "John and his pup were at the park before us.",
+    "optionD": "He kicked the ball so high that it went over the fence.",
+    "correctOption": "A",
+    "explanation": "The other sentences are each a single independent clause (or a clause with a dependent clause attached), not two independent clauses joined together."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "According to the menu, Ocean Diner opens at ___________.",
+    "optionA": "6 am",
+    "optionB": "8 am",
+    "optionC": "8 pm",
+    "optionD": "11 pm",
+    "correctOption": "B",
+    "explanation": "The menu header says 'Open daily: 8 am - 8 pm', so opening time is 8 am."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Ocean Diner offers ___________ kinds of pancakes for breakfast.",
+    "optionA": "four",
+    "optionB": "one",
+    "optionC": "two",
+    "optionD": "three",
+    "correctOption": "C",
+    "explanation": "Only two breakfast items are pancakes; the rice porridge is not a pancake."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which of these can Sam have for lunch at Ocean Diner?",
+    "optionA": "Grilled fish",
+    "optionB": "Milk tea",
+    "optionC": "Pancakes with fruit",
+    "optionD": "Mango pudding",
+    "correctOption": "A",
+    "explanation": "Only 'Grilled fish' appears under the Lunch heading in the passage."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Sam orders chicken curry. How much does he pay?",
+    "optionA": "$14",
+    "optionB": "$18",
+    "optionC": "$26",
+    "optionD": "$30",
+    "correctOption": "C",
+    "explanation": "The passage states chicken curry costs $26."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Sam buys three cups of milk tea. What does he get for free?",
+    "optionA": "a second drink",
+    "optionB": "a pancake",
+    "optionC": "a bowl of soup",
+    "optionD": "a dessert",
+    "correctOption": "D",
+    "explanation": "The promotion at the bottom of the menu gives a free dessert for buying 3 drinks."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which item on the menu costs the most?",
+    "optionA": "Grilled fish",
+    "optionB": "Apple pie",
+    "optionC": "Chicken curry",
+    "optionD": "Vegetable soup",
+    "correctOption": "A",
+    "explanation": "Comparing all prices on the menu, $30 for grilled fish is the highest."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Who is the letter written to?",
+    "optionA": "a teacher",
+    "optionB": "a friend",
+    "optionC": "a cousin",
+    "optionD": "Grandpa",
+    "correctOption": "D",
+    "explanation": "The greeting 'Dear Grandpa' and the closing show the letter is addressed to Grandpa."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Leo stayed at Grandpa's house because ___________.",
+    "optionA": "he was sick",
+    "optionB": "his parents were away",
+    "optionC": "school was closed",
+    "optionD": "it was raining all week",
+    "correctOption": "D",
+    "explanation": "The first paragraph gives the reason: rain all week."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Leo says he is not very good at ___________.",
+    "optionA": "reading",
+    "optionB": "spelling",
+    "optionC": "drawing",
+    "optionD": "gardening",
+    "correctOption": "B",
+    "explanation": "The second paragraph names spelling directly."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Leo could not play outside, so he felt ___________.",
+    "optionA": "proud",
+    "optionB": "sleepy",
+    "optionC": "bored",
+    "optionD": "excited",
+    "correctOption": "C",
+    "explanation": "The passage names the feeling word directly: bored."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What did Leo and Grandpa do together, according to the letter?\n1) fold paper birds\n2) fly a kite\n3) plant seeds\n4) bake bread",
+    "optionA": "1 and 4",
+    "optionB": "2 and 3",
+    "optionC": "1 and 3",
+    "optionD": "2 and 4",
+    "correctOption": "C",
+    "explanation": "Only folding paper birds and planting seeds are described in the passage."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Read the sentence 'We watered them every morning to help them grow.' The word 'them' refers to ___________.",
+    "optionA": "the seeds",
+    "optionB": "Leo and Grandpa",
+    "optionC": "the maths problems",
+    "optionD": "the paper birds",
+    "correctOption": "A",
+    "explanation": "Only living things (the seeds) can grow, so 'them' refers to the seeds."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "At the beginning of the story, what is Mia afraid of?",
+    "optionA": "rabbits",
+    "optionB": "spiders",
+    "optionC": "cats",
+    "optionD": "dogs",
+    "correctOption": "B",
+    "explanation": "The first sentence lists the animals Mia loves and names spiders as the one she fears."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Where does Mia go one weekend?",
+    "optionA": "a farm",
+    "optionB": "a greenhouse",
+    "optionC": "a school",
+    "optionD": "a park",
+    "correctOption": "B",
+    "explanation": "The second paragraph names the setting directly: a greenhouse."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Read the sentence 'Mia sees a spider sitting in the middle of it and jumps back with a shout.' The word 'shout' means ___________.",
+    "optionA": "a loud cry",
+    "optionB": "a gentle laugh",
+    "optionC": "a long sleep",
+    "optionD": "a quiet whisper",
+    "correctOption": "A",
+    "explanation": "Given the surprise and fear in the scene, 'shout' fits a loud cry rather than the other options."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Why are spiders helpful in Uncle Wing's greenhouse?",
+    "optionA": "They make the greenhouse warm.",
+    "optionB": "They catch bugs that eat the plants.",
+    "optionC": "They grow into new plants.",
+    "optionD": "They keep the leaves shiny.",
+    "correctOption": "B",
+    "explanation": "The passage gives this exact reason in Uncle Wing's explanation."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What does Uncle Wing give Mia so she can look at the web safely?",
+    "optionA": "a spray bottle",
+    "optionB": "a pair of gloves",
+    "optionC": "a jar",
+    "optionD": "a magnifying glass",
+    "correctOption": "D",
+    "explanation": "This detail is stated directly in the third paragraph."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Read the sentence 'They are a gardener's helpers, not monsters.' The word 'They' refers to ___________.",
+    "optionA": "the plants",
+    "optionB": "the leaves",
+    "optionC": "the spiders",
+    "optionD": "Mia and Uncle Wing",
+    "correctOption": "C",
+    "explanation": "Leaves, people, and plants cannot be called 'a gardener's helpers' in this context -- only the spiders fit."
   }
 ]

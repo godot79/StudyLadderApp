@@ -1,0 +1,134 @@
+[
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "Priya collected 84 stickers on Monday and 259 more stickers on Tuesday. How many stickers did she collect in total?",
+    "optionA": "333",
+    "optionB": "175",
+    "optionC": "443",
+    "optionD": "343",
+    "correctOption": "D",
+    "explanation": "84 + 259 = 343."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "A factory packs bolts into 8 boxes, with 405 bolts in each box. How many bolts are there in total?",
+    "optionA": "3140",
+    "optionB": "3240",
+    "optionC": "3200",
+    "optionD": "413",
+    "correctOption": "B",
+    "explanation": "405 x 8 = 3240."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "A gardener shares 743 seeds evenly among 5 pots, giving each pot as many whole seeds as possible. How many seeds go in each pot, and how many are left over?",
+    "optionA": "14 remainder 3",
+    "optionB": "148 remainder 3",
+    "optionC": "148",
+    "optionD": "104 remainder 3",
+    "correctOption": "B",
+    "explanation": "148 x 5 = 740, and 743 - 740 = 3, so each pot gets 148 seeds with 3 left over."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "928 - (58 + 112) = ?",
+    "optionA": "758",
+    "optionB": "982",
+    "optionC": "870",
+    "optionD": "698",
+    "correctOption": "A",
+    "explanation": "58 + 112 = 170, and 928 - 170 = 758."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "A stadium had 617 spectators in the morning match. The evening match had 74 fewer spectators. How many spectators watched the evening match?",
+    "optionA": "691",
+    "optionB": "501",
+    "optionC": "543",
+    "optionD": "563",
+    "correctOption": "C",
+    "explanation": "617 - 74 = 543."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "184 students are split evenly into 8 groups for a school trip. How many students are in each group?",
+    "optionA": "24",
+    "optionB": "20",
+    "optionC": "13",
+    "optionD": "23",
+    "correctOption": "D",
+    "explanation": "184 divided by 8 equals 23."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "27 + 6 x 8 = ?",
+    "optionA": "75",
+    "optionB": "41",
+    "optionC": "264",
+    "optionD": "33",
+    "correctOption": "A",
+    "explanation": "Multiplication comes before addition: 6 x 8 = 48, then 27 + 48 = 75."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "312 + 256 + 118 = ?",
+    "optionA": "676",
+    "optionB": "586",
+    "optionC": "696",
+    "optionD": "686",
+    "correctOption": "D",
+    "explanation": "312 + 256 + 118 = 686."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "Ben reads for 42 minutes every day. How many minutes does he read over 8 days?",
+    "optionA": "294",
+    "optionB": "336",
+    "optionC": "326",
+    "optionD": "350",
+    "correctOption": "B",
+    "explanation": "42 x 8 = 336."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "A vendor had 517 badges. She gave away 449 badges, then made 232 more badges. How many badges does she have now?",
+    "optionA": "300",
+    "optionB": "1198",
+    "optionC": "68",
+    "optionD": "196",
+    "correctOption": "A",
+    "explanation": "517 - 449 = 68, and 68 + 232 = 300."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "7 x 253 = ___ x 7. What number goes in the blank?",
+    "optionA": "1771",
+    "optionB": "260",
+    "optionC": "253",
+    "optionD": "7",
+    "correctOption": "C",
+    "explanation": "Swapping the order of the two numbers being multiplied doesn't change the answer, so the blank is 253."
+  },
+  {
+    "subject": "maths",
+    "levelBand": "Age 9",
+    "prompt": "819 / 3 = ?",
+    "optionA": "273",
+    "optionB": "263",
+    "optionC": "279",
+    "optionD": "233",
+    "correctOption": "A",
+    "explanation": "819 divided by 3 equals 273."
+  }
+]

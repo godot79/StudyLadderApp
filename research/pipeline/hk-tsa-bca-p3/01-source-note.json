@@ -1,0 +1,21 @@
+{
+  "source": "Hong Kong TSA (Territory-wide System Assessment), Primary 3, 2023 administration",
+  "publisher": "Education Bureau, HKSAR / Hong Kong Examinations and Assessment Authority (HKEAA)",
+  "urlsUsed": [
+    "https://www.bca.hkeaa.edu.hk/web/Common/res/2023priPaper/P3Math/TSA2023_3MC.pdf (Maths, Chinese medium, forms 3MC1-3MC4)",
+    "https://www.bca.hkeaa.edu.hk/web/Common/res/2023priMarking/P3/TSA2023_3MC1_MS.pdf (Maths marking scheme)",
+    "https://www.bca.hkeaa.edu.hk/web/Common/res/2023priPaper/P3Eng/TSA2023_3ERW1.pdf (English Reading & Writing, English medium)",
+    "https://www.bca.hkeaa.edu.hk/web/Common/res/2023priMarking/P3/TSA2023_3ERW1_MS.pdf (English marking scheme)"
+  ],
+  "accessNotes": "Confirmed genuinely free, no login required, hosted directly on bca.hkeaa.edu.hk (distinct from the login-gated bca.hkeaa.edu.hk/bca/ portal). Archive goes back to 2016. IMPORTANT ENGINEERING NOTE for future ingestion rounds against this host: the server enforces a per-connection bandwidth cap of roughly 4 KB/s regardless of file size (confirmed via curl timing: a 111KB file and a 2.4MB file both transferred at ~4KB/s on a single connection) -- this is NOT a broken/dead source, a serial curl/WebFetch will simply time out on anything over ~200KB. The server advertises `Accept-Ranges: bytes` (confirmed via HEAD request), so parallel ranged GETs (8-12 concurrent byte-range requests reassembled with cat) bypass the per-connection cap entirely and pull a 2.4MB PDF in under a minute. Use this technique, not serial retries, for any future HKEAA batch.",
+  "licenseNotes": "Copyright Education Bureau, HKSAR 2023 / prepared by HKEAA -- no open license confirmed (unlike the UK gov.uk OGL). Treat with the same caution as the France teacher-blog and Singapore aggregator sources in the catalog: free to access, not confirmed free to reuse verbatim. The English Reading & Writing paper's two passages (a cafe menu and a short story titled 'Tom and the Bees') are exactly the kind of third-party-flavoured copyrighted content the UK KS2 English batch flagged as unsafe to reuse or closely paraphrase -- per that precedent, this batch writes wholly original passages inspired only by the observed question *types* (menu-detail lookup, letter comprehension, animal-story comprehension with vocabulary-in-context and pronoun-reference items), never reusing the source's plot, characters, or menu items.",
+  "structuralNotes": "The Maths paper (3MC1-3MC4, four parallel forms of the same P3 admin) is Chinese-medium only -- HKEAA does not publish a separate English-medium P3 Maths paper for this administration, since Chinese is the medium of instruction for maths in most HK primary schools. Numeric/arithmetic word-problem content translates cleanly (numbers and simple sentence templates carry no language-specific meaning), so these items were read, translated, and extracted directly by the ingesting agent (fluent in Chinese) rather than via a Chinese-to-English MT step. The English paper (3ERW1) is genuinely English-medium throughout (bilingual only in the instructions/administrative boilerplate, not the test content itself).",
+  "itemsSkipped": [
+    "Maths Part (b)/(c) items requiring diagrams to be redrawn (rulers, balance scales, pictographs, bar charts, clock faces, floor-plan/compass-direction items, 3D solid identification from images, shape-tracing/dot-grid items) -- image-dependent, no way to faithfully restate in text.",
+    "Maths open-ended computation-with-working items ('列式計算') -- these require showing working, not a fixed multiple-choice/short-answer, excluded per the standing no-fixed-answer rule.",
+    "English Part 1 Q5 and Part 3 Q1/Q2/Q5 -- these are image-option MC items (choose the correct picture) rather than text-option MC; skipped rather than force-converted to text, since the visual discrimination itself is part of what's being tested and a text restatement would trivialize it.",
+    "English Part 4 (picture composition writing task, ~30 words) -- open-ended, no fixed answer.",
+    "All Chinese-language items on the bilingual instruction pages (administrative boilerplate only, not test content)."
+  ],
+  "dateChecked": "2026-08-09"
+}

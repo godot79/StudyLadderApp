@@ -1,0 +1,113 @@
+[
+  {
+    "item": {
+      "subject": "maths",
+      "topic": "money/coins",
+      "levelBand": "Age 9",
+      "prompt": "Mia gets 10 cents for every plastic bottle she recycles. Mia recycles 7 bottles. How much money will Mia get?",
+      "optionA": "17 cents",
+      "optionB": "70 cents",
+      "optionC": "$70",
+      "optionD": "7 cents",
+      "correctOption": "B",
+      "answerType": "numeric",
+      "checkExpression": "7*10",
+      "expectedValue": 70,
+      "explanation": "10 cents x 7 bottles = 70 cents."
+    },
+    "reasonCode": "ambiguous-options",
+    "detail": "a distractor option numerically equals the correct answer"
+  },
+  {
+    "item": {
+      "subject": "maths",
+      "topic": "equivalent number sentences",
+      "levelBand": "Age 9",
+      "prompt": "Nina wrote: ? - 3 = 6. In which of these does the ? have the same value as above?",
+      "optionA": "? + 3 = 6",
+      "optionB": "6 - 3 = ?",
+      "optionC": "3 + 6 = ?",
+      "optionD": "? = 6 - 3",
+      "correctOption": "C",
+      "answerType": "numeric",
+      "checkExpression": "3+6",
+      "expectedValue": 9,
+      "explanation": "From ? - 3 = 6, the value of ? is 9 (since 9 - 3 = 6). Only 3 + 6 = ? also gives 9; the others give 3."
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "correctOption (C = \"3 + 6 = ?\") does not match computed value 9"
+  },
+  {
+    "item": {
+      "subject": "maths",
+      "topic": "fractions",
+      "levelBand": "Age 9",
+      "prompt": "Three friends, Ken, Amy and Dev, share a box of chocolates. Ken and Amy each get 1/5 of the chocolates in the box. What fraction of the box is left for Dev?",
+      "optionA": "1/5",
+      "optionB": "2/5",
+      "optionC": "4/5",
+      "optionD": "3/5",
+      "correctOption": "D",
+      "answerType": "fraction",
+      "checkFraction": {
+        "op": "-",
+        "left": {
+          "op": "-",
+          "left": {
+            "num": 5,
+            "den": 5
+          },
+          "right": {
+            "num": 1,
+            "den": 5
+          }
+        },
+        "right": {
+          "num": 1,
+          "den": 5
+        }
+      },
+      "explanation": "Ken and Amy together take 1/5 + 1/5 = 2/5, leaving 5/5 - 2/5 = 3/5 for Dev."
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "checkFraction failed to evaluate: Cannot read properties of undefined (reading 'map')"
+  },
+  {
+    "item": {
+      "subject": "maths",
+      "topic": "inverse operations",
+      "levelBand": "Age 10",
+      "prompt": "Complete: ? - 24 = 59. Which of these could be used to find the missing number?",
+      "optionA": "59 - 24",
+      "optionB": "24 - 59",
+      "optionC": "24 x 59",
+      "optionD": "59 + 24",
+      "correctOption": "D",
+      "answerType": "numeric",
+      "checkExpression": "59+24",
+      "expectedValue": 83,
+      "explanation": "To undo subtracting 24, add 24 back to 59, giving ? = 59 + 24 = 83."
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "correctOption (D = \"59 + 24\") does not match computed value 83"
+  },
+  {
+    "item": {
+      "subject": "maths",
+      "topic": "perimeter (table lookup)",
+      "levelBand": "Age 10",
+      "prompt": "This table shows the length and width of four rectangles in centimetres: Rectangle E: length 12, width 4. Rectangle F: length 9, width 5. Rectangle G: length 15, width 3. Rectangle H: length 18, width 10. Which rectangle has a perimeter of 32 centimetres?",
+      "optionA": "Rectangle F",
+      "optionB": "Rectangle G",
+      "optionC": "Rectangle H",
+      "optionD": "Rectangle E",
+      "correctOption": "D",
+      "answerType": "numeric",
+      "checkExpression": "2*(12+4)",
+      "expectedValue": 32,
+      "explanation": "Rectangle E's perimeter is 2 x (12 + 4) = 32 cm. (F=28, G=36, H=56.)"
+    },
+    "reasonCode": "math-incorrect",
+    "detail": "correctOption (D = \"Rectangle E\") does not match computed value 32"
+  }
+]

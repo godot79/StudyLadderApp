@@ -69,6 +69,42 @@ Legend for **Accessibility**:
 
 **Caveat:** Geography isn't tested separately in HK — folded into General Studies. TSA/BCA remains the only genuinely free, official, no-login source, and it structurally skips P4-5 — no aggregator fills that specific gap.
 
+**Pipeline findings (2026-08-09, `research/pipeline/hk-tsa-bca-p3/`):** Confirmed live and genuinely free at `bca.hkeaa.edu.hk/web/TSA/en/PriPaperSchema.html` (archive index, years 2016-2026 visible per subject/grade — distinct from the login-gated `bca.hkeaa.edu.hk/bca/` portal). Two things not obvious from the archive page alone:
+1. **The server rate-limits every connection to ~4 KB/s regardless of file size** (a 111KB marking scheme and a 2.4MB question paper transferred at the identical speed on a single connection) — this looks like a dead/broken source under a normal serial `curl`/`WebFetch` (times out on anything past ~200KB) but isn't. The server advertises `Accept-Ranges: bytes`; fetching 8-12 concurrent byte-range chunks and reassembling with `cat` bypasses the cap entirely (pulled a 2.4MB PDF in under a minute this way). Use this for any future HKEAA round — don't waste time on serial retries.
+2. **The Maths paper is Chinese-medium only** for the P3 admin checked (2023) — HKEAA does not publish a separate English-medium Maths paper, since Chinese is the instruction medium for maths in most HK primary schools. The arithmetic word-problem content translates cleanly (numbers/simple templates, no language-specific meaning lost), so it's usable via translation, but don't assume an English-medium Maths PDF exists to fetch directly — check the index for a `P3Eng`-style subfolder before assuming.
+3. Content is copyright Education Bureau, HKSAR — no open license confirmed (unlike UK gov.uk's OGL). The English Reading & Writing paper's passages are exactly the kind of third-party-flavoured copyrighted content that needs an original rewrite, not reuse — same caution as the French teacher-blog and Singapore aggregator sources below.
+4. Only one admin/form (2023, P3) has been mined so far — the archive runs 2016-2026 with multiple parallel forms per year (3MC1-3MC4 etc.) plus untouched P6 papers. Real remaining volume here is large; 30 items pulled in the first round is not close to the ceiling.
+
+---
+
+## Japan
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| **MEXT National Assessment of Academic Ability archive** | mext.go.jp/a_menu/shotou/gakuryoku-chousa/sonota/1347088.htm | Maths ("算数"), Japanese | Elementary Grade 6 (~11), Junior High Grade 3 (~14) | 🟢 verified live 2026-08-09 | Official question/answer/explanatory materials, 2007-2026 visible on index | Official government archive, real recurring structure (year-by-year links to question booklets, answer examples, explanatory commentary). Content is Japanese-language — translation required, same caveat as any non-English source. Elementary Grade 6 is the only band in our 8-11 target range (Junior High skews older). |
+
+**Caveat:** Not yet piloted through the ingestion pipeline — live and structurally sound (verified via direct HTTP check, 200 response, recurring year index), but nobody has confirmed the actual per-item translation/extraction workflow the way UK/US sources have. Treat as P2, not P1, until a pilot batch is run.
+
+---
+
+## Taiwan
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| **NTCU County Student Ability Assessment (SAA) exam release archive** | saaassessment.ntcu.edu.tw/ExamRelease | Maths, Chinese (English section may exist depending on year) | Primary 3-6 + lower secondary | 🟢 verified live 2026-08-09 | Year selector (民國 107-115, i.e. ~2018-2026) x grade x subject download grid | Strongest-looking Taiwan candidate — a real year/grade/subject download matrix, not a one-off PDF. Some downloads are zip files; automated fetch may need to handle that. Not yet piloted. |
+| Miaoli County Student Competency Testing archive | mbct.mlc.edu.tw/test/ | Maths, Chinese | Primary 3-6 (varies by year) | 🟢 verified live 2026-08-09 | Historical questions/answers referenced, exact year range not confirmed from the landing page alone | County-level (not national) public archive. Weaker navigation than NTCU; treat as a secondary/backup source. |
+| NAER DSA historical test questions and reports | tasal.naer.edu.tw/dsa/rap | Maths, other (unclear from landing page) | Includes elementary coverage per linked ecosystem | 🟢 verified live 2026-08-09 | Historical archive language confirmed on page, but structure is a reference/portal rather than a clean index table | Best used as a supplementary source once NTCU is piloted, not a first target — page structure needs more digging to find the actual downloadable question files. |
+
+**Caveat:** All three confirmed live via direct HTTP check (200 response) on 2026-08-09, but none piloted through the ingestion pipeline yet. Content is Chinese-language — same translation approach as the HK TSA Maths paper (translate word-problem content directly, don't machine-translate blindly) should work for numerate content; unclear yet whether Chinese-language items exist that would need the same "skip Chinese literacy items, translate math items" split the HK batch used.
+
+---
+
+## Bahrain
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
+|---|---|---|---|---|---|---|
+| Bahrain Ministry of Education educational resources | moe.gov.bh | Unknown | Unknown | 🔴 blocked | Unverified | Site claims electronic textbooks, model lessons, and "previous exam questions" exist, but the root URL returned **HTTP 403** on direct check (2026-08-09) — blocked, not just unverified. Do not prioritize until someone confirms access via an ordinary logged-in browser session; automated access is currently refused outright. |
+
 ---
 
 ## United Kingdom
@@ -183,13 +219,32 @@ Legend for **Accessibility**:
 
 **Caveat:** AMC's *deep* multi-decade archive is still paid, but a genuine free tier exists (monthly problems + at least one confirmed free full year) that the first pass missed by only checking the paid shop page. NAP's own demo site was also missed entirely originally.
 
+**Pipeline finding (2026-08-09):** The NAP Public Demonstration Site (`pages.assessform.edu.au`) is a **separate domain** from `nap.edu.au`, sits behind bot-detection/WAF middleware, and returned "request blocked" on every automated access attempt (both WebFetch and browser automation) — this is not a licensing issue, it's active bot blocking, and per operating rules should not be circumvented (spoofed headers/fingerprints etc.). Separately, even when accessible, NAP's own demo-test page states answers are not provided for its demo tests, so it has no answer key regardless. **Working alternative on the same official domain:** ACARA's own past-NAPLAN-papers archive at `acara.edu.au/assessment/naplan/naplan-2012-2016-test-papers` — genuinely free PDFs (2016 Year 3 & Year 5 Numeracy + Language Conventions confirmed, complete with official answer keys), no WAF issue on this domain. A batch of 50 items (23 maths, 27 english) was pulled from this alternative in `research/pipeline/nap-demo-years3-5/` — Reading and Writing sections were skipped (no passage-support use in that round / Writing is constructed-response), so more years and the Reading section remain unmined.
+
+---
+
+## Worksheet / Quiz Repositories (non-official, supplementary)
+
+*Distinct category from everything above: these are commercial or platform repository sites, not official exam boards. "Archive signal" here means "stable repeatable repository structure" (a category hub, year/topic index, or direct downloadable pack), not "official old-exam archive." Checked 2026-08-09 via direct HTTP request (not just claimed).*
+
+| Source | URL | Subjects | Age/Grade | Accessibility | Notes |
+|---|---|---|---|---|---|
+| Twinkl (Grade 4 Math hub) | twinkl.com/resources/3rd-5th-usa/fourth-grade-usa/math-fourth-grade-usa | Maths | Grade 4 (~9-10) | 🟡 live, membership-gated | Confirmed 200 response, large category structure (worksheets, printable packs, assessments). Most actual downloads require a paid membership — matches its known commercial model. Useful only for topic/format inspiration, not bulk free content. |
+| Education.com (Grade 4 Math hub) | education.com/resources/grade-4/worksheets/math/ | Maths | Grade 4 | 🟡 live, mixed free/premium | Confirmed 200 response; page itself surfaces "premium" markers throughout. 900+ listed worksheets but an unconfirmed fraction are actually free without login. |
+| Super Teacher Worksheets (Grade 4 Math hub + PDF category + Math Buzz series) | superteacherworksheets.com/fourth-grade-math-worksheets-4th.html, .../free-printable-worksheets/4th-grade/math/, .../math-buzz-d.html | Maths | Grade 4 | 🟢 live, some content marked FREE | **Engineering note:** this host blocks default `curl`/HTTP2 TLS fingerprints (TLS handshake reset) — resolves fine when forced to HTTP/1.1 (`curl --http1.1`). Don't mistake this for a dead source. Page content itself shows "Free" and "Log In" markers side by side, i.e. genuinely mixed tier like the source catalog's other US worksheet sites. |
+| K5Learning (direct worksheet PDFs) | k5learning.com/worksheets/math/... | Maths | Grade 4 | 🟢 confirmed genuinely free | Direct PDF fetch returns `200`, `content-type: application/pdf`, no auth wall. Matches the existing K5Learning entry in the USA section above (🟢, light ads) — this is the same site, just a specific worksheet URL pattern confirmed working for direct PDF ingestion. |
+| LiveWorksheets | liveworksheets.com/worksheet/en/math/471652 | Maths | ~Age 9-11 | 🔴 blocked | Returns HTTP 403 to automated requests (confirmed both default and HTTP/1.1-forced). Also UGC/interactive-first rather than a stable archive of fixed-answer items — low value even if access were fixed. |
+| Quizizz (generated doc artifact) | quizizz.com/_media/_quizizzAIGenDocs/... | Unknown | Unknown | ⚪ exclude | URL resolves (200) but is an isolated generated-document asset, not a category/library root — no repeatable archive structure found. Do not treat as a source unless a proper index page is found. |
+
+**Caveat — read before using any of these:** none of these are official exam boards; they're commercial worksheet platforms with inconsistent free/paid boundaries that can change without notice (same class of risk as the Singapore/HK aggregators above, but for worksheets instead of past papers). Treat "free" markers on any of these as needing a fresh check at ingestion time, not something to trust from this catalog entry.
+
 ---
 
 ## International Olympiad Bodies (not country-specific)
 
 | Source | URL | Subjects | Age/Grade | Accessibility | Approx. Volume | Notes |
 |---|---|---|---|---|---|---|
-| Math Kangaroo (international) | mathkangaroo.org | Maths | Grades 1-12 (3-6 = 8-11) | 🟢 | Hundreds of past papers, 6M+ annual participants | Largest global maths competition, free samples |
+| Math Kangaroo (international) | mathkangaroo.org | Maths | Grades 1-12 (3-6 = 8-11) | 🟡 corrected 2026-08-09 | Much smaller than assumed — see note | Largest global maths competition by participation, but its full past-paper archive is NOT actually free — see pipeline finding below |
 | International Junior Math Olympiad (IJMO) | steamahead.simcc.org/ijmo | Maths | Grades 1-6 | 🟡 | ~30 Q/test | Registration required, limited free samples |
 | SOF International English/GK/Science Olympiads (IEO/IGKO/ISO) | sofworld.org | English, GK, History, Geography, Science | Classes 1-12 (early = 6-9) | 🔴 | Limited publicly | School registration required |
 | English Olympiad (Global) | englisholympiad.net | English | Ages 6-11 | 🟢 | Large (175k+ participants reported) | Free registration |
@@ -211,7 +266,10 @@ Legend for **Accessibility**:
 - Australia — NAP's own public demo site (missed originally) + AMT free-problem tier + Kuraplan/Cluey worksheets
 - Hong Kong TSA/BCA (official, but P3/P6 only)
 - India — CBSEClassWorksheets, Studies Today (worksheets); SOF/Silverzone/Indian Talent Olympiad *sample* papers (confirmed free, separate from paid competition)
-- Math Kangaroo (international) — largest free competition archive
+- Math Kangaroo (international) — free sample-questions section is real but small (3 Q/grade-band/year); the "hundreds of past papers" full archive is login/price-gated, corrected 2026-08-09 (see Math Kangaroo pipeline finding)
+- Japan MEXT National Assessment archive — official, live, Japanese-language, not yet piloted
+- Taiwan NTCU SAA exam release archive (+ Miaoli County, NAER DSA as secondary) — official/public-sector, live, Chinese-language, not yet piloted
+- Super Teacher Worksheets, K5Learning — genuine free tiers among the worksheet-repository (non-official) sources, confirmed 2026-08-09
 
 **Real, narrower gaps that survived the deeper pass:**
 - Norway's official national-test archive (Udir) starts at grade 5 — no grade 3 coverage, though independent worksheet sites (Ukemal, Kittysoppgaver) fill some of that
@@ -223,6 +281,9 @@ Legend for **Accessibility**:
 - Australia AMC's full multi-decade archive (a genuine free tier exists alongside it, see Australia section)
 - India: myCBSEguide/Toppr/Byju's (marketed as free, actually subscription-gated)
 - Germany: meinUnterricht/Sofatutor/LearnAttack (trial-then-paywall)
+- Bahrain MOE root domain returned HTTP 403 on direct check (2026-08-09) — blocked, not just unverified as originally noted
+- Twinkl, Education.com — live but membership/premium-gated for most actual content (confirmed 2026-08-09)
+- LiveWorksheets — returns HTTP 403 to automated access (confirmed 2026-08-09)
 
 **Coverage gap that's real across every system:** Space/astronomy and general geography as standalone subjects are thin everywhere — every country folds them into "Science" or "Social Studies" rather than testing them separately. No system researched offers dedicated space-content practice material. This gap did not close on the deeper pass and won't close with more searching — it's structural to how these countries organize curricula, not a research gap.
 

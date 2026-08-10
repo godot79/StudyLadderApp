@@ -1,0 +1,109 @@
+{
+  "note": "Recall-first extraction per Step 1. Every question found in the GRADES 3-4 and GRADES 5-6 sections of the 5 PDFs read (2025, 2024, 2023, 2022, 2020) is logged here, whether usable or not. 'status: usable' items were carried forward into 02-transformed.json (subject: maths, since Math Kangaroo is competition/olympiad-tier per the source catalog's mapping rule, classified into the High Achiever bands). 'status: skipped' items list the specific reason.",
+  "items": [
+    {
+      "year": 2025, "gradeBand": "3-4", "points": 3, "status": "usable",
+      "originalPrompt": "Arya writes the four digits 2, 0, 2, 5 in the four boxes: []+[]-[]+[]. Which order would give her the largest result?",
+      "originalOptions": ["0,2,2,5", "0,5,2,2", "2,5,2,0", "5,0,2,2", "5,2,0,2"],
+      "originalAnswer": "5,2,0,2", "subject": "maths", "topic": "optimizing an arithmetic expression"
+    },
+    { "year": 2025, "gradeBand": "3-4", "points": 4, "status": "skipped",
+      "reason": "image-dependent: correct answer identified from a row of 5 battery-icon images (fill levels), not restatable from text alone." },
+    { "year": 2025, "gradeBand": "3-4", "points": 5, "status": "skipped",
+      "reason": "image-dependent: 3 of 4 photo groupings of ladybugs are shown as images (spot counts per photo), 4th is an outline only." },
+    { "year": 2025, "gradeBand": "5-6", "points": 3, "status": "skipped",
+      "reason": "image-dependent: order toppings were added to a pizza is read from a layered image, not stated in text." },
+    { "year": 2025, "gradeBand": "5-6", "points": 4, "status": "skipped",
+      "reason": "image-dependent: the puzzle depends on which specific digits are covered by ink blots shown only in images, not fully given in extracted text." },
+    { "year": 2025, "gradeBand": "5-6", "points": 5, "status": "skipped",
+      "reason": "image-dependent: relative block weights inferred from a balance-scale diagram." },
+    {
+      "year": 2024, "gradeBand": "3-4", "points": 3, "status": "usable",
+      "originalPrompt": "Justin wrote three consecutive 4-digit numbers in a row. His sister erased some digits: ___7, _898, 48__. What are the missing digits (left to right)?",
+      "originalOptions": ["389,3,99", "489,3,96", "489,4,98", "489,4,99", "488,4,99"],
+      "originalAnswer": "489,4,99", "subject": "maths", "topic": "place value / consecutive numbers"
+    },
+    { "year": 2024, "gradeBand": "3-4", "points": 4, "status": "skipped",
+      "reason": "image-dependent: which fruit each child likes is shown only as fruit-emoji icons per child, no text list of preferences." },
+    {
+      "year": 2024, "gradeBand": "3-4", "points": 5, "status": "usable",
+      "originalPrompt": "60 students line up. Vest colors follow yellow, green, yellow, green.... Backpack colors follow red, brown, orange, red, brown, orange.... How many students with a yellow vest also have an orange backpack?",
+      "originalOptions": ["3", "4", "6", "8", "10"],
+      "originalAnswer": "10", "subject": "maths", "topic": "repeating patterns / modular reasoning"
+    },
+    {
+      "year": 2024, "gradeBand": "5-6", "points": 3, "status": "usable",
+      "originalPrompt": "Peter has a 445 g package and eight weights (100,20,500,200,50,20,5,200 g). Smallest number of weights needed to balance the scale?",
+      "originalOptions": ["2", "3", "4", "5", "6"],
+      "originalAnswer": "3", "subject": "maths", "topic": "balance-scale weighing combinatorics"
+    },
+    { "year": 2024, "gradeBand": "5-6", "points": 4, "status": "skipped",
+      "reason": "image-dependent: honeycomb cell adjacency and which cells hold which numbers is only given in the diagram." },
+    { "year": 2024, "gradeBand": "5-6", "points": 5, "status": "skipped",
+      "reason": "image-dependent: the four touching rectangles' shared-side layout (which side lengths pair with which known areas) is only shown in the diagram." },
+    { "year": 2023, "gradeBand": "3-4", "points": 3, "status": "skipped",
+      "reason": "image-dependent: candle burn levels compared visually in a bar-chart-style image." },
+    { "year": 2023, "gradeBand": "3-4", "points": 4, "status": "skipped",
+      "reason": "image-dependent: which two markings remain visible on each of 5 faded rulers is shown only in ruler diagrams." },
+    { "year": 2023, "gradeBand": "3-4", "points": 5, "status": "skipped",
+      "reason": "image-dependent: the machine-order puzzle depends on a rotation/stamp diagram whose visual state can't be reliably restated in text." },
+    {
+      "year": 2023, "gradeBand": "5-6", "points": 3, "status": "skipped",
+      "reason": "image-dependent: the 5 candidate shapes (triangle/rectangle/trapezoid/hexagon/square) are shown only as images." },
+    { "year": 2023, "gradeBand": "5-6", "points": 4, "status": "skipped",
+      "reason": "not computable — pure truth-teller/liar logic puzzle with no arithmetic or fraction check path. Per this batch's instruction that every maths item needs a checkExpression/checkFraction (no 'fact' type), this item was excluded rather than force-fit into a numeric check it doesn't have. Answer per source key: Tina." },
+    { "year": 2023, "gradeBand": "5-6", "points": 5, "status": "skipped",
+      "reason": "image-dependent: the block-tower re-stacking order is only shown in a diagram." },
+    { "year": 2022, "gradeBand": "3-4", "points": 3, "status": "skipped",
+      "reason": "image-dependent: laser beam path through mirrors shown only in diagrams." },
+    {
+      "year": 2022, "gradeBand": "3-4", "points": 4, "status": "usable",
+      "originalPrompt": "Grid 9,1,5 / 3,7,6 / 4,7,4 — George wanted every row and column sum to be the same. He made one mistake. Which number must he correct?",
+      "originalOptions": ["1", "3", "one of the 4s", "5", "one of the 7s"],
+      "originalAnswer": "3", "subject": "maths", "topic": "logical reasoning / grid sums"
+    },
+    { "year": 2022, "gradeBand": "3-4", "points": 5, "status": "skipped",
+      "reason": "image-dependent: which shapes are colored/large/round is shown only via a pictorial key, not stated in text." },
+    { "year": 2022, "gradeBand": "5-6", "points": 3, "status": "skipped",
+      "reason": "image-dependent: Cistercian numeral glyphs are inherently a visual/graphical encoding, cannot be faithfully restated as text." },
+    {
+      "year": 2022, "gradeBand": "5-6", "points": 4, "status": "usable",
+      "originalPrompt": "A 1m x 2m x 4m tank has water 25 cm deep on its 2m x 4m base. Tipped so the 1m x 2m face is the base. New depth?",
+      "originalOptions": ["25 cm", "50 cm", "75 cm", "1 m", "1.25 m"],
+      "originalAnswer": "1 m", "subject": "maths", "topic": "volume / measurement conversion"
+    },
+    {
+      "year": 2022, "gradeBand": "5-6", "points": 5, "status": "usable",
+      "originalPrompt": "A stack of 8 glasses is 42 cm high, a stack of 2 glasses is 18 cm high. How high is a stack of 6 glasses?",
+      "originalOptions": ["22 cm", "24 cm", "28 cm", "34 cm", "40 cm"],
+      "originalAnswer": "34 cm", "subject": "maths", "topic": "linear patterns / arithmetic sequences"
+    },
+    { "year": 2020, "gradeBand": "3-4", "points": 3, "status": "skipped",
+      "reason": "image-dependent: the jump-on-a-numbered-grid puzzle requires the exact 4x4 spatial adjacency layout shown only in the picture; restating it as plain text risks misrepresenting adjacency." },
+    {
+      "year": 2020, "gradeBand": "3-4", "points": 4, "status": "usable",
+      "originalPrompt": "The sum of three numbers is 50. Karin subtracts a secret number from each, getting 24, 13, 7. Which is one of the original three numbers?",
+      "originalOptions": ["9", "11", "13", "17", "23"],
+      "originalAnswer": "9", "subject": "maths", "topic": "algebraic reasoning / linear equations"
+    },
+    { "year": 2020, "gradeBand": "3-4", "points": 5, "status": "skipped",
+      "reason": "image-dependent: which numbers 1-8 are covered by which shapes (triangles/squares/circle) is shown only in the picture." },
+    { "year": 2020, "gradeBand": "5-6", "points": 3, "status": "skipped",
+      "reason": "image-dependent: geometric tiling pattern-completion, inherently visual." },
+    { "year": 2020, "gradeBand": "5-6", "points": 4, "status": "skipped",
+      "reason": "image-dependent: circle-adjacency diagram (which circles are 'neighboring' vs 'diametrically opposite') is only shown in the picture." },
+    {
+      "year": 2020, "gradeBand": "5-6", "points": 5, "status": "usable",
+      "originalPrompt": "A pyramid of balls: 3x3 base, 2x2 middle layer, 1 ball on top. Any two touching balls are glued at their contact point. How many glued contact points are there?",
+      "originalOptions": ["20", "24", "28", "32", "36"],
+      "originalAnswer": "36", "subject": "maths", "topic": "spatial reasoning / combinatorial counting",
+      "note": "Verified the answer independently by decomposition: 12 (3x3 base internal contacts) + 4 (2x2 middle internal contacts) + 16 (4 middle balls x 4 base contacts each) + 4 (top ball x 4 middle contacts) = 36, matching the source's answer key."
+    }
+  ],
+  "counts": {
+    "totalQuestionsInTargetBands": 30,
+    "usable": 9,
+    "skippedImageDependent": 19,
+    "skippedNotComputable": 1
+  }
+}

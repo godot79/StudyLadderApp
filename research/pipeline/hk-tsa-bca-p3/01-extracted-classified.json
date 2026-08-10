@@ -1,0 +1,23 @@
+{
+  "mathsRawItems": [
+    { "id": "3MC1-Q4", "zh": "69 + 327 = ?", "answer": 396, "topic": "addition" },
+    { "id": "3MC1-Q6", "zh": "405 x 8 = ?", "answer": 3240, "topic": "multiplication" },
+    { "id": "3MC1-Q7", "zh": "801 / 5 = ? (choose remainder form)", "answer": "160 remainder 1", "topic": "division with remainder", "options": ["160...1", "160", "106...1", "16...1"] },
+    { "id": "3MC1-Q8", "zh": "734 - (37 + 84) = ?", "answer": 613, "topic": "order of operations" },
+    { "id": "3MC1-Q9", "zh": "A cinema had 508 viewers in the morning; the afternoon had 65 fewer. How many in the afternoon?", "answer": 443, "topic": "subtraction word problem", "options": ["443", "463", "543", "573"] },
+    { "id": "3MC1-Q10", "zh": "136 students split evenly into 8 groups; how many per group?", "answer": 17, "topic": "division word problem" },
+    { "id": "3MC2-Q7", "zh": "275 / 4 = ? (choose remainder form)", "answer": "68 remainder 3", "topic": "division with remainder", "options": ["61...1", "68", "68...3", "608...3"] },
+    { "id": "3MC2-Q8", "zh": "39 + 5 x 6 = ?", "answer": 69, "topic": "order of operations", "options": ["30", "44", "69", "264"] },
+    { "id": "3MC3-Q4", "zh": "528 + 147 + 164 = ?", "answer": 839, "topic": "multi-addend addition" },
+    { "id": "3MC3-Q6", "zh": "257 x 6 = ?", "answer": 1542, "topic": "multiplication" },
+    { "id": "3MC3-Q9", "zh": "Mum exercises 35 minutes a day; total over 8 days?", "answer": 280, "topic": "multiplication word problem" },
+    { "id": "3MC3-Q10", "zh": "A bracelet needs 9 beads; with 282 beads, how many bracelets can be made?", "answer": 31, "topic": "division word problem (max whole units)" },
+    { "id": "3MC3-Q12", "zh": "Shop had 604 balloons, gave away 532, then made 228 more; how many now?", "answer": 300, "topic": "multi-step addition/subtraction" },
+    { "id": "3MC4-Q5", "zh": "5 x 416 = ___ x 5 (commutative property, fill missing factor)", "answer": 416, "topic": "commutative property" },
+    { "id": "3MC4-Q6", "zh": "642 / 3 = ?", "answer": 214, "topic": "division" }
+  ],
+  "englishRawItems": {
+    "source": "TSA2023_3ERW1 Reading & Writing, Parts 1-3 (Part 4 is an open-ended writing task, excluded)",
+    "notePassagesAreOriginalRewrites": "The three passages below (Ocean Diner menu, letter to Grandpa, Ling and the Spiders story) are wholly original compositions written for this batch, inspired only by the observed question TYPES in the source (menu detail-lookup, letter comprehension, animal-story comprehension with vocabulary-in-context and pronoun-reference items) -- not reusing the source's menu items, letter content, character names, or story plot/animal (bees -> spiders), per the pipeline's established policy for copyrighted third-party passages (see uk-ks2-english-reading-2025 precedent)."
+  }
+}
