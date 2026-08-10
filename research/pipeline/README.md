@@ -306,6 +306,14 @@ correctness IS now checked, but only if you actually run Step 5 below —
   observed *question types*, never reusing or closely paraphrasing the
   source stories' plot/characters/scenes.
 
+## Starting the next round
+
+Use `research/pipeline/ROUND-AGENT-PROMPT-TEMPLATE.md` to brief each
+source's agent — it's the reusable skeleton, kept generic on purpose.
+`NEXT-ROUND-NOTES.md` is the opposite: specific and disposable, rewritten
+each round to capture what that round actually found. Read both before
+picking sources.
+
 ## Known gaps, carried forward from the pilots
 
 - **Before starting the next round, read `research/pipeline/NEXT-ROUND-NOTES.md`**
