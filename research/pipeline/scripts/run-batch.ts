@@ -9,7 +9,7 @@
 //
 // Requires <batch-dir>/02-transformed.json to already exist.
 // Produces: verified.json, rejects-step4.json, deduped.json, rejects-step5.json,
-//           audit-flags.json, staging.json, summary.md
+//           near-duplicate-warnings.json, audit-flags.json, staging.json, summary.md
 // Does NOT merge into data/seed/*.json — that is a separate, explicit step
 // (scripts/merge.ts) taken only after human sign-off (Step 7).
 

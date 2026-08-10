@@ -48,6 +48,7 @@ function main() {
   const rejectsStep5 = readJsonIfExists<any[]>(join(batchDir, "rejects-step5.json"), []);
   const extracted = readJsonIfExists<any>(join(batchDir, "01-extracted-classified.json"), null);
   const auditFlags = readJsonIfExists<any[]>(join(batchDir, "audit-flags.json"), []);
+  const nearDuplicateWarnings = readJsonIfExists<any[]>(join(batchDir, "near-duplicate-warnings.json"), []);
   const unverifiedFacts = readJsonIfExists<any[]>(join(batchDir, "unverified-facts.json"), []);
   const unverifiedFactPrompts = new Set(unverifiedFacts.map((f) => f.prompt));
 
@@ -116,6 +117,19 @@ ${allRejects.length === 0 ? "None." : [...rejectReasonCounts.entries()].map(([co
 ## Self-audit flags (Step 6.5 — mechanical, not a substitute for your review)
 
 ${auditFlags.length === 0 ? "None raised." : auditFlags.map((f: any) => `- **[${f.severity}] ${f.check}:** ${f.detail}`).join("\n")}
+
+## Near-duplicate warnings (Step 5.5 — mechanical, non-blocking)
+
+${
+  nearDuplicateWarnings.length === 0
+    ? "None raised."
+    : nearDuplicateWarnings
+        .map(
+          (w: any) =>
+            `- **[${Math.round(w.similarity * 100)}% overlap, same answer]** "${w.item.prompt}" (${w.item.levelBand}) closely resembles an existing item in \`${w.matchedAgainst}\`: "${w.matchedPrompt}". If this is the same fact just reworded across bands, it's not adding real difficulty — consider dropping it rather than staging it.`
+        )
+        .join("\n")
+}
 
 ## Fact verification status
 
