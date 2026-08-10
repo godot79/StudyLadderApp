@@ -2100,16 +2100,6 @@
     "levelBand": "Age 9"
   },
   {
-    "prompt": "Which river flows through London?",
-    "optionA": "Seine",
-    "optionB": "Thames",
-    "optionC": "Rhine",
-    "optionD": "Danube",
-    "correctOption": "B",
-    "explanation": "The Thames river flows through the centre of London, past landmarks like the Tower of London and Big Ben.",
-    "levelBand": "Age 9 High Achiever"
-  },
-  {
     "prompt": "Singapore is located on which continent?",
     "optionA": "Africa",
     "optionB": "Asia",

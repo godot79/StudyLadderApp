@@ -406,7 +406,7 @@
     "optionC": "A day",
     "optionD": "An orbit",
     "correctOption": "C",
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "explanation": "A day is the time it takes a planet to spin once on its own axis. Earth's day is about 24 hours; a day on Venus lasts about 243 Earth days."
   },
   {
@@ -748,16 +748,6 @@
     "correctOption": "D",
     "levelBand": "Age 10 High Achiever",
     "explanation": "Cassini spent 13 years orbiting Saturn and studying it and its moons in detail. It discovered liquid lakes on Titan and geysers on Enceladus before diving into Saturn in 2017."
-  },
-  {
-    "prompt": "What do we call the point in a planet's orbit when it is closest to the Sun?",
-    "optionA": "Aphelion",
-    "optionB": "Perihelion",
-    "optionC": "Equinox",
-    "optionD": "Solstice",
-    "correctOption": "B",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "Perihelion is the point in a planet's orbit when it is closest to the Sun. Earth reaches perihelion in early January, during the Northern Hemisphere's winter."
   },
   {
     "prompt": "How far away is the Moon from Earth approximately?",
@@ -1576,7 +1566,7 @@
     "optionC": "Earth's axis",
     "optionD": "Earth's tilt",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "explanation": "Earth's orbit is its path around the Sun, which it completes once every year. Earth's orbit is slightly elliptical (oval-shaped) rather than a perfect circle."
   },
   {
@@ -1977,7 +1967,7 @@
     "optionD": "Triangulum",
     "correctOption": "B",
     "explanation": "Our solar system is located in the Milky Way galaxy, which contains hundreds of billions of stars.",
-    "levelBand": "Age 9 High Achiever"
+    "levelBand": "Age 9"
   },
   {
     "prompt": "Which planet has the most prominent rings?",
@@ -1987,16 +1977,6 @@
     "optionD": "Neptune",
     "correctOption": "B",
     "explanation": "Saturn's rings, made mostly of ice and rock, are the largest and brightest of any planet's in our solar system.",
-    "levelBand": "Age 9 High Achiever"
-  },
-  {
-    "prompt": "Which planet is the second closest to the Sun?",
-    "optionA": "Earth",
-    "optionB": "Venus",
-    "optionC": "Mars",
-    "optionD": "Mercury",
-    "correctOption": "B",
-    "explanation": "Venus is the second planet from the Sun, after Mercury. Earth is the third.",
     "levelBand": "Age 9 High Achiever"
   },
   {
@@ -2028,16 +2008,6 @@
     "correctOption": "A",
     "explanation": "A supernova is a massive explosion marking the death of a large star, causing a huge, temporary increase in brightness.",
     "levelBand": "Age 10"
-  },
-  {
-    "prompt": "What is the name for the path a planet follows as it moves around the Sun?",
-    "optionA": "Axis",
-    "optionB": "Orbit",
-    "optionC": "Rotation",
-    "optionD": "Trajectory arc",
-    "correctOption": "B",
-    "explanation": "An orbit is the curved path an object, like a planet, follows as it travels around another object due to gravity.",
-    "levelBand": "Age 10 High Achiever"
   },
   {
     "prompt": "Which of these is NOT a dwarf planet?",
