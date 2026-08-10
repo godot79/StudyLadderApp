@@ -308,6 +308,12 @@ correctness IS now checked, but only if you actually run Step 5 below —
 
 ## Known gaps, carried forward from the pilots
 
+- **Before starting the next round, read `research/pipeline/NEXT-ROUND-NOTES.md`**
+  — it covers a new self-audit check (recall-vs-reasoning for High Achiever
+  fact items), where level-band content rules now live per-subject
+  (`docs/subject-taxonomy-and-question-bank.md`), and a confirmed content
+  gap (no history/politics content anywhere in the seed files) that needs a
+  subject-scope decision before it's sourced, not just picking a source.
 - No automated Step 3 similarity gate (source-closeness check) — a rewrite
   could in principle still be too close to the source's wording and nothing
   would catch it.

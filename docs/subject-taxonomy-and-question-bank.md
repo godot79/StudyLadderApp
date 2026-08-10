@@ -148,6 +148,16 @@ These level bands should become first-class content metadata over time.
 - standard age bands represent expected age-appropriate challenge
 - high achiever bands represent extension material for children comfortably above the standard level
 
+### What "High Achiever" means (clarified 2026-08-10)
+
+High Achiever is primarily a stretch **within** its own age, not a guaranteed preview of the next age up — but the two aren't mutually exclusive, and the maths content structure below already reads that way on purpose: Age 9 High Achiever's "larger-number arithmetic" and Age 10 plain's "stronger arithmetic fluency, larger numbers" naturally overlap, because skill progression is continuous, not a hard wall between bands. Don't treat High Achiever as capped at "just under the next age" or as required to reach it — judge each item on whether it's a genuine stretch for a child comfortably ahead of their own age, not against the neighboring band's description.
+
+For fact-based subjects (geography, space, science) specifically: a High Achiever item can earn that label through **either** of two independent routes, and both are legitimate:
+- **Rarer/deeper factual knowledge** — same recall operation as the plain band, just a less commonly known fact (e.g. plain "capital of France" vs High Achiever "capital of India" — harder because it's less frequently taught, not because it requires reasoning).
+- **Multi-step reasoning** — comparing, predicting, or tracing a chain across more than one fact (e.g. "which food-chain path correctly connects grass to a top predator").
+
+What does **not** qualify, regardless of how technical the vocabulary sounds: a term or fact that's core-curriculum for the very topic being tested, especially when the prompt itself hands the child everything except a one-word label (e.g. describing cellular respiration in full and then asking "what gas is released" is asking the child to name a term the question already explained — that's plain-band recall wearing a High Achiever costume, not extension content). `research/pipeline/scripts/self-audit.ts`'s `recall-not-reasoning` check flags this specific pattern for fact-type items; see that script's comment header for the batch that surfaced it.
+
 ### v1 implementation rule
 
 If the current schema does not yet support level bands cleanly, implement the smallest clear change needed when level-band-aware content expansion begins.
@@ -241,6 +251,102 @@ Focus on:
 - multi-step numerical problems
 - advanced upper-primary fluency
 - preparation for more advanced secondary-style thinking
+
+---
+
+## v1 english content structure
+
+Added 2026-08-10 once english had real seed content to observe a pattern in (271 items across all six bands via the ingestion pipeline) — previously this subject only had the placeholder note above. Mirrors the maths structure's format; English's difficulty axis is grammatical/structural complexity and vocabulary rarity rather than number size.
+
+### Age 9 english
+Focus on: basic punctuation (full stops, question marks, simple apostrophes for possession/contraction), common spelling patterns, simple/compound sentences, common synonyms/antonyms, basic parts of speech.
+
+### Age 9 High Achiever english
+Focus on: subordinate clauses, less common spelling rules (exceptions, silent letters), a wider synonym/antonym range, early figurative language (simple similes/metaphors).
+
+### Age 10 english
+Focus on: a wider range of punctuation (commas in lists, apostrophes in more contexts), compound and complex sentences, more varied vocabulary, comprehension of moderately complex short passages.
+
+### Age 10 High Achiever english
+Focus on: more advanced punctuation (colons, semicolons introduced), multi-clause sentence analysis, richer figurative language, inference-based comprehension questions (not just fact-lookup from a passage).
+
+### Age 11 english
+Focus on: dashes and more advanced punctuation conventions, formal vs informal register, prefixes/suffixes and word-root vocabulary work, comprehension requiring some inference.
+
+### Age 11 High Achiever english
+Focus on: nuanced vocabulary (e.g. Greek/Latin root meanings like "-ology"), dense multi-clause sentence structures, comprehension requiring synthesis across a passage rather than single-line lookup, preparation for more advanced secondary-style reading.
+
+---
+
+## v1 geography content structure
+
+Added 2026-08-10 (262 seed items already exist). Geography's difficulty axis is a mix of factual rarity (see "What High Achiever means" above) and the scale/abstractness of the concept being tested.
+
+### Age 9 geography
+Focus on: continents and oceans, well-known capital cities and countries, basic map/compass concepts, simple physical geography (mountains, rivers, deserts).
+
+### Age 9 High Achiever geography
+Focus on: less commonly known capitals/countries, basic climate zones, simple comparisons between places (e.g. hot vs cold regions).
+
+### Age 10 geography
+Focus on: world population/size facts, landmarks, biomes, basic human geography (where people live and why), simple cause-effect physical geography.
+
+### Age 10 High Achiever geography
+Focus on: multi-fact comparisons (e.g. comparing two regions' climates and explaining why they differ), less common landmarks/countries, introductory environmental concepts.
+
+### Age 11 geography
+Focus on: current world facts requiring some estimation/reasoning (e.g. population figures), environmental concepts (greenhouse effect, climate zones), basic economic geography.
+
+### Age 11 High Achiever geography
+Focus on: multi-step environmental/climate reasoning, less common geographic facts, comparisons requiring the child to weigh more than one factor (e.g. why one region generates more solar power than another — see the Colorado Springs/Seattle item this pipeline caught and fixed for what NOT to oversimplify here).
+
+---
+
+## v1 space content structure
+
+Added 2026-08-10 (210 seed items already exist).
+
+### Age 9 space
+Focus on: the planets and their order, what the Sun/Moon are, basic day/night and seasons.
+
+### Age 9 High Achiever space
+Focus on: less commonly known facts about planets/moons, simple comparisons between space objects (e.g. probe vs station).
+
+### Age 10 space
+Focus on: solar system scale, basic facts about stars, simple explanations of phenomena (sunburn from UV radiation, tides).
+
+### Age 10 High Achiever space
+Focus on: comparisons across space phenomena, less common terminology, simple multi-fact reasoning about orbital mechanics or stellar life cycles.
+
+### Age 11 space
+Focus on: more advanced concepts (radiation types, basic orbital mechanics), current space-exploration facts.
+
+### Age 11 High Achiever space
+Focus on: genuinely advanced/rare concepts (dark energy, dark matter) explained at a level a keen 11-year-old could grasp, or multi-step reasoning about orbital/astronomical patterns (e.g. why a comet is only visible during certain years) — not just naming an advanced-sounding term the question already defined.
+
+---
+
+## v1 science content structure
+
+Added 2026-08-10. Science is the thinnest and newest subject (148 -> 205 items as of this note) and is the subject where the recall-vs-reasoning distinction above was first caught as a real defect, so read that section before writing science content.
+
+### Age 9 science
+Focus on: basic life science (plant/animal parts and needs), simple physical science (states of matter, simple forces), basic classification (living vs non-living).
+
+### Age 9 High Achiever science
+Focus on: less commonly known basic facts, simple comparisons (e.g. plant vs animal cells).
+
+### Age 10 science
+Focus on: ecosystems and food chains, basic chemistry (mixtures, dissolving), simple earth science (rock layers, weather).
+
+### Age 10 High Achiever science
+Focus on: multi-step food-web/energy-flow reasoning, comparisons across conditions (e.g. what affects how much sugar dissolves), less common but still core-curriculum facts.
+
+### Age 11 science
+Focus on: body systems, phase changes and heat transfer, basic earth science (plate tectonics, earthquakes).
+
+### Age 11 High Achiever science
+Focus on: genuine multi-step reasoning (energy pyramids, comparative potential energy, plate-tectonics-to-other-phenomena pattern matching) or genuinely advanced/rare facts (electromagnetic spectrum differences) — explicitly NOT a vocabulary term the question prompt already explained (see the recall-vs-reasoning note above; this was a real, caught defect in this subject specifically).
 
 ---
 

@@ -17,6 +17,18 @@
 //    count) is compared against the assigned band; only flags gross
 //    mismatches (e.g. a single-digit fact assigned to the hardest band).
 // 3. Topic concentration: one topic dominating the batch limits variety.
+// 4. Recall-vs-reasoning mismatch (fact-type items only): a High Achiever
+//    band should mean a child has to reason (compare, predict, trace a
+//    chain, weigh conditions), not just recall a vocabulary term or a
+//    single fact. Added after the NY Grade 8 Science round (2026-08-10)
+//    shipped 5 items like "what is a gene called" / "what gas is released
+//    during cellular respiration" mislabeled Age 11 High Achiever — check 2's
+//    digit-counting heuristic scored them 0 (correctly flagged them as
+//    "too easy"), but nothing distinguished "too easy because it's genuinely
+//    simple reasoning" from "too easy because it's rote recall with no
+//    reasoning at all," which is the more useful distinction for fact-type
+//    content. That round was caught by hand; this check is here so the next
+//    one doesn't need a human to catch it.
 //
 // Usage: npx tsx research/pipeline/scripts/self-audit.ts <deduped.json> <output-dir>
 // Writes <output-dir>/audit-flags.json (empty array if nothing to flag).
@@ -32,6 +44,7 @@ type Item = {
   correctOption: string;
   checkExpression?: string;
   answerType?: string;
+  factClaim?: string;
 };
 
 type Flag = { severity: "info" | "warn"; check: string; detail: string };
@@ -59,6 +72,31 @@ function complexityScore(item: Item): number {
     (advancedTopic ? 4 : 0) +
     Math.max(0, operatorCount - 1)
   );
+}
+
+// Signals that the item requires tracing/comparing/predicting across more
+// than one fact, not just naming one. Deliberately broad — false negatives
+// (missing a genuinely reasoning-heavy item with unusual phrasing) are
+// cheaper than false positives here, since this only ever produces a "warn"
+// for a human to look at, never an auto-reject.
+const REASONING_SIGNALS =
+  /\b(why|predict|compare|which pattern|which best explains|most likely|in order to|both .* and|which combination|which of these (would|will)|if .* then|as .* increases|as .* decreases|relationship between|trace|sequence of|which two|what happens to (each|both)|how do(es)? .* compare)\b/i;
+
+// Signals that the prompt is a single-fact lookup: "what is X called",
+// "what is the name/term/word for/of", "what gas/word/process is made/
+// produced/known as", etc. — answerable from one memorized fact with no
+// comparison or multi-step inference. Kept as separate patterns (not one
+// giant alternation) so each stays readable and easy to extend.
+const RECALL_SIGNAL_PATTERNS = [
+  /\bwhat (is|are) .{0,25}\bcalled\b/i,
+  /\bwhat is (the|a) [\w\s]{0,20}\b(name|term|word)s?\b (of|for)\b/i,
+  /\bwhat do (you|we) call\b/i,
+  /\bwhat (gas|word|term|process|structure|organ|part|nutrient|substance) (is|are) (made|produced|released|called|known as)\b/i,
+  /\bwhich (word|term|gas|process|structure) (is|means)\b/i,
+];
+
+function isRecallShaped(prompt: string): boolean {
+  return RECALL_SIGNAL_PATTERNS.some((r) => r.test(prompt)) && !REASONING_SIGNALS.test(prompt);
 }
 
 function main() {
@@ -114,6 +152,19 @@ function main() {
         severity: "warn",
         check: "age-band-mismatch",
         detail: `Q${item.sourceQNum ?? "?"} ("${item.prompt}") assigned ${item.levelBand} but has a low difficulty-heuristic score (${score}) — check it isn't too easy for this band.`,
+      });
+    }
+  }
+
+  // Check 4: recall-vs-reasoning mismatch (fact-type items only).
+  for (const item of items) {
+    if (item.answerType !== "fact") continue;
+    if (!item.levelBand.includes("High Achiever")) continue;
+    if (isRecallShaped(item.prompt)) {
+      flags.push({
+        severity: "warn",
+        check: "recall-not-reasoning",
+        detail: `Q${item.sourceQNum ?? "?"} ("${item.prompt}") assigned ${item.levelBand} but reads as single-fact recall ("what is X called" / "what do we call") rather than multi-step reasoning — High Achiever should mean the child has to compare, predict, or trace a chain, not just name a term. Consider moving to a plain age band.`,
       });
     }
   }
