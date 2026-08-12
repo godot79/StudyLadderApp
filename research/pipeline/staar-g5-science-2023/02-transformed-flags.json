@@ -1,0 +1,14 @@
+{
+  "flagged_no_destination": [],
+  "possible_answer_disagreements": [
+    {
+      "source_item_id": "pr4",
+      "flagged_reason": "Lunar phase reference changed in rewrite",
+      "original_scenario": "Full moon to third quarter moon (3/4 of ~29.5 day cycle = ~22 days)",
+      "rewritten_scenario": "Waxing gibbous to new moon (1/4 of ~29.5 day cycle = ~7-8 days)",
+      "original_answer": "C (22 days)",
+      "rewritten_answer": "A (7-8 days)",
+      "explanation": "Both scenarios are scientifically correct — the original asks about 3/4 of the lunar cycle, the rewrite asks about 1/4 of the cycle. The rewrite was substantial enough to change the numerical answer but maintains the same underlying lunar-cycle reasoning difficulty for Age 10 High Achiever."
+    }
+  ]
+}

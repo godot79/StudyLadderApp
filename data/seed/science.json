@@ -2468,5 +2468,965 @@
     "optionD": "sound energy from the environment",
     "correctOption": "B",
     "explanation": "Solar panels work by converting light (photons from sunlight) directly into electrical energy. The system description says 'sunlight hits the panel' and 'converts the light energy into electrical energy,' making this clear. Wind, heat from air, and sound are not involved in how solar panels work. The energy transformation is light → electricity."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "In a grassland, energy flows through the ecosystem in a particular order. Which of these shows the correct direction of energy flow in a grassland food chain?",
+    "optionA": "Grasses → Grasshoppers → Foxes → Hawks",
+    "optionB": "Grasshoppers → Grasses → Foxes → Hawks",
+    "optionC": "Hawks → Foxes → Grasshoppers → Grasses",
+    "optionD": "Foxes → Hawks → Grasses → Grasshoppers",
+    "correctOption": "A",
+    "explanation": "Energy in a food chain flows from plants (producers) to herbivores to carnivores. Grasses are eaten by grasshoppers, which are eaten by foxes, which are eaten by hawks."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student boils water on a stove to cook pasta. Steam from the hot water rises and comes into contact with a cool window nearby. Droplets of water form on the window. Which process caused the water droplets to form?",
+    "optionA": "Evaporation, where water changes from liquid to gas",
+    "optionB": "Freezing, where water changes from liquid to solid",
+    "optionC": "Condensation, where water vapor changes from gas back to liquid",
+    "optionD": "Melting, where water changes from solid to liquid",
+    "correctOption": "C",
+    "explanation": "When water vapor (steam) comes into contact with a cool surface, it loses heat and changes back into liquid water droplets. This process is called condensation."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A camper stands beside a calm lake and sees the mountains reflected on the water's surface. Which process did the light from the mountains undergo as it hit the water?",
+    "optionA": "Refraction, where light bends as it passes through different materials",
+    "optionB": "Absorption, where light is taken in and does not bounce back",
+    "optionC": "Reflection, where light bounces off a surface",
+    "optionD": "Transmission, where light passes straight through",
+    "correctOption": "C",
+    "explanation": "Reflection occurs when light bounces off a smooth surface like calm water. This allows the mountains to be seen reflected in the lake."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "In a mature forest, tall oak trees form a thick canopy high above the ground. Underneath, many small bushes and ferns grow much more slowly than plants in open areas. Which factor is most likely limiting the growth of these smaller plants under the tall trees?",
+    "optionA": "Lack of sunlight reaching the forest floor",
+    "optionB": "Lack of water availability in the soil",
+    "optionC": "Lack of nutrients needed for plant growth",
+    "optionD": "Lack of oxygen in the forest air",
+    "correctOption": "A",
+    "explanation": "The tall trees block much of the sunlight from reaching the ground below, limiting how much light the smaller plants receive. Sunlight is essential for photosynthesis, so reduced light limits growth."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A weather forecaster explains that a cold front is moving toward the city. The current weather is warm and humid. Cold fronts move air masses with different temperatures and moisture levels. Based on how cold fronts work, what weather changes would you predict after the front passes through?",
+    "optionA": "The weather will become warmer and more humid",
+    "optionB": "The weather will become cooler but more rainy",
+    "optionC": "The weather will become warmer and clearer",
+    "optionD": "The weather will become cooler and clearer",
+    "correctOption": "D",
+    "explanation": "A cold front brings cool, dry air that replaces warm, moist air. As the cold air mass moves in, temperatures drop and moisture decreases, resulting in cooler, clearer weather conditions."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student creates a mixture by mixing salt water with sand. She wants to separate the salt, the sand, and the water into three separate materials. What is the correct sequence of steps to accomplish this?",
+    "optionA": "First pour the mixture through filter paper, then boil the liquid that passes through",
+    "optionB": "First boil the mixture, then use a magnet to remove magnetic particles",
+    "optionC": "First use a magnet to remove particles, then heat the remaining mixture",
+    "optionD": "First dissolve everything in more water, then let it settle",
+    "correctOption": "A",
+    "explanation": "First, filtering separates the sand from the salt water (sand stays in filter, salt water passes through). Then, boiling the salt water evaporates the water, leaving behind salt crystals."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student releases a toy car at the top of a ramp. It speeds up as it rolls downward. When the car reaches the bottom and rolls across the flat classroom floor, it gradually slows down and stops. What forces are responsible for these two different effects?",
+    "optionA": "Friction causes the car to speed up going down and to slow down on the floor",
+    "optionB": "Friction causes the car to speed up going down, and gravity causes it to slow down",
+    "optionC": "Gravity causes the car to speed up going down, and friction causes it to slow down on the floor",
+    "optionD": "Gravity causes both the speeding up and the slowing down",
+    "correctOption": "C",
+    "explanation": "On the ramp, gravity pulls the car downward, accelerating it. On the flat floor, friction between the wheels and the ground opposes motion, causing the car to slow down and stop."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A student tests water drainage through four different soil samples by pouring 100 mL of water on top of each and measuring how much water drains through in 20 minutes. Here are the results: Soil A: 78 mL drained / 22 mL remained; Soil B: 35 mL drained / 65 mL remained; Soil C: 88 mL drained / 12 mL remained; Soil D: 12 mL drained / 88 mL remained. Which soil most likely contains the smallest particles?",
+    "optionA": "Soil A",
+    "optionB": "Soil B",
+    "optionC": "Soil C",
+    "optionD": "Soil D",
+    "correctOption": "D",
+    "explanation": "Soil with the smallest particles has the smallest spaces (pores) between particles. Water drains slowly through small pores, so the soil that retains the most water (Soil D, with 88 mL remaining) has the smallest particles."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A falcon hunts by watching prey move on the ground far below, while a bat hunts by emitting high-pitched sounds and listening for echoes bouncing off insects. Which form of energy does each animal use for hunting?",
+    "optionA": "Falcon: thermal energy; Bat: electrical energy",
+    "optionB": "Falcon: electrical energy; Bat: thermal energy",
+    "optionC": "Falcon: sound energy; Bat: light energy",
+    "optionD": "Falcon: light energy; Bat: sound energy",
+    "correctOption": "D",
+    "explanation": "Falcons detect prey using their eyes, which respond to light energy. Bats emit and listen to sound waves, using sound energy to locate insects through echolocation."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "In a desert ecosystem, the following feeding relationships exist: Cacti are eaten by ground squirrels and grasshoppers. Ground squirrels are eaten by kit foxes and golden eagles. Grasshoppers are eaten by scorpions. Scorpions are eaten by kit foxes. Which organism receives energy from both a herbivore and a carnivore?",
+    "optionA": "Grasshoppers",
+    "optionB": "Scorpions",
+    "optionC": "Kit foxes",
+    "optionD": "Golden eagles",
+    "correctOption": "C",
+    "explanation": "Kit foxes eat ground squirrels (which are herbivores) and scorpions (which are carnivores). This means kit foxes receive energy from both herbivores and carnivores in the food web."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which valley shape is created when a glacier slowly moves through a landscape and carves out the rock over thousands of years?",
+    "optionA": "V-shaped valley",
+    "optionB": "A sand dune",
+    "optionC": "A delta",
+    "optionD": "U-shaped valley",
+    "correctOption": "D",
+    "explanation": "Glaciers are massive, wide moving sheets of ice. As they move slowly downhill, they carve out wide, flat-bottomed valleys that are U-shaped. Rivers, by contrast, carve V-shaped valleys."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In an ocean ecosystem: Tiny sea plants are eaten by tiny sea animals. Tiny sea animals are eaten by fish, crabs, and baleen whales. Fish are eaten by seabirds, leopard seals, and toothed whales. Baleen whales are eaten by toothed whales. Which sequence correctly shows a food chain from this ocean food web?",
+    "optionA": "Fish → Leopard seals → Seabirds → Baleen whales",
+    "optionB": "Seabirds → Crabs → Tiny sea animals → Tiny sea plants",
+    "optionC": "Toothed whales → Fish → Tiny sea animals → Tiny sea plants",
+    "optionD": "Tiny sea plants → Tiny sea animals → Baleen whales → Toothed whales",
+    "correctOption": "D",
+    "explanation": "A food chain shows a sequence of eating relationships that goes in the correct direction: plants (producers) → herbivores → herbivores → carnivores. Tiny sea plants are eaten by tiny sea animals, which are eaten by baleen whales, which are eaten by toothed whales — this is a valid food chain following energy flow."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student learns about how light behaves when it interacts with different materials and surfaces. Which pair of activities both require light to be refracted in order for the student to see the result? (Refraction is when light bends as it moves through different materials.)",
+    "optionA": "Looking at a mirror to see a reflection and looking at a photo on paper",
+    "optionB": "Looking at trees reflected in still water and seeing light split by a glass prism",
+    "optionC": "Seeing a reflection in a puddle and watching light on a mirror",
+    "optionD": "Seeing a rainbow after rain and looking at an insect through a magnifying glass",
+    "correctOption": "D",
+    "explanation": "A magnifying glass refracts light to magnify objects. A rainbow forms when sunlight refracts through raindrops, bending and splitting into colors. Mirrors and puddles produce reflections, not refraction."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Black walnut trees release chemicals from their roots into the soil around them. These chemicals prevent most nearby plants of other species from growing well. What is the most likely advantage to the black walnut tree of producing these chemicals?",
+    "optionA": "The tree can absorb more heat from the sun",
+    "optionB": "The tree increases the amount of oxygen released into the air",
+    "optionC": "The tree's walnuts become protected from animal pests",
+    "optionD": "The tree reduces competition for space and water nutrients with neighboring plants",
+    "correctOption": "D",
+    "explanation": "By releasing chemicals that inhibit neighboring plants' growth, the black walnut reduces the number of plants competing for the same water, nutrients, and space in the soil. This gives the walnut tree an advantage in its environment."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Students want to investigate how the type of surface affects the amount of force needed to drag a wooden block across it. They plan to use a spring scale to measure the force. What is the correct experimental procedure?",
+    "optionA": "Drag four different blocks across the same surface and perform three trials per block",
+    "optionB": "Drag the same block across the same surface with four different students performing the experiment",
+    "optionC": "Drag the same block across the same surface using four different spring scales",
+    "optionD": "Drag the same block across four different surfaces and perform three trials per surface",
+    "correctOption": "D",
+    "explanation": "In a good experiment, you change only one variable (the surface type) and keep everything else the same (same block, same spring scale, same procedure). This allows you to see how the surface affects the force needed."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A scientist receives three identical-looking blocks made of iron, copper, or lead. She cannot tell which is which just by looking at them. What is the most straightforward way to identify which block, if any, is made of iron?",
+    "optionA": "Place a magnet near each block to see which one is attracted",
+    "optionB": "Place each block in water to observe whether it floats or sinks",
+    "optionC": "Drop each block from the same height and observe which one breaks",
+    "optionD": "Heat each block and record which one gets hot the fastest",
+    "correctOption": "A",
+    "explanation": "Iron is a magnetic material and will be attracted to a magnet. Copper and lead are not magnetic. Using a magnet is the quickest and most reliable way to identify iron."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Sharks are top predators in ocean ecosystems that hunt and eat many fish species. If a large number of sharks suddenly disappeared from the ocean, which prediction best describes what would happen to the ocean ecosystem?",
+    "optionA": "The total variety of fish species would increase because fewer predators would eat them",
+    "optionB": "The populations of sharks' prey species would increase because they are no longer being hunted",
+    "optionC": "The amount of sea plants would decrease because fish would eat more of them",
+    "optionD": "All fish species would become stronger and more aggressive",
+    "correctOption": "B",
+    "explanation": "When a top predator is removed, its prey species typically increase in numbers because there is no longer a large predator hunting them. This is a basic principle of ecosystem dynamics."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Weathering and erosion are two different processes that work together to break down rocks and change landscapes. How should these processes be described?",
+    "optionA": "Weathering breaks rocks into smaller pieces, while erosion moves those pieces to other locations",
+    "optionB": "Erosion breaks rocks into smaller pieces, while weathering moves those pieces to other locations",
+    "optionC": "Weathering and erosion are two names for the same process of moving rock material",
+    "optionD": "Erosion happens only on mountains, while weathering happens only near oceans",
+    "correctOption": "A",
+    "explanation": "Weathering is the chemical and physical breakdown of rock in place. Erosion is the movement and transportation of weathered rock pieces to new locations by water, wind, or ice."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A toy car powered by solar cells is left in bright sunlight. The solar cells capture the sun's energy and convert it, eventually making the car's wheels spin and move. Which sequence correctly shows the energy transformations that occur?",
+    "optionA": "Light energy → Electrical energy → Mechanical energy",
+    "optionB": "Mechanical energy → Light energy → Electrical energy",
+    "optionC": "Electrical energy → Thermal energy → Sound energy",
+    "optionD": "Thermal energy → Chemical energy → Light energy",
+    "correctOption": "A",
+    "explanation": "Solar cells convert light energy from the sun into electrical energy. The electrical energy then powers the motor, which converts it into mechanical energy that makes the wheels turn."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Four unknown materials were tested for three different properties. Here are the results: Material W: magnetic=Yes, flexible=Yes, insulator=No. Material X: magnetic=No, flexible=No, insulator=No. Material Y: magnetic=No, flexible=No, insulator=Yes. Material Z: magnetic=No, flexible=Yes, insulator=Yes. Rubber has the properties of being non-magnetic, flexible, and an electrical insulator. Which material is most likely rubber?",
+    "optionA": "Material W",
+    "optionB": "Material X",
+    "optionC": "Material Y",
+    "optionD": "Material Z",
+    "correctOption": "D",
+    "explanation": "Rubber must match all three properties: non-magnetic (no), flexible (yes), and insulator (yes). Only Material Z has all three of these properties."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which statement describes a behavior that birds are born knowing how to do, rather than something they learn from experience?",
+    "optionA": "A raven tears open the foil cap on a milk bottle to drink",
+    "optionB": "A goose produces eggs with hard protective shells",
+    "optionC": "A trained parrot repeats words its human owner teaches it",
+    "optionD": "A hummingbird remembers and returns to the same feeding location daily",
+    "correctOption": "B",
+    "explanation": "Producing eggs with hard shells is an innate biological trait that geese are born with. The other options are learned behaviors that birds pick up through experience."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Chickens and dogs have different life cycle patterns. What is a main difference between their life cycles?",
+    "optionA": "Chickens lay fertilized eggs, but dogs do not",
+    "optionB": "Chickens hatch from eggs, while dogs are born alive as fully-formed babies",
+    "optionC": "Chickens have a larval stage, while dogs have a pupal stage",
+    "optionD": "Chickens produce milk for their babies, but dogs do not",
+    "correctOption": "B",
+    "explanation": "Chickens reproduce by laying eggs that hatch into chicks. Dogs reproduce by giving birth to live puppies. This is a fundamental difference in their reproductive strategies and life cycles."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Sedimentary rocks form through a series of steps. A student is given these five processes that happen in nature: Weathering, Erosion, Deposition, Compaction, and Cementation. In what order must these processes occur to form sedimentary rock?",
+    "optionA": "Erosion → Weathering → Deposition → Compaction → Cementation",
+    "optionB": "Weathering → Erosion → Deposition → Compaction → Cementation",
+    "optionC": "Compaction → Deposition → Weathering → Erosion → Cementation",
+    "optionD": "Deposition → Compaction → Weathering → Erosion → Cementation",
+    "correctOption": "B",
+    "explanation": "Rocks must be broken down (weathering) before they can be moved (erosion). After erosion, pieces collect in new locations (deposition). Then they are squeezed together (compaction) and stuck together by minerals (cementation) to form sedimentary rock."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student dissolves white sugar crystals in hot tea. Before mixing, the sugar is white and solid. After it dissolves, the sugar can no longer be seen as separate crystals. Which property of the sugar remains the same after it dissolves in the hot tea?",
+    "optionA": "Its color",
+    "optionB": "Its texture (smooth vs. grainy)",
+    "optionC": "Its mass (the amount of sugar)",
+    "optionD": "Its shape",
+    "correctOption": "C",
+    "explanation": "When sugar dissolves, it breaks down into tiny particles scattered throughout the tea. The amount of sugar (mass) does not change, even though its form becomes invisible. Color and texture appear to change, but the total mass stays the same."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A mosquito, a catfish, a duck, and a frog are four animals with very different body structures. Which habitat would be most suitable for all four of these animals?",
+    "optionA": "A region of the ocean that is permanently frozen in ice",
+    "optionB": "A coral reef ecosystem in a warm tropical ocean",
+    "optionC": "A shallow freshwater pond or marsh with plants along the edges",
+    "optionD": "A fast-moving underground stream",
+    "correctOption": "C",
+    "explanation": "Mosquito larvae and catfish live in water. Ducks and frogs live partly in water and partly on land. A shallow freshwater pond with surrounding plants provides the aquatic and land environments all four need."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which of these is an inherited trait that an animal is born with and does not learn from experience?",
+    "optionA": "A horse learning to pull a cart with training",
+    "optionB": "A chicken instinctively producing a clucking sound as part of its natural behavior",
+    "optionC": "A dog being trained to walk on a leash",
+    "optionD": "A child learning to read by practicing in school",
+    "correctOption": "B",
+    "explanation": "Clucking is an innate vocalization that chickens produce naturally without learning. The other examples are all learned behaviors acquired through training or education."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student needs to separate different mixtures into their individual parts. For a mixture of sand and water, which separation method would work best?",
+    "optionA": "Using a magnet to pull out the magnetic material",
+    "optionB": "Pouring the mixture through filter paper to separate by particle size",
+    "optionC": "Sorting the materials by hand into piles",
+    "optionD": "Heating the mixture until one component evaporates",
+    "correctOption": "B",
+    "explanation": "Sand is not magnetic, so a magnet won't work. Hand sorting would be very slow for tiny sand particles mixed with water. Filtering works because sand particles are trapped by the filter paper while water passes through."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Seaweeds look like plants but have very different structures. Seaweeds have simple root-like structures for holding on to rocks, but absorb water and nutrients directly through all their body parts instead of through soil. Land plants, in contrast, have complex roots and internal plumbing to move water and nutrients from the soil to their leaves. Why do seaweeds have these different features than land plants?",
+    "optionA": "Seaweeds live in an environment (water) that is so different from land that different structures are necessary for survival",
+    "optionB": "Seaweeds have these traits because they must reproduce much faster than land plants",
+    "optionC": "Seaweeds evolved their structures to compete better with other ocean animals",
+    "optionD": "Seaweeds don't actually need these parts, they use them just as camouflage",
+    "correctOption": "A",
+    "explanation": "Living in water is fundamentally different from living on land. In water, a seaweed can absorb water and nutrients directly from its surroundings, so it doesn't need the complex root and transport systems that land plants need to pull water from dry soil."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student observes a farm where a cow eats grass from the ground and a horse drinks water from a trough. Which statement describes an interaction between a LIVING thing and another LIVING thing?",
+    "optionA": "The cow eats the grass (both are living things with the ability to grow and reproduce)",
+    "optionB": "The horse drinks water from a trough (water is not living)",
+    "optionC": "The horse breathes oxygen from the air (oxygen is not living)",
+    "optionD": "Both animals are affected by gravity (gravity is a non-living force)",
+    "correctOption": "A",
+    "explanation": "A living-to-living interaction involves two organisms that both grow and reproduce. When the cow eats grass, both the cow and the grass are living things. Interactions with water, oxygen, or gravity involve living things and non-living things."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Two tuning forks are struck. Fork P vibrates with a very large motion up and down (tall peaks and valleys) and completes 2 full cycles in one second. Fork Q vibrates with very small motion (barely visible peaks and valleys) but completes 5 full cycles in one second. Which statement best compares the energy of fork P with fork Q?",
+    "optionA": "Fork Q has more energy because it vibrates faster (more cycles per second).",
+    "optionB": "Fork P has more energy because it vibrates with a larger motion up and down.",
+    "optionC": "Both forks have the same energy because they are made of the same material.",
+    "optionD": "Both forks have the same energy because one vibrates fast while the other vibrates with large motion.",
+    "correctOption": "B",
+    "explanation": "The amount of energy in a wave or vibration depends mainly on how big the motion is (the amplitude), not on how many times it vibrates per second. Fork P's bigger vibrations mean it's pushing the air harder, so it carries more energy. You can feel this difference if you listen closely—a tuning fork with a big vibration sounds louder and carries more power than one barely moving."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Two regions were compared for natural gas deposits. Region A was dry land with mountains and forests 150 million years ago. Region B was covered by a shallow seabed with many sea creatures 150 million ago. Today, region B has large natural gas deposits, while region A has almost none. Which explanation best describes why region B has more natural gas?",
+    "optionA": "Shallow ocean environments create natural gas from the remains of sea plants and animals that died and were buried over millions of years.",
+    "optionB": "Mountains in region A prevented the natural gas from forming by blocking wind and weather.",
+    "optionC": "Region A lost its natural gas through underground rivers that washed it away over time.",
+    "optionD": "Region B has more volcanic rocks, which naturally produce natural gas when heated.",
+    "correctOption": "A",
+    "explanation": "Natural gas, like oil, comes from dead sea creatures and plants that sank to the ocean floor thousands of years ago. When they got buried deep underground and heated up over millions of years, they turned into the gas we pump out. Region B had a shallow ocean full of life, so lots of dead creatures to make gas. Region A was dry land, so there was no ocean life to create gas deposits there."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Engineers designed four different ramps to help children safely reach a playground stage that is 2 meters high. Design 1: very steep angle, plastic material, 1 step, weighs 3 kg. Design 2: gentle slope, wooden material, 3 steps, weighs 8 kg. Design 3: gentle slope, wood + rubber mix, 5 steps, weighs 5 kg. Design 4: very steep angle, metal material, 2 steps, weighs 12 kg. The engineers chose design 3 as best. What factor was most important in making this choice?",
+    "optionA": "Making the ramp as lightweight as possible to transport easily.",
+    "optionB": "Using the most durable materials that last the longest.",
+    "optionC": "Making sure the ramp doesn't take up too much floor space.",
+    "optionD": "Providing a gentle slope and many steps so children don't have to climb too steeply at once.",
+    "correctOption": "D",
+    "explanation": "Design 3 isn't the lightest (Design 1 is), and it's not the heaviest or most sturdy (Design 4 is stronger). But what makes it the best choice for children is that it has the most steps spread over the same height. This means each step is very easy to climb—not too steep or tiring. When you're helping children or making something safe for them, the most important thing is often how comfortable and easy it is to use, not just how strong or light it is."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A weather map shows a mass of very cold, dry air moving from the north toward a valley that contains warm, moist air. The cold air mass is sliding under the warm air, pushing it upward. What weather changes would observers in the valley most likely notice?",
+    "optionA": "The temperature rises quickly, and the sky becomes clear and blue.",
+    "optionB": "The temperature drops, and the sky becomes clear and sunny.",
+    "optionC": "The temperature drops, and dark clouds form overhead with possible rain.",
+    "optionD": "The temperature stays about the same, but the air becomes very humid.",
+    "correctOption": "C",
+    "explanation": "When cold air pushes warm, moist air upward, something important happens: the rising warm air cools down, and when air cools, the water vapor in it turns into tiny water droplets—clouds! Those clouds can bring rain. Meanwhile, the valley is now filled with the cold air that pushed underneath, so the temperature drops. This is how weather changes happen—the movement of different air masses colliding creates our wind, clouds, and precipitation."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A food web from a wetland ecosystem shows: Plants (cattails, reeds, water lilies) are eaten by Dragonfly nymphs, Tadpoles, and Freshwater snails. The Tadpoles are eaten by both the Great blue heron and the Painted turtle (both hunt tadpoles). The Dragonfly nymphs are only eaten by the Great blue heron. The Freshwater snails are only eaten by the Painted turtle. Which statement best describes the relationship between the Great blue heron and the Painted turtle?",
+    "optionA": "These two animals are competitors because they both hunt tadpoles.",
+    "optionB": "These two animals are partners in a mutually helpful relationship.",
+    "optionC": "The great blue heron is a parasite that harms the painted turtle.",
+    "optionD": "The great blue heron is the predator and the painted turtle is the prey.",
+    "correctOption": "A",
+    "explanation": "Both the blue heron and the painted turtle hunt and eat the same food—tadpoles! They don't eat each other, and they don't help each other. They're both trying to catch the same meal. When two animals hunt the same food in the same place, they're competing (trying to get the best food before the other one does). This is called a competitive relationship."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In the wetland food web: Cattails, reeds, and water lilies are eaten by Dragonfly nymphs, Tadpoles, and Freshwater snails. Tadpoles are eaten by Great blue herons and Painted turtles. What type of relationship exists between the Painted turtle and the Tadpoles?",
+    "optionA": "Parasitic—the turtle harms the tadpole without helping it.",
+    "optionB": "Mutualistic—both the turtle and tadpole benefit.",
+    "optionC": "Predatory—the turtle hunts and eats the tadpole.",
+    "optionD": "Symbiotic—they live together without affecting each other.",
+    "correctOption": "C",
+    "explanation": "The painted turtle catches and eats tadpoles for food. That's hunting. One animal (the hunter) eats another animal (the hunted)—this is called a predatory relationship, or predator and prey. The turtle is the predator, and the tadpole is the prey. This is a basic part of nature where animals hunt other animals to survive."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "In an ocean food web: Algae (producers) are eaten by Small fish. Small fish are eaten by Dolphins, Sea lions, and Great white sharks. The Great white shark is also eaten by the Killer whale. Which row correctly identifies the feeding role of each organism in this food web?",
+    "optionA": "Algae = consumer, Small fish = producer, Dolphins = primary consumer, Great white shark = primary consumer.",
+    "optionB": "Algae = producer, Small fish = primary consumer, Dolphins = secondary consumer, Great white shark = secondary consumer.",
+    "optionC": "Algae = producer, Small fish = secondary consumer, Dolphins = primary consumer, Great white shark = tertiary consumer.",
+    "optionD": "Algae = producer, Small fish = primary consumer, Dolphins = primary consumer, Great white shark = tertiary consumer.",
+    "correctOption": "B",
+    "explanation": "Every food web follows a pattern: Plants (producers) make their own food from sunlight. Animals that eat plants are primary consumers. Animals that eat the primary consumers are secondary consumers, and so on. In this ocean: Algae is the producer (makes food from sun). Small fish eat the algae, so they're primary consumers (eat producers). Dolphins and the shark both eat small fish, so they're secondary consumers (eat primary consumers). Following the food chain helps us understand how energy flows through nature."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A population graph shows the number of snow hares in the northern forest over 40 years (from 2000 to 2040). The population line goes up and down in a repeating pattern. Population peaks occur in approximately 2002, 2012, 2022, and 2032. Low points occur between these peaks. Based on this pattern, how often does the snow hare population reach a peak?",
+    "optionA": "Every 2 years.",
+    "optionB": "Every 10 years.",
+    "optionC": "Every 15 years.",
+    "optionD": "Every 20 years.",
+    "correctOption": "B",
+    "explanation": "Look at the peaks on the graph: 2002, 2012, 2022, 2032. Count the years between them: from 2002 to 2012 is 10 years, from 2012 to 2022 is 10 years, from 2022 to 2032 is 10 years. The pattern repeats every 10 years. This kind of repeating cycle is common in nature, where animal populations go up and down in regular patterns."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "The snow hare population follows a cycle, peaking every 10 years. These hares eat shrubs and grasses. The hares are the main food for several predators including lynxes, eagles, and wolves. Why do you think the hare population keeps cycling up and down in this regular 10-year pattern?",
+    "optionA": "The hares migrate to different forests every 10 years.",
+    "optionB": "Shrubs and grasses only grow every 10 years.",
+    "optionC": "Forest fires happen every 10 years and reduce the hare population.",
+    "optionD": "When hares become more plentiful, predators have more food and can have more babies, which later causes the hare population to drop.",
+    "correctOption": "D",
+    "explanation": "Here's how the cycle works: When hares are plentiful, there's lots of food for the predators (lynxes, eagles, wolves). With plenty to eat, the predators have more babies, so the predator population grows. Now there are too many predators hunting the hares, so the hare population drops. With fewer hares to eat, the predators start to starve and have fewer babies, so the predator population shrinks. With fewer predators around, the hares can reproduce again and their population rises. Then the cycle starts over. This predator-prey dance keeps nature in a kind of balance."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student places two cylindrical metal objects (cylinders A and B) on a smooth table, separated by a small gap so they do not touch. The student slowly pushes cylinder A toward cylinder B. Unexpectedly, cylinder B rolls away in the same direction that cylinder A is moving, even though the two objects never make contact with each other. Which explanation best accounts for this motion?",
+    "optionA": "Magnetic fields surrounding cylinder A repel the magnetic fields of cylinder B, pushing it away.",
+    "optionB": "Cylinder A emits sound vibrations that shake cylinder B across the table.",
+    "optionC": "Static electric charges on the cylinders' surfaces push against each other.",
+    "optionD": "Cylinder A creates a wind current that blows cylinder B forward.",
+    "correctOption": "A",
+    "explanation": "Both cylinders are magnets. When two magnets have similar poles (like two north poles or two south poles) facing each other, they push apart—that's called repulsion. As cylinder A moves closer to cylinder B, their magnetic fields repel each other, pushing cylinder B away in the same direction. You can test this yourself with two bar magnets! Magnets can push and pull things without touching them, which is pretty amazing."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A genetic trait is controlled by a gene with two forms: the dominant form (T) causes tall height, and the recessive form (t) causes short height. A mother has genotype Tt (tall, carrying one short allele). A father has genotype tt (short). What are the possible genotypes of their children?",
+    "optionA": "All children will be TT (all tall).",
+    "optionB": "All children will be tt (all short).",
+    "optionC": "Children will be either Tt or tt (half tall, half short).",
+    "optionD": "Children will be either TT or Tt (all tall).",
+    "correctOption": "C",
+    "explanation": "We use something called a Punnett square to figure out what genes children inherit. Mom can give either a T or a t to her baby. Dad can only give a t (because that's all he has). So the possible combinations are: T from mom + t from dad = Tt (tall), or t from mom + t from dad = tt (short). That's why half the children would be tall (Tt) and half would be short (tt). This is how traits pass down through families in predictable patterns."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A city wants to build WiFi signal towers to cover all neighborhoods. They tested signal strength at different distances: at 5 km away = strong signal (yes), at 10 km away = strong signal (yes), at 15 km away = strong signal (yes), at 20 km away = weak/spotty signal (sometimes), at 25 km away = very weak/unreliable (sometimes), at 30 km away = no signal (no). The city wants reliable coverage everywhere but doesn't want to build too many towers (to save money). At what distances should towers be placed?",
+    "optionA": "Towers should be placed less than 15 km apart to ensure all neighborhoods get reliable signal.",
+    "optionB": "Towers should be placed less than 20 km apart because signal works at 20 km.",
+    "optionC": "Towers should be placed between 20 and 25 km apart for the best balance.",
+    "optionD": "Towers should be placed less than 10 km apart since that's where signal is strongest.",
+    "correctOption": "A",
+    "explanation": "Look at the data: signal is reliably strong up to 15 km, but becomes unreliable (spotty) beyond that. If the city wants all neighborhoods to have reliable service, they need to place towers so that no house is farther than 15 km from a tower. Going farther than 15 km (like option C or B) would leave some neighborhoods with spotty or no signal, which isn't good. Going as close as 10 km (option D) would work but would need way more towers and cost more money. The smart choice is less than 15 km apart—that's far enough to save money on towers but close enough to guarantee good service everywhere."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student observes the Moon at different times over several weeks and sees it change from a thin crescent shape to a full circle to a thin crescent again. She notes that the lit-up part of the Moon always seems to have a different shape each night. Which explanation best describes why the Moon appears to change shape?",
+    "optionA": "The Moon produces its own light that dims and brightens over time.",
+    "optionB": "Earth's atmosphere bends the sunlight reaching the Moon, making different parts appear lit.",
+    "optionC": "The Moon's rotation causes different sides of it to face Earth each night.",
+    "optionD": "Sunlight reflects off the Moon, and as Earth and the Moon move relative to each other, we see different amounts of the lit side.",
+    "correctOption": "D",
+    "explanation": "The Moon doesn't make its own light—it's like a giant ball that bounces (reflects) sunlight. As the Moon orbits Earth, the angle between the Sun, Earth, and Moon changes. Sometimes we see the whole lit side (full moon), sometimes half of it (half moon), and sometimes just a thin crescent. It's like shining a flashlight on a ball and walking around it—the lit part looks different depending on where you stand. The Moon's shape changes because of the changing positions of the Sun, Earth, and Moon."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student tracks the Moon's phases starting from a full moon (completely lit). How long does it take for the Moon to go through all its phases and return to a full moon again?",
+    "optionA": "About one week (7 days).",
+    "optionB": "About one month (29-30 days).",
+    "optionC": "About six months (180 days).",
+    "optionD": "About one year (365 days).",
+    "correctOption": "B",
+    "explanation": "The Moon orbits around Earth, and it takes about 29-30 days to complete one full orbit and show all its different phases. That's why we call it a 'month'—the word 'month' actually comes from the word 'Moon'! One week is too short (the Moon shows different phases each week). Six months and a year are way too long—those are about how long it takes Earth to orbit the Sun, not the Moon to orbit Earth. So from full moon to full moon takes about one month."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student wants to make a model that accurately shows the structure of our galaxy, the Milky Way. Which of the following should the student use to represent a key feature of the Milky Way?",
+    "optionA": "Billions of tiny beads or sand grains, scattered throughout the model, to represent the enormous number of stars in the galaxy.",
+    "optionB": "Eight small marbles, representing each of the eight planets in the Milky Way.",
+    "optionC": "One very bright light bulb at the center, representing where all the stars are located.",
+    "optionD": "A large spherical boundary or container, showing the edge and limits of the Milky Way.",
+    "correctOption": "A",
+    "explanation": "The Milky Way is not a single bright point—it's actually made of 100 to 200 billion stars spread throughout a giant spiral shape! Our Sun is just one tiny star out in one of the spiral arms, nowhere near the center. To show this enormous scale and number of stars, tiny objects like sand grains work well. The eight planets (option B) are only in our solar system around our one Sun—there are billions of other star systems in the galaxy. You can't show a clear 'edge' to the galaxy (option D), and it's not a single bright point (option C). The key is showing the vast, spread-out collection of stars."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A company manufactures plastic chairs for outdoor patios. The manufacturing process involves several steps: (1) Shaping the plastic into seat, back, and leg pieces using molds; (2) Assembling the pieces together using bolts and screws; (3) Testing the chair's strength and stability by applying pressure to the seat. Which action best represents a FINISHING step in the manufacturing process?",
+    "optionA": "Cutting sheets of metal into the shapes needed for the chair legs.",
+    "optionB": "Drilling holes in the chair frame so the bolts can be attached.",
+    "optionC": "Testing the chair by sitting on it to check it does not wobble or break.",
+    "optionD": "Applying a waterproof coating to protect the finished chair from sun and rain.",
+    "correctOption": "D",
+    "explanation": "In manufacturing, a 'finishing' step happens at the very end, after the product has already been shaped, assembled, and tested — it's about protecting or completing the surface of the finished product. Cutting the metal (option A) and drilling holes (option B) are early shaping steps. Testing for wobbling (option C) is a quality-check step, not a finishing step. Applying a waterproof coating (option D) comes last and protects the chair from weather — that's exactly what a finishing step does, especially for something that will sit outdoors in the sun and rain."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A child on a skateboard is standing still at the top of a slope (position M). The child then pushes off and rides the skateboard down the slope (position N, moving down the incline). Compared to position M, which statement best describes the energy changes at position N?",
+    "optionA": "The skateboard gains kinetic energy from the downward motion.",
+    "optionB": "The skateboard loses all potential energy and converts it to heat energy.",
+    "optionC": "The skateboard loses kinetic energy because it has moved downward.",
+    "optionD": "The skateboard maintains the same amount of total energy at all positions.",
+    "correctOption": "A",
+    "explanation": "At the top of the slope (position M), the child and skateboard are still, so there's zero kinetic energy (energy of motion). But they are high up, so they have gravitational potential energy (energy stored because of height). As the child rides down (position N), they're moving fast, so they gain kinetic energy. This kinetic energy comes from the potential energy they had because they were high up. It's like the height turns into speed! The skateboard is now using its kinetic energy to move, while its potential energy decreased (because it's lower now). So kinetic energy increased from position M to position N."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A coastal cliff stands at the edge of the ocean. A severe storm brings intense waves that crash against the cliff for several hours. After the storm passes, the cliff's shape and outline have noticeably changed. Which process most directly caused this change in the cliff's appearance?",
+    "optionA": "erosion",
+    "optionB": "evaporation",
+    "optionC": "condensation",
+    "optionD": "deposition",
+    "correctOption": "A",
+    "explanation": "Erosion is the wearing away of rock and soil by water, wind, or other natural forces. The waves' force wears away and reshapes the cliff's surface."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "You have two rocks: one is smooth and polished, and one is rough and bumpy. If you close your eyes and touch both rocks with your fingers, which property can you observe most clearly?",
+    "optionA": "color",
+    "optionB": "texture",
+    "optionC": "odor",
+    "optionD": "weight",
+    "correctOption": "B",
+    "explanation": "Texture is the property that describes how a surface feels - smooth, rough, bumpy, or grainy. You can observe texture by touching something with your hand."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A scientist uses a special tool that lights up when it touches certain materials, but does not light up when it touches other materials. This tool is testing whether materials are able to:",
+    "optionA": "absorb light energy",
+    "optionB": "bend without breaking",
+    "optionC": "conduct electric current",
+    "optionD": "support heavy weights",
+    "correctOption": "C",
+    "explanation": "Conductivity is the ability of a material to let electric current flow through it. The tool lights up only when it touches materials that allow electricity to pass through them."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In one scenario, a book lies flat on a table. In another scenario, someone uses a rope attached to one corner of the table to pull that corner upward, tilting the table at an angle. The rope must be pulled with force to lift the table. What form of energy is being used when the rope lifts the table?",
+    "optionA": "mechanical energy",
+    "optionB": "light energy",
+    "optionC": "heat energy",
+    "optionD": "sound energy",
+    "correctOption": "A",
+    "explanation": "Mechanical energy is the energy associated with motion and force. When you pull on the rope to lift the table, you are doing work using mechanical energy (the energy of motion and applied force)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A ball is placed on a tilted ramp. Even though gravity pulls the ball downward, the ball does NOT slide down the ramp immediately — it stays in place. Which force is preventing the ball from sliding down?",
+    "optionA": "magnetism",
+    "optionB": "electricity",
+    "optionC": "air resistance",
+    "optionD": "friction",
+    "correctOption": "D",
+    "explanation": "Friction is the force that occurs when two surfaces rub against each other. The friction between the ball and the ramp surface prevents the ball from sliding down."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A simple circuit consists of a battery, a light bulb, a wire connecting them, and a switch to turn it on and off. When the switch is closed and the light bulb lights up, which part of the circuit is providing the energy?",
+    "optionA": "the battery",
+    "optionB": "the light bulb",
+    "optionC": "the wire",
+    "optionD": "the switch",
+    "correctOption": "A",
+    "explanation": "The battery is the source of electrical energy in a circuit. It provides the electrical power that flows through the wire and makes the light bulb glow."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A girl uses a stick to lift one end of a heavy rock off the ground. She places a smaller stone under the stick to act as a pivot point, then pushes down on one end of the stick. The stick acts as a simple machine called:",
+    "optionA": "a pulley",
+    "optionB": "an inclined plane",
+    "optionC": "a lever",
+    "optionD": "a wedge",
+    "correctOption": "C",
+    "explanation": "A lever is a simple machine that uses a fixed pivot point to help lift or move heavy objects. It reduces the effort needed to move something by changing the direction and size of the force."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Two identical metal boxes — one painted black on the outside, one painted white — are placed side by side in direct sunlight for two hours. Both boxes contain thermometers to measure the temperature inside. The temperature inside the black box compared to the white box will most likely be:",
+    "optionA": "warmer, because the black surface absorbs more sunlight energy",
+    "optionB": "cooler, because the black surface absorbs less sunlight energy",
+    "optionC": "warmer, because the white surface reflects more heat away",
+    "optionD": "cooler, because the white surface absorbs more sunlight",
+    "correctOption": "A",
+    "explanation": "Dark colors like black absorb more of the Sun's light energy and convert it to heat. Light colors like white reflect more light away. Therefore, the black box absorbs more energy and becomes warmer inside than the white box."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Consider these activities a person might do: solving a math problem, eating food, playing a video game, and reading a book. Which one is a life process — a biological activity that all living things need to do to survive and grow?",
+    "optionA": "solving a difficult math problem",
+    "optionB": "eating food",
+    "optionC": "playing a video game",
+    "optionD": "reading a book",
+    "correctOption": "B",
+    "explanation": "Eating food is a life process because all living things need to consume food to get energy and nutrients to survive and grow. Solving problems, playing games, and reading are activities specific to humans but not necessary for survival."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which of the following nonliving materials is something that humans create or manufacture, rather than something found naturally in nature?",
+    "optionA": "sand",
+    "optionB": "water",
+    "optionC": "plastic",
+    "optionD": "soil",
+    "correctOption": "C",
+    "explanation": "Plastic is a material that humans create by processing chemicals and minerals. Sand, water, and soil all occur naturally on Earth without human intervention."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Some traits in children come from their parents' genes (instructions for traits passed from parent to child). Which trait below is most likely inherited from a parent?",
+    "optionA": "hair color",
+    "optionB": "ability to speak a language",
+    "optionC": "ability to ride a skateboard",
+    "optionD": "preference for certain foods",
+    "correctOption": "A",
+    "explanation": "Hair color is determined by genes inherited from your parents. Language ability, skateboarding skills, and food preferences are learned behaviors or choices, not inherited traits."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A coconut falls from a tall palm tree on a tropical island and rolls into the ocean. The water carries the coconut away from the island and eventually deposits it on a distant beach where a new palm tree eventually grows. This process is an example of:",
+    "optionA": "animal migration",
+    "optionB": "seed dispersal",
+    "optionC": "adaptation to the environment",
+    "optionD": "erosion from wind and rain",
+    "correctOption": "B",
+    "explanation": "Seed dispersal is the process of spreading seeds or fruits to new locations. Water carrying the coconut to a new place where it can grow is a form of seed dispersal."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Two squirrels in a park are both trying to gather acorns from under the same oak tree. Both squirrels want the acorns for food, and they are competing with each other. What resource are these two squirrels competing for?",
+    "optionA": "space and territory",
+    "optionB": "water",
+    "optionC": "food",
+    "optionD": "sunlight",
+    "correctOption": "C",
+    "explanation": "Both squirrels need acorns for food. When two animals compete for the same resource (like food), they are competing for that resource. In this case, the resource is food (acorns)."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A baby is born very small. By age 18, that person is much taller and their body has changed in many ways. Which two biological processes are responsible for these changes from infancy to adulthood?",
+    "optionA": "growth and development",
+    "optionB": "growth and metabolism",
+    "optionC": "respiration and circulation",
+    "optionD": "nutrition and exercise",
+    "correctOption": "A",
+    "explanation": "Growth is the increase in size and mass of an organism. Development is the change and maturation of body structures and functions. Together, growth and development explain how a baby becomes an adult."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A sunflower starts as a tiny seed in the soil. It sprouts and grows into a young plant with leaves. The plant continues to grow taller and develops a large yellow flower head — this is the mature plant stage. After the flower is pollinated by insects, it produces new seeds inside the flower head. These new seeds can then grow into new sunflower plants. What is the correct order of these stages in a plant's life cycle, starting from seed?",
+    "optionA": "Mature plant, then young plant, then seed, then fruit",
+    "optionB": "Seed, then young sprouting plant, then mature plant, then fruit with seeds",
+    "optionC": "Fruit and seeds, then seed, then young plant, then mature plant",
+    "optionD": "Young plant, then seed, then fruit, then mature plant",
+    "correctOption": "B",
+    "explanation": "A plant's life cycle follows a specific order: it begins as a seed, grows into a young plant with leaves, develops into a mature flowering plant, and finally produces fruit containing new seeds that can start the cycle again."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A cactus plant has thick, waxy skin and stores water inside its stem. This body structure allows the cactus to survive for long periods in hot, dry desert environments with very little rainfall. This body structure is an example of how the cactus has:",
+    "optionA": "adapted to its desert environment",
+    "optionB": "created shelter from the sun",
+    "optionC": "camouflaged itself from animals",
+    "optionD": "absorbed more sunlight",
+    "correctOption": "A",
+    "explanation": "An adaptation is a trait that helps an organism survive in its environment. The cactus's thick skin and water storage are adaptations that allow it to survive in a dry desert where water is scarce."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A prairie dog stands on its hind legs and makes loud barking sounds when it sees a predator nearby. This behavior alerts other prairie dogs in the area that danger is coming. This behavior is an example of:",
+    "optionA": "preparing to hibernate",
+    "optionB": "looking for a mate to reproduce with",
+    "optionC": "communicating a warning to other animals",
+    "optionD": "hunting for food",
+    "correctOption": "C",
+    "explanation": "Communication is the act of sending and receiving messages. The prairie dog's barking is a way to communicate danger to other prairie dogs so they can protect themselves."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A coral reef in the ocean is destroyed by pollution. Fish, sea turtles, and other ocean animals used to live in and around the coral reef. The LOSS of the coral reef would most negatively affect these animals by removing:",
+    "optionA": "oxygen in the water",
+    "optionB": "sunlight for photosynthesis",
+    "optionC": "shelter and protection",
+    "optionD": "salt in the seawater",
+    "correctOption": "C",
+    "explanation": "A coral reef provides shelter, protection from predators, and places to find food for many ocean animals. When the reef is destroyed, the animals lose their habitat and have nowhere to live or hide."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "In order for a kitten to grow larger, gain energy, and repair cuts and scrapes on its skin, the kitten needs:",
+    "optionA": "food that contains nutrients and energy",
+    "optionB": "exercise and play",
+    "optionC": "access to bright light",
+    "optionD": "socialization with other animals",
+    "correctOption": "A",
+    "explanation": "Food provides the nutrients and energy that animals need to grow, maintain their bodies, and repair damage like cuts and scrapes. Without proper nutrition, animals cannot survive or grow."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In a forest ecosystem, mushrooms and bacteria break down fallen leaves and dead wood, converting them into nutrients that can be used by living plants. These organisms play an important ecological role by:",
+    "optionA": "creating food through photosynthesis",
+    "optionB": "reproducing using spores",
+    "optionC": "recycling nutrients from dead material",
+    "optionD": "absorbing sunlight for energy",
+    "correctOption": "C",
+    "explanation": "Decomposition is the process of breaking down dead material. Organisms like fungi and bacteria decompose dead material and return nutrients to the soil, which plants can then use to grow."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A scientist wants to test whether the amount of fertilizer affects how fast a plant grows. The scientist sets up two identical pots with identical seeds. Both pots get the same light, the same temperature, the same type of soil, and the same amount of water every day. One pot gets no fertilizer, and the other pot gets fertilizer once per week. This experiment is testing how plants respond to:",
+    "optionA": "the amount of sunlight",
+    "optionB": "the type of soil",
+    "optionC": "the temperature",
+    "optionD": "the amount of fertilizer",
+    "correctOption": "D",
+    "explanation": "In this experiment, everything is kept the same between the two pots EXCEPT the amount of fertilizer. The one factor that is different is what the experiment is testing. This different factor is called the independent variable or the tested variable."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A student rolls a ball down a ramp and measures how far it travels each time period. At 2 seconds, the ball has rolled 30 cm. At 4 seconds, it has rolled 60 cm. At 6 seconds, it has rolled 90 cm. If the ball continues at this same speed, how far will it have rolled at 8 seconds?",
+    "optionA": "120 cm",
+    "optionB": "105 cm",
+    "optionC": "135 cm",
+    "optionD": "100 cm",
+    "correctOption": "A",
+    "explanation": "To find the answer, first determine the rate: the ball travels 30 cm every 2 seconds, which equals 15 cm per second. At 8 seconds: 8 seconds × 15 cm/second = 120 cm. You can also notice the pattern: each time 2 seconds pass, the distance increases by 30 cm. So at 8 seconds, the distance is 120 cm."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A student collects data on the number of birds visiting a bird feeder each day for a week. The data should show that MORE birds visit the feeder each day (the numbers steadily increase). Which of the tables below shows data where the number of birds increases every single day?",
+    "optionA": "Table showing Day 1: 5 birds, Day 2: 8 birds, Day 3: 8 birds, Day 4: 12 birds, Day 5: 15 birds",
+    "optionB": "Table showing Day 1: 4 birds, Day 2: 9 birds, Day 3: 11 birds, Day 4: 10 birds, Day 5: 14 birds",
+    "optionC": "Table showing Day 1: 3 birds, Day 2: 7 birds, Day 3: 10 birds, Day 4: 14 birds, Day 5: 17 birds",
+    "optionD": "Table showing Day 1: 2 birds, Day 2: 6 birds, Day 3: 11 birds, Day 4: 15 birds, Day 5: 13 birds",
+    "correctOption": "C",
+    "explanation": "Table C is the only one where the numbers strictly increase from one day to the next (3→7→10→14→17). Table A has a repeat (8 birds both on Days 2 and 3). Table B has a decrease (11 down to 10 on Day 4). Table D has a decrease at the end (15 down to 13 on Day 5). Only Table C shows continuous increase."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Sirius is a star that appears very bright when you look up at the night sky. Which of the following statements about Sirius is true?",
+    "optionA": "Sirius is hotter than all other known stars in the universe.",
+    "optionB": "Sirius is the largest star that has ever been discovered.",
+    "optionC": "Sirius orbits in the center of the Milky Way galaxy.",
+    "optionD": "Sirius is the brightest star in Earth's night sky, other than the Sun.",
+    "correctOption": "D",
+    "explanation": "Sirius is famous for being the brightest star we can see at night (the Sun is brighter, but it's a daytime star). Sirius isn't the hottest, largest, or centrally located star - it's simply the brightest-looking one from Earth, partly because it's also fairly close to us (about 8.6 light-years away, though not the closest star - that title belongs to Proxima Centauri)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A teacher explains the core ideas of cell theory to a class. Which statement is the most important principle of modern cell theory?",
+    "optionA": "All living cells must contain a nucleus with genetic material inside it.",
+    "optionB": "All cells have exactly the same size, shape, and internal structure.",
+    "optionC": "All cells are produced from non-living chemicals and matter in the environment.",
+    "optionD": "All new cells develop when existing cells divide and reproduce.",
+    "correctOption": "D",
+    "explanation": "The key principle of cell theory is that cells can only come from other cells through division - we never see new cells appearing from nothing. This is one of the three main ideas scientists use to understand how life works."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student measures a sample and finds: Mass = 89 grams, Volume = 10 cubic centimeters. The student has a reference table of material densities: Pine wood 0.6 g/cm³, Aluminum 2.7 g/cm³, Copper 8.9 g/cm³, Silver 10.5 g/cm³ (all in g/cm³). Based on density alone, which material is the sample most likely made of?",
+    "optionA": "Pine wood",
+    "optionB": "Aluminum",
+    "optionC": "Copper",
+    "optionD": "Silver",
+    "correctOption": "C",
+    "explanation": "Calculate the sample's density: 89 g ÷ 10 cm³ = 8.9 g/cm³. This matches copper's density exactly, so the sample is most likely made of copper."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A forest manager plans to use controlled burns to clear dead wood from an old forest. What is the most likely positive effect this will have on the forest?",
+    "optionA": "The number of animals living in the forest will immediately increase.",
+    "optionB": "Rain will fall more often in the area surrounding the forest.",
+    "optionC": "The forest will stop growing new trees for at least ten years.",
+    "optionD": "Ash from the burned material will add valuable nutrients back into the soil.",
+    "correctOption": "D",
+    "explanation": "When dead plant material burns in a controlled way, it turns into ash. This ash contains nutrients like nitrogen, phosphorus, and potassium that plants need to grow. These nutrients soak back into the soil and help new plants grow healthier."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student dissolves sugar in hot water and notices the water turns clear and sweet. Another student heats bread dough in an oven for 20 minutes, and it becomes a solid, brown, crunchy loaf. Which activity is the best example of a chemical reaction?",
+    "optionA": "Dissolving sugar in water, because the sugar disappears from sight.",
+    "optionB": "Baking bread, because completely new substances form that look and behave differently from the raw ingredients.",
+    "optionC": "Dissolving sugar in water, because the temperature of the water changed.",
+    "optionD": "Baking bread, because the shape of the dough changed.",
+    "correctOption": "B",
+    "explanation": "A chemical reaction creates brand new substances with different properties. When bread bakes, the heat causes flour, water, and other ingredients to combine into new molecules. The sugar dissolving is just a physical change - the sugar particles spread out but don't turn into anything new."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Meteorologists study which conditions help tropical storms grow into hurricanes. Which of the following factors is most important for hurricane formation?",
+    "optionA": "Very cold ocean water temperatures",
+    "optionB": "High salt content in the ocean water",
+    "optionC": "Warm ocean water with temperatures above 26°C",
+    "optionD": "Shallow ocean depth near the shore",
+    "correctOption": "C",
+    "explanation": "Hurricanes need warm water to form and grow. When ocean water is very warm (above about 26°C), it causes water to evaporate and rise into the air. This rising, warm, moist air creates the spinning winds that power a hurricane."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A scientist studies different atoms of the element carbon. Some atoms have 6 neutrons, while others have 8 neutrons. What is the same about all of these carbon atoms?",
+    "optionA": "They all have the same number of neutrons.",
+    "optionB": "They all have the same number of protons.",
+    "optionC": "They all have the same mass number.",
+    "optionD": "They all have different numbers of electrons.",
+    "correctOption": "B",
+    "explanation": "The number of protons is what makes an atom a particular element. All carbon atoms have 6 protons - that is what makes them carbon. Some carbon atoms have different numbers of neutrons (these are called isotopes), but the number of protons stays the same."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student balances this chemical equation: 3Mg + N₂ → Mg₃N₂. How many different chemical elements appear in this equation?",
+    "optionA": "2",
+    "optionB": "3",
+    "optionC": "5",
+    "optionD": "8",
+    "correctOption": "A",
+    "explanation": "Elements are the basic substances that make up compounds. In this equation, there are only two elements: magnesium (Mg) and nitrogen (N). The equation describes how these elements combine to form the compound magnesium nitride."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A scientist studies a model of an atom. The nucleus contains 16 subatomic particles. Of these particles, 6 have no electrical charge. Which statement about this atom is correct?",
+    "optionA": "The atom has an atomic number of 16.",
+    "optionB": "The atom has 6 electrons.",
+    "optionC": "The atom has 10 protons.",
+    "optionD": "The atom has a mass number of 26.",
+    "correctOption": "C",
+    "explanation": "The nucleus contains protons (which are positively charged) and neutrons (which have no charge). If there are 16 particles total and 6 have no charge, then: 16 - 6 = 10 protons. The number of protons equals the atomic number and also equals the number of electrons in a neutral atom."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student puts a drop of blue food coloring into a clear glass of water. The water turns light blue. A test shows that the water molecules and coloring molecules are still separate and unchanged. What does this tell us about the color change?",
+    "optionA": "This is a chemical change because the water turned a different color.",
+    "optionB": "This is a chemical change because the molecules mixed together.",
+    "optionC": "This is a physical change because the original substances were not transformed into new substances.",
+    "optionD": "This is a chemical reaction because the food coloring came from a chemical factory.",
+    "correctOption": "C",
+    "explanation": "A physical change happens when something looks different but the molecules stay the same. When you mix food coloring with water, it spreads out and mixes, but the water molecules and coloring molecules are still there unchanged. A chemical change would create brand new substances."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Two children push on opposite sides of a toy wagon on a smooth ice rink. One child pushes with a force of 35 newtons to the left. The other pushes with a force of 60 newtons to the right. What happens to the wagon?",
+    "optionA": "The wagon does not move because both children are pushing on it.",
+    "optionB": "The wagon moves to the right with a net force of 25 newtons.",
+    "optionC": "The wagon moves to the left with a net force of 25 newtons.",
+    "optionD": "The wagon moves to the right with a net force of 95 newtons.",
+    "correctOption": "B",
+    "explanation": "To find the net force, subtract the smaller force from the larger: 60 N - 35 N = 25 N. The wagon moves in the direction of the larger force (to the right) with a net force of 25 newtons."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Fishing records show that the percentage of overfished ocean areas has increased over decades: 1980: 10%, 1995: 22%, 2010: 32%, 2025: 40%. To reverse this trend and allow fish populations to recover, which approach would be most effective?",
+    "optionA": "Allow fishing boats to catch more fish each day to increase profits.",
+    "optionB": "Advertise seafood restaurants more so people eat more fish.",
+    "optionC": "Remove the laws that protect baby fish and endangered species.",
+    "optionD": "Return young fish to the ocean so they can grow up and have babies.",
+    "correctOption": "D",
+    "explanation": "For fish populations to recover, young fish need to survive and reproduce. By returning juvenile fish to the ocean instead of harvesting them, populations can grow back. The other options would make overfishing worse."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A basketball player holds a ball at shoulder height, then drops it. At which moment does the ball have the most stored-up energy (potential energy) due to its height?",
+    "optionA": "Just as the ball hits the ground.",
+    "optionB": "Just before the player releases the ball.",
+    "optionC": "Halfway down during the fall.",
+    "optionD": "Right after the ball bounces back up.",
+    "correctOption": "B",
+    "explanation": "Potential energy depends on how high something is above the ground. The ball has the most potential energy when it is at its highest point - right before the player drops it. As it falls, potential energy changes into movement energy (kinetic energy)."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "The Andes Mountains in South America formed along the boundary where the Nazca Plate and the South American Plate meet. The Nazca Plate is moving beneath the South American Plate. Which type of plate boundary exists at this location?",
+    "optionA": "A convergent boundary where the plates move toward each other.",
+    "optionB": "A convergent boundary where the plates move past each other sideways.",
+    "optionC": "A divergent boundary where the plates move away from each other.",
+    "optionD": "A transform boundary where the plates slide vertically up and down.",
+    "correctOption": "A",
+    "explanation": "At the Andes, one plate (Nazca) slides underneath the other plate (South American) in a process called subduction. This is a convergent boundary because the plates move toward and into each other. The descending plate creates intense heat and pressure that builds mountains."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A tennis player swings a racket and hits a tennis ball. According to Newton's Third Law of Motion, which statement correctly describes the forces between the racket and ball?",
+    "optionA": "The racket pushes harder on the ball than the ball pushes back on the racket.",
+    "optionB": "The racket and ball push on each other with equal forces in opposite directions.",
+    "optionC": "The ball exerts a greater force on the racket than the racket exerts on the ball.",
+    "optionD": "There is no force between them because only the racket is moving.",
+    "correctOption": "B",
+    "explanation": "Newton's Third Law states that when two objects interact, they always push or pull on each other with equal forces in opposite directions. The racket pushes on the ball with the same strength that the ball pushes back on the racket."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student applies a force to kick a volleyball. The volleyball has a mass of 0.27 kilograms. During the kick, the ball accelerates at 1,500 meters per second squared. Ignoring air resistance, how much force in newtons did the student apply to the ball?",
+    "optionA": "5.6 N",
+    "optionB": "1,500.3 N",
+    "optionC": "1,499.7 N",
+    "optionD": "405.0 N",
+    "correctOption": "D",
+    "explanation": "Use the formula Force = mass × acceleration (F = ma). F = 0.27 kg × 1,500 m/s² = 405 newtons. This is the force the student's foot applies to the ball during the kick."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A researcher watching a car accelerate records these measurements: the car's mass is 1,200 kilograms, it accelerates from rest for 6 seconds at a steady rate of 3 m/s², and it travels 54 meters during this time. To find the net force on the car, which two pieces of information are essential?",
+    "optionA": "The car's mass and its acceleration",
+    "optionB": "The car's mass and the distance it traveled",
+    "optionC": "The time elapsed and the distance traveled",
+    "optionD": "The starting speed and the time elapsed",
+    "correctOption": "A",
+    "explanation": "To calculate force, you use F = ma (force equals mass times acceleration). You need the mass and the acceleration - those are the only two values required. The distance and time are extra information that aren't needed for this particular calculation."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A student uses a classification key to identify an insect. Step 1: Does it have wings? If yes, go to 2. If no, go to 5. Step 2: Are the wings soft and folded? If yes, go to 3. If no, go to 4. Step 3: Does it have a long thin tail? If yes, it's a Silverfish. If no, it's a Beetle. Step 4: Are its wings hard on top? If yes, it's a Dragonfly. If no, it's a Butterfly. An insect has wings that are NOT soft and folded, but ARE hard on top. Which classification does this insect belong to?",
+    "optionA": "Silverfish",
+    "optionB": "Beetle",
+    "optionC": "Dragonfly",
+    "optionD": "Butterfly",
+    "correctOption": "C",
+    "explanation": "Follow the key: Step 1 - it has wings, go to 2. Step 2 - wings are NOT soft and folded, go to 4. Step 4 - wings ARE hard on top, so it's a Dragonfly. This requires carefully following multiple steps to reach the correct answer."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A sea anemone reproduces by budding, where a small bump grows on the parent organism and eventually breaks off to become a new, independent anemone. Which statement accurately describes this type of reproduction?",
+    "optionA": "This is asexual reproduction, and the new anemone is genetically identical to its parent.",
+    "optionB": "This is sexual reproduction, and the new anemone is genetically different from its parent.",
+    "optionC": "This is asexual reproduction, and the new anemone has different genes from its parent.",
+    "optionD": "This is sexual reproduction, and the new anemone shares half its genes with the parent.",
+    "correctOption": "A",
+    "explanation": "Budding is a form of asexual reproduction because only one parent is involved - no combining of genetic material from two parents. The new organism is a clone (genetic copy) of the parent because it has the same genes."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Scientists study how a river's path changes over a 40-year period using satellite images from 1985, 2005, and 2025. The river's path has shifted significantly. Which factor is most responsible for these changes?",
+    "optionA": "Weathering of sediment near the river channel causes rocks to break apart and avalanche into the river.",
+    "optionB": "Fewer trees were planted along the banks, which caused the sediment to pile up.",
+    "optionC": "Heavy rain upstream floods the river for a few days each year, causing temporary erosion.",
+    "optionD": "The moving water constantly wears away rocks and soil along the riverbanks, reshaping the channel.",
+    "correctOption": "D",
+    "explanation": "Rivers change shape over time mainly because flowing water erodes the banks and riverbed. Water wears away soil and rock, carving out a new channel. This is the most important natural process that shapes river paths over decades."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Under a microscope, a student observes a cell with two distinctive features: a rigid outer layer and a large sac taking up much of the cell's volume. Based on these features, what can the student correctly conclude?",
+    "optionA": "This is a plant cell; the rigid layer protects it, and the sac is where photosynthesis happens.",
+    "optionB": "This is an animal cell; the rigid layer controls what enters and exits, and the sac directs all cell activities.",
+    "optionC": "This is a plant cell; the rigid layer provides structural support, and the sac stores water and nutrients.",
+    "optionD": "This is an animal cell; the rigid layer is where energy is made, and the sac breaks down waste products.",
+    "correctOption": "C",
+    "explanation": "The rigid outer layer is a cell wall, which is found in plant cells (not animal cells) and provides structure and support. The large sac is a vacuole, which stores water, nutrients, and other molecules in plant cells."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student operates a wind-up toy robot. After winding up the spring, she releases it and watches the robot walk across the floor. The robot gradually slows down and stops. Which statement best describes the energy conversion happening in this toy?",
+    "optionA": "Mechanical energy is converted into electrical energy and light energy.",
+    "optionB": "Potential energy in the spring is converted into movement and some heat energy lost to friction.",
+    "optionC": "Thermal energy is converted into motion and electromagnetic energy.",
+    "optionD": "Electrical energy is converted into magnetic energy and sound.",
+    "correctOption": "B",
+    "explanation": "When you wind up the spring, you store potential energy. As the robot moves, this potential energy converts to kinetic energy (movement). Some energy is lost as heat due to friction between moving parts, which is why the robot eventually stops."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "An astronomer wants to observe the Moon when it is full. Right now, the Moon is in its first quarter phase (half visible). The lunar month is approximately 30 days long. How many days should the astronomer expect to wait before seeing a full moon?",
+    "optionA": "About 7 days",
+    "optionB": "About 8 days",
+    "optionC": "About 15 days",
+    "optionD": "About 22 days",
+    "correctOption": "B",
+    "explanation": "The lunar cycle is about 30 days total. First quarter occurs about one-quarter of the way through the cycle, and full moon is about halfway through. From first quarter to full moon is roughly one more quarter of a month, which is about 7-8 days."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Which of the following environmental changes would most likely cause long-lasting effects on both the natural environment and the animals living there?",
+    "optionA": "A severe snowstorm that covers the ground for two weeks during winter.",
+    "optionB": "A wildfire in a forest that burns down some trees but leaves others standing.",
+    "optionC": "A swarm of insects that damages most of the crops for one growing season.",
+    "optionD": "Destruction of wetlands where many animals breed, permanently changing water flow in a region.",
+    "correctOption": "D",
+    "explanation": "Destroying wetlands is a permanent change that affects the environment for many years. Wetlands are breeding grounds for countless animals and help regulate water throughout a region. Once destroyed, they take decades to recover. The other options are temporary or limited in scope."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student examines three materials and records their properties: Material A - solid, shiny, bends without breaking, conducts electricity easily. Material B - solid, shiny with a metallic luster, very hard, shatters when struck. Material C - solid, dull, breaks apart easily, does not conduct electricity. Based on these properties, which classification is most accurate?",
+    "optionA": "A is a Metal, B is a Nonmetal, C is a Metalloid.",
+    "optionB": "A is a Metal, B is a Metalloid, C is a Nonmetal.",
+    "optionC": "A is a Metalloid, B is a Nonmetal, C is a Metal.",
+    "optionD": "A is a Nonmetal, B is a Metalloid, C is a Metal.",
+    "correctOption": "B",
+    "explanation": "Material A bends (malleable) and conducts electricity well - these are metal properties. Material B is shiny and hard but shatters (brittle) - brittleness is characteristic of metalloids. Material C is dull and a poor conductor - these are nonmetal properties."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "After eating a large meal with lots of sugar and carbohydrates, a person's blood sugar level rises. Which body system is responsible for producing the hormone that helps bring blood sugar back down to normal levels?",
+    "optionA": "The Endocrine System",
+    "optionB": "The Nervous System",
+    "optionC": "The Respiratory System",
+    "optionD": "The Digestive System",
+    "correctOption": "A",
+    "explanation": "The endocrine system produces hormones that regulate many body processes. The pancreas, which is part of the endocrine system, produces insulin. Insulin allows cells to take up glucose (sugar) from the blood, lowering blood sugar levels."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Geologists find identical rock formations and the same fossil species in South America and Africa, even though these continents are now separated by thousands of kilometers of ocean. Which explanation best accounts for this evidence?",
+    "optionA": "The continents gradually grew larger and eventually connected to each other.",
+    "optionB": "The two continents were once connected but drifted apart over millions of years.",
+    "optionC": "Both continents were submerged underwater at the same time in Earth's history.",
+    "optionD": "Ocean currents carried the same rock types and organisms to both continents.",
+    "correctOption": "B",
+    "explanation": "This is evidence for continental drift and plate tectonics. Identical rocks and fossils on separated continents is strong proof that they were once joined together (like the supercontinent Gondwana). Over millions of years, plate motion pulled them apart to their current positions."
   }
 ]

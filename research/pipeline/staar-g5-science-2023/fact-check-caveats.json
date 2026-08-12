@@ -1,0 +1,8 @@
+[
+  {
+    "prompt": "Black walnut trees release chemicals from their roots into the soil around them. These chemicals prevent most nearby plants of other species from growing well. What is the most likely advantage to the black walnut tree of producing these chemicals?",
+    "verdict": "confirmed",
+    "note": "Black walnut trees produce allelopathic chemicals (juglone) that suppress nearby plants, reducing competition for resources. However, research notes this effect is inconsistent in natural soils.",
+    "source": "Illinois Extension, Penn State allelopathy research"
+  }
+]

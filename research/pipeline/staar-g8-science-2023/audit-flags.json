@@ -1,0 +1,67 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A scientist studies different atoms of the element carbon. Some atoms have 6 neutrons, while others have 8 neutrons. What is the same about all of these carbon atoms?\") assigned Age 11 but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A student balances this chemical equation: 3Mg + N₂ → Mg₃N₂. How many different chemical elements appear in this equation?\") assigned Age 11 but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A scientist studies a model of an atom. The nucleus contains 16 subatomic particles. Of these particles, 6 have no electrical charge. Which statement about this atom is correct?\") assigned Age 11 but has a low difficulty-heuristic score (2) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Two children push on opposite sides of a toy wagon on a smooth ice rink. One child pushes with a force of 35 newtons to the left. The other pushes with a force of 60 newtons to the right. What happens to the wagon?\") assigned Age 11 but has a low difficulty-heuristic score (2) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A basketball player holds a ball at shoulder height, then drops it. At which moment does the ball have the most stored-up energy (potential energy) due to its height?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Andes Mountains in South America formed along the boundary where the Nazca Plate and the South American Plate meet. The Nazca Plate is moving beneath the South American Plate. Which type of plate boundary exists at this location?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A tennis player swings a racket and hits a tennis ball. According to Newton's Third Law of Motion, which statement correctly describes the forces between the racket and ball?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A student uses a classification key to identify an insect. Step 1: Does it have wings? If yes, go to 2. If no, go to 5. Step 2: Are the wings soft and folded? If yes, go to 3. If no, go to 4. Step 3: Does it have a long thin tail? If yes, it's a Silverfish. If no, it's a Beetle. Step 4: Are its wings hard on top? If yes, it's a Dragonfly. If no, it's a Butterfly. An insect has wings that are NOT soft and folded, but ARE hard on top. Which classification does this insect belong to?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A student operates a wind-up toy robot. After winding up the spring, she releases it and watches the robot walk across the floor. The robot gradually slows down and stops. Which statement best describes the energy conversion happening in this toy?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Which of the following environmental changes would most likely cause long-lasting effects on both the natural environment and the animals living there?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"A student examines three materials and records their properties: Material A - solid, shiny, bends without breaking, conducts electricity easily. Material B - solid, shiny with a metallic luster, very hard, shatters when struck. Material C - solid, dull, breaks apart easily, does not conduct electricity. Based on these properties, which classification is most accurate?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"After eating a large meal with lots of sugar and carbohydrates, a person's blood sugar level rises. Which body system is responsible for producing the hormone that helps bring blood sugar back down to normal levels?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Geologists find identical rock formations and the same fossil species in South America and Africa, even though these continents are now separated by thousands of kilometers of ocean. Which explanation best accounts for this evidence?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]

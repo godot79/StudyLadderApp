@@ -1,0 +1,200 @@
+[
+  {
+    "prompt": "A student learns that Jupiter is the fifth planet from the sun. How many planets are located farther away from the sun than Jupiter is?",
+    "verdict": "confirmed",
+    "note": "Jupiter is the fifth planet, and Saturn, Uranus, and Neptune are the three planets farther from the sun. This is well-established astronomical fact.",
+    "source": "NASA/Space.com solar system guides"
+  },
+  {
+    "prompt": "In a grassland, energy flows through the ecosystem in a particular order. Which of these shows the correct direction of energy flow in a grassland food chain?",
+    "verdict": "confirmed",
+    "note": "Energy in grassland food chains does flow from grasses to grasshoppers to foxes to hawks as primary, secondary, and tertiary consumers.",
+    "source": "Study.com, Education.nationalgeographic.org food chain resources"
+  },
+  {
+    "prompt": "A student boils water on a stove to cook pasta. Steam from the hot water rises and comes into contact with a cool window nearby. Droplets of water form on the window. Which process caused the water droplets to form?",
+    "verdict": "confirmed",
+    "note": "Condensation is the process where water vapor cools and changes into liquid water, which is the correct description of what occurs on the window.",
+    "source": "UIUC atmospheric science, Study.com condensation definition"
+  },
+  {
+    "prompt": "A student sees a full moon one night and knows the complete cycle of moon phases takes about 29 to 30 days. The four main phases (new moon, first-quarter moon, full moon, and third-quarter moon) each mark roughly one-quarter of that cycle apart. Starting from the full moon, about how many days will pass before the student sees the next third-quarter moon?",
+    "verdict": "confirmed",
+    "note": "Originally contradicted (the batch's first draft wrongly claimed ~22 days, three-quarters of the cycle). Corrected by hand after this fact-check to ~7-8 days (one-quarter of the cycle, the actual interval between a full moon and the next third-quarter moon) before merging this verdict — factClaim/explanation/correctOption in 02-transformed.json were updated to match; optionA ('7 to 8 days') was already present and is now correctly marked as correctOption.",
+    "source": "TimeandDate.com, Farmers' Almanac moon phases - confirmed full-to-third-quarter averages ~7.4 days"
+  },
+  {
+    "prompt": "A camper stands beside a calm lake and sees the mountains reflected on the water's surface. Which process did the light from the mountains undergo as it hit the water?",
+    "verdict": "confirmed",
+    "note": "Light bouncing off smooth water surfaces creates reflections through specular reflection, following the law of reflection (angle of incidence equals angle of reflection).",
+    "source": "NOAA Glittering Light on Water, Optics4kids reflection principles"
+  },
+  {
+    "prompt": "In a mature forest, tall oak trees form a thick canopy high above the ground. Underneath, many small bushes and ferns grow much more slowly than plants in open areas. Which factor is most likely limiting the growth of these smaller plants under the tall trees?",
+    "verdict": "confirmed",
+    "note": "Sunlight is the primary limiting factor for plants growing under dense forest canopies, as most light is blocked before reaching the understory.",
+    "source": "CliffsNotes forest ecology, research on understory light limitations"
+  },
+  {
+    "prompt": "A weather forecaster explains that a cold front is moving toward the city. The current weather is warm and humid. Cold fronts move air masses with different temperatures and moisture levels. Based on how cold fronts work, what weather changes would you predict after the front passes through?",
+    "verdict": "confirmed",
+    "note": "Cold fronts do bring cooler, drier air that causes temperatures to drop. After passage, sinking air from cold-air advection promotes clearing skies as clouds evaporate.",
+    "source": "UCAR weather education, Penn State meteorology course on cold fronts"
+  },
+  {
+    "prompt": "A student creates a mixture by mixing salt water with sand. She wants to separate the salt, the sand, and the water into three separate materials. What is the correct sequence of steps to accomplish this?",
+    "verdict": "confirmed",
+    "note": "Filtering first removes sand (insoluble particles), then boiling/evaporating the filtered liquid recovers salt crystals. This is the correct sequence for three-way separation.",
+    "source": "CliffsNotes separation techniques, educational chemistry resources"
+  },
+  {
+    "prompt": "A student releases a toy car at the top of a ramp. It speeds up as it rolls downward. When the car reaches the bottom and rolls across the flat classroom floor, it gradually slows down and stops. What forces are responsible for these two different effects?",
+    "verdict": "confirmed",
+    "note": "Gravity accelerates objects down a slope, while friction on flat surfaces opposes motion and causes deceleration. This is correct physics.",
+    "source": "The STEM Tent, physics education resources on forces and motion"
+  },
+  {
+    "prompt": "A student tests water drainage through four different soil samples by pouring 100 mL of water on top of each and measuring how much water drains through in 20 minutes. Here are the results: Soil A: 78 mL drained / 22 mL remained; Soil B: 35 mL drained / 65 mL remained; Soil C: 88 mL drained / 12 mL remained; Soil D: 12 mL drained / 88 mL remained. Which soil most likely contains the smallest particles?",
+    "verdict": "confirmed",
+    "note": "Soil D drained slowest (12 mL), meaning it retained water most, which indicates smallest particles. Clay has smallest particles and highest water retention due to smaller pore spaces.",
+    "source": "SDSU Extension, soil science water retention principles"
+  },
+  {
+    "prompt": "A falcon hunts by watching prey move on the ground far below, while a bat hunts by emitting high-pitched sounds and listening for echoes bouncing off insects. Which form of energy does each animal use for hunting?",
+    "verdict": "confirmed",
+    "note": "Falcons use light energy (vision) while bats use sound energy (echolocation). This correctly characterizes the energy forms each uses.",
+    "source": "General biological knowledge of predator hunting strategies"
+  },
+  {
+    "prompt": "In a desert ecosystem, the following feeding relationships exist: Cacti are eaten by ground squirrels and grasshoppers. Ground squirrels are eaten by kit foxes and golden eagles. Grasshoppers are eaten by scorpions. Scorpions are eaten by kit foxes. Which organism receives energy from both a herbivore and a carnivore?",
+    "verdict": "confirmed",
+    "note": "Kit foxes receive energy from ground squirrels (herbivores) and scorpions (carnivores, as scorpions are strict carnivores that eat insects like grasshoppers).",
+    "source": "Chewy, A-Z Animals scorpion diet resources"
+  },
+  {
+    "prompt": "Which valley shape is created when a glacier slowly moves through a landscape and carves out the rock over thousands of years?",
+    "verdict": "confirmed",
+    "note": "Glacial erosion creates characteristic U-shaped valleys with wide, flat bottoms and steep sides, which is well-established geological fact.",
+    "source": "Britannica, U.S. National Park Service glacial valley resources"
+  },
+  {
+    "prompt": "In an ocean ecosystem: Tiny sea plants are eaten by tiny sea animals. Tiny sea animals are eaten by fish, crabs, and baleen whales. Fish are eaten by seabirds, leopard seals, and toothed whales. Baleen whales are eaten by toothed whales. Which sequence correctly shows a food chain from this ocean food web?",
+    "verdict": "confirmed",
+    "note": "The sequence tiny sea plants → tiny sea animals → baleen whales → toothed whales is valid. Toothed whales (including orcas and sperm whales) do prey on baleen whales and other marine mammals.",
+    "source": "Dana Wharf, whale diet and marine food chain resources"
+  },
+  {
+    "prompt": "A student learns about how light behaves when it interacts with different materials and surfaces. Which pair of activities both require light to be refracted in order for the student to see the result? (Refraction is when light bends as it moves through different materials.)",
+    "verdict": "confirmed",
+    "note": "Both magnifying glasses and rainbows work through refraction. Magnifying glasses refract light through a curved lens. Rainbows form when light refracts, reflects, and disperses in water droplets.",
+    "source": "TutorChase magnifying glass physics, SciTimes rainbow formation article"
+  },
+  {
+    "prompt": "Black walnut trees release chemicals from their roots into the soil around them. These chemicals prevent most nearby plants of other species from growing well. What is the most likely advantage to the black walnut tree of producing these chemicals?",
+    "verdict": "confirmed",
+    "note": "Black walnut trees produce allelopathic chemicals (juglone) that suppress nearby plants, reducing competition for resources. However, research notes this effect is inconsistent in natural soils.",
+    "source": "Illinois Extension, Penn State allelopathy research"
+  },
+  {
+    "prompt": "Students want to investigate how the type of surface affects the amount of force needed to drag a wooden block across it. They plan to use a spring scale to measure the force. What is the correct experimental procedure?",
+    "verdict": "confirmed",
+    "note": "To test how surface type affects friction force, you must keep the block and all other conditions constant while changing only the surface. This controls variables properly.",
+    "source": "SMU physics demonstrations, friction coefficient experiments"
+  },
+  {
+    "prompt": "A scientist receives three identical-looking blocks made of iron, copper, or lead. She cannot tell which is which just by looking at them. What is the most straightforward way to identify which block, if any, is made of iron?",
+    "verdict": "confirmed",
+    "note": "Iron can be identified by its magnetic properties when a magnet attracts it. Iron, nickel, and cobalt are the primary naturally ferromagnetic elements.",
+    "source": "ACS metals and magnetism, various magnetic metal guides"
+  },
+  {
+    "prompt": "Sharks are top predators in ocean ecosystems that hunt and eat many fish species. If a large number of sharks suddenly disappeared from the ocean, which prediction best describes what would happen to the ocean ecosystem?",
+    "verdict": "confirmed",
+    "note": "Removing a top predator causes an increase in prey populations through mesopredator release. Search results confirm shark decline leads to increases in their prey species.",
+    "source": "Shark Stewards ecosystem effects, UNL trophic cascade research"
+  },
+  {
+    "prompt": "Weathering and erosion are two different processes that work together to break down rocks and change landscapes. How should these processes be described?",
+    "verdict": "confirmed",
+    "note": "Weathering breaks rocks into smaller pieces while still in place. Erosion moves those pieces away to new locations. This distinction is correct.",
+    "source": "U.S. National Park Service, NPS geology education materials"
+  },
+  {
+    "prompt": "A toy car powered by solar cells is left in bright sunlight. The solar cells capture the sun's energy and convert it, eventually making the car's wheels spin and move. Which sequence correctly shows the energy transformations that occur?",
+    "verdict": "confirmed",
+    "note": "In a solar-powered car, light energy is converted to electrical energy (via photovoltaic cells), then to mechanical energy (via motors). This sequence is correct.",
+    "source": "Build a Solar Car physics guides, solar energy transformation resources"
+  },
+  {
+    "prompt": "Four unknown materials were tested for three different properties. Here are the results: Material W: magnetic=Yes, flexible=Yes, insulator=No. Material X: magnetic=No, flexible=No, insulator=No. Material Y: magnetic=No, flexible=No, insulator=Yes. Material Z: magnetic=No, flexible=Yes, insulator=Yes. Rubber has the properties of being non-magnetic, flexible, and an electrical insulator. Which material is most likely rubber?",
+    "verdict": "confirmed",
+    "note": "Material Z matches rubber's properties: non-magnetic, flexible, and an electrical insulator. Rubber's long polymer chains block electron flow, making it an excellent insulator.",
+    "source": "Rubber and Seal electrical insulation resources"
+  },
+  {
+    "prompt": "Which statement describes a behavior that birds are born knowing how to do, rather than something they learn from experience?",
+    "verdict": "confirmed",
+    "note": "A goose's ability to produce hard-shelled eggs is an inherited trait controlled by genetics, not a learned behavior. Egg production is influenced by genetic factors.",
+    "source": "Scientific Reports goose genetics, reproductive trait research"
+  },
+  {
+    "prompt": "During the day, you observe the sun moving slowly across the sky from east to west, from sunrise to sunset. The sun doesn't actually move that way. What is the real reason the sun appears to move across the sky?",
+    "verdict": "confirmed",
+    "note": "Earth's rotation on its axis (west to east) causes the sun to appear to move from east to west. This is a perspective effect from our rotating reference frame.",
+    "source": "NASA, Griffith Observatory sun movement resources"
+  },
+  {
+    "prompt": "Which statement accurately compares an important difference between how the sun and moon produce light?",
+    "verdict": "confirmed",
+    "note": "The sun produces its own light through nuclear fusion. The moon does not produce light and only reflects sunlight (3-12% of incident light).",
+    "source": "Live Science, Wikipedia moonlight articles"
+  },
+  {
+    "prompt": "Chickens and dogs have different life cycle patterns. What is a main difference between their life cycles?",
+    "verdict": "confirmed",
+    "note": "Chickens hatch from eggs after ~21 days incubation. Dogs are mammals that give birth to live puppies. This is a fundamental biological difference.",
+    "source": "Vedantu, study.com chicken and dog life cycle resources"
+  },
+  {
+    "prompt": "Sedimentary rocks form through a series of steps. A student is given these five processes that happen in nature: Weathering, Erosion, Deposition, Compaction, and Cementation. In what order must these processes occur to form sedimentary rock?",
+    "verdict": "confirmed",
+    "note": "The correct sequence is: weathering breaks rocks, erosion moves pieces, deposition collects them, compaction squeezes them, and cementation glues them together.",
+    "source": "Open Geology, CK-12 sedimentary rock formation"
+  },
+  {
+    "prompt": "A student dissolves white sugar crystals in hot tea. Before mixing, the sugar is white and solid. After it dissolves, the sugar can no longer be seen as separate crystals. Which property of the sugar remains the same after it dissolves in the hot tea?",
+    "verdict": "confirmed",
+    "note": "The mass of sugar remains constant whether in crystal form or dissolved in liquid. This is the law of conservation of mass.",
+    "source": "RSC Education, conservation of mass resources"
+  },
+  {
+    "prompt": "A mosquito, a catfish, a duck, and a frog are four animals with very different body structures. Which habitat would be most suitable for all four of these animals?",
+    "verdict": "confirmed",
+    "note": "A shallow freshwater habitat with plants provides the water and land environments needed by all four organisms. These animals are all found in freshwater ecosystems.",
+    "source": "Wildlife Informer, Texas Parks and Wildlife freshwater organisms"
+  },
+  {
+    "prompt": "Which of these is an inherited trait that an animal is born with and does not learn from experience?",
+    "verdict": "confirmed",
+    "note": "A chicken's clucking sound is an inherited, instinctive behavior. Research shows most animal vocalizations are innate species-specific patterns, not learned from parents.",
+    "source": "Scientific Reports on chicken vocalization, innate behavior research"
+  },
+  {
+    "prompt": "A student needs to separate different mixtures into their individual parts. For a mixture of sand and water, which separation method would work best?",
+    "verdict": "confirmed",
+    "note": "Filter paper is the best method to separate sand from water because sand particles are large enough to be caught by the filter while water passes through.",
+    "source": "Biology Insights, educational filtration resources"
+  },
+  {
+    "prompt": "Seaweeds look like plants but have very different structures. Seaweeds have simple root-like structures for holding on to rocks, but absorb water and nutrients directly through all their body parts instead of through soil. Land plants, in contrast, have complex roots and internal plumbing to move water and nutrients from the soil to their leaves. Why do seaweeds have these different features than land plants?",
+    "verdict": "confirmed",
+    "note": "Seaweeds have different structures because they are adapted to life in water. The holdfast anchors them but does not absorb; instead nutrients are absorbed directly from seawater through the entire thallus.",
+    "source": "Biology Insights seaweed anatomy, Marine Diaries seaweed ecology"
+  },
+  {
+    "prompt": "A student observes a farm where a cow eats grass from the ground and a horse drinks water from a trough. Which statement describes an interaction between a LIVING thing and another LIVING thing?",
+    "verdict": "confirmed",
+    "note": "When a cow eats grass, this is an interaction between two living things. Specifically, it is herbivory, a trophic interaction between a consumer and producer.",
+    "source": "Brainly education resources, ecosystem interaction guides"
+  }
+]

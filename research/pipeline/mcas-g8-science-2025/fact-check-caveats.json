@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Two tuning forks are struck. Fork P vibrates with a very large motion up and down (tall peaks and valleys) and completes 2 full cycles in one second. Fork Q vibrates with very small motion (barely visible peaks and valleys) but completes 5 full cycles in one second. Which statement best compares the energy of fork P with fork Q?",
+    "verdict": "confirmed",
+    "note": "Amplitude does increase energy, and 'louder/bigger amplitude = more energy' is the standard grade-school simplification. But it is an oversimplification here: mechanical wave energy scales with amplitude^2 AND frequency^2, so Fork Q's higher frequency (5 Hz vs 2 Hz) also contributes energy, and 'regardless of frequency' is not strictly true. The claim should not assert amplitude wins 'regardless of frequency' without a caveat, since with these specific numbers the actual answer depends on the amplitude ratio not being stated.",
+    "source": "https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/Book:_University_Physics_I_-_Mechanics_Sound_Oscillations_and_Waves_(OpenStax)/16:_Waves/16.05:_Energy_and_Power_of_a_Wave ; https://www.geeksforgeeks.org/physics/energy-of-a-wave-formula/"
+  },
+  {
+    "prompt": "In an ocean food web: Algae (producers) are eaten by Small fish. Small fish are eaten by Dolphins, Sea lions, and Great white sharks. The Great white shark is also eaten by the Killer whale. Which row correctly identifies the feeding role of each organism in this food web?",
+    "verdict": "confirmed",
+    "note": "Trophic-role logic (producer -> primary consumer -> secondary consumer, etc.) is correct and standard. Caveat: algae are not technically classified as 'plants' in strict biological taxonomy (many are protists), but calling them 'producers' (as the prompt itself does) is accurate, and referring to producers loosely as 'plants' is a common, acceptable simplification for this grade level as long as the question doesn't hinge on the plant/algae distinction.",
+    "source": "General biology curriculum on trophic levels and food-web classification (standard, uncontroversial); taxonomic note on algae vs. plants is general biology knowledge."
+  },
+  {
+    "prompt": "The snow hare population follows a cycle, peaking every 10 years. These hares eat shrubs and grasses. The hares are the main food for several predators including lynxes, eagles, and wolves. Why do you think the hare population keeps cycling up and down in this regular 10-year pattern?",
+    "verdict": "confirmed",
+    "note": "Confirmed with caveat: the classic ~8-10 year snowshoe hare/lynx boom-bust cycle is real and predator-prey dynamics (rising predator numbers driving prey decline, then predator decline allowing prey recovery) is the standard textbook explanation and is well supported. However, current ecological research indicates the cycle is also strongly driven by food-plant availability (hares depleting shrubs/grasses, which then need time to recover) and density-dependent factors like competition and parasitism, not predation alone. The prompt's framing (predators as 'the' driver) is the standard simplified answer for this grade level but omits the food-availability component that researchers consider equally or more important.",
+    "source": "https://www.gov.nt.ca/ecc/en/services/lynx/lynx-snowshoe-hare-cycle ; https://www.ealt.ca/blog/hare-vs-lynx-cycle ; https://www.pnas.org/doi/10.1073/pnas.94.10.5147"
+  },
+  {
+    "prompt": "A student tracks the Moon's phases starting from a full moon (completely lit). How long does it take for the Moon to go through all its phases and return to a full moon again?",
+    "verdict": "confirmed",
+    "note": "Confirmed with an important caveat: the ~29.5 day figure (full moon to full moon) is correct, but this is the SYNODIC month, not the time for 'one orbit around Earth.' One actual orbit relative to the stars (the sidereal month) takes only ~27.3 days; the extra ~2.2 days in the synodic month are needed because Earth itself has moved along its orbit around the Sun, so the Moon must travel a bit further to realign with the Sun-Earth line. The claim's phrasing ('corresponds to the Moon completing one orbit around Earth') conflates these two periods, which matters for a science-literacy claim about orbital mechanics.",
+    "source": "https://astro.dur.ac.uk/~ams/users/lunar_sid_syn.html ; https://www.sumanasinc.com/webcontent/animations/content/sidereal.html"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "prompt": "A forest manager plans to use controlled burns to clear dead wood from an old forest. What is the most likely positive effect this will have on the forest?",
+    "claim": "Controlled burns convert dead organic matter into nutrient-rich ash that replenishes soil fertility, supporting new plant growth.",
+    "verdict": "confirmed",
+    "note": "Confirmed that low-intensity controlled burns create nutrient-rich ash and improve soil fertility. Caveat: high-intensity fires can have opposite effects, though controlled burns are intentionally designed to burn at lower temperatures.",
+    "source": "https://www.aces.edu/blog/topics/fire/fire-and-fertility-comparing-prescribed-burns-and-wildfires/"
+  }
+]

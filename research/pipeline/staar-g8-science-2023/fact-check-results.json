@@ -1,0 +1,177 @@
+[
+  {
+    "prompt": "Sirius is a star that appears very bright when you look up at the night sky. Which of the following statements about Sirius is true?",
+    "claim": "Sirius is the brightest star visible in Earth's night sky (excluding the Sun).",
+    "verdict": "confirmed",
+    "note": "Item rewritten after fact-check caught that the original claim (Sirius as the closest star after the Sun) was wrong - Proxima Centauri is closest (4.24 ly), Sirius is 8.6 ly away, only the 5th-closest system. Corrected to the actually-true, well-established claim: Sirius is the brightest star in Earth's night sky.",
+    "source": "https://earthsky.org/astronomy-essentials/proxima-centauri-our-suns-nearest-neighbor/ (for the original error); brightest-star status is standard astronomy (e.g. NASA/EarthSky Sirius pages)."
+  },
+  {
+    "prompt": "A teacher explains the core ideas of cell theory to a class. Which statement is the most important principle of modern cell theory?",
+    "claim": "Cell theory states that all cells arise from the division of pre-existing cells, not from non-living material.",
+    "verdict": "confirmed",
+    "note": "This is the core principle of modern cell theory, expressed as 'omnis cellula e cellula' (all cells from cells), first formally stated by Rudolf Virchow in 1858.",
+    "source": "https://bio.libretexts.org/Courses/Prince_Georges_Community_College/PGCC_Microbiology/03:_Cell_Structure_and_Function/3.02:_Cells_and_Cell_Theory"
+  },
+  {
+    "prompt": "A student measures a sample and finds: Mass = 89 grams, Volume = 10 cubic centimeters. The student has a reference table of material densities: Pine wood 0.6 g/cm\u00b3, Aluminum 2.7 g/cm\u00b3, Copper 8.9 g/cm\u00b3, Silver 10.5 g/cm\u00b3 (all in g/cm\u00b3). Based on density alone, which material is the sample most likely made of?",
+    "claim": "A sample with mass 89 g and volume 10 cm^3 has a density of 8.9 g/cm^3 (mass divided by volume), which matches the known density of copper.",
+    "verdict": "confirmed",
+    "note": "The calculation is correct: 89g \u00f7 10cm\u00b3 = 8.9 g/cm\u00b3. The actual density of pure copper is 8.96 g/cm\u00b3, so 8.9 is a standard approximation.",
+    "source": "https://www.mechgrace.com/2026/01/density-of-copper-chart.html?m=1"
+  },
+  {
+    "prompt": "A forest manager plans to use controlled burns to clear dead wood from an old forest. What is the most likely positive effect this will have on the forest?",
+    "claim": "Controlled burns convert dead organic matter into nutrient-rich ash that replenishes soil fertility, supporting new plant growth.",
+    "verdict": "confirmed",
+    "note": "Confirmed that low-intensity controlled burns create nutrient-rich ash and improve soil fertility. Caveat: high-intensity fires can have opposite effects, though controlled burns are intentionally designed to burn at lower temperatures.",
+    "source": "https://www.aces.edu/blog/topics/fire/fire-and-fertility-comparing-prescribed-burns-and-wildfires/"
+  },
+  {
+    "prompt": "A student dissolves sugar in hot water and notices the water turns clear and sweet. Another student heats bread dough in an oven for 20 minutes, and it becomes a solid, brown, crunchy loaf. Which activity is the best example of a chemical reaction?",
+    "claim": "Baking bread is a chemical reaction because heat causes the ingredients to form new substances with different properties than the original ingredients.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Baking bread involves multiple chemical reactions including yeast fermentation (producing CO\u2082 and ethanol), starch gelatinization, and the Maillard reaction (creating brown crust and new flavors).",
+    "source": "https://www.compoundchem.com/2016/01/13/bread/"
+  },
+  {
+    "prompt": "Meteorologists study which conditions help tropical storms grow into hurricanes. Which of the following factors is most important for hurricane formation?",
+    "claim": "Hurricanes form over warm ocean water above 26\u00b0C (80\u00b0F), which causes evaporation and atmospheric instability needed to create the storm system.",
+    "verdict": "confirmed",
+    "note": "Confirmed that warm ocean water above 26\u00b0C is essential for hurricane formation. Most sources cite 26\u00b0C or 26.5\u00b0C as the threshold temperature needed for evaporation and atmospheric instability.",
+    "source": "https://www.aoml.noaa.gov/hrd/tcfaq/A16.html"
+  },
+  {
+    "prompt": "A scientist studies different atoms of the element carbon. Some atoms have 6 neutrons, while others have 8 neutrons. What is the same about all of these carbon atoms?",
+    "claim": "The atomic number (number of protons) determines an atom's identity as a specific element; all atoms of the same element have the same number of protons.",
+    "verdict": "confirmed",
+    "note": "Confirmed. The atomic number uniquely identifies an element; carbon atoms all have 6 protons regardless of neutron count (isotopes). This is a fundamental principle of chemistry.",
+    "source": "https://www.khanacademy.org/science/biology/history-of-life-on-earth/radiometric-dating/a/atomic-number-atomic-mass-and-isotopes-article"
+  },
+  {
+    "prompt": "A scientist studies a model of an atom. The nucleus contains 16 subatomic particles. Of these particles, 6 have no electrical charge. Which statement about this atom is correct?",
+    "claim": "In an atom with 16 total nucleus particles where 6 have no electrical charge (neutrons), the remaining 10 particles are protons (16 minus 6 equals 10).",
+    "verdict": "confirmed",
+    "note": "The mathematical calculation is correct: 16 - 6 = 10 protons. This would describe an atom with atomic number 10 (neon). The logic and arithmetic are sound.",
+    "source": "https://chem.libretexts.org/Bookshelves/Introductory_Chemistry/The_Basics_of_General_Organic_and_Biological_Chemistry_(Ball_et_al.)/02:_Elements_Atoms_and_the_Periodic_Table/2.04:_Nuclei_of_Atoms"
+  },
+  {
+    "prompt": "A student puts a drop of blue food coloring into a clear glass of water. The water turns light blue. A test shows that the water molecules and coloring molecules are still separate and unchanged. What does this tell us about the color change?",
+    "claim": "Mixing food coloring with water is a physical change because no new substances form - the original water and coloring molecules remain chemically unchanged.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Food coloring in water is a classic example of a physical change where the coloring molecules disperse and mix but undergo no chemical transformation.",
+    "source": "https://www.ck12.org/flexi/physical-science/Chemical-Change/is-dropping-food-color-into-water-to-give-it-a-color-a-physical-or-chemical-change/"
+  },
+  {
+    "prompt": "Two children push on opposite sides of a toy wagon on a smooth ice rink. One child pushes with a force of 35 newtons to the left. The other pushes with a force of 60 newtons to the right. What happens to the wagon?",
+    "claim": "When a 60 N force and a 35 N force act in opposite directions on the same object, the net force is 25 N (60 minus 35) in the direction of the larger force.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Net force calculation is correct: 60 N - 35 N = 25 N. The direction is toward the larger force, following the principle that opposite forces are subtracted.",
+    "source": "https://www.physicsclassroom.com/class/newtlaws/lesson-2/determining-the-net-force"
+  },
+  {
+    "prompt": "Fishing records show that the percentage of overfished ocean areas has increased over decades: 1980: 10%, 1995: 22%, 2010: 32%, 2025: 40%. To reverse this trend and allow fish populations to recover, which approach would be most effective?",
+    "claim": "Allowing juvenile fish to return to the ocean and mature enables populations to reproduce and recover from overfishing.",
+    "verdict": "confirmed",
+    "note": "Confirmed that protecting juvenile fish populations is critical to recovery. Phrasing is slightly awkward (the action is protecting juveniles from fishing, not 'returning' them), but the concept is accurate; research shows juvenile protection is essential for population recovery.",
+    "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11539050/"
+  },
+  {
+    "prompt": "A basketball player holds a ball at shoulder height, then drops it. At which moment does the ball have the most stored-up energy (potential energy) due to its height?",
+    "claim": "Gravitational potential energy is greatest at maximum height, so a dropped object has maximum potential energy just before release.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Gravitational potential energy is calculated as PE = mgh, so it is maximum at the greatest height. Just before release at shoulder height is when the ball has maximum gravitational potential energy.",
+    "source": "https://phys.libretexts.org/Courses/Prince_Georges_Community_College/PHY_1030:_General_Physics_I/05:_Uniform_Circular_Motion_and_Gravitation/5.7:_Gravitational_Potential_Energy"
+  },
+  {
+    "prompt": "The Andes Mountains in South America formed along the boundary where the Nazca Plate and the South American Plate meet. The Nazca Plate is moving beneath the South American Plate. Which type of plate boundary exists at this location?",
+    "claim": "Subduction zones where one plate moves beneath another are convergent boundaries, characterized by plates moving toward each other and producing mountain-building.",
+    "verdict": "confirmed",
+    "note": "Confirmed. The Andes are formed at a convergent boundary where the Nazca Plate subducts beneath the South American Plate, producing the mountain range over 7,500 km long.",
+    "source": "https://www.britannica.com/science/Nazca-Plate"
+  },
+  {
+    "prompt": "A tennis player swings a racket and hits a tennis ball. According to Newton's Third Law of Motion, which statement correctly describes the forces between the racket and ball?",
+    "claim": "Newton's Third Law states that forces always come in equal and opposite pairs between interacting objects.",
+    "verdict": "confirmed",
+    "note": "Confirmed. This is the accurate statement of Newton's Third Law: for every action there is an equal and opposite reaction, with forces always occurring in pairs between interacting objects.",
+    "source": "https://www.physicsclassroom.com/class/newtlaws/Lesson-4/Newton-s-Third-Law"
+  },
+  {
+    "prompt": "A researcher watching a car accelerate records these measurements: the car's mass is 1,200 kilograms, it accelerates from rest for 6 seconds at a steady rate of 3 m/s\u00b2, and it travels 54 meters during this time. To find the net force on the car, which two pieces of information are essential?",
+    "claim": "The formula F=ma requires only mass and acceleration to calculate net force; distance and time are not necessary for this calculation.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Newton's second law F = ma requires only mass and acceleration. Distance and time help verify the motion but are not needed for the F=ma calculation.",
+    "source": "https://www.britannica.com/science/Newtons-laws-of-motion/Newtons-second-law-F-ma"
+  },
+  {
+    "prompt": "A student uses a classification key to identify an insect. Step 1: Does it have wings? If yes, go to 2. If no, go to 5. Step 2: Are the wings soft and folded? If yes, go to 3. If no, go to 4. Step 3: Does it have a long thin tail? If yes, it's a Silverfish. If no, it's a Beetle. Step 4: Are its wings hard on top? If yes, it's a Dragonfly. If no, it's a Butterfly. An insect has wings that are NOT soft and folded, but ARE hard on top. Which classification does this insect belong to?",
+    "claim": "Dichotomous keys require systematic step-by-step elimination to arrive at a correct classification.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Dichotomous keys work through sequential binary choices that progressively eliminate possibilities until a single classification remains.",
+    "source": "https://ww2.georgiasouthern.edu/cosm/mbi/dichotomous-key-insect/"
+  },
+  {
+    "prompt": "A sea anemone reproduces by budding, where a small bump grows on the parent organism and eventually breaks off to become a new, independent anemone. Which statement accurately describes this type of reproduction?",
+    "claim": "Budding is a form of asexual reproduction that produces genetically identical offspring from a single parent organism.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Budding is asexual reproduction where the offspring are clones (genetically identical) to the parent, passing directly from parent to offspring via mitotic division.",
+    "source": "https://microbenotes.com/budding-asexual-reproduction/"
+  },
+  {
+    "prompt": "Scientists study how a river's path changes over a 40-year period using satellite images from 1985, 2005, and 2025. The river's path has shifted significantly. Which factor is most responsible for these changes?",
+    "claim": "River channels change shape primarily through erosion caused by flowing water wearing away the banks and bed over time.",
+    "verdict": "confirmed",
+    "note": "Confirmed. River morphology is shaped primarily by fluvial erosion through vertical and lateral erosion processes as flowing water wears away banks and beds.",
+    "source": "https://www.internetgeography.net/geotopics/how-do-rivers-erode/"
+  },
+  {
+    "prompt": "Under a microscope, a student observes a cell with two distinctive features: a rigid outer layer and a large sac taking up much of the cell's volume. Based on these features, what can the student correctly conclude?",
+    "claim": "Plant cells have cell walls that provide structure and large vacuoles that store water and nutrients; animal cells lack both of these features.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Plant cells have cell walls (rigid cellulose layer) and large central vacuoles (up to 80% of cell volume). Animal cells lack both; they have only cell membranes and small vacuoles if any.",
+    "source": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/General_Biology_(Boundless)/04%3A_Cell_Structure/4.10%3A_Eukaryotic_Cells_-_Comparing_Plant_and_Animal_Cells"
+  },
+  {
+    "prompt": "A student operates a wind-up toy robot. After winding up the spring, she releases it and watches the robot walk across the floor. The robot gradually slows down and stops. Which statement best describes the energy conversion happening in this toy?",
+    "claim": "A wind-up toy converts stored potential energy in the spring into kinetic energy for movement, with some energy lost to heat through friction.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Wind-up toys convert elastic potential energy (from the wound spring) into kinetic energy of motion, with friction converting kinetic energy into thermal energy (heat), slowing the toy until it stops.",
+    "source": "https://www.vedantu.com/question-answer/does-winding-a-toy-cause-movement-of-the-toy-class-11-physics-cbse-5fa8d19c57895c0dcc6fcf57"
+  },
+  {
+    "prompt": "An astronomer wants to observe the Moon when it is full. Right now, the Moon is in its first quarter phase (half visible). The lunar month is approximately 30 days long. How many days should the astronomer expect to wait before seeing a full moon?",
+    "claim": "A lunar month is about 29.5-30 days long; the Moon takes roughly one quarter of that cycle (about 7-8 days) to go from first quarter phase to full moon.",
+    "verdict": "confirmed",
+    "note": "Confirmed. A lunar month (synodic month) is 29.53 days. First quarter occurs at ~7.4 days, full moon at ~14-15 days, so the wait from first quarter to full moon is approximately 7-8 days.",
+    "source": "https://www.timeanddate.com/astronomy/moon/phases.html"
+  },
+  {
+    "prompt": "Which of the following environmental changes would most likely cause long-lasting effects on both the natural environment and the animals living there?",
+    "claim": "Wetland destruction causes long-term environmental degradation by permanently altering water cycling, habitat, and breeding grounds for multiple species.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Wetland destruction permanently alters water cycles (flood/drought impacts), eliminates critical habitat, and disrupts breeding grounds, causing long-term cascading ecological effects.",
+    "source": "https://www.vaia.com/en-us/explanations/environmental-science/ecological-conservation/wetland-destruction/"
+  },
+  {
+    "prompt": "A student examines three materials and records their properties: Material A - solid, shiny, bends without breaking, conducts electricity easily. Material B - solid, shiny with a metallic luster, very hard, shatters when struck. Material C - solid, dull, breaks apart easily, does not conduct electricity. Based on these properties, which classification is most accurate?",
+    "claim": "Metals conduct electricity and are malleable; metalloids are shiny but brittle; nonmetals are dull and poor conductors of electricity.",
+    "verdict": "confirmed",
+    "note": "Confirmed. The classification is accurate: metals conduct electricity and are malleable/ductile (Material A); nonmetals are dull and poor conductors (Material C). Material B's brittleness and hardness suggest a metalloid or brittle metal like silicon.",
+    "source": "https://chem.libretexts.org/Courses/Mount_Royal_University/Chem_1201/Unit_2._Periodic_Properties_of_the_Elements/2.11:_Metals_Nonmetals_and_Metalloids"
+  },
+  {
+    "prompt": "After eating a large meal with lots of sugar and carbohydrates, a person's blood sugar level rises. Which body system is responsible for producing the hormone that helps bring blood sugar back down to normal levels?",
+    "claim": "The endocrine system, specifically the pancreas, produces insulin to regulate blood sugar levels by enabling cells to absorb glucose.",
+    "verdict": "confirmed",
+    "note": "Confirmed. The pancreas is part of the endocrine system and produces insulin via beta cells. Insulin allows cells to absorb glucose from blood, lowering blood sugar levels.",
+    "source": "https://www.endocrine.org/patient-engagement/endocrine-library/hormones-and-endocrine-function/pancreas-hormones"
+  },
+  {
+    "prompt": "Geologists find identical rock formations and the same fossil species in South America and Africa, even though these continents are now separated by thousands of kilometers of ocean. Which explanation best accounts for this evidence?",
+    "claim": "Matching rock formations and fossil species across now-separated continents provide evidence for continental drift, indicating the continents were once connected.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Identical fossils (Mesosaurus, Cynognathus) and matching ancient rock formations (gold-bearing rocks of Ghana and Brazil) across the Atlantic provide strong evidence that South America and Africa were once joined.",
+    "source": "https://www.britannica.com/science/continental-drift-geology"
+  }
+]

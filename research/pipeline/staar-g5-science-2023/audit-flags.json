@@ -1,0 +1,7 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Sedimentary rocks form through a series of steps. A student is given these five processes that happen in nature: Weathering, Erosion, Deposition, Compaction, and Cementation. In what order must these processes occur to form sedimentary rock?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]

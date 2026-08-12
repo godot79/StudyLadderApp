@@ -2068,5 +2068,95 @@
     "correctOption": "B",
     "explanation": "The event horizon is the boundary around a black hole beyond which the escape velocity exceeds the speed of light, so nothing — not even light — can escape.",
     "levelBand": "Age 11 High Achiever"
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student learns that Jupiter is the fifth planet from the sun. How many planets are located farther away from the sun than Jupiter is?",
+    "optionA": "One",
+    "optionB": "Two",
+    "optionC": "Three",
+    "optionD": "Four",
+    "correctOption": "C",
+    "explanation": "Beyond Jupiter, there are three planets: Saturn, Uranus, and Neptune. These are the only planets farther from the sun than Jupiter."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A student sees a full moon one night and knows the complete cycle of moon phases takes about 29 to 30 days. The four main phases (new moon, first-quarter moon, full moon, and third-quarter moon) each mark roughly one-quarter of that cycle apart. Starting from the full moon, about how many days will pass before the student sees the next third-quarter moon?",
+    "optionA": "7 to 8 days",
+    "optionB": "15 days",
+    "optionC": "22 days",
+    "optionD": "30 days",
+    "correctOption": "A",
+    "explanation": "The moon's cycle is about 29 to 30 days long, split into four roughly equal quarters between the main phases (new -> first-quarter -> full -> third-quarter -> new). From a full moon, the third-quarter moon is just the very next quarter-step, which is about one-quarter of the cycle, or roughly 7 to 8 days."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "During the day, you observe the sun moving slowly across the sky from east to west, from sunrise to sunset. The sun doesn't actually move that way. What is the real reason the sun appears to move across the sky?",
+    "optionA": "Earth is moving around the sun in its yearly orbit",
+    "optionB": "Earth is spinning (rotating) on its axis",
+    "optionC": "The sun is actually moving through space away from Earth",
+    "optionD": "The sky itself is rotating around Earth",
+    "correctOption": "B",
+    "explanation": "Earth rotates on its axis once every 24 hours. As Earth spins, it brings different parts into and out of sunlight. From our perspective on Earth's surface, this makes the sun appear to move across the sky."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which statement accurately compares an important difference between how the sun and moon produce light?",
+    "optionA": "Both the sun and the moon create their own light energy",
+    "optionB": "The sun creates its own light, while the moon only reflects light from the sun",
+    "optionC": "The moon creates its own light, while the sun simply reflects light from stars",
+    "optionD": "Neither the sun nor the moon produces or reflects any visible light",
+    "correctOption": "B",
+    "explanation": "The sun is a star that generates its own light through nuclear fusion. The moon has no light source of its own and only reflects sunlight. We see the moon because it bounces light from the sun toward us."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Over several weeks, you observe the Moon in the night sky. Some nights it appears as a thin crescent, other nights it looks completely round and full, and on other nights most of it is dark. You notice this pattern repeats over time. What is this changing appearance of the Moon an example of?",
+    "optionA": "a mechanical process",
+    "optionB": "a transfer of energy",
+    "optionC": "a natural cycle",
+    "optionD": "a weather pattern",
+    "correctOption": "C",
+    "explanation": "The Moon's changing shape follows a regular, repeating pattern called a lunar cycle or natural cycle. This happens because of the Moon's position relative to Earth and the Sun as the Moon orbits Earth."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "If you observe the patterns of stars in the night sky from the same place on Earth throughout an entire year, you notice the star patterns shift and change. At the end of the year, the same stars appear in the same positions again. How long does it take for Earth to complete one full orbit around the Sun?",
+    "optionA": "one week",
+    "optionB": "one year",
+    "optionC": "one month",
+    "optionD": "one day",
+    "correctOption": "B",
+    "explanation": "Earth takes one full year (approximately 365 days) to travel completely around the Sun and return to the same position in its orbit."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Throughout a 24-hour day, you see the Sun move across the sky from east to west. It appears low on the horizon in the morning, high overhead at noon, and low again in the evening. What causes this daily movement of the Sun across the sky?",
+    "optionA": "Earth's revolution around the Sun",
+    "optionB": "the Sun's actual movement through space",
+    "optionC": "the Sun's rotation on its axis",
+    "optionD": "Earth's rotation on its axis",
+    "correctOption": "D",
+    "explanation": "The Sun appears to move across the sky because Earth is rotating (spinning) on its axis. As Earth rotates from west to east, it makes the Sun appear to move from east to west."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A tall flagpole stands in an open field. In the morning, the flagpole's shadow stretches long across the ground. At noon, the shadow becomes very short. By evening, the shadow stretches long again, pointing in a different direction. These changes in the shadow are caused by changes in:",
+    "optionA": "the flagpole's height",
+    "optionB": "the flagpole's material and density",
+    "optionC": "the Sun's position in the sky",
+    "optionD": "the ground's surface texture",
+    "correctOption": "C",
+    "explanation": "As the Sun appears to move across the sky throughout the day, the angle of sunlight hitting the flagpole changes. This changes the length and direction of the shadow. Shadows are caused by the position of the light source (the Sun)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Read each statement about the Sun's energy and its effects. Which one describes a harmful effect of the Sun's light and radiation on a living thing?",
+    "optionA": "Plants use sunlight to grow and make their own food",
+    "optionB": "A person's skin gets burned from too much sun exposure",
+    "optionC": "A cold-blooded animal warms itself by basking in sunlight",
+    "optionD": "Solar panels convert sunlight into electricity",
+    "correctOption": "B",
+    "explanation": "The Sun's ultraviolet (UV) radiation can damage skin cells if exposure is too long or intense, causing a painful sunburn. While sunlight has many beneficial uses, excessive exposure can be harmful."
   }
 ]

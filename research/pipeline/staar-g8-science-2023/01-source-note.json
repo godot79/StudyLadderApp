@@ -1,0 +1,24 @@
+{
+  "source": "Texas STAAR Grade 8 Science, 2023 Redesign Practice Assessment",
+  "url": "https://tea.texas.gov/student-assessment/staar/released-test-questions/2023-staar-redesign-8-science-practice-test.pdf",
+  "sourceAgency": "Texas Education Agency (tea.texas.gov)",
+  "verifiedLive": true,
+  "verifiedLiveNote": "Downloaded 2026-08-12, confirmed a real PDF (not an HTML error page), 38 numbered items, STAAR branding, Copyright 2023 TEA.",
+  "differentFromPriorBatch": "Different admin/document than research/pipeline/staar-g8-science-2022/ (that batch was the May 2022 released test, 33 items). This is TEA's '2023 Redesign' Grade 8 Science Practice Assessment, a different document, different item pool (item codes in the 82xxx/76xxx/86xxx/89xxx range, distinct from the 2022 batch's items).",
+  "answerKeyCaveat": "IMPORTANT: TEA also publishes '2023-staar-science-grade-8-answer-key.pdf' (data-reports domain), but on inspection its Appendix content (sodium sulfate formula, Hertzsprung-Russell drag-and-drop, block-sliding-friction free response, 5-element metal/nonmetal/metalloid table) does NOT match this Practice Assessment PDF's actual item content (sun/star facts, cell theory, density-of-wood-sample, hurricane formation, etc.) despite both being labeled Grade 8 Science items 1-38. That key belongs to a different underlying item set (likely the current online test form, which reuses the STAAR item bank differently than this legacy-style PDF practice form). Treat this source the same as the NY Social Studies 2006 batch and STAAR G5 Science 2022 batch: NO verified official key exists for these specific items. Correct answers below were derived by direct science-content reasoning (grade-8-level physics/chemistry/biology/earth-space science), not copied from any key. Flagged for extra human scrutiny per README.md's precedent for sources lacking a matching answer key.",
+  "totalItemsInSource": 38,
+  "usableExtracted": 28,
+  "deferredCount": 10,
+  "deferredItems": [
+    {"num": 7, "reason": "food web diagram (8+ nodes with multiple predator/prey arrows) - too complex to restate reliably in text without risking a wrong topology, same caution as the 2022 STAAR G8 batch's deferred food web"},
+    {"num": 8, "reason": "requires reading exact position values off a distance-time graph plot to determine speed segments - image-dependent"},
+    {"num": 9, "reason": "requires visually comparing 4 Earth/Sun tilt diagrams - image-dependent"},
+    {"num": 12, "reason": "food web diagram (9 nodes) - same class of risk as item 7"},
+    {"num": 13, "reason": "requires reading a labeled convection-current diagram (locations R/T, arrow directions) - image-dependent"},
+    {"num": 18, "reason": "Hertzsprung-Russell diagram - requires plotting/reading a specific data point (3750K, 10^3 Lsun) against a scatter plot region - image-dependent, same type deferred in the 2022 STAAR G8 batch"},
+    {"num": 21, "reason": "requires reading globe/flashlight diagram with labeled points J/K/L/M - image-dependent"},
+    {"num": 23, "reason": "topographic contour map - image-dependent, same type deferred in the 2022 STAAR G8 batch"},
+    {"num": 25, "reason": "requires reading a multi-curve bacteria-growth-temperature graph to answer two open-response sub-questions - image-dependent"},
+    {"num": 38, "reason": "requires identifying 4 labeled element positions on a blank periodic table grid - image-dependent"}
+  ]
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "sourceItem": "1",
+    "raw": "Two waves, X and Y, are shown in a diagram. Wave X is drawn with a large amplitude (tall crests/troughs) and completes about 3 full wave cycles across the diagram width. Wave Y is drawn with a much smaller amplitude (short crests/troughs) but completes about 4 full wave cycles across the same width (so wave Y has a shorter wavelength than wave X). Question: Which of the following best compares the energy of wave X with the energy of wave Y? A) Wave X has more energy than wave Y because wave X has a larger amplitude. B) Wave X has less energy than wave Y because wave X has a smaller wavelength. C) Wave X has the same amount of energy as wave Y because waves X and Y have the same amplitude. D) Wave X has the same amount of energy as wave Y because waves X and Y have the same wavelength.",
+    "correctAnswer": "A",
+    "reasoning": "Wave energy increases with amplitude; wave X has the larger amplitude, so it has more energy. B, C, D are all factually wrong about the diagram (X does not have a smaller wavelength than Y - it has a larger one; the amplitudes are not the same; the wavelengths are not the same)."
+  },
+  {
+    "sourceItem": "2",
+    "raw": "A map shows part of the land masses from 90 million years ago that became North America; the areas that became Oklahoma and Massachusetts are outlined. Question: Which of the following best explains why Oklahoma has more oil and natural gas than Massachusetts today? A) Part of Massachusetts was once covered by plant life, but Oklahoma was not. B) Part of Massachusetts was once covered by large rocks, but Oklahoma was not. C) Part of Oklahoma was once covered by fresh water, but Massachusetts was not. D) Part of Oklahoma was once covered by shallow oceans, but Massachusetts was not.",
+    "correctAnswer": "D",
+    "reasoning": "Oil and natural gas form primarily from the remains of marine organisms in ancient shallow seas/oceans over millions of years. Oklahoma was covered by shallow oceans in the geologic past; Massachusetts was not, which is why Oklahoma has much larger oil/gas deposits today."
+  },
+  {
+    "sourceItem": "3",
+    "raw": "Students compared four designs (1-4) for a set of dog stairs, each 100 cm tall, with this data table: Design 1: cardboard, mass of stairs 1 kg, mass stairs can hold 15 kg, 2 steps. Design 2: wood, mass 4 kg, holds 30 kg, 3 steps. Design 3: wood and cardboard, mass 3 kg, holds 25 kg, 5 steps. Design 4: wood and metal, mass 5 kg, holds 50 kg, 4 steps. The students determined design 3 was best. Question: Which of the following criteria was the MOST important for evaluating the stair designs? A) being as lightweight as possible B) holding as much mass as possible C) being made of the strongest materials D) having the shortest height between steps",
+    "correctAnswer": "D",
+    "reasoning": "Design 3 is not the lightest (design 1 is lighter), does not hold the most mass (design 4 holds more), and is not made of the strongest materials (design 4 uses metal). What makes design 3 stand out is having the most steps (5) over the same 100 cm height, meaning the shortest, most manageable height between each step - important for a small dog climbing onto furniture. So D is the deciding criterion."
+  },
+  {
+    "sourceItem": "4",
+    "raw": "A diagram shows a cold, dry air mass moving toward a warm, moist air mass near a city; the cold air mass is shown sliding underneath/pushing into the warm air mass. Question: Which of the following describes what will happen as the air masses interact? A) The air in the city will become cooler, and the skies above the city will become clear. B) The air in the city will become cooler, and the skies above the city will become cloudy. C) The air in the city will become warmer, and the skies above the city will become clear. D) The air in the city will become warmer, and the skies above the city will become cloudy.",
+    "correctAnswer": "B",
+    "reasoning": "A cold front pushing into warm, moist air forces the warm air upward; as it rises it cools, and its moisture condenses, producing clouds (often precipitation). The city, now under the invading cold air, becomes cooler. So the city gets cooler AND cloudy - answer B."
+  },
+  {
+    "sourceItem": "5a",
+    "raw": "Background passage: A Canada lynx is a mid-sized wild cat living in cold, snowy forests of Alaska and Canada; it hunts alone at night using excellent eyesight, covering large areas to find prey. The Canada lynx is part of a food web: Grass, Grey willow, and White spruce (producers) are eaten by Ground squirrel, Willow ptarmigan, and Snowshoe hare (primary consumers); the Snowshoe hare is eaten by the Great horned owl, the Red fox, AND the Canada lynx (all three prey on the snowshoe hare); the Ground squirrel is eaten by the Great horned owl; the Willow ptarmigan is eaten by the Red fox. Question: Which of the following describes the Canada lynx's relationship with the red fox? A) competitive B) mutually beneficial C) parasitic D) predatory",
+    "correctAnswer": "A",
+    "reasoning": "Both the Canada lynx and the red fox hunt and eat the same prey (the snowshoe hare) but do not eat each other and gain no benefit from each other directly - two species competing for the same food source have a competitive relationship."
+  },
+  {
+    "sourceItem": "5b",
+    "raw": "Same food web as 5a (Canada lynx forest ecosystem: producers grass/grey willow/white spruce -> primary consumers ground squirrel/willow ptarmigan/snowshoe hare -> the snowshoe hare is eaten by great horned owl, red fox, and Canada lynx; willow ptarmigan is also eaten by red fox). Question: Which of the following describes the red fox's relationship with the snowshoe hare? A) competitive B) mutually beneficial C) parasitic D) predatory",
+    "correctAnswer": "D",
+    "reasoning": "The red fox hunts and eats the snowshoe hare directly - one organism kills and consumes another for food, which is a predator-prey (predatory) relationship."
+  },
+  {
+    "sourceItem": "6",
+    "raw": "Same food web as 5a/5b. Question: Based on the food web, which of the following best shows the ecological roles of the Canada lynx, the white spruce, and the snowshoe hare? A) Canada lynx = primary consumer, white spruce = producer, snowshoe hare = secondary consumer. B) Canada lynx = secondary consumer, white spruce = producer, snowshoe hare = primary consumer. C) Canada lynx = producer, white spruce = secondary consumer, snowshoe hare = primary consumer. D) Canada lynx = primary consumer, white spruce = secondary consumer, snowshoe hare = producer.",
+    "correctAnswer": "B",
+    "reasoning": "White spruce is a plant, so it is a producer (makes its own food via photosynthesis). The snowshoe hare eats the white spruce directly, making it a primary consumer (eats producers). The Canada lynx eats the snowshoe hare (a primary consumer), making the lynx a secondary consumer (eats primary consumers). This matches option B exactly."
+  },
+  {
+    "sourceItem": "7a",
+    "raw": "A graph shows the population of Canada lynx in northwest Canada from 1880 to 1920. The population rises and falls in a repeating wave pattern with peaks occurring at approximately 1887, 1897, 1907, and 1917, and troughs (low points) in between at approximately 1882, 1892, 1902, and 1912. Question: The Canada lynx population peaks about every A) 2 years. B) 5 years. C) 10 years. D) 20 years.",
+    "correctAnswer": "C",
+    "reasoning": "The peaks occur at roughly 1887, 1897, 1907, 1917 - each about 10 years apart. So the population peaks about every 10 years."
+  },
+  {
+    "sourceItem": "7b",
+    "raw": "Same lynx population graph and cycle as 7a (peaks roughly every 10 years, 1880-1920, northwest Canada). Recall the food web: snowshoe hares are the lynx's main prey. Question: These population peaks are most likely caused by A) a decrease in grassy fields. B) an increase in snowshoe hares. C) an increase in great horned owls. D) a decrease in Canada lynx births.",
+    "correctAnswer": "B",
+    "reasoning": "Snowshoe hare populations are well known to cycle roughly every 8-11 years, and lynx populations (their main predator) rise and fall shortly after hare populations do, because more available prey (hares) supports more lynx survival and reproduction. An increase in snowshoe hares is the most likely driver of a lynx population peak."
+  },
+  {
+    "sourceItem": "11",
+    "raw": "A student places two bars, bar X and bar Y, on a table, not touching each other. The student slides bar X toward bar Y. This causes bar Y to move in the same direction as bar X, even though the bars never touch. Question: Why does bar Y move in the same direction as bar X? A) The air pressure from bar X pulls bar Y. B) The force of gravity from bar X pushes bar Y. C) The electric fields around bar X and bar Y attract each other. D) The magnetic fields around bar X and bar Y repel each other.",
+    "correctAnswer": "D",
+    "reasoning": "Two bars that can push/pull each other without touching, moving in the same direction as one approaches the other, is the classic magnet behavior: as bar X (a magnet) approaches bar Y (also a magnet), like poles repel, pushing bar Y away in the same direction bar X is moving. Gravity (B) is always attractive and far too weak at this scale; air pressure (A) doesn't work this way; electric fields (C) would require significant static charge, not the setup described. Magnetic repulsion (D) is correct."
+  },
+  {
+    "sourceItem": "12",
+    "raw": "Night blindness is controlled by a gene with a dominant form (B) and a recessive form (b); a person has night blindness only if they have two recessive copies (bb). A mother carries both the dominant and recessive form of the gene (genotype Bb). The father has night blindness caused by this gene (genotype bb). Question: Which Punnett square correctly shows the possible offspring genotypes for this cross (mother Bb x father bb)? A) A 2x2 grid with mother's alleles B and b across the top, father's alleles b and b down the side, giving offspring Bb, bb, Bb, bb. B) A 2x2 grid with alleles B, b across the top and B, B down the side, giving BB, Bb, BB, Bb (implying father is BB). C) A 2x2 grid with B, B across the top and b, b down the side, giving Bb, Bb, Bb, Bb (implying mother is BB). D) A 2x2 grid with B, b across the top and B, b down the side, giving BB, Bb, Bb, bb (implying father is Bb).",
+    "correctAnswer": "A",
+    "reasoning": "Mother is Bb (contributes either B or b), father is bb (contributes only b). Crossing Bb x bb gives offspring: Bb, bb, Bb, bb (50% Bb, 50% bb) - exactly what option A's grid shows. Options B, C, and D all incorrectly represent one parent's genotype (as BB or as Bb) instead of the stated Bb mother and bb father."
+  },
+  {
+    "sourceItem": "14",
+    "raw": "Cell phones detect signals from cell towers depending on distance. Data table: at 10 km, signal detected = yes. At 20 km, yes. At 30 km, yes. At 40 km, sometimes. At 50 km, sometimes. At 60 km, no. A town wants to improve cell service by adding more cell towers, and wants to limit the number added to control costs. Question: Based on the information, at which distance should new cell towers be added so that all neighborhoods can detect a signal? A) less than 10 km B) less than 30 km C) between 40 and 50 km D) between 50 and 60 km",
+    "correctAnswer": "B",
+    "reasoning": "Signal is reliably detected ('yes') only at distances up to 30 km; beyond that it becomes unreliable ('sometimes') or absent ('no'). To guarantee reliable signal everywhere while limiting the number of new towers (i.e., not building excessively close together), towers should be spaced so that no location is more than 30 km from one - i.e., towers placed at less than 30 km intervals/distances. Building extremely close together (A, less than 10 km) would be wasteful/more towers than needed; C and D are past the point where signal is unreliable, meaning towers there would leave nearer areas still under-covered relative to the known reliable range."
+  },
+  {
+    "sourceItem": "15a",
+    "raw": "A diagram shows several phases of the Moon in sequence (from mostly dark, to partial crescent, to fully lit, to partial crescent, back to mostly dark). Question: Which statement best describes what causes the Moon to have phases? A) Light from Earth is reflected by both the Sun and the Moon, creating a rotating pattern. B) The Moon produces a constant amount of light, but its rotation changes the amount of light that reaches Earth. C) Earth casts a shadow on the Moon, and the positions of the Sun, Earth, and the Moon change in relationship to each other over time. D) Light from the Sun is reflected by the Moon, and the positions of the Sun, Earth, and the Moon change in relationship to each other over time.",
+    "correctAnswer": "D",
+    "reasoning": "The Moon does not produce its own light - it reflects sunlight. As the Moon orbits Earth, the relative positions of the Sun, Earth, and Moon change, so the portion of the sunlit half of the Moon visible from Earth changes, creating the phases. Answer C incorrectly describes phases as caused by Earth's shadow (that's a lunar eclipse, a separate and much rarer event); A and B incorrectly claim the Moon or Earth generates its own light."
+  },
+  {
+    "sourceItem": "15b",
+    "raw": "Same Moon-phases context as 15a. Question: What occurs during one cycle of the Moon's phases (from one full moon to the next, for example)? A) Earth revolves halfway around the Sun. B) The Moon completes one orbit around Earth. C) The side of the Moon that faces Earth changes. D) Earth and the Moon complete one orbit around the Sun.",
+    "correctAnswer": "B",
+    "reasoning": "One full cycle of Moon phases (about 29.5 days) corresponds to the Moon completing one full orbit around Earth. Earth does not revolve halfway around the Sun in that time (that takes about 6 months for half an orbit, not ~1 month); the Moon does NOT change which side faces Earth (it's tidally locked, always showing the same side); and Earth+Moon complete one orbit around the Sun in a year, not one lunar month."
+  },
+  {
+    "sourceItem": "16",
+    "raw": "A student wants to build a physical model of the Milky Way galaxy. Question: Which of the following should the student include in the model? A) a flashlight, to represent the Sun as the center of the Milky Way B) eight stickers, arranged to represent all the planets in the Milky Way C) a box, to represent the boundaries of the universe and the Milky Way D) sand particles, spread out to represent the billions of stars in the Milky Way",
+    "correctAnswer": "D",
+    "reasoning": "The Milky Way is a galaxy containing hundreds of billions of stars - many small particles (like sand) spread out is a reasonable way to represent that huge number of stars. A is wrong because the Sun is not at the center of the Milky Way (it's out in one of the spiral arms, and the galaxy's actual center is a supermassive black hole region). B is wrong because 'eight planets' describes our own solar system, not the whole galaxy (which contains billions of star systems, many with their own planets). C is wrong because the Milky Way is not the same thing as the universe, and neither has a definable 'box' boundary in this sense - the universe is far larger than any one galaxy."
+  },
+  {
+    "sourceItem": "18",
+    "raw": "A company manufactures outdoor wooden benches. Question: Which action represents a FINISHING step in the manufacturing process of a wood bench? A) sawing the wood B) drilling holes in the wood C) testing the strength of the wood D) applying waterproof paint to the wood",
+    "correctAnswer": "D",
+    "reasoning": "In a manufacturing process, 'finishing' steps come at the end and are about protecting/completing the product's surface or appearance, not shaping or assembling it. Sawing (A) and drilling (B) are shaping/assembly steps done earlier. Testing (C) is a quality-control step, not a finishing step. Applying waterproof paint (D) protects and finishes the surface - a classic finishing step, especially relevant for an outdoor wood product."
+  },
+  {
+    "sourceItem": "20",
+    "raw": "An athlete kicks a soccer ball. Position X: the ball is at rest on the ground, just before being kicked (velocity = 0, height = ground level). Position Y: the ball is in the air, just after being kicked (moving through the air, above ground level). Question: Which of the following best describes the energy of the ball? A) The ball gains kinetic energy from the kick. B) The ball loses gravitational potential energy from the kick. C) The ball has more kinetic energy in position X than in position Y. D) The ball has more gravitational potential energy in position X than in position Y.",
+    "correctAnswer": "A",
+    "reasoning": "Before the kick (position X) the ball is at rest, so it has zero kinetic energy. After the kick (position Y) it is moving, so it now has kinetic energy - it gained kinetic energy from the kick. B is wrong because the ball is now higher off the ground (in the air) than at rest on the ground, so its gravitational potential energy increased, not decreased. C is wrong (backwards - Y has more KE, not X). D is wrong (backwards - Y is higher, so Y has more GPE, not X)."
+  }
+]

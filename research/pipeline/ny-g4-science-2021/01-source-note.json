@@ -1,0 +1,17 @@
+{
+  "source": "NY State Grade 4 Elementary-Level Science Test, Written Test, v202 (Administered 2021)",
+  "url": "https://www.nysedregents.org/grade4/science/621/els-v202-exam.pdf",
+  "publisher": "The University of the State of New York / New York State Education Department (state government)",
+  "license": "Copyright 2021 NYSED. Published as a released past examination on the official NYSED regents archive for public/educational reuse (standard for all NY 3-8 released test forms already used in this pipeline).",
+  "grade_age": "Grade 4 (age 9-10) - a different admin/year than the two NY Grade 4 Science batches already merged (June 2019, June 2022). This app's Age 9 High Achiever band is the single thinnest cell across the whole question bank (2 items), and Grade 4 is the best-matched native grade for it, so this round explicitly routes the hardest 2021 items there rather than defaulting to Age 10/11.",
+  "total_items_in_source": 45,
+  "items_extracted_usable": 28,
+  "items_deferred": 17,
+  "deferred_reasons": {
+    "12": "Abstract shape-grid position puzzle (identify shapes above/below a heart in a grid of shape names) - not actually science content, a spatial-logic filler question with no science fact/reasoning to rewrite.",
+    "27": "Dot-plot graph (X marks per student measurement) - reading the exact count of X's at a given x-value from the rendered image is not reliably reconstructable from text alone without risking a fabricated/incorrect count.",
+    "31-45": "Part II is entirely open-ended/constructed-response (identify, describe, explain, complete a graph) with no fixed multiple-choice answer - excluded per this pipeline's standing rule against no-fixed-answer items, consistent with every prior NY G4/G5 batch."
+  },
+  "note": "Items 1, 4, 7, 9, 19, 21, 22, 30 in the source reference a diagram/photo, but all were judged usable because the diagram's content is either fully restated in the question text (calendar of Moon-phase photos over a month; before/after rainstorm photo pair; umbrella-and-shadow diagrams at two times of day; shoes-on-tilted-board diagram; two giraffes at one tree; four labeled plant-cycle stages; camel-in-desert scenario; four candidate temperature data tables, all values given in text) or is a well-established curriculum fact independent of the exact diagram rendering (item 21's plant-cycle order: seed -> young plant -> mature plant -> fruit -> new seed). No separate answer key PDF was found for this source (same as the 2019/2022 NY G4 batches); all 30 Part I answers were derived directly from the two worked sample questions (S-1, S-2) and the test's own unambiguous phrasing for grade-4-level factual/definitional content - flagged for standard human review, same confidence level as the prior two NY G4 batches.",
+  "space_vs_science_split": "Items 1, 2, 3, 7, 11 are Earth-and-Space content (Moon phase cycle, Earth's revolution/year length, Earth's rotation causing day/night, Sun position affecting shadows, sunburn from solar UV) and route to space.json per this app's existing subject split, not forced into science.json."
+}

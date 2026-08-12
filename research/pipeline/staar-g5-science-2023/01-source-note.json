@@ -1,0 +1,32 @@
+{
+  "source": "Texas STAAR Grade 5 Science, 2023 (redesign-era) — two TEA-published documents used together",
+  "documents": [
+    {
+      "name": "2023 STAAR Grade 5 Science Practice Assessment",
+      "url": "https://tea.texas.gov/data-reports/staar/released-test-questions/2023-staar-redesign-5-science-practice-test.pdf",
+      "items": "32 items, mostly multiple-choice, some two-part and some select-two/select-multiple"
+    },
+    {
+      "name": "2023 STAAR Grade 5 Science Paper Item Sampler",
+      "url": "https://tea.texas.gov/data-reports/staar/released-test-questions/2023-staar-grade-5-science-itemsampler.pdf",
+      "items": "10 items, mixed formats including two open constructed-response items"
+    }
+  ],
+  "different_admin_than_already_mined": "Yes — the existing merged batch (research/pipeline/staar-g5-science-2022/) used the May 2022 STAAR Grade 5 Science released test. This round uses the 2023 TEA-published Practice Assessment + Paper Item Sampler, a distinct pair of documents published for the redesigned (technology-enhanced-item) STAAR era. No item overlaps observed between the two sources on inspection.",
+  "license_note": "Same as prior STAAR rounds: TEA copyright notice on cover ('Reproduction of all or portions of this work is prohibited without express written permission') — treated the same way prior STAAR batches were: used as topic/difficulty inspiration only, substantially rewritten in Step 3, not copied verbatim.",
+  "official_answer_key": "NOT captured — the linked answer-key PDF (2023-staar-5-science-key.pdf) 404'd when fetched directly, and no working alternate URL was found in the time available. Same caveat as the round-6 STAAR G5 Science 2022 batch and the NY Social Studies 2006 batch: answers below were derived by hand from grade-5 science curriculum knowledge, not sourced from an official key. Flagged here for extra human scrutiny on review, per that precedent.",
+  "extraction_method": "Both PDFs fetched directly (Read tool) since WebFetch cannot extract PDF text reliably from government PDFs.",
+  "deferred_items": [
+    {"doc": "practice", "item": 10, "reason": "constructed-response (open-ended, no fixed-choice answer) — skunk vs. panda population comparison"},
+    {"doc": "practice", "item": 26, "reason": "genuinely image-dependent — multi-switch circuit topology, cannot be reliably restated in text"},
+    {"doc": "practice", "item": 30, "reason": "genuinely image-dependent — dinosaur trackway pattern interpretation from a scattered-footprint diagram"},
+    {"doc": "sampler", "item": 1, "reason": "genuinely image-dependent — multi-branch circuit with a switch, same reasoning as practice item 26"},
+    {"doc": "sampler", "item": 4, "reason": "redundant topic with practice item 29 (sedimentary rock cycle ordering) — practice item 29 is more fully specified (5 steps vs. 4), used that instead"},
+    {"doc": "sampler", "item": 7, "reason": "genuinely image-dependent — exact water-displacement/meniscus readings from a beaker diagram, risk of fabricating precise values"},
+    {"doc": "sampler", "item": 8, "reason": "redundant topic with practice item 1 (planets relative to Sun) — skipped to avoid near-duplicate"},
+    {"doc": "sampler", "item": 9, "reason": "constructed-response (open-ended) — food web energy-flow similarity"},
+    {"doc": "sampler", "item": 10, "reason": "constructed-response (open-ended) — cloud formation process description"}
+  ],
+  "usable_item_count": 32,
+  "note_on_diagram_items_kept": "Several kept items reference a diagram/table/picture in the source, but were kept because the diagram's content is fully recoverable as text without guessing at pixel-level detail: food-web arrow relationships (restated as explicit predator/prey lists), data tables (soil investigation, materials table, mixture list), and picture captions that name every element (animal habitat item, farm cow/horse item). Genuinely uninterpretable visuals (circuits, dinosaur tracks, meniscus readings) were deferred instead."
+}
