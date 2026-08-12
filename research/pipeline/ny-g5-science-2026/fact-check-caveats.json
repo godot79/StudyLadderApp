@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "In Seattle, Washington, the sunrise and sunset times on March 20 are 7:28am and 7:29pm, giving about 12 hours of daylight — very close to a 12-12 split. Based on Earth's tilt and orbit, how much daylight would Seattle receive on December 21 (winter solstice) and on June 21 (summer solstice)?",
+    "verdict": "confirmed",
+    "note": "Confirmed, but with a caveat: the 8-9 hr / 15-16 hr figures are correct specifically for Seattle's latitude (~47.6N) - actual measured values are ~8h25m (winter solstice) and ~15h59m (summer solstice). The claim phrases this as a general 'Northern Hemisphere' fact, but the exact hour ranges are latitude-dependent and would not hold at, e.g., the equator or much further north/south.",
+    "source": "https://www.fox13seattle.com/news/16-hours-daylight-summer-solstice ; https://www.timeofsunrise.com/seattle/solstice"
+  },
+  {
+    "prompt": "A solar panel system works by: (1) sunlight hits the panel surface, (2) the panel converts the light energy into electrical energy, (3) the electrical energy is sent to a battery for storage, (4) the stored energy powers home lights and appliances. What type of energy is the solar panel primarily converting into electrical energy?",
+    "verdict": "confirmed",
+    "note": "Confirmed, but with a caveat similar to the past-round solar issue: the photovoltaic mechanism (photons knocking electrons loose to generate electric current) is correctly described, but a reviewer should note that panel output/efficiency is also meaningfully affected by panel temperature (higher heat reduces efficiency) in addition to light intensity/angle - if any distractor answer option attributes output differences to temperature, that option could be partially valid rather than cleanly wrong.",
+    "source": "https://www.ecoflow.com/us/blog/effects-of-temperature-on-solar-panel-efficiency ; https://8msolar.com/solar-panel-efficiency-vs-temperature/"
+  }
+]

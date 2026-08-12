@@ -1,0 +1,7 @@
+[
+  {
+    "severity": "warn",
+    "check": "recall-not-reasoning",
+    "detail": "Q? (\"Polar bears have thick fur and a layer of fat under their skin to stay warm in freezing Arctic temperatures. What is this feature called?\") assigned Age 9 High Achiever but reads as single-fact recall (\"what is X called\" / \"what do we call\") rather than multi-step reasoning — High Achiever should mean the child has to compare, predict, or trace a chain, not just name a term. Consider moving to a plain age band."
+  }
+]

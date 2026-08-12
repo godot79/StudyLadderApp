@@ -1,0 +1,23 @@
+[
+  {
+    "item": {
+      "subject": "science",
+      "topic": "earth-science",
+      "levelBand": "Age 9",
+      "prompt": "How long does it take for Earth to complete one full orbit around the Sun?",
+      "optionA": "one day",
+      "optionB": "one month",
+      "optionC": "one week",
+      "optionD": "one year",
+      "correctOption": "D",
+      "explanation": "Earth orbits the Sun once every 365 days, which is one year. This journey creates our seasons and the passage of time through the calendar year.",
+      "answerType": "fact",
+      "factClaim": "Earth takes one year (365 days) to complete one orbit around the Sun.",
+      "factVerified": true,
+      "factCheckSource": "NASA, Britannica - confirm Earth's orbital period is approximately 365.25 days"
+    },
+    "matchedAgainst": "space.json",
+    "matchedPrompt": "How long does Earth take to complete one full orbit around the Sun?",
+    "similarity": 0.85
+  }
+]

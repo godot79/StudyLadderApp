@@ -1,0 +1,170 @@
+[
+  {
+    "prompt": "A student walks through a park and observes: a squirrel, a tree, sand, and a puddle of water. Which two of these are nonliving things?",
+    "verdict": "confirmed",
+    "note": "Nonliving things do not have life processes like growth, reproduction, or respiration. Sand and water are correctly identified as nonliving substances.",
+    "source": "Vedantu (Living and Non Living Things), VHTC, Education Victoria - confirmed that nonliving things lack life processes"
+  },
+  {
+    "prompt": "What process causes a young oak tree to become taller and stronger over time?",
+    "verdict": "confirmed",
+    "note": "Growth is defined as the irreversible increase in size and complexity of organisms through cell multiplication and development.",
+    "source": "Britannica, Fiveable, Vedantu - all confirm growth involves increase in size and complexity"
+  },
+  {
+    "prompt": "All plants and animals need certain things to survive. Which one do both plants and animals require?",
+    "verdict": "confirmed",
+    "note": "Water is essential for all living organisms. It is required for photosynthesis in plants, digestion and nutrient transport in animals, and temperature regulation in both.",
+    "source": "NASA Astrobiology, VHTC, Quora - all confirm water is essential basic need for all plants and animals"
+  },
+  {
+    "prompt": "Which of the following is an inherited trait that a child receives from their parents?",
+    "verdict": "confirmed",
+    "note": "Hair texture is inherited through genes from both parents. Multiple genes control hair texture (curl pattern, thickness) through polygenic inheritance.",
+    "source": "Medical News Today, TraitGen, CRI Genetics - all confirm hair texture is genetically inherited from parents"
+  },
+  {
+    "prompt": "Which plant part is responsible for making new seeds?",
+    "verdict": "confirmed",
+    "note": "Flowers are the reproductive organs of flowering plants. After pollination and fertilization, the ovule becomes a seed.",
+    "source": "RHS, VHTC, Science Learning Hub - all confirm flowers produce seeds through pollination and fertilization"
+  },
+  {
+    "prompt": "Polar bears have thick fur and a layer of fat under their skin to stay warm in freezing Arctic temperatures. What is this feature called?",
+    "verdict": "confirmed",
+    "note": "An adaptation is a heritable trait that helps an organism survive and reproduce in its environment. Polar bears' thick fur is a structural adaptation.",
+    "source": "National Geographic Education, UC Berkeley Evolution, Texas Gateway - all define adaptation as trait helping survival"
+  },
+  {
+    "prompt": "A dragonfly goes through these stages: Egg → Nymph → Adult → (back to) Egg. What is this pattern of changes called?",
+    "verdict": "confirmed",
+    "note": "A life cycle is the series of different stages a living organism goes through from birth to death. Dragonflies undergo a complete life cycle.",
+    "source": "Generation Genius, Vedantu, Britannica - all confirm life cycle is series of stages through organism's life"
+  },
+  {
+    "prompt": "In autumn, robins and other birds fly from Canada toward Central America. This yearly movement is called",
+    "verdict": "confirmed",
+    "note": "Migration is the seasonal movement of animals from one habitat to another. It typically involves a return journey and is triggered by changes in food, temperature, or breeding conditions.",
+    "source": "National Geographic, Wikipedia Animal Migration, Montana FWP - all define migration as seasonal animal movement"
+  },
+  {
+    "prompt": "When threatened by predators, a porcupine raises its quills to make itself look larger and more dangerous. This action is an example of",
+    "verdict": "confirmed",
+    "note": "Animals use both structural defenses (quills, shells, spines) and behavioral defenses (threatening displays) to protect themselves from predators.",
+    "source": "EBSCO Research, Wikipedia Anti-predator adaptation - confirm animals have special behaviors and structures for defense"
+  },
+  {
+    "prompt": "Organisms that hunt and eat other animals for food are classified as",
+    "verdict": "confirmed",
+    "note": "Predators are animals that hunt and eat other animals as food. They can be solitary or group hunters.",
+    "source": "Cambridge Dictionary, Dictionary.com, Britannica - all define predators as animals that hunt and eat other animals"
+  },
+  {
+    "prompt": "On a hot summer day, a moose wades into a cool lake to stand in the water. This behavior is helping the moose to",
+    "verdict": "confirmed",
+    "note": "Animals use various behavioral strategies to regulate body temperature, including seeking water or wet environments to cool down through evaporation.",
+    "source": "Montana Biology Lecture, Lumen Learning - confirm animals use water-seeking behavior for temperature regulation"
+  },
+  {
+    "prompt": "Which of these shows the correct order of energy flow in a food chain?",
+    "verdict": "confirmed",
+    "note": "Energy flow in food chains follows: Sun → Plants (producers) → Herbivores (primary consumers) → Carnivores (secondary consumers). Energy decreases at each trophic level.",
+    "source": "National Geographic, VHTC, Bio LibreTexts - all confirm energy flows from sun to plants to herbivores to predators"
+  },
+  {
+    "prompt": "When a moose detects danger, it creates a loud splash by slapping the water with its tail. This action is an example of an animal using a body part to",
+    "verdict": "confirmed",
+    "note": "Animals use body parts and behaviors to communicate with other animals. Tail slapping is a visual/auditory communication signal.",
+    "source": "Britannica, Open Sanctuary Project, San Antonio Zoo - all confirm animals use body parts and behaviors to communicate"
+  },
+  {
+    "prompt": "How long does it take for Earth to complete one full orbit around the Sun?",
+    "verdict": "confirmed",
+    "note": "Earth takes approximately 365.25 days (one year) to complete one orbit. The standard calendar of 365 days is simplified but appropriate for elementary education.",
+    "source": "NASA, Britannica - confirm Earth's orbital period is approximately 365.25 days"
+  },
+  {
+    "prompt": "The diagram shows how the Moon appears from Earth as it goes through phases: New → Crescent → Quarter → Gibbous → Full → Gibbous → Quarter → Crescent. These changing appearances happen because",
+    "verdict": "confirmed",
+    "note": "Moon phases are caused by the Moon revolving around Earth and changing the angle of sunlight illumination we observe from Earth.",
+    "source": "NASA Science, Institute of Physics, Astronomy.com - all confirm moon phases result from Moon's orbit and changing visible illumination"
+  },
+  {
+    "prompt": "After you wash your hands and they are dripping wet, your skin becomes dry after a few minutes. What process causes this change?",
+    "verdict": "confirmed",
+    "note": "Evaporation is the process where liquid water turns into water vapor gas and enters the atmosphere. Heat energy causes molecules to escape as vapor.",
+    "source": "National Geographic Education, NOAA, USGS - all define evaporation as liquid water turning into water vapor"
+  },
+  {
+    "prompt": "A student describes an object as: smooth, shiny, and hard. Which of these best matches this description?",
+    "verdict": "confirmed",
+    "note": "Smoothness, shininess (luster), and hardness are physical properties used to identify and classify materials.",
+    "source": "American Chemical Society, Crest Olympiads, First Learn - confirm physical properties help identify and classify objects"
+  },
+  {
+    "prompt": "A student drops a pencil and a piece of paper, and both fall down to the ground. What force causes both objects to fall?",
+    "verdict": "confirmed",
+    "note": "Gravity is the force that pulls all objects downward toward Earth's center. It gives objects a downward acceleration.",
+    "source": "NASA Space Place, NOAA, Britannica - all confirm gravity is the force pulling objects downward"
+  },
+  {
+    "prompt": "Which tool would be best to use to find the weight of a bucket filled with sand?",
+    "verdict": "confirmed",
+    "note": "A spring scale (also called spring balance) is used to measure weight by measuring the force exerted on a spring.",
+    "source": "Wyzant, Study.com, Scientific American - all confirm spring scales are used to measure weight of objects"
+  },
+  {
+    "prompt": "A student holds a magnet under a wooden table and tries to move a toy car across the top. For the car to be moved by the magnet, what must the car be made of?",
+    "verdict": "confirmed",
+    "note": "Magnets attract ferromagnetic metals (iron, nickel, cobalt) and can exert attractive force on them from a distance through their magnetic field.",
+    "source": "K&J Magnetics, HowStuffWorks, MagnetCy - all confirm magnets attract metals and exert force at distance"
+  },
+  {
+    "prompt": "Frozen water in the form of ice has",
+    "verdict": "confirmed",
+    "note": "Solids like ice have a definite shape and definite volume because their molecules are tightly packed in a fixed arrangement.",
+    "source": "Chemistry LibreTexts, CK-12 Foundation - confirm solids including ice have definite shape and volume"
+  },
+  {
+    "prompt": "Which color of jacket would absorb the most sunlight and become the warmest?",
+    "verdict": "confirmed",
+    "note": "Black absorbs all wavelengths of visible light and therefore absorbs more sunlight and heat than light-colored materials which reflect more light.",
+    "source": "Sciencing, Color Matters, Eurokids - all confirm black absorbs more heat than light colors"
+  },
+  {
+    "prompt": "Which statement best describes how energy can cause harm?",
+    "verdict": "confirmed",
+    "note": "Energy can cause harm through dangerous effects like fire, burning, and heat damage. Fire releases thermal and chemical energy that damages living tissues.",
+    "source": "Hartford Insurance, Upper Restoration, Wisconsin DNR - all document energy from fire and burning causing harm"
+  },
+  {
+    "prompt": "Four stacked boxes are arranged from top to bottom: Box 1 (mass 400g), Box 2 (mass 80g), Box 3 (mass 60g), Box 4 (mass 900g). Which box is directly underneath the box with a mass of 60g?",
+    "verdict": "confirmed",
+    "note": "This is a spatial reasoning question. Box 3 has mass 60g and Box 4 (mass 900g) is directly underneath it in the stacked arrangement.",
+    "source": "Basic spatial logic - the fourth position in a vertical stack is directly below the third position"
+  },
+  {
+    "prompt": "It is harder to push a box up a ramp with a rough, bumpy surface than up one with a smooth, slippery surface. The rough surface provides more",
+    "verdict": "confirmed",
+    "note": "Friction is the force opposing motion. Rough surfaces have irregularities that increase contact area and friction force compared to smooth surfaces.",
+    "source": "OpenStax, Lumen Learning, Physics LibreTexts - all confirm friction opposes motion and rough surfaces create more friction"
+  },
+  {
+    "prompt": "When a boy looks into a shiny spoon, he can see his face reflected back at him. Which physical property of the spoon makes this happen?",
+    "verdict": "confirmed",
+    "note": "Reflectiveness (or reflectivity/luster) is the property that allows shiny surfaces to bounce light and create reflections following the law of reflection.",
+    "source": "Science Learning Hub, Evident Scientific, Expert Photography - all confirm shiny surfaces reflect light"
+  },
+  {
+    "prompt": "A rope hangs over a wheel attached to a pole. When someone pulls one end of the rope, the wheel turns and helps lift a heavy bag on the other end. This wheel is an example of which simple machine?",
+    "verdict": "confirmed",
+    "note": "A pulley is a simple machine consisting of a wheel and rope that changes the direction of force, making it easier to lift heavy loads.",
+    "source": "NDSU Extension, Teach Engineering, HowStuffWorks - all define pulley as simple machine with wheel and rope changing force direction"
+  },
+  {
+    "prompt": "A student gathers four facts about naturalist Jane Goodall: (1) she studied chimpanzees in Africa; (2) she was born in 1934; (3) she is the greatest scientist who ever lived; (4) she spent many years observing animals in the wild. Which of these statements is an opinion?",
+    "verdict": "confirmed",
+    "note": "Statement (3) is an opinion because it expresses a judgment that cannot be proven true or false. Statements (1), (2), and (4) are verifiable facts: Goodall was born April 3, 1934, studied chimpanzees in Tanzania, and conducted long-term field research.",
+    "source": "Britannica, National Geographic Education, Wikipedia - confirm Goodall's biographical facts. Mometrix, CliffsNotes - define opinion as unprovable judgment"
+  }
+]

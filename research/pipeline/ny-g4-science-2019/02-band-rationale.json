@@ -1,0 +1,14 @@
+{
+  "Age 9 High Achiever": {
+    "item_6_polar_bear_adaptation": "Rarer fact: Adaptation is a less obviously-taught ecological concept than basic facts like plant parts or living-vs-nonliving; requires understanding that specific physical traits help organisms survive in particular environments.",
+    "item_9_porcupine_defense": "Rarer fact: Specific behavioral defense mechanisms are less commonly known basic facts; requires understanding that animals have evolved particular ways to protect themselves from predators.",
+    "item_13_moose_communication": "Rarer fact: Animal communication using specific body parts is a less obvious concept; requires understanding that animals deliberately use behaviors and body parts to send warning or social messages.",
+    "item_17_physical_properties": "Multi-step reasoning: Classifying and matching multiple physical properties (smooth, shiny, hard) to an object requires observation and abstraction skills beyond simple single-fact recall.",
+    "item_26_reflectiveness": "Rarer fact: Naming reflectiveness as a specific physical property requires abstraction; understanding that reflection is a defined, named property is less obvious than basic physical facts."
+  },
+  "Age 10 High Achiever": {
+    "item_12_food_chain_energy_flow": "Multi-step reasoning: Requires ordering energy flow from sun through multiple trophic levels; involves understanding directional flow and the role of each organism in the chain.",
+    "item_24_box_stacking_logic": "Multi-step reasoning: Spatial and logical reasoning task requiring tracking multiple stacked positions and determining which box is directly underneath another based on order.",
+    "item_28_fact_vs_opinion": "Multi-step reasoning: Genuine critical reasoning distinguishing between factual statements (verifiable through evidence) and opinions (judgments and beliefs); not simple fact recall but requires evaluative thinking."
+  }
+}

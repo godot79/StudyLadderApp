@@ -1,0 +1,28 @@
+{
+  "source": "New York State Elementary-level Science Test, Grade 5, Spring 2026, Released Questions",
+  "url": "https://www.nysedregents.org/ei/science/2026/2026-released-items-science-g5.pdf",
+  "scoring_materials_url": "https://www.nysedregents.org/ei/science/2026/2026-scoring-materials-science-g5.pdf",
+  "publisher": "New York State Education Department (state government)",
+  "license": "Copyright 2026 NYSED, officially released public test questions with an accompanying public item map / answer key.",
+  "grade_age": "Grade 5 (age 10-11)",
+  "verified_live": "Confirmed via https://www.nysedregents.org/ei/ei-science.html index page, which links to 2024/2025/2026 released-items PDFs for Grade 5 and Grade 8. 2024 and 2025 Grade 5 admins are already merged into data/seed/science.json (see research/pipeline/ny-g5-science-2024 and ny-g5-science-2025); this is the 2026 admin, a different year not yet mined. No 2019/2022/2023 Grade 5 admin exists on this archive - checked directly by attempting the URL pattern (all 404) and by finding the elementary-intermediate.html page, which shows science before 2024 was tested only at Grade 4 and Grade 8, not Grade 5. The Grade 5 elementary science test appears to be a new (2024-onward) addition to NY's testing program.",
+  "total_items_in_source": 30,
+  "item_numbering_note": "Source numbers items 1-18 then jumps to 24-35 (items 19-23 do not exist in this release - confirmed against the official item map on the last page of the PDF, which also skips 19-23, so this is not an extraction gap).",
+  "items_extracted_usable": 18,
+  "items_deferred": 12,
+  "deferred_reasons": {
+    "1": "Requires placing arrows into a diagram (light-path model) from image-based arrow choices - visual-dependent, not restatable in text.",
+    "4": "Requires placing constellation names into boxes based on reading positions from an orbital diagram - visual/diagram-dependent placement task, not a multiple-choice question.",
+    "6": "Requires placing mineral names into a 3-circle Venn diagram - visual placement task, not multiple-choice.",
+    "8": "Constructed-response (open-ended written answer) - skipped, same policy as prior batches.",
+    "12": "Constructed-response (open-ended written answer).",
+    "14": "Constructed-response (open-ended written answer).",
+    "17": "Constructed-response (open-ended written answer).",
+    "18": "Constructed-response (open-ended written answer) - also requires reading/comparing two hand-drawn wave diagrams for amplitude/wavelength.",
+    "25": "Constructed-response (open-ended written answer, with an embedded checkbox table selection not itself multiple-choice in the pipeline's sense).",
+    "28": "Constructed-response (open-ended written answer).",
+    "33": "Constructed-response (open-ended written answer).",
+    "34": "Constructed-response (open-ended written answer)."
+  },
+  "note": "This extraction has an official answer key: the source PDF's own final page is a 'Grade 5 Released Questions - 2026 Elementary-level Science Test Map to the Standards' table giving the correct letter (Key column) for every multiple-choice item, plus its Performance Expectation and subscore domain (PS/LS/ESS). All 18 usable items' correct answers below are copied directly from that official key, not independently reasoned - same evidentiary standard as the 2024/2025 NY science batches already merged."
+}

@@ -1,0 +1,39 @@
+{
+  "source": "NY State Grade 4 Elementary-Level Science Test, June 3 2019 (Part I, multiple-choice)",
+  "answer_key_confidence": "official (parsed from els62019-sk.xlsx scoring key)",
+  "items": [
+    {"num": 1, "prompt": "The diagram shows a pond near a forest with these labeled objects: deer, grass, fish, plants, rocks, water, trees, Sun. Which two objects labeled in the diagram are nonliving?", "A": "fish and plants", "B": "grass and deer", "C": "rocks and water", "D": "trees and Sun", "correct": "C"},
+    {"num": 2, "prompt": "Which process causes a giraffe to become taller?", "A": "reproduction", "B": "growth", "C": "decomposition", "D": "movement", "correct": "B"},
+    {"num": 3, "prompt": "A basic need of both plants and animals is", "A": "soil", "B": "light", "C": "shelter", "D": "water", "correct": "D"},
+    {"num": 4, "prompt": "An example of an inherited trait is", "A": "riding a bicycle", "B": "having a broken arm", "C": "having brown eyes", "D": "living in New York State", "correct": "C"},
+    {"num": 6, "prompt": "Which plant structure makes seeds?", "A": "stem", "B": "flower", "C": "roots", "D": "leaf", "correct": "B"},
+    {"num": 7, "prompt": "Whales have thick blubber to help keep them warm in cold ocean waters and protect them from injury. The blubber of a whale is", "A": "an adaptation to its environment", "B": "a characteristic used to attract a mate", "C": "a body structure common to all organisms", "D": "a waste product that needs to be eliminated", "correct": "A"},
+    {"num": 8, "prompt": "The diagram shows the development of a butterfly in a cycle: Egg -> Larva -> Pupa -> Adult -> (back to) Egg. This sequence of changes is called", "A": "hibernation", "B": "migration", "C": "a life span", "D": "a life cycle", "correct": "D"},
+    {"num": 10, "prompt": "As the length of daylight shortens and the temperatures cool, geese and some other birds fly south from New York State. This behavioral change is known as", "A": "communicating", "B": "hunting", "C": "migration", "D": "hibernation", "correct": "C"},
+    {"num": 11, "prompt": "In which example is the organism defending itself?", "A": "A fox smells food.", "B": "An owl sees a mouse.", "C": "A bee lands on a colorful flower.", "D": "A skunk produces an odor.", "correct": "D"},
+    {"num": 12, "prompt": "Animals that eat other animals for food are classified as", "A": "decomposers", "B": "predators", "C": "producers", "D": "prey", "correct": "B"},
+    {"num": 13, "prompt": "Warmer temperatures can cause a deer to rub against trees to remove clumps of heavy fur. This behavior is helping the deer to", "A": "reproduce", "B": "feel cooler", "C": "store fat", "D": "camouflage itself", "correct": "B"},
+    {"num": 14, "prompt": "Which sequence shows the order of energy flow in a food chain?", "A": "Sun -> rabbit -> grass -> owl", "B": "grass -> rabbit -> owl -> Sun", "C": "Sun -> grass -> rabbit -> owl", "D": "owl -> rabbit -> grass -> Sun", "correct": "C"},
+    {"num": 15, "prompt": "When a beaver senses a predator approaching, it slaps its tail on the surface of the water. This action is an example of an animal using a body part to", "A": "find food", "B": "attract a mate", "C": "build a shelter", "D": "communicate information", "correct": "D"},
+    {"num": 16, "prompt": "How long does it take for Earth to complete one path around the Sun?", "A": "one day", "B": "one week", "C": "one month", "D": "one year", "correct": "D"},
+    {"num": 17, "prompt": "The diagram shows the changing appearance of an object in space as viewed by an observer in New York State, cycling through: New, Crescent, Quarter, Gibbous, Full, Gibbous, Quarter, Crescent (and back to New). The diagram shows the changing appearance of", "A": "the Moon as it revolves around Earth", "B": "Earth as it revolves around the Moon", "C": "the Sun as it revolves around Earth", "D": "Earth as it revolves around the Sun", "correct": "A"},
+    {"num": 18, "prompt": "Which process causes a wet towel to become dry?", "A": "condensation", "B": "evaporation", "C": "precipitation", "D": "deposition", "correct": "B"},
+    {"num": 19, "prompt": "Hard, light-colored, and smooth are observations that describe a", "A": "glass marble", "B": "rain cloud", "C": "cat's fur", "D": "cotton ball", "correct": "A"},
+    {"num": 20, "prompt": "A student drops a button and a nickel, and they both fall to the floor. What causes both of these items to fall to the floor?", "A": "magnetism", "B": "electricity", "C": "sound", "D": "gravity", "correct": "D"},
+    {"num": 21, "prompt": "Which tool would be used to find the weight of a balloon that is filled with water?", "A": "graduated cylinder", "B": "metric ruler", "C": "spring scale", "D": "thermometer", "correct": "C"},
+    {"num": 22, "prompt": "A student uses a magnet, held below a wooden table, to move a toy car across the tabletop. In order for the car to be moved by the magnet, the car must contain which material?", "A": "glass", "B": "metal", "C": "plastic", "D": "wood", "correct": "B"},
+    {"num": 23, "prompt": "Ice is solid water that has", "A": "a definite shape and a definite volume", "B": "a definite shape, but no definite volume", "C": "no definite shape and no definite volume", "D": "no definite shape, but a definite volume", "correct": "A"},
+    {"num": 24, "prompt": "Which color of shirt would absorb the most sunlight?", "A": "white", "B": "yellow", "C": "pink", "D": "black", "correct": "D"},
+    {"num": 25, "prompt": "Which statement best describes how energy can be harmful?", "A": "A fire burns down a house.", "B": "Electricity heats an oven.", "C": "A lamp lights a house.", "D": "An alarm clock wakes up a sleeping person.", "correct": "A"},
+    {"num": 26, "prompt": "Four boxes are stacked in a column from top to bottom: box A (mass 550 grams), box B (mass 5 grams), box C (mass 50 grams), box D (mass 700 grams). Which box is directly under (below) the box with a mass of 50 grams?", "A": "box A", "B": "box B", "C": "box C", "D": "box D", "correct": "D"},
+    {"num": 27, "prompt": "It is harder to push a box up a ramp with a rough surface than up one with a smooth surface because the rough surface provides more", "A": "motion", "B": "friction", "C": "gravity", "D": "magnetism", "correct": "B"},
+    {"num": 28, "prompt": "A boy can see his face when he looks into a mirror. Which physical property of the mirror makes this happen?", "A": "reflectiveness", "B": "temperature", "C": "flexibility", "D": "volume", "correct": "A"},
+    {"num": 29, "prompt": "A T-shirt hangs on a clothesline strung between two poles. Where the clothesline meets each pole, it passes over a wheel with a groove (a simple machine used to change the direction of the pulling force needed to raise or lower the line). Which type of simple machine is this?", "A": "lever", "B": "balance", "C": "pulley", "D": "inclined plane", "correct": "C"},
+    {"num": 30, "prompt": "A student records four pieces of information about scientist and author Rachel Carson: (1) she was born in 1907; (2) she went to school in Pennsylvania; (3) she is the author of the most important book about the environment ever written; (4) she was 11 years old when her first story appeared in a magazine. Which piece of information is an opinion?", "A": "statement 1", "B": "statement 2", "C": "statement 3", "D": "statement 4", "correct": "C"}
+  ],
+  "deferred_items": [
+    {"num": 5, "reason": "genuinely visual plant-offspring matching, see 01-source-note.json"},
+    {"num": 9, "reason": "genuinely visual seasonal-branch matching, see 01-source-note.json"},
+    {"num": "31-45", "reason": "Part II open-ended/constructed-response, no fixed answer, standing exclusion rule"}
+  ]
+}

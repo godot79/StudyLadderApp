@@ -2048,5 +2048,425 @@
     "optionD": "Wind speed increased and the hurricane strengthened",
     "correctOption": "A",
     "explanation": "The data clearly shows the hurricane losing power each day: lower wind speeds and lower categories. This is what happens when a hurricane moves over cooler water or land."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student walks through a park and observes: a squirrel, a tree, sand, and a puddle of water. Which two of these are nonliving things?",
+    "optionA": "the squirrel and the tree",
+    "optionB": "the tree and the sand",
+    "optionC": "the sand and the puddle",
+    "optionD": "the squirrel and the puddle",
+    "correctOption": "C",
+    "explanation": "Sand and water are nonliving things. A squirrel and a tree are living things because they grow, reproduce, and respond to their environment."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What process causes a young oak tree to become taller and stronger over time?",
+    "optionA": "growth",
+    "optionB": "decomposition",
+    "optionC": "respiration",
+    "optionD": "movement",
+    "correctOption": "A",
+    "explanation": "Growth is the biological process that makes living things larger and develop over time. The tree becomes taller and its trunk becomes thicker through growth."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "All plants and animals need certain things to survive. Which one do both plants and animals require?",
+    "optionA": "air",
+    "optionB": "soil",
+    "optionC": "water",
+    "optionD": "sunlight",
+    "correctOption": "C",
+    "explanation": "Both plants and animals must have water to live. Water helps them grow, digest food, and carry out all their life processes."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which of the following is an inherited trait that a child receives from their parents?",
+    "optionA": "speaking English",
+    "optionB": "having curly hair",
+    "optionC": "wearing glasses",
+    "optionD": "riding a skateboard",
+    "correctOption": "B",
+    "explanation": "Inherited traits are passed down from parents to children through genes. Having curly hair is determined by genetics. Speaking a language and skills like skateboarding are learned."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which plant part is responsible for making new seeds?",
+    "optionA": "leaf",
+    "optionB": "stem",
+    "optionC": "root",
+    "optionD": "flower",
+    "correctOption": "D",
+    "explanation": "The flower is the part of a plant where seeds develop. After the flower is pollinated, seeds form and can grow into new plants."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Polar bears have thick fur and a layer of fat under their skin to stay warm in freezing Arctic temperatures. What is this feature called?",
+    "optionA": "a learned skill",
+    "optionB": "a body structure found in all animals",
+    "optionC": "an adaptation to its environment",
+    "optionD": "inherited behavior",
+    "correctOption": "C",
+    "explanation": "An adaptation is a special feature that helps an animal survive in its environment. Thick fur and fat help polar bears stay warm in their cold habitat."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A dragonfly goes through these stages: Egg → Nymph → Adult → (back to) Egg. What is this pattern of changes called?",
+    "optionA": "hibernation",
+    "optionB": "a life cycle",
+    "optionC": "migration",
+    "optionD": "metamorphosis",
+    "correctOption": "B",
+    "explanation": "A life cycle is the series of changes an organism goes through from birth to death and reproduction. The dragonfly's stages from egg to adult and back to producing eggs represent its life cycle."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "In autumn, robins and other birds fly from Canada toward Central America. This yearly movement is called",
+    "optionA": "hibernation",
+    "optionB": "adaptation",
+    "optionC": "instinct",
+    "optionD": "migration",
+    "correctOption": "D",
+    "explanation": "Migration is when animals travel to a different place during certain seasons. Birds fly south in fall to find food and warmth, then return in spring."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "When threatened by predators, a porcupine raises its quills to make itself look larger and more dangerous. This action is an example of",
+    "optionA": "attracting a mate",
+    "optionB": "finding food",
+    "optionC": "defending itself",
+    "optionD": "seeking shelter",
+    "correctOption": "C",
+    "explanation": "Defending itself means protecting itself from danger. The porcupine's raised quills warn and protect it from animals that might attack it."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Organisms that hunt and eat other animals for food are classified as",
+    "optionA": "decomposers",
+    "optionB": "predators",
+    "optionC": "scavengers",
+    "optionD": "herbivores",
+    "correctOption": "B",
+    "explanation": "Predators are animals that hunt and eat other animals. A lion hunting a zebra, or a hawk catching a mouse, are examples of predators."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "On a hot summer day, a moose wades into a cool lake to stand in the water. This behavior is helping the moose to",
+    "optionA": "feel cooler",
+    "optionB": "find food",
+    "optionC": "build a shelter",
+    "optionD": "reproduce",
+    "correctOption": "A",
+    "explanation": "Animals need to control their body temperature to survive. When a moose gets too hot, standing in cool water helps lower its body temperature."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Which of these shows the correct order of energy flow in a food chain?",
+    "optionA": "sun → grass → mouse → owl",
+    "optionB": "mouse → grass → owl → sun",
+    "optionC": "grass → mouse → sun → owl",
+    "optionD": "owl → mouse → grass → sun",
+    "correctOption": "A",
+    "explanation": "Energy flows from the sun to plants, which are eaten by animals, which may be eaten by other animals. Plants get energy from the sun first."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "When a moose detects danger, it creates a loud splash by slapping the water with its tail. This action is an example of an animal using a body part to",
+    "optionA": "build a home",
+    "optionB": "find a mate",
+    "optionC": "catch food",
+    "optionD": "communicate information",
+    "correctOption": "D",
+    "explanation": "Communication is how animals send messages to each other. The moose's tail splash warns other moose of danger nearby."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The diagram shows how the Moon appears from Earth as it goes through phases: New → Crescent → Quarter → Gibbous → Full → Gibbous → Quarter → Crescent. These changing appearances happen because",
+    "optionA": "the Sun revolves around the Moon",
+    "optionB": "the Moon revolves around Earth",
+    "optionC": "the Moon revolves around the Sun",
+    "optionD": "Earth revolves around the Moon",
+    "correctOption": "B",
+    "explanation": "The Moon orbits Earth, and as it moves, the amount of sunlight hitting the Moon's surface changes from our viewpoint on Earth. This creates the different phases we see."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "After you wash your hands and they are dripping wet, your skin becomes dry after a few minutes. What process causes this change?",
+    "optionA": "condensation",
+    "optionB": "freezing",
+    "optionC": "precipitation",
+    "optionD": "evaporation",
+    "correctOption": "D",
+    "explanation": "Evaporation is when liquid water changes into water vapor and rises into the air. This is why wet things eventually become dry."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student describes an object as: smooth, shiny, and hard. Which of these best matches this description?",
+    "optionA": "a sponge",
+    "optionB": "a piece of felt",
+    "optionC": "a feather",
+    "optionD": "a ceramic tile",
+    "correctOption": "D",
+    "explanation": "Smooth, shiny, and hard describe a ceramic tile. A feather is soft, a sponge is soft and porous, and felt is soft and dull."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student drops a pencil and a piece of paper, and both fall down to the ground. What force causes both objects to fall?",
+    "optionA": "magnetism",
+    "optionB": "electricity",
+    "optionC": "gravity",
+    "optionD": "friction",
+    "correctOption": "C",
+    "explanation": "Gravity is the force that pulls objects toward Earth. Everything that goes up must come down because of gravity."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which tool would be best to use to find the weight of a bucket filled with sand?",
+    "optionA": "a graduated cylinder",
+    "optionB": "a spring scale",
+    "optionC": "a metric ruler",
+    "optionD": "a thermometer",
+    "correctOption": "B",
+    "explanation": "A spring scale measures weight by showing how much force gravity exerts on an object. The other tools measure temperature, length, and volume."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A student holds a magnet under a wooden table and tries to move a toy car across the top. For the car to be moved by the magnet, what must the car be made of?",
+    "optionA": "metal",
+    "optionB": "rubber",
+    "optionC": "plastic",
+    "optionD": "wood",
+    "correctOption": "A",
+    "explanation": "Magnets attract metals like iron and steel. The car must contain metal for the magnet's force to move it through the wooden table."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Frozen water in the form of ice has",
+    "optionA": "no definite shape, but a definite volume",
+    "optionB": "a definite shape and a definite volume",
+    "optionC": "a definite shape, but no definite volume",
+    "optionD": "no definite shape and no definite volume",
+    "correctOption": "B",
+    "explanation": "Ice is a solid, and solids have a definite shape and take up a specific amount of space (volume). An ice cube always looks like an ice cube and doesn't change size unless it melts."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which color of jacket would absorb the most sunlight and become the warmest?",
+    "optionA": "light blue",
+    "optionB": "yellow",
+    "optionC": "black",
+    "optionD": "white",
+    "correctOption": "C",
+    "explanation": "Black absorbs more light and heat from the sun than lighter colors. Light colors reflect sunlight instead, which is why they feel cooler."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which statement best describes how energy can cause harm?",
+    "optionA": "A heater warms a cold room in winter.",
+    "optionB": "Electricity powers a light bulb in a room.",
+    "optionC": "A candle flame burns a curtain and spreads fire through a house.",
+    "optionD": "A microwave heats food for dinner.",
+    "correctOption": "C",
+    "explanation": "Energy can be dangerous and harmful when not controlled. A fire that spreads can destroy property and hurt people. Controlled energy (heat, electricity) is useful and safe."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Four stacked boxes are arranged from top to bottom: Box 1 (mass 400g), Box 2 (mass 80g), Box 3 (mass 60g), Box 4 (mass 900g). Which box is directly underneath the box with a mass of 60g?",
+    "optionA": "Box 4",
+    "optionB": "Box 3",
+    "optionC": "Box 1",
+    "optionD": "Box 2",
+    "correctOption": "A",
+    "explanation": "The boxes are stacked in order: 1 on top, then 2, then 3, then 4 at the bottom. Box 3 (60g) is directly above Box 4 (900g), so Box 4 is underneath it."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "It is harder to push a box up a ramp with a rough, bumpy surface than up one with a smooth, slippery surface. The rough surface provides more",
+    "optionA": "magnetism",
+    "optionB": "gravity",
+    "optionC": "friction",
+    "optionD": "speed",
+    "correctOption": "C",
+    "explanation": "Friction is the force that resists movement between two surfaces. A rough surface creates more friction than a smooth one, making it harder to push something across it."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "When a boy looks into a shiny spoon, he can see his face reflected back at him. Which physical property of the spoon makes this happen?",
+    "optionA": "reflectiveness",
+    "optionB": "weight",
+    "optionC": "temperature",
+    "optionD": "hardness",
+    "correctOption": "A",
+    "explanation": "Reflectiveness is the ability of a surface to bounce light back. The shiny metal spoon reflects light in a way that allows you to see an image of your face."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A rope hangs over a wheel attached to a pole. When someone pulls one end of the rope, the wheel turns and helps lift a heavy bag on the other end. This wheel is an example of which simple machine?",
+    "optionA": "a wedge",
+    "optionB": "a lever",
+    "optionC": "an inclined plane",
+    "optionD": "a pulley",
+    "correctOption": "D",
+    "explanation": "A pulley is a simple machine made of a wheel with a groove that a rope runs through. Pulleys change the direction of a force, making it easier to lift heavy objects."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A student gathers four facts about naturalist Jane Goodall: (1) she studied chimpanzees in Africa; (2) she was born in 1934; (3) she is the greatest scientist who ever lived; (4) she spent many years observing animals in the wild. Which of these statements is an opinion?",
+    "optionA": "statement 3",
+    "optionB": "statement 4",
+    "optionC": "statement 2",
+    "optionD": "statement 1",
+    "correctOption": "A",
+    "explanation": "An opinion is a belief or judgment that cannot be proven true or false. Saying someone is 'the greatest' is an opinion. Statements 1, 2, and 4 are facts that can be verified."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A 2.5-meter lamp post in Boston casts shadows of different lengths at different times on May 15. A student measured the shadow length at: 6:30am = 9.2m, 9:00am = 4.1m, 12:00pm (midday, closest to solar noon) = 1.4m, 2:30pm = 3.5m, 5:00pm = 12.8m. Based on this pattern, which is the most reasonable shadow length and direction at 3:45pm on the same day?",
+    "optionA": "Shadow about 5.8m long, casting toward the east",
+    "optionB": "Shadow about 2.2m long, casting toward the east",
+    "optionC": "Shadow about 8.1m long, casting toward the west",
+    "optionD": "Shadow about 1.9m long, casting toward the west",
+    "correctOption": "A",
+    "explanation": "At 3:45pm, the sun is in the west and moving toward the horizon, making shadows longer than at midday. The shadow at 3:45pm falls between the measurements at 2:30pm (3.5m) and 5:00pm (12.8m). Since 3:45pm is approximately halfway between 2:30pm and 5:00pm, the shadow length would be roughly halfway between 3.5m and 12.8m, which is about 5.8-6.5m. Shadows always point away from the sun — when the sun is in the west, the shadow points east."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In Seattle, Washington, the sunrise and sunset times on March 20 are 7:28am and 7:29pm, giving about 12 hours of daylight — very close to a 12-12 split. Based on Earth's tilt and orbit, how much daylight would Seattle receive on December 21 (winter solstice) and on June 21 (summer solstice)?",
+    "optionA": "December: 8 hours 40 minutes, June: 15 hours 45 minutes",
+    "optionB": "December: 15 hours 45 minutes, June: 8 hours 40 minutes",
+    "optionC": "December: 12 hours 10 minutes, June: 11 hours 50 minutes",
+    "optionD": "December: 11 hours 50 minutes, June: 12 hours 10 minutes",
+    "correctOption": "A",
+    "explanation": "The winter solstice (December 21) is when Earth's Northern Hemisphere tilts farthest from the sun, creating the shortest day of the year — about 8-9 hours of daylight at mid-northern latitudes like Seattle. The summer solstice (June 21) is when the Northern Hemisphere tilts toward the sun, creating the longest day — about 15-16 hours of daylight. The equinox (March 20) has nearly equal day and night, about 12 hours each."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A scientist has a table of properties for four minerals found in Colorado: pyrite (color: gold, luster: metallic, streak: greenish-black, hardness: 6-6.5), quartz (color: clear/white/various, luster: glassy, streak: colorless, hardness: 7), mica (color: silver/golden, luster: shiny, streak: white, hardness: 2-3), feldspar (color: pink/white, luster: glassy, streak: white, hardness: 6). Which pair of properties best lets a scientist tell mica apart from both pyrite and quartz?",
+    "optionA": "color and hardness",
+    "optionB": "streak and hardness",
+    "optionC": "luster and color",
+    "optionD": "hardness and luster",
+    "correctOption": "D",
+    "explanation": "Mica has a hardness of only 2-3 (much softer than pyrite at 6-6.5 or quartz at 7), making hardness a good distinguishing property. Additionally, mica's shiny luster differs from quartz's glassy luster and pyrite's metallic luster. Using both hardness and luster together reliably separates mica from both of the other minerals. Streak alone wouldn't work (both mica and quartz have white streaks)."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student placed different materials into warm water: sugar dissolves and becomes invisible in the water; sand sinks to the bottom but doesn't disappear; salt dissolves and becomes invisible; food coloring spreads throughout the water and mixes evenly. Which observation is an example of solubility?",
+    "optionA": "Sand sinks to the bottom of the water.",
+    "optionB": "Food coloring spreads throughout the water and mixes evenly.",
+    "optionC": "Sugar becomes invisible and mixes evenly with the water.",
+    "optionD": "The water becomes cloudy from the added material.",
+    "correctOption": "C",
+    "explanation": "Solubility means a solid dissolves into a liquid and becomes invisible, mixing evenly throughout. Sugar dissolving completely and becoming invisible in water is a clear example of solubility. Sand sinking (physical settling, not dissolving), food coloring spreading (dye mixing, different process), and cloudy water (particles suspended, not dissolved) are not examples of solubility."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Lions live in family groups called prides, containing up to 15 individuals. Researchers studying lions have found: large prey like buffalo are hunted cooperatively by multiple lions working together; individual lions in a pride have greater protection from rival prides; prides maintain and defend territories against other prides; lions outside of any pride have shorter lifespans and lower reproduction success. Which statement does NOT provide evidence that living in a pride helps a lion survive?",
+    "optionA": "Buffalo herds become larger each year.",
+    "optionB": "Lions in a pride cooperatively hunt large prey.",
+    "optionC": "Pride members defend their territory together.",
+    "optionD": "Solo lions have difficulty reproducing and living long.",
+    "correctOption": "A",
+    "explanation": "Options B, C, and D all describe direct benefits of pride membership: cooperative hunting provides food, territorial defense provides protection, and group living increases survival odds and reproduction success. Option A (buffalo herd size) describes something about prey, not about whether the lion is in a group or alone — it tells nothing about whether pride membership helps lions survive."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "In a population of beetles, there are brown beetles and green beetles. Researchers discovered: green beetles blend better with green plants and are eaten less often by birds; brown beetles are able to fly faster than green beetles; beetles often mate with the opposite color; brown beetles have larger clutches of eggs than green beetles. What conclusion best summarizes these observations about trait variation in this beetle population?",
+    "optionA": "Different colored beetles are found in different environments.",
+    "optionB": "Some traits in the beetle population may give survival or reproduction advantages depending on conditions.",
+    "optionC": "All beetle colors are equally good at surviving.",
+    "optionD": "Beetle color is the most important trait for survival.",
+    "correctOption": "B",
+    "explanation": "The observations show that different traits (color, flight ability, egg production) are linked to different survival or reproduction advantages: green provides camouflage (survival advantage), brown beetles fly faster (possible advantage) and have more eggs (reproduction advantage). This demonstrates that trait variation (different colors, abilities) creates different advantages and disadvantages — the core idea of how natural selection works."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Two children connect a 30-meter rope with a vibrating bell at one end and a metal washer hanging at the other end. One child rings the bell (making it vibrate), and the vibration travels along the rope so the other child hears a sound when the washer vibrates. Using this setup, which statement most accurately describes the energy transfer?",
+    "optionA": "Sound energy travels through the air from the bell to the washer.",
+    "optionB": "Heat energy from the bell transforms into sound energy in the rope.",
+    "optionC": "The vibrating bell transfers sound energy along the rope.",
+    "optionD": "Sound energy must be converted to electrical energy to travel down the rope.",
+    "correctOption": "C",
+    "explanation": "The vibration from the ringing bell travels as mechanical vibration along the rope (sound energy), making the washer at the other end vibrate and produce sound. This is direct mechanical energy transfer — vibration moving through the medium of the rope. Sound doesn't need to become electrical energy, heat isn't converted, and in this case sound travels along the rope, not primarily through the air between."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "When a musician strikes a gong with a soft mallet, what happens to the energy of the mallet, gong, and surrounding air?",
+    "optionA": "The gong gains energy from the mallet and the surrounding air.",
+    "optionB": "The mallet transfers all its energy directly to the surrounding air.",
+    "optionC": "The mallet loses energy, which transfers to the gong, but not to the surrounding air.",
+    "optionD": "The mallet loses energy, which transfers to the gong, and then the gong transfers energy to the surrounding air as sound waves.",
+    "correctOption": "D",
+    "explanation": "The moving mallet carries kinetic energy (energy of motion). When it strikes the gong, this energy transfers to the gong, making it vibrate. The vibrating gong then transfers energy to the air around it as vibrations we hear as sound. Energy flows through this chain: mallet → gong → air. Energy is conserved and flows outward through the system; it isn't consumed at the gong or gained from nowhere."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "During a summer afternoon, water from a lake surface enters the atmosphere as a gas when heat energy warms the water. As this water vapor rises high in the atmosphere where it is colder, it changes into tiny water droplets that form clouds. Which pair of water-cycle processes correctly fills in these two steps?",
+    "optionA": "1-condensation, 2-evaporation",
+    "optionB": "1-precipitation, 2-evaporation",
+    "optionC": "1-evaporation, 2-condensation",
+    "optionD": "1-freezing, 2-sublimation",
+    "correctOption": "C",
+    "explanation": "The first process described (liquid water turning to water vapor from heat) is evaporation. The second process (water vapor cooling and turning into liquid water droplets to form clouds) is condensation. These are the standard water-cycle term definitions. Evaporation happens when heat energy causes liquid to become gas; condensation happens when gas cools and becomes liquid."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A climate scientist studied surface water temperatures and storm activity in the Gulf of Mexico near New Orleans. The data shows: January-March average surface water temperature = 48-58°F; April-July = 72-86°F; August-October = 78-82°F; November-December = 60-68°F. Hurricane season typically peaks from August through October. Which statement best explains why hurricanes strengthen most often during the Gulf's late summer and early fall?",
+    "optionA": "In late summer, the air temperature is highest, which provides the most energy to strengthen storms.",
+    "optionB": "In late summer and early fall, the ocean surface water temperature is warm enough (78-82°F) to provide heat energy for hurricanes to develop.",
+    "optionC": "In spring, the surface water reaches its peak temperature, which is when hurricanes are most likely.",
+    "optionD": "Hurricanes occur whenever surface water temperature changes, which happens most rapidly in August.",
+    "correctOption": "B",
+    "explanation": "Hurricanes are fueled by heat energy from warm ocean water. The data shows that in late summer and early fall (August-October), the Gulf's surface water is warmest (78-82°F). This warm water supplies the heat energy that feeds hurricane development and strengthening. Spring has cooler water (48-68°F), winter is coldest, and rapid temperature change alone doesn't cause hurricanes — it's the absolute warmth that matters."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A geography student compared two cities: Miami, Florida and Boston, Massachusetts. Looking at a map, Miami is much closer to the equator than Boston. Climate data shows: Miami has warmer average temperatures every month (e.g., winter lows ~65°F vs Boston ~25°F; summer highs ~89°F vs Boston ~79°F); Miami has higher rainfall in summer months (June-August) than Boston; Boston has more days per year with freezing temperatures. Which statement correctly compares both the locations and climate patterns of Miami and Boston?",
+    "optionA": "Miami is closer to the equator, has warmer winter temperatures, and receives more summer rainfall than Boston.",
+    "optionB": "Miami is closer to the equator, has colder summer temperatures, and receives more winter rainfall than Boston.",
+    "optionC": "Boston is closer to the equator, has warmer temperatures all year, and receives more summer rainfall.",
+    "optionD": "Boston is closer to the equator, has colder winters than Miami, and receives more rainfall annually.",
+    "correctOption": "A",
+    "explanation": "Miami is clearly closer to the equator than Boston, making it warmer overall. The climate data confirms Miami has higher winter temperatures (warmer by about 40°F in winter), and both data and logic show more summer rainfall in Miami due to tropical atmospheric patterns. Locations closer to the equator tend to be warmer year-round. Boston being closer to the equator (options C and D) is factually wrong."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Oak trees in a forest all have leaves, acorns, and bark, but some individual trees grow very tall (over 80 feet) while other trees in the same forest remain short (under 40 feet). Even a small oak tree can produce seeds that grow into a tall oak tree. Which statement describes a variation in a trait found in this oak tree population?",
+    "optionA": "Oak trees produce acorns.",
+    "optionB": "Oak trees grow leaves each spring.",
+    "optionC": "Some oak trees grow very tall and others grow short.",
+    "optionD": "Oak trees have bark on their trunks.",
+    "correctOption": "C",
+    "explanation": "A 'trait variation' means a trait differs between individual members of the same species. Height (tall vs short) is a trait that varies among individual oak trees in the forest. Options A, B, and D describe traits that all or most oak trees share (all have acorns, all grow leaves, all have bark) — not variations. Only the tall versus short difference shows variation."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "An invasive fish species, the lionfish, has spread through the Atlantic Ocean and Caribbean Sea. Lionfish are fast predators that eat small fish and crustaceans. Native fish and crustacean species are being eaten at much higher rates now that lionfish are present. Coral reef ecosystems depend on small reef fish to eat algae and keep corals healthy. Complete the explanation: 'The introduction of lionfish to coral reef ecosystems could ___1___ the number of algae-eating fish, which would ___2___ the amount of algae on the reef, ultimately ___3___ the health of coral colonies because lionfish are disrupting the ecosystem's ___4___.'",
+    "optionA": "1=increase, 2=decrease, 3=improve, 4=food web",
+    "optionB": "1=decrease, 2=increase, 3=harm, 4=food web",
+    "optionC": "1=decrease, 2=increase, 3=improve, 4=water temperature",
+    "optionD": "1=increase, 2=increase, 3=harm, 4=nutrient cycle",
+    "correctOption": "B",
+    "explanation": "Lionfish prey on small fish, so the population of algae-eating fish would decrease (blank 1). Fewer algae-eating fish means more algae grows unchecked (blank 2). Excessive algae growth harms corals by blocking sunlight and smothering them (blank 3). This happens because lionfish are eating members of the reef's food web, disrupting the balance (blank 4). The harm comes from food-web disruption, not temperature changes or nutrient cycles."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A mountain spring releases fresh water (from underground) onto the surface. The water flows downhill in a stream, which eventually joins a river that flows to the ocean. Which two Earth spheres are clearly shown interacting in this model of water movement?",
+    "optionA": "atmosphere and biosphere",
+    "optionB": "geosphere and hydrosphere",
+    "optionC": "biosphere and hydrosphere",
+    "optionD": "atmosphere and geosphere",
+    "correctOption": "B",
+    "explanation": "The geosphere is the solid Earth (rocks, soil, underground). The hydrosphere is all water on Earth. In this model, water comes from inside the Earth (geosphere) and moves across the surface and into streams and rivers (hydrosphere). No organisms or plants are mentioned (that would be biosphere), and the atmosphere (air) isn't directly involved in this scenario. The geosphere and hydrosphere interaction is clearly shown."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A solar panel system works by: (1) sunlight hits the panel surface, (2) the panel converts the light energy into electrical energy, (3) the electrical energy is sent to a battery for storage, (4) the stored energy powers home lights and appliances. What type of energy is the solar panel primarily converting into electrical energy?",
+    "optionA": "heat energy from the air",
+    "optionB": "light energy from the sun",
+    "optionC": "motion energy from wind",
+    "optionD": "sound energy from the environment",
+    "correctOption": "B",
+    "explanation": "Solar panels work by converting light (photons from sunlight) directly into electrical energy. The system description says 'sunlight hits the panel' and 'converts the light energy into electrical energy,' making this clear. Wind, heat from air, and sound are not involved in how solar panels work. The energy transformation is light → electricity."
   }
 ]

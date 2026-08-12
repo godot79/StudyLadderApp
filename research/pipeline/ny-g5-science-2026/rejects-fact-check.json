@@ -1,0 +1,56 @@
+[
+  {
+    "item": {
+      "subject": "science",
+      "topic": "conservation of mass",
+      "levelBand": "Age 10 High Achiever",
+      "prompt": "A student placed 15g of different substances into separate jars, each with 25g of water (starting mass = 40g total per jar). Jar A: 15g salt dissolves completely, no bubbles, no visible pieces left. Jar B: 15g baking soda fizzes and bubbles (carbon dioxide gas escapes). Jar C: 15g chalk settles to the bottom, unreacted. Jar D: 15g sand mixes throughout but doesn't dissolve. Jar E: 15g sugar dissolves into the water. Which two jars would each measure exactly 40g if you weighed all the contents together?",
+      "optionA": "Jar B and Jar E",
+      "optionB": "Jar A and Jar D",
+      "optionC": "Jar A and Jar B",
+      "optionD": "Jar C and Jar E",
+      "correctOption": "B",
+      "explanation": "Every jar starts at 15g substance + 25g water = 40g. When a substance dissolves (like salt in Jar A or sugar in Jar E), it mixes with the water but stays in the jar — the total mass remains 40g. When substances don't react (chalk and sand in Jars C and D), they simply sit in the water — still 40g total. However, when baking soda reacts with water (Jar B), it releases gas bubbles that escape the jar, removing mass from the system. So only Jar A (dissolved salt) and Jar D (unreacted sand) maintain their full 40g.",
+      "answerType": "fact",
+      "factClaim": "Dissolving a substance or leaving it unreacted conserves mass in a closed container, but if a chemical reaction releases a gas that escapes, the total mass of remaining contents decreases by the mass of escaped gas."
+    },
+    "reasonCode": "fact-unverified",
+    "detail": "Web-search cross-check verdict: uncertain. The physics stated (mass conserved unless gas escapes) is correct, but the claim's own framing is about 'a closed container' while the prompt's jars are open. In an open jar, if a gas-releasing reaction occurs, mass will appear to decrease due to escaping gas even though total mass (including escaped gas) is conserved - the claim's caveat about closed containers doesn't map cleanly onto the actual open-jar scenario, which could confuse a Grade 5 reader about which case applies. (source: https://brainly.com/question/35593865 ; general conservation-of-mass explainers on open vs. closed systems)"
+  },
+  {
+    "item": {
+      "subject": "science",
+      "topic": "predator and prey population relationships",
+      "levelBand": "Age 10 High Achiever",
+      "prompt": "Two line graphs track lynx and snowshoe hare populations in northern Canada from 1970-2000. Lynx population starts at ~0 in 1970, rises to ~200 by 1980, then cycles between ~50 and ~180 throughout the 1980s-2000s. Hare population starts at ~5,000 in 1970, drops to ~2,000 by 1980, rises to ~6,000 around 1985, then drops again to ~1,500 by 1995, and shows similar cycling after. Which pattern from the graphs most directly supports the claim that lynx depend on snowshoe hares for food?",
+      "optionA": "From 1995 to 2000, both lynx and hare populations increased together.",
+      "optionB": "From 1980 to 1985, hare populations increased while lynx populations remained steady.",
+      "optionC": "From 1980 to 1983, hare populations decreased while lynx populations increased.",
+      "optionD": "Lynx and hare populations both returned to their 1970 levels by 1995.",
+      "correctOption": "C",
+      "explanation": "Predator-prey relationships show an inverse pattern: as prey increases, predators increase (more food available), then as predators increase, they consume more prey, causing prey to decrease. From 1980-1983, we see hares decreasing (more predation) while lynx were increasing (more food → more reproducing), showing the inverse predator-prey relationship. This is direct evidence that lynx depend on hares — when hares decline, it's because lynx numbers are high.",
+      "answerType": "fact",
+      "factClaim": "Predator and prey populations show an inverse relationship: as prey decreases, it's typically because predator numbers have increased and consumption is high, directly demonstrating the predator's dependency on prey."
+    },
+    "reasonCode": "fact-unverified",
+    "detail": "Web-search cross-check verdict: uncertain. Confirmed but with an important caveat: real lynx-hare cycles (8-11 years) are driven by predation as the dominant factor, but hare declines are also linked to food-plant depletion/recovery and starvation, and lynx population changes lag hare changes by 1-2 years rather than moving in strict lockstep. The claim's phrasing ('as prey decreases, it's typically because predator numbers have increased') oversimplifies a multi-factor, time-lagged cycle into a single direct cause, which is the kind of oversimplification a reviewer should flag. (source: https://www.gov.nt.ca/ecc/en/services/lynx/lynx-snowshoe-hare-cycle ; https://www.pnas.org/doi/10.1073/pnas.94.10.5147)"
+  },
+  {
+    "item": {
+      "subject": "science",
+      "topic": "traits and survival advantages",
+      "levelBand": "Age 9 High Achiever",
+      "prompt": "Rabbits eat the tender leaves of young shrubs and small trees, especially in winter when other plants are dormant. Some shrub species have sharp prickles on their leaves and stems, while other shrubs have soft, smooth leaves. Based on this information, which statement best supports the idea that prickly shrubs have a survival advantage over smooth-leaved shrubs where rabbits live?",
+      "optionA": "Prickly shrubs grow taller than smooth-leaved shrubs.",
+      "optionB": "Prickly shrubs produce more flowers than smooth-leaved shrubs.",
+      "optionC": "Prickles make it difficult for rabbits to eat the leaves, protecting the shrub's food-production organs.",
+      "optionD": "Prickly shrubs are more common in cold climates.",
+      "correctOption": "C",
+      "explanation": "The passage states rabbits eat shrub leaves, especially in winter. Prickles (sharp, pointed structures) would physically discourage or prevent rabbits from eating those leaves, directly protecting the shrub. This is a survival advantage because leaves are how plants make food and grow. The other options describe different advantages (height, flowers, climate preference) unrelated to the threat from rabbit herbivory.",
+      "answerType": "fact",
+      "factClaim": "When herbivores like rabbits eat plant leaves, sharp prickles on the leaves and stems discourage feeding, providing a direct survival advantage by protecting the plant's food-producing organs."
+    },
+    "reasonCode": "fact-unverified",
+    "detail": "Web-search cross-check verdict: uncertain. The general biology fact that sharp prickles/thorns deter herbivory and protect a plant's food-producing organs (leaves) is well documented and true. However, the claim's fit to this specific prompt is uncertain: the prompt describes rabbits eating 'tender leaves of young shrubs,' which does not establish that those particular shrubs have prickles - if this is answering a question about why some plants survive rabbit browsing better than others, the underlying mechanism is sound, but a reviewer should confirm the specific shrub/plant referenced in the full question actually has prickly defenses rather than this being an unsupported inserted detail. (source: https://biologyinsights.com/why-do-plants-have-thorns-and-other-sharp-defenses/ ; https://plantcuttings.uk/2025/03/07/the-role-of-thorny-structures-in-plant-survival-strategies/)"
+  }
+]

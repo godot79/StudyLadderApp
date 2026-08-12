@@ -1,0 +1,238 @@
+{
+  "items": [
+    {
+      "sourceItemNumber": 2,
+      "topic": "shadows / Sun position over the day",
+      "stem": "A data table gives the length of a 2.0-meter stop sign's shadow in Rochester, NY on Sept 23, 2023 at several times of day: 8:15am=8.63m, 10:45am=2.67m, 1:15pm=1.89m (shortest, near solar noon), 3:45pm=3.02m, 6:15pm=13.21m, 8:45pm=none (dark). Which diagram best represents the direction and length of the same stop sign's shadow at 5:15pm?",
+      "options": {
+        "A": "shadow length 9.63 m, pointing west (toward the East side of the sign)",
+        "B": "shadow length 2.9 m",
+        "C": "shadow length 10.20 m, pointing west",
+        "D": "shadow length 5.75 m, pointing west (getting longer after 3:45pm and pointing away from the afternoon sun which is in the west)"
+      },
+      "correctOption": "D",
+      "sourceKeyNote": "Official key: D. Reasoning: shadows shrink toward solar noon then lengthen again as the sun gets lower; 5:15pm sits between 3:45pm(3.02m) and 6:15pm(13.21m), so a plausible interpolated length pointing east-to-west direction (shadow points opposite the sun, which is in the west in late afternoon, so shadow points east) is closest to 5.75m."
+    },
+    {
+      "sourceItemNumber": 3,
+      "topic": "day length / sunrise-sunset",
+      "stem": "Sunrise/sunset in Rochester NY on Sept 23, 2023: sunrise 6:58am, sunset 7:07pm (roughly equal day/night, near equinox). Which table correctly identifies the amount of daylight (hours/minutes) in Rochester on December 21, 2023 and June 20, 2024?",
+      "options": {
+        "A": "December: 8h59min, June: 15h24min",
+        "B": "December: 15h24min, June: 8h59min",
+        "C": "December: 12h9min, June: 11h51min",
+        "D": "December: 11h51min, June: 12h9min"
+      },
+      "correctOption": "A",
+      "sourceKeyNote": "Official key: A. Reasoning: December 21 is the winter solstice (shortest day, ~9 hours), June 20/21 is the summer solstice (longest day, ~15 hours) in the Northern Hemisphere."
+    },
+    {
+      "sourceItemNumber": 5,
+      "topic": "mineral properties / physical science classification",
+      "stem": "A table gives properties of 5 minerals found in New York State: calcite (streak clear/white, hardness 3, non-metallic, cubic), garnet (streak clear, hardness 7, non-metallic, cubic), halite (streak clear/white, hardness 2-2.5, non-metallic, cubic), hematite (streak red-brown, hardness 5-6.5, non-metallic, hexagonal), talc (streak white, hardness 1, non-metallic, crystal shape not observable). Which mineral observations could both be used to determine that a sample of talc is different from calcite or halite?",
+      "options": {
+        "A": "hardness and crystal shape",
+        "B": "streak and crystal shape",
+        "C": "hardness and surface reflectivity",
+        "D": "streak and surface reflectivity"
+      },
+      "correctOption": "A",
+      "sourceKeyNote": "Official key: A. Talc's hardness (1) is lower than calcite (3) and halite (2-2.5), and its crystal shape (not observable) differs from calcite/halite's cubic shape. Streak (talc=white, calcite/halite=clear/white) is too similar to reliably distinguish, and surface reflectivity is identical (non-metallic) for all three."
+    },
+    {
+      "sourceItemNumber": 7,
+      "topic": "conservation of mass / mixtures",
+      "stem": "Students placed 10g of each of 5 minerals into separate beakers with 30g of vinegar each (so each starting beaker = 40g total): beaker 1 = 10g halite + 30g vinegar (halite dissolves, no visible pieces), beaker 2 = 10g calcite + 30g vinegar (bubbles form - a gas is released), beaker 3 = 10g hematite + 30g vinegar (pieces remain, unreacted), beaker 4 = 10g talc + 30g vinegar (pieces remain, unreacted), beaker 5 = 10g garnet + 30g vinegar (pieces remain, unreacted). Which graph correctly shows the total mass of the contents of two of the beakers?",
+      "options": {
+        "A": "Beaker 1 = 30g, Beaker 3 = 40g",
+        "B": "Beaker 1 = 40g, Beaker 5 = 40g",
+        "C": "Beaker 1 = 10g, Beaker 4 = 30g",
+        "D": "Beaker 1 = 32g, Beaker 2 = 11g"
+      },
+      "correctOption": "B",
+      "sourceKeyNote": "Official key: B. Every beaker starts at 10g mineral + 30g vinegar = 40g total. Dissolving (beaker 1, halite) doesn't remove mass from the system, and an unreacted mineral (beaker 5, garnet) obviously stays at 40g too - mass is conserved even though bubbles form in beaker 2 (some mass leaves as escaping gas, which is the one beaker where total mass would actually measure below 40g, but that beaker isn't in this option)."
+    },
+    {
+      "sourceItemNumber": 9,
+      "topic": "solubility vs. other physical changes",
+      "stem": "Using the same vinegar-and-mineral investigation (halite dissolved and became invisible in the vinegar; calcite pieces bubbled and settled to the bottom; hematite pieces became more rounded/worn from the acid; garnet pieces showed increased surface shine), which piece of evidence correctly identifies an example of solubility?",
+      "options": {
+        "A": "The halite is not visible in the vinegar.",
+        "B": "The calcite pieces settled to the bottom of the beaker.",
+        "C": "The hematite pieces became more rounded.",
+        "D": "The garnet pieces had an increase in reflectivity."
+      },
+      "correctOption": "A",
+      "sourceKeyNote": "Official key: A. A dissolved solid disappearing into a liquid (becoming invisible, evenly mixed in) is the definition of solubility; the other three are physical wear/settling effects, not dissolving."
+    },
+    {
+      "sourceItemNumber": 10,
+      "topic": "wolf pack behavior / survival advantage (evidence evaluation)",
+      "stem": "Background: wolves were reintroduced to Yellowstone in 1995-1997 after nearly disappearing from the US by the early 1900s due to habitat loss and hunting. Wolves are highly social, hunt varied prey, and live in packs (4-25 wolves per pack, 10 packs, 108 wolves total by end of 2022). Which fact does NOT support the argument that being part of a wolf pack helps members survive?",
+      "options": {
+        "A": "The leading cause of death for wolves outside Yellowstone Park is humans.",
+        "B": "Food and protection is provided to newborn pups.",
+        "C": "Large prey are hunted and killed by wolves.",
+        "D": "Regions in which wolves live are defended from other wolves."
+      },
+      "correctOption": "A",
+      "sourceKeyNote": "Official key: A. B, C, D all describe direct benefits of pack living (cooperative pup care, cooperative hunting of large prey, cooperative territory defense). A is about a danger from humans outside the park, unrelated to whether the wolf is part of a pack or not - it doesn't describe a pack benefit."
+    },
+    {
+      "sourceItemNumber": 11,
+      "topic": "genetic variation and natural selection basics",
+      "stem": "In Yellowstone, about half the wolves are black and half are gray. Studies found: gray wolves are more aggressive in encounters with other packs; gray wolves have slightly larger litters; wolves often mate with the opposite color; black wolves have a greater survival rate from some diseases than gray wolves. Which statement correctly summarizes what the studies found comparing wolves with different coat colors?",
+      "options": {
+        "A": "Wolves have traits that can be influenced by the environment.",
+        "B": "Variations in characteristics of wolves may provide advantages in surviving and reproducing.",
+        "C": "Traits of wolves are inherited from parents, and variations of these traits exist in a pack.",
+        "D": "Internal structures of wolves allow for survival, growth, and successful reproduction."
+      },
+      "correctOption": "B",
+      "sourceKeyNote": "Official key: B. Each bullet describes a trait variation (color) linked to a specific survival or reproductive advantage/disadvantage (aggression in territory disputes, litter size, disease survival) - the core idea is that trait variation affects survival/reproduction odds, not simply that traits exist or are inherited (C is a true but incomplete/different claim; A and D are not supported by the given evidence)."
+    },
+    {
+      "sourceItemNumber": 13,
+      "topic": "predator-prey population graphs",
+      "stem": "Two line graphs show wolf and elk populations in northern Yellowstone from 1995-2017. Wolves rose from 0 (1995) to a peak of ~90 (2004, again ~2008), then declined to ~30-45 by 2010-2017. Elk declined steadily from ~17,000 (1995) to ~4,000-6,000 by 2010-2017, with a small rebound 1999-2000. Which piece of evidence from the graphs supports the claim that wolves are dependent on elk for their survival in Yellowstone?",
+      "options": {
+        "A": "From 2010 to 2017, both the wolf and elk populations decreased, then increased.",
+        "B": "Both the wolf and elk populations increased from 2005 to 2006.",
+        "C": "From 2000 to 2004, the number of wolves increased while the number of elk decreased.",
+        "D": "The highest wolf populations were in 2004 and 2008, while the highest elk populations were in 1995 and 2000."
+      },
+      "correctOption": "C",
+      "sourceKeyNote": "Official key: C. As wolves (predator) increased, elk (a major prey species) decreased over the same period - a classic predator-prey inverse relationship, which is the strongest direct evidence of dependency among the four options; the others describe patterns that don't show this inverse predator-prey link as clearly."
+    },
+    {
+      "sourceItemNumber": 15,
+      "topic": "sound energy transfer",
+      "stem": "A string-and-can telephone lets a person talk into a can on one end and be heard through a can on the other end, connected by a taut string. Using this information, which statement about energy using the string-and-can telephone is most accurate?",
+      "options": {
+        "A": "Sound energy is transferred through the string.",
+        "B": "Electrical energy is transferred through the string.",
+        "C": "Sound energy is converted into electrical energy in the string.",
+        "D": "Heat energy is converted into sound energy in the can."
+      },
+      "correctOption": "A",
+      "sourceKeyNote": "Official key: A. The vibration (sound energy) from the voice travels along the taut string as mechanical vibration and is heard as sound at the other end - no electrical or heat conversion is involved in this simple mechanical system."
+    },
+    {
+      "sourceItemNumber": 16,
+      "topic": "energy transfer between objects",
+      "stem": "When drum signals are used for communication (a mallet striking a drum), what happens to the energy of the mallet, drum, and surrounding air when the mallet hits the drum?",
+      "options": {
+        "A": "The mallet gains energy from the drum and the surrounding air.",
+        "B": "The mallet and drum both gain energy from the surrounding air.",
+        "C": "The mallet loses energy, and this energy is transferred to the drum, but not to the surrounding air.",
+        "D": "The mallet loses energy, and this energy is transferred to the drum and then to the surrounding air."
+      },
+      "correctOption": "D",
+      "sourceKeyNote": "Official key: D. The moving mallet has kinetic energy; on impact it transfers energy to the drum (making it vibrate), and the vibrating drum then transfers energy to the surrounding air as sound waves - energy flows outward through the whole chain, it isn't gained from nowhere or stopped partway."
+    },
+    {
+      "sourceItemNumber": 24,
+      "topic": "water cycle processes in hurricane formation",
+      "stem": "A table describes hurricane-related water cycle processes: Process 1 = 'Heat energy in warm ocean water causes water vapor to enter the atmosphere,' Process 2 = 'Water vapor cools as it rises in the air, forming clouds,' precipitation = rain falling back to Earth, runoff = water moving into lakes/rivers. Which set of water cycle processes correctly completes the table for slots 1 and 2?",
+      "options": {
+        "A": "1-groundwater flow, 2-condensation",
+        "B": "1-evaporation, 2-groundwater flow",
+        "C": "1-condensation, 2-evaporation",
+        "D": "1-evaporation, 2-condensation"
+      },
+      "correctOption": "D",
+      "sourceKeyNote": "Official key: D. Liquid water turning to vapor from heat is evaporation; vapor cooling and forming clouds is condensation - these are the standard water-cycle term definitions."
+    },
+    {
+      "sourceItemNumber": 26,
+      "topic": "hurricane formation and ocean surface temperature",
+      "stem": "Hurricanes strengthen over the body of water near Houston, Texas. Climate data for Houston shows monthly average surface water temperature is lowest in Jan/Feb (~56-58°F) and highest in Jul/Aug (~86°F); monthly precipitation and air temperature also vary through the year, peaking in different months. Based on this information, which statement correctly describes the reason hurricanes strengthen over this body of water?",
+      "options": {
+        "A": "In late summer months, the increase in precipitation near Houston supplies energy to further develop storms into hurricanes.",
+        "B": "In late summer months, the surface water temperature increases enough to supply energy for the development of hurricanes.",
+        "C": "In the spring, the monthly surface water temperature is at its highest, supplying energy to help develop storms into hurricanes.",
+        "D": "In the spring, the monthly precipitation near Houston is at its highest, supplying energy to help develop storms into hurricanes."
+      },
+      "correctOption": "B",
+      "sourceKeyNote": "Official key: B. Hurricanes are fueled by heat energy from warm ocean water (per the passage's own explanation of hurricane formation), and the data table shows surface water temperature peaks in late summer (Jul/Aug), matching hurricane season - not precipitation (a different variable, and hurricane fuel is heat energy from water, not rain amount) and not spring (temperature is lowest/rising then, not highest)."
+    },
+    {
+      "sourceItemNumber": 27,
+      "topic": "climate comparison by latitude",
+      "stem": "A world map shows Houston, TX and New York City are both in the Northern Hemisphere, with Houston closer to the equator than New York City. Climate data tables show Houston has warmer average temperatures year-round than NYC (e.g., higher winter lows, higher summer highs) and different monthly precipitation patterns for each city. Which statement correctly compares the locations and climate conditions of Houston to New York City?",
+      "options": {
+        "A": "Houston is closer to the equator, has greater air temperatures in winter months, and more precipitation in December.",
+        "B": "Houston is closer to the equator, has greater air temperatures in summer months, and more precipitation in July.",
+        "C": "New York City is closer to the equator, has lower air temperatures in winter months, and less precipitation in July.",
+        "D": "New York City is closer to the equator, has lower air temperatures in summer months, and greater precipitation in December."
+      },
+      "correctOption": "B",
+      "sourceKeyNote": "Official key: B. Houston is at a lower latitude (closer to equator) than NYC, and the climate data tables show Houston has higher summer air temperatures and more July precipitation than NYC. Options C and D are eliminated immediately because they wrongly claim NYC is closer to the equator."
+    },
+    {
+      "sourceItemNumber": 29,
+      "topic": "trait variation within a species",
+      "stem": "Honey locust trees are often planted in cities (they tolerate poor air quality and dryness), all have seed pods, but some individual trees have thorns on their trunks/branches while others (a 'thornless variety') do not - even though seeds from a thorned tree can grow into a thornless tree and vice versa. Which statement describes a variation in a trait that exists in honey locust trees?",
+      "options": {
+        "A": "Honey locust trees are often planted in cities.",
+        "B": "All honey locust trees have seed pods.",
+        "C": "Some honey locust trees have thorns.",
+        "D": "Honey locust trees can live in areas with poor air quality."
+      },
+      "correctOption": "C",
+      "sourceKeyNote": "Official key: C. A 'variation in a trait' means the trait differs between individuals of the same species - only the thorn/no-thorn difference does that; the others describe traits shared by all or most honey locusts (habitat tolerance, city planting, universal seed pods)."
+    },
+    {
+      "sourceItemNumber": 30,
+      "topic": "trait advantage / survival reasoning",
+      "stem": "Honey locust trees can have thorns on their trunks and branches; deer eat the tree's bark in winter when other food is scarce. Which argument supports the claim that honey locust trees with thorns are more likely to survive than honey locust trees without thorns?",
+      "options": {
+        "A": "The thorns of these trees will produce more food for the tree.",
+        "B": "The thorns of these trees help absorb more water for growth.",
+        "C": "The thorns of these trees provide habitats for moths and caterpillars.",
+        "D": "The thorns of these trees make it difficult to eat the tree's bark."
+      },
+      "correctOption": "D",
+      "sourceKeyNote": "Official key: D. The passage states deer eat honey locust bark for food in winter when it's scarce elsewhere - thorns would physically deter animals like deer from reaching/eating the bark, directly protecting the tree and improving its survival odds; the other options invent unsupported benefits (food production, water absorption, habitat) not tied to the deer-bark-eating threat described."
+    },
+    {
+      "sourceItemNumber": 31,
+      "topic": "invasive species and ecosystem balance (multi-step reasoning)",
+      "stem": "The black locust tree (similar to honey locust) originally grew only in the Appalachian Mountains and Ozark Plateau, but has now spread to the Midwest and Northeast (including NY). Black locusts grow fast, form dense groups, decrease land surface temperature, and decrease light reaching low-growing grassland/prairie plants. Complete the passage: 'The introduction of the black locust to the Midwest prairie ecosystem could ___1___ the amount of grass and clover, resulting in a(n) ___2___ in the number of grasshoppers and owls because the black locust could ___3___ the balance of the ecosystem.'",
+      "options": {
+        "A": "1=increase, 2=decrease, 3=upset",
+        "B": "1=decrease, 2=decrease, 3=upset",
+        "C": "1=decrease, 2=increase, 3=improve",
+        "D": "1=increase, 2=increase, 3=improve"
+      },
+      "correctOption": "B",
+      "sourceKeyNote": "Official key: B. Black locusts block light to low-growing plants like grass/clover, so grass/clover would decrease (blank 1); fewer grass/clover means less food for grasshoppers, so fewer grasshoppers means less food for owls that eat them, so both decrease down the food chain (blank 2); introducing a fast-spreading non-native species disrupting existing food relationships is an 'upset' to balance, not an improvement (blank 3)."
+    },
+    {
+      "sourceItemNumber": 32,
+      "topic": "Earth spheres interacting (geosphere/hydrosphere)",
+      "stem": "A diagram shows an oil seep: oil from an underground oil pocket leaks up through a crack in the ocean floor, rises through ocean water, and pools on the ocean surface. Which two Earth spheres are shown interacting in the model as a result of this oil seep?",
+      "options": {
+        "A": "hydrosphere and atmosphere",
+        "B": "biosphere and geosphere",
+        "C": "geosphere and hydrosphere",
+        "D": "atmosphere and biosphere"
+      },
+      "correctOption": "C",
+      "sourceKeyNote": "Official key: C. The oil pocket and ocean floor/crack are part of the geosphere (solid Earth/rock), and the oil moving up through ocean water involves the hydrosphere (all water on Earth) - no living things (biosphere) or air (atmosphere) are shown interacting in this specific model."
+    },
+    {
+      "sourceItemNumber": 35,
+      "topic": "energy conversion in a wind turbine",
+      "stem": "A 4-step model shows how a wind turbine works: (1) wind turns the turbine's blades, (2) the turning blades turn gears in a generator, making electrical energy, (3) transformers at substations store/manage electrical energy, (4) electrical energy joins the power grid and is distributed. What type of energy is the wind turbine converting into electrical energy?",
+      "options": {
+        "A": "light",
+        "B": "heat",
+        "C": "motion",
+        "D": "sound"
+      },
+      "correctOption": "C",
+      "sourceKeyNote": "Official key: C. The wind's moving air physically spins the blades (motion/kinetic energy), and that spinning motion is converted by the generator into electrical energy - no light, heat, or sound energy is the input being converted in this model."
+    }
+  ]
+}

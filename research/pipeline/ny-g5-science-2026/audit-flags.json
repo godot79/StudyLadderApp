@@ -1,0 +1,12 @@
+[
+  {
+    "severity": "warn",
+    "check": "answer-position-bias",
+    "detail": "7/15 (47%) of correct answers are option B — a child could learn to guess this letter."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"An invasive fish species, the lionfish, has spread through the Atlantic Ocean and Caribbean Sea. Lionfish are fast predators that eat small fish and crustaceans. Native fish and crustacean species are being eaten at much higher rates now that lionfish are present. Coral reef ecosystems depend on small reef fish to eat algae and keep corals healthy. Complete the explanation: 'The introduction of lionfish to coral reef ecosystems could ___1___ the number of algae-eating fish, which would ___2___ the amount of algae on the reef, ultimately ___3___ the health of coral colonies because lionfish are disrupting the ecosystem's ___4___.'\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "prompt": "A 2.5-meter lamp post in Boston casts shadows of different lengths at different times on May 15. A student measured the shadow length at: 6:30am = 9.2m, 9:00am = 4.1m, 12:00pm (midday, closest to solar noon) = 1.4m, 2:30pm = 3.5m, 5:00pm = 12.8m. Based on this pattern, which is the most reasonable shadow length and direction at 3:45pm on the same day?",
+    "verdict": "confirmed",
+    "note": "Correct: in the afternoon the sun is in the western sky, so shadows point east and lengthen as the sun descends toward the horizon. The specific interpolated 3:45pm value (5.8m) cannot be independently verified without the raw measured data table, but the underlying physical principle is accurate.",
+    "source": "General search on sun position and shadow direction/length relationships (studyx.ai, gauthmath, sciencefriday.com)"
+  },
+  {
+    "prompt": "In Seattle, Washington, the sunrise and sunset times on March 20 are 7:28am and 7:29pm, giving about 12 hours of daylight \u2014 very close to a 12-12 split. Based on Earth's tilt and orbit, how much daylight would Seattle receive on December 21 (winter solstice) and on June 21 (summer solstice)?",
+    "verdict": "confirmed",
+    "note": "Confirmed, but with a caveat: the 8-9 hr / 15-16 hr figures are correct specifically for Seattle's latitude (~47.6N) - actual measured values are ~8h25m (winter solstice) and ~15h59m (summer solstice). The claim phrases this as a general 'Northern Hemisphere' fact, but the exact hour ranges are latitude-dependent and would not hold at, e.g., the equator or much further north/south.",
+    "source": "https://www.fox13seattle.com/news/16-hours-daylight-summer-solstice ; https://www.timeofsunrise.com/seattle/solstice"
+  },
+  {
+    "prompt": "A scientist has a table of properties for four minerals found in Colorado: pyrite (color: gold, luster: metallic, streak: greenish-black, hardness: 6-6.5), quartz (color: clear/white/various, luster: glassy, streak: colorless, hardness: 7), mica (color: silver/golden, luster: shiny, streak: white, hardness: 2-3), feldspar (color: pink/white, luster: glassy, streak: white, hardness: 6). Which pair of properties best lets a scientist tell mica apart from both pyrite and quartz?",
+    "verdict": "confirmed",
+    "note": "Confirmed. Mica hardness is ~2-4 (muscovite ~2-2.5), pyrite ~5.5-6.5, quartz 7 - mica is clearly softer. Luster: mica is pearly/shiny, pyrite metallic, quartz glassy/non-metallic - consistent with the claim's characterization, though 'shiny' for mica is more precisely termed 'pearly' luster.",
+    "source": "https://aximmica.com/hardness-of-muscovite-mica/ ; https://pediaa.com/what-is-the-difference-between-pyrite-and-mica/"
+  },
+  {
+    "prompt": "A student placed 15g of different substances into separate jars, each with 25g of water (starting mass = 40g total per jar). Jar A: 15g salt dissolves completely, no bubbles, no visible pieces left. Jar B: 15g baking soda fizzes and bubbles (carbon dioxide gas escapes). Jar C: 15g chalk settles to the bottom, unreacted. Jar D: 15g sand mixes throughout but doesn't dissolve. Jar E: 15g sugar dissolves into the water. Which two jars would each measure exactly 40g if you weighed all the contents together?",
+    "verdict": "uncertain",
+    "note": "The physics stated (mass conserved unless gas escapes) is correct, but the claim's own framing is about 'a closed container' while the prompt's jars are open. In an open jar, if a gas-releasing reaction occurs, mass will appear to decrease due to escaping gas even though total mass (including escaped gas) is conserved - the claim's caveat about closed containers doesn't map cleanly onto the actual open-jar scenario, which could confuse a Grade 5 reader about which case applies.",
+    "source": "https://brainly.com/question/35593865 ; general conservation-of-mass explainers on open vs. closed systems"
+  },
+  {
+    "prompt": "A student placed different materials into warm water: sugar dissolves and becomes invisible in the water; sand sinks to the bottom but doesn't disappear; salt dissolves and becomes invisible; food coloring spreads throughout the water and mixes evenly. Which observation is an example of solubility?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontroversial definition of solubility; sugar dissolving in water is a textbook example of a solute becoming invisible and evenly distributed.",
+    "source": "Standard Grade 5 science curriculum definition of solubility (well-established, no significant caveat found)"
+  },
+  {
+    "prompt": "Lions live in family groups called prides, containing up to 15 individuals. Researchers studying lions have found: large prey like buffalo are hunted cooperatively by multiple lions working together; individual lions in a pride have greater protection from rival prides; prides maintain and defend territories against other prides; lions outside of any pride have shorter lifespans and lower reproduction success. Which statement does NOT provide evidence that living in a pride helps a lion survive?",
+    "verdict": "confirmed",
+    "note": "Confirmed. Documented direct benefits of pride living include cooperative hunting (raises success rate from ~15% solitary to ~30% group), territorial defense, and communal cub protection/survival. Prey herd size itself is an environmental factor, not a benefit of group living, so distinguishing it as a non-benefit is accurate.",
+    "source": "https://ownyardlife.com/why-do-lions-live-in-groups-secrets-of-their-social-life/ ; https://cbs.umn.edu (territorial defense study)"
+  },
+  {
+    "prompt": "In a population of beetles, there are brown beetles and green beetles. Researchers discovered: green beetles blend better with green plants and are eaten less often by birds; brown beetles are able to fly faster than green beetles; beetles often mate with the opposite color; brown beetles have larger clutches of eggs than green beetles. What conclusion best summarizes these observations about trait variation in this beetle population?",
+    "verdict": "confirmed",
+    "note": "This is the standard, accurate description of how natural selection acts on heritable trait variation (e.g., camouflage color) to produce differential survival/reproduction.",
+    "source": "Standard evolutionary biology concept (natural selection acting on trait variation) - well-established, no caveat needed"
+  },
+  {
+    "prompt": "Two line graphs track lynx and snowshoe hare populations in northern Canada from 1970-2000. Lynx population starts at ~0 in 1970, rises to ~200 by 1980, then cycles between ~50 and ~180 throughout the 1980s-2000s. Hare population starts at ~5,000 in 1970, drops to ~2,000 by 1980, rises to ~6,000 around 1985, then drops again to ~1,500 by 1995, and shows similar cycling after. Which pattern from the graphs most directly supports the claim that lynx depend on snowshoe hares for food?",
+    "verdict": "uncertain",
+    "note": "Confirmed but with an important caveat: real lynx-hare cycles (8-11 years) are driven by predation as the dominant factor, but hare declines are also linked to food-plant depletion/recovery and starvation, and lynx population changes lag hare changes by 1-2 years rather than moving in strict lockstep. The claim's phrasing ('as prey decreases, it's typically because predator numbers have increased') oversimplifies a multi-factor, time-lagged cycle into a single direct cause, which is the kind of oversimplification a reviewer should flag.",
+    "source": "https://www.gov.nt.ca/ecc/en/services/lynx/lynx-snowshoe-hare-cycle ; https://www.pnas.org/doi/10.1073/pnas.94.10.5147"
+  },
+  {
+    "prompt": "Two children connect a 30-meter rope with a vibrating bell at one end and a metal washer hanging at the other end. One child rings the bell (making it vibrate), and the vibration travels along the rope so the other child hears a sound when the washer vibrates. Using this setup, which statement most accurately describes the energy transfer?",
+    "verdict": "confirmed",
+    "note": "Correct: sound is mechanical vibration that can propagate through solids (like a taut rope) as well as gases, transferring energy from source to receiver.",
+    "source": "Standard physics of sound-through-solids (well-established, no caveat needed)"
+  },
+  {
+    "prompt": "When a musician strikes a gong with a soft mallet, what happens to the energy of the mallet, gong, and surrounding air?",
+    "verdict": "confirmed",
+    "note": "Correct: mallet kinetic energy is transferred to the gong causing it to vibrate, and the vibrating gong transfers energy to surrounding air molecules producing sound waves.",
+    "source": "Standard physics of energy transfer/sound production (well-established, no caveat needed)"
+  },
+  {
+    "prompt": "During a summer afternoon, water from a lake surface enters the atmosphere as a gas when heat energy warms the water. As this water vapor rises high in the atmosphere where it is colder, it changes into tiny water droplets that form clouds. Which pair of water-cycle processes correctly fills in these two steps?",
+    "verdict": "confirmed",
+    "note": "Accurate, standard definitions of evaporation (heat-driven liquid-to-vapor) and condensation (vapor cooling to liquid droplets forming clouds); this is the core of the water cycle taught at this grade level.",
+    "source": "Standard water-cycle curriculum content (well-established, no caveat needed)"
+  },
+  {
+    "prompt": "A climate scientist studied surface water temperatures and storm activity in the Gulf of Mexico near New Orleans. The data shows: January-March average surface water temperature = 48-58\u00b0F; April-July = 72-86\u00b0F; August-October = 78-82\u00b0F; November-December = 60-68\u00b0F. Hurricane season typically peaks from August through October. Which statement best explains why hurricanes strengthen most often during the Gulf's late summer and early fall?",
+    "verdict": "confirmed",
+    "note": "Confirmed: hurricanes draw energy from warm ocean water (typically needing sea surface temps above ~80F), and peak Atlantic/Gulf hurricane activity occurs in the late-August-to-October window when sea surface temperatures are highest and wind shear is lowest.",
+    "source": "https://www.nola.com/news/hurricane/gulf-temperatures-hurricane-season-2025/article ; NC State Climate Office tropical storm science page"
+  },
+  {
+    "prompt": "A geography student compared two cities: Miami, Florida and Boston, Massachusetts. Looking at a map, Miami is much closer to the equator than Boston. Climate data shows: Miami has warmer average temperatures every month (e.g., winter lows ~65\u00b0F vs Boston ~25\u00b0F; summer highs ~89\u00b0F vs Boston ~79\u00b0F); Miami has higher rainfall in summer months (June-August) than Boston; Boston has more days per year with freezing temperatures. Which statement correctly compares both the locations and climate patterns of Miami and Boston?",
+    "verdict": "confirmed",
+    "note": "Confirmed. Miami has much milder winters (average January temp ~68.6F vs. Boston's winter average around 20-25F) and warmer/similar summers, plus Miami receives substantially more annual rainfall (~61.9in vs. Boston's ~47.4in) concentrated heavily in the May-October wet season, consistent with the specific figures cited in the claim.",
+    "source": "https://www.bestplaces.net/compare-cities/boston_ma/miami_fl/climate ; https://en.wikipedia.org/wiki/Climate_of_Miami"
+  },
+  {
+    "prompt": "Oak trees in a forest all have leaves, acorns, and bark, but some individual trees grow very tall (over 80 feet) while other trees in the same forest remain short (under 40 feet). Even a small oak tree can produce seeds that grow into a tall oak tree. Which statement describes a variation in a trait found in this oak tree population?",
+    "verdict": "confirmed",
+    "note": "Accurate and standard example of trait variation within a species - height differences among individual oak trees of the same species is a textbook case.",
+    "source": "Standard biology curriculum concept of intraspecies trait variation (well-established, no caveat needed)"
+  },
+  {
+    "prompt": "Rabbits eat the tender leaves of young shrubs and small trees, especially in winter when other plants are dormant. Some shrub species have sharp prickles on their leaves and stems, while other shrubs have soft, smooth leaves. Based on this information, which statement best supports the idea that prickly shrubs have a survival advantage over smooth-leaved shrubs where rabbits live?",
+    "verdict": "uncertain",
+    "note": "The general biology fact that sharp prickles/thorns deter herbivory and protect a plant's food-producing organs (leaves) is well documented and true. However, the claim's fit to this specific prompt is uncertain: the prompt describes rabbits eating 'tender leaves of young shrubs,' which does not establish that those particular shrubs have prickles - if this is answering a question about why some plants survive rabbit browsing better than others, the underlying mechanism is sound, but a reviewer should confirm the specific shrub/plant referenced in the full question actually has prickly defenses rather than this being an unsupported inserted detail.",
+    "source": "https://biologyinsights.com/why-do-plants-have-thorns-and-other-sharp-defenses/ ; https://plantcuttings.uk/2025/03/07/the-role-of-thorny-structures-in-plant-survival-strategies/"
+  },
+  {
+    "prompt": "An invasive fish species, the lionfish, has spread through the Atlantic Ocean and Caribbean Sea. Lionfish are fast predators that eat small fish and crustaceans. Native fish and crustacean species are being eaten at much higher rates now that lionfish are present. Coral reef ecosystems depend on small reef fish to eat algae and keep corals healthy. Complete the explanation: 'The introduction of lionfish to coral reef ecosystems could ___1___ the number of algae-eating fish, which would ___2___ the amount of algae on the reef, ultimately ___3___ the health of coral colonies because lionfish are disrupting the ecosystem's ___4___.'",
+    "verdict": "confirmed",
+    "note": "Well-documented: lionfish are voracious invasive predators with no natural Atlantic predators, consuming juvenile reef fish (including herbivorous species) at high rates; loss of herbivorous fish allows algae to overgrow and smother coral, degrading reef ecosystems. This matches the general invasive-species food-web-disruption story precisely.",
+    "source": "https://www.fisheries.noaa.gov/southeast/ecosystems/impacts-invasive-lionfish ; https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3296711/"
+  },
+  {
+    "prompt": "A mountain spring releases fresh water (from underground) onto the surface. The water flows downhill in a stream, which eventually joins a river that flows to the ocean. Which two Earth spheres are clearly shown interacting in this model of water movement?",
+    "verdict": "confirmed",
+    "note": "Accurate description of a geosphere-hydrosphere interaction: groundwater stored within/moving through solid Earth material (geosphere) emerging as surface flow (hydrosphere) is a standard Earth-systems example.",
+    "source": "Standard Earth systems science curriculum concept (well-established, no caveat needed)"
+  },
+  {
+    "prompt": "A solar panel system works by: (1) sunlight hits the panel surface, (2) the panel converts the light energy into electrical energy, (3) the electrical energy is sent to a battery for storage, (4) the stored energy powers home lights and appliances. What type of energy is the solar panel primarily converting into electrical energy?",
+    "verdict": "confirmed",
+    "note": "Confirmed, but with a caveat similar to the past-round solar issue: the photovoltaic mechanism (photons knocking electrons loose to generate electric current) is correctly described, but a reviewer should note that panel output/efficiency is also meaningfully affected by panel temperature (higher heat reduces efficiency) in addition to light intensity/angle - if any distractor answer option attributes output differences to temperature, that option could be partially valid rather than cleanly wrong.",
+    "source": "https://www.ecoflow.com/us/blog/effects-of-temperature-on-solar-panel-efficiency ; https://8msolar.com/solar-panel-efficiency-vs-temperature/"
+  }
+]
