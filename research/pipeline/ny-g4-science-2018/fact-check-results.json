@@ -1,0 +1,182 @@
+[
+  {
+    "prompt": "Every living thing—from a tiny ant to a huge elephant—does something that rocks and machines cannot do. What is this special ability that all living things share?",
+    "claim": "All living things reproduce, creating new members of their own kind.",
+    "verdict": "confirmed",
+    "note": "Confirmed by multiple elementary science sources. All organisms reproduce through sexual or asexual means to ensure species continuity."
+  },
+  {
+    "prompt": "A porcupine has sharp quills all over its body, and a poison dart frog's bright colors warn other animals to stay away. What do these body features help these animals do?",
+    "claim": "Animal adaptations like defensive colors, shapes, or structures help protect them from predators.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Both structural defenses (quills, spines) and warning coloration (aposematism) are well-documented anti-predator adaptations."
+  },
+  {
+    "prompt": "An arctic wolf has thick white fur, strong legs for running, and a short tail. Which of these body parts best helps the wolf hide in its snowy home?",
+    "claim": "White fur helps arctic animals blend in with snow and ice, which is called camouflage.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Arctic animals use white coloration as snow camouflage; the term 'camouflage' is appropriate and matches standard usage."
+  },
+  {
+    "prompt": "In a forest, moose eat the leaves from trees. When an unusually harsh winter kills many trees, there is much less food available. What will most of the moose likely do?",
+    "claim": "When food becomes scarce in an area, many animals will migrate or move to a new location where food is more available.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Food scarcity is a primary driver of animal migration; research shows species like caribou migrate twice as much during resource-scarce winters."
+  },
+  {
+    "prompt": "A maple tree starts as a small seed inside a winged fruit. It grows into a young sapling, then a tall adult tree. After many years, it falls down. What do we call the different stages that the tree goes through?",
+    "claim": "A life cycle is the series of changes an organism goes through from birth to reproduction to death.",
+    "verdict": "confirmed",
+    "note": "Confirmed. The life cycle definition encompasses birth/germination, growth, reproduction, and death—standard elementary curriculum."
+  },
+  {
+    "prompt": "A sunflower has petals, a green stem, and long leaves. Inside the bright petals is a special part. What is the main job of a plant's flower?",
+    "claim": "The primary function of a flower is to produce seeds for reproduction.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Sexual reproduction is the sole function of flowers; this is the primary purpose, though petals do attract pollinators."
+  },
+  {
+    "prompt": "Your fingernails keep growing throughout your whole life. Your body needs energy to create new fingernail and hair growth. Where does the body get the energy to build this new growth?",
+    "claim": "Food provides the energy and building blocks (nutrients) that living things need for growth.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Food provides macronutrients (carbohydrates, proteins, fats) for energy and micronutrients for building and maintaining tissues."
+  },
+  {
+    "prompt": "A wolf howls to warn other wolves in the pack about danger nearby. The other wolves hear this howl and quickly run to safety. Which sense do the other wolves use to get this warning?",
+    "claim": "Hearing is the sense that allows animals to detect and respond to sound warnings from other members of their group.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Hearing enables detection and response to alarm signals; well-documented in animal communication and social behavior."
+  },
+  {
+    "prompt": "A hawk dives down and catches a mouse for food. In this situation, what role does the mouse play in the food chain?",
+    "claim": "Prey are animals that are hunted and eaten by predators.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Prey definition is standard and applies correctly to the mouse in the predator-prey relationship with the hawk."
+  },
+  {
+    "prompt": "A small arctic bird looks thin and lean in summer with a sleek shape. The same bird in winter appears much rounder and bigger all over. What does this winter change most likely show?",
+    "claim": "Animals that live in cold climates often store body fat before winter to provide energy and insulation in harsh conditions.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Cold-climate animals store body fat (blubber/adipose tissue) for dual purpose: insulation and energy reserve; hibernating bears eat 4x normal intake."
+  },
+  {
+    "prompt": "In a pond ecosystem, beetles eat water plants. Dragonflies eat beetles. When the water plant population drops sharply one year, what will most likely happen to the dragonfly population?",
+    "claim": "In a food chain, if the population of prey animals decreases, the predator population that depends on them will also decrease.",
+    "verdict": "confirmed",
+    "note": "Confirmed. The predator-prey cycle is well-established; when prey becomes scarce, predators starve or fail to reproduce, causing population decline."
+  },
+  {
+    "prompt": "Water is always moving on Earth—evaporating from oceans, forming clouds, falling as rain, and flowing back to the sea. None of this would happen without one main energy source. What provides the energy that drives the water cycle?",
+    "claim": "The Sun's energy drives the water cycle by heating water and causing it to evaporate.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Solar energy is the fundamental driving force for the water cycle; the Sun heats water causing evaporation and powering all subsequent processes."
+  },
+  {
+    "prompt": "People do many different things that affect the environment. Which one of these actions is good for the environment and helps keep it healthy?",
+    "claim": "Recycling and reusing materials reduces waste and helps protect the environment.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Recycling reduces landfill emissions, conserves raw materials, and requires less energy than producing new goods from raw materials."
+  },
+  {
+    "prompt": "In a very dense forest, the tallest trees grow so close together that they create deep shade on the ground. Small plants below can barely grow in this darkness. If some of the tallest trees were safely removed, how could this help the plants on the forest floor?",
+    "claim": "Removing tall trees increases the amount of sunlight reaching the forest floor, allowing shade-sensitive plants to receive more light energy for photosynthesis.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Dense canopies allow only 1-10% of sunlight to reach the forest floor; removing tall trees increases light availability for understory photosynthesis."
+  },
+  {
+    "prompt": "Every year, Earth completes one full trip around the Sun and returns to the same place in space. How long does this one complete orbit take?",
+    "claim": "Earth takes one year (approximately 365 days) to orbit once around the Sun.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Earth's orbital period is 365 days, 6 hours, 9 minutes; the 'approximately 365 days' phrasing is standard and appropriate for grade 4."
+  },
+  {
+    "prompt": "A student looks at the sky on four different nights in October and sees the Moon as: a thin crescent, then a half circle, then nearly full, then a thin crescent again. What celestial object must the student be observing?",
+    "claim": "The Moon appears to change shape throughout the month because of its orbit around Earth, in a cycle called phases.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Moon phases occur as it orbits Earth; the cycle repeats approximately every 29.5 days (lunar month)."
+  },
+  {
+    "prompt": "A weather map shows conditions across a region: clear skies in the west, rain showers in the northwest, ice pellets in the central area, sunshine in the south, and clouds in the north. Which two conditions shown are forms of precipitation?",
+    "claim": "Precipitation is water falling from clouds in the form of rain, snow, ice, or sleet.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Precipitation includes all forms of water falling from clouds: rain, snow, ice pellets (freezing rain), and sleet. Definition is accurate."
+  },
+  {
+    "prompt": "A student takes a flat piece of white paper and crumples it tightly into a ball. Which property of the paper has changed?",
+    "claim": "Shape is a physical property of an object that can be changed without altering what the object is made of.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Shape is a physical property that changes during crumpling; the paper's molecular composition remains unchanged (physical, not chemical change)."
+  },
+  {
+    "prompt": "You can see yourself when you look into a mirror, but you cannot see yourself in a piece of wood or cloth. What special property does a mirror have that lets you see your reflection?",
+    "claim": "Reflectiveness is the property that allows mirrors to bounce light back in a way that creates an image.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Mirror reflectivity enables specular reflection (vs. diffuse reflection in wood/cloth), creating a virtual image through organized light reflection."
+  },
+  {
+    "prompt": "A pot of liquid water at room temperature is put in a freezer. Over several hours, the water turns into solid ice. What needs to happen to the water for this change to occur?",
+    "claim": "To change a liquid to a solid (freezing), heat energy must be removed from the substance.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Freezing is exothermic; heat energy (latent heat) must be removed as water molecules slow and form crystalline ice structure."
+  },
+  {
+    "prompt": "Which of these forms of matter can change its shape to fit any container and always fills all available space?",
+    "claim": "Gases, like air, have no definite shape or volume and expand to fill any container.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Gases have weak intermolecular forces and high kinetic energy, allowing them to expand to fill any volume completely."
+  },
+  {
+    "prompt": "When you clap your hands together loudly, what form of energy is created by this action?",
+    "claim": "The collision of hands clapping produces sound energy that travels through the air as vibrations.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Clapping converts kinetic energy into sound energy through air jet vibrations; sound travels as oscillating air particle vibrations."
+  },
+  {
+    "prompt": "A river carrying sand and small pebbles flows over a cliff in a tall waterfall. As the water crashes down, it breaks the pebbles into smaller bits and carries them downstream. The tiny sediment eventually settles and piles up in a calmer area far downstream. Which two processes are happening?",
+    "claim": "Erosion is the wearing away of rock by water, and deposition is the settling and piling up of sediment in a new location.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Erosion and deposition are complementary processes in fluvial systems; waterfall action erodes rock, then sediment deposits downstream when flow energy decreases."
+  },
+  {
+    "prompt": "A student wants to measure how long her school desk is using a metric ruler. What metric unit should she use?",
+    "claim": "Centimeters (cm) are the appropriate metric unit for measuring objects roughly 10-200 centimeters long, such as a desk.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Standard classroom desks range 100-200 cm; centimeters are the appropriate metric unit for this measurement range (1 cm = 10 mm, 100 cm = 1 m)."
+  },
+  {
+    "prompt": "When you rub your hands back and forth very quickly against each other, they get warm. What force acting between your hands causes this warming?",
+    "claim": "Friction is a force that opposes motion between two surfaces and creates heat energy.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Friction opposes motion; kinetic energy is converted to thermal energy as surfaces collide at microscopic level, generating heat."
+  },
+  {
+    "prompt": "Which of these activities shows electrical energy being changed into another form of energy?",
+    "claim": "In a light bulb, electrical energy is converted to light energy (and heat).",
+    "verdict": "confirmed",
+    "note": "Confirmed. Incandescent and LED bulbs convert electrical energy to light and heat; this is standard energy conversion example for elementary education."
+  },
+  {
+    "prompt": "When you drop a ball, it falls straight down toward the ground instead of floating away. What force pulls the ball downward toward the center of Earth?",
+    "claim": "Gravity is a force that pulls objects toward the center of Earth.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Gravity is the force drawing objects toward Earth's center; due to spherical mass distribution, effect is as if all mass concentrated at center."
+  },
+  {
+    "prompt": "A worker uses a rope looped over a wheel attached to a tall pole to lift a heavy box. She pulls down on one end of the rope, and the box rises up on the other end. This simple machine is called a",
+    "claim": "A pulley is a simple machine that uses a wheel and rope to change the direction of a force or reduce the effort needed to lift something.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Pulleys change force direction and can provide mechanical advantage through compound systems, making lifting easier by requiring longer rope pull."
+  },
+  {
+    "prompt": "A student hangs a rock from a spring scale marked in newtons (N). The spring stretches as the rock pulls down on it. What property of the rock is the student measuring?",
+    "claim": "Weight is the force exerted on an object by gravity, measured in units called newtons or pounds.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Weight is gravitational force on an object (W = m × g); measured in newtons (SI) or pounds-force; 1 N ≈ 0.225 lb."
+  },
+  {
+    "prompt": "Which statement about bears is an opinion rather than a fact?",
+    "claim": "Opinions are personal beliefs or feelings that cannot be proven as true or false by observation or research.",
+    "verdict": "confirmed",
+    "note": "Confirmed. Opinions are personal beliefs dependent on individual preferences; statements of fact can be verified with objective evidence, opinions cannot."
+  }
+]

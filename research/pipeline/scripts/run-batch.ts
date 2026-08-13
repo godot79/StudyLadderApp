@@ -8,8 +8,12 @@
 // Usage: npx tsx research/pipeline/scripts/run-batch.ts <batch-dir> <subject> <source-name>
 //
 // Requires <batch-dir>/02-transformed.json to already exist.
-// Produces: verified.json, rejects-step4.json, deduped.json, rejects-step5.json,
+// Produces: verified.json, rejects-step4.json, deduped.json (rebalanced in
+//           place by rebalance.ts — see that file for why), rejects-step5.json,
 //           near-duplicate-warnings.json, audit-flags.json, staging.json, summary.md
+// Answer-position rebalancing (Step 5.7) now runs automatically between dedup
+// and self-audit — no more manual/ad-hoc rebalance scripts needed per round;
+// self-audit's answer-position-bias check should rarely if ever fire now.
 // Does NOT merge into data/seed/*.json — that is a separate, explicit step
 // (scripts/merge.ts) taken only after human sign-off (Step 7).
 
@@ -36,6 +40,7 @@ function main() {
 
   run("verify.ts", [transformedPath, batchDir]);
   run("dedup.ts", [join(batchDir, "verified.json"), subject, batchDir]);
+  run("rebalance.ts", [join(batchDir, "deduped.json"), batchDir]);
   run("self-audit.ts", [join(batchDir, "deduped.json"), batchDir]);
   run("stage.ts", [batchDir, subject, sourceName]);
 

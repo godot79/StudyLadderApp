@@ -2158,5 +2158,35 @@
     "optionD": "Solar panels convert sunlight into electricity",
     "correctOption": "B",
     "explanation": "The Sun's ultraviolet (UV) radiation can damage skin cells if exposure is too long or intense, causing a painful sunburn. While sunlight has many beneficial uses, excessive exposure can be harmful."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Water is always moving on Earth—evaporating from oceans, forming clouds, falling as rain, and flowing back to the sea. None of this would happen without one main energy source. What provides the energy that drives the water cycle?",
+    "optionA": "The Moon's gravity",
+    "optionB": "Heat from deep inside the Earth",
+    "optionC": "Wind and moving air",
+    "optionD": "The Sun",
+    "correctOption": "D",
+    "explanation": "The Sun warms water in oceans and lakes, causing it to turn into water vapor that rises into the air. This is the first step of the water cycle, and without the Sun's energy, no other part could happen."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Every year, Earth completes one full trip around the Sun and returns to the same place in space. How long does this one complete orbit take?",
+    "optionA": "One month",
+    "optionB": "One week",
+    "optionC": "One year",
+    "optionD": "30 days",
+    "correctOption": "C",
+    "explanation": "Earth is constantly moving in a big circle around the Sun. One complete trip around the Sun takes exactly one year—that's why we have calendars that mark the yearly cycle."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "A student looks at the sky on four different nights in October and sees the Moon as: a thin crescent, then a half circle, then nearly full, then a thin crescent again. What celestial object must the student be observing?",
+    "optionA": "A star",
+    "optionB": "Venus",
+    "optionC": "A comet",
+    "optionD": "The Moon",
+    "correctOption": "D",
+    "explanation": "The Moon seems to change shape night to night because we see different amounts of its lit side as it orbits Earth. This pattern of changing shapes is called the lunar cycle."
   }
 ]
