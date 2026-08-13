@@ -144,6 +144,11 @@ review step, not a final merge.
    the scripts flagged or could have flagged, but required someone to
    actually read the specific item text against its band/history to
    confirm — don't rubber-stamp a clean self-audit run.
+2.5. If more than one batch ran this round, run the cross-batch dedup check
+   once across all of them (each batch's own `dedup.ts` run can't see its
+   siblings — see README.md "Per-source workflow" step 6):
+   `npx tsx research/pipeline/scripts/cross-batch-dedup.ts <batch-dir-1> <batch-dir-2> [...]`
+   Review any warnings before merging either batch involved.
 3. Merge approved batches with `merge.ts`.
 4. Write a fresh `research/pipeline/NEXT-ROUND-NOTES.md` (overwrite the old
    one, it's disposable) capturing anything this round surfaced that the

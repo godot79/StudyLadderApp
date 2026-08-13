@@ -217,6 +217,17 @@ original design" below).
 6. **Human review (blocking).** Read `<batch-dir>/summary.md` — check the
    self-audit flags section first, then the funnel/topic/band breakdown, then
    spot-check or fully review `staging.json` per the sampling guidance below.
+   **If this is a multi-batch (parallel) round**, also run the cross-batch
+   dedup check once, across all of that round's batches together, before
+   merging any of them — `dedup.ts` only ever sees `data/seed/*.json` as it
+   existed when its own batch ran, so it can't catch two sibling batches
+   independently sourcing the same fact:
+   ```
+   npx tsx research/pipeline/scripts/cross-batch-dedup.ts <batch-dir-1> <batch-dir-2> [...]
+   ```
+   Writes `cross-batch-duplicate-warnings.json` in the current directory
+   (non-blocking, same philosophy as dedup.ts's own near-duplicate check —
+   review flagged pairs by hand, nothing is auto-rejected).
 7. Once approved:
    ```
    npx tsx research/pipeline/scripts/merge.ts <batch-dir>/staging.json <subject>

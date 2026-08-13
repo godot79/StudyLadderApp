@@ -12,6 +12,69 @@ Legend for **Accessibility**:
 
 ---
 
+## Source priority: archives vs. single sample papers (added 2026-08-13)
+
+Context: after ~20 ingestion rounds, most easy volume has been pulled from the
+strongest archives (see `research/pipeline/README.md` for round history), and
+a 2026-08-13 round searching for another Age-9-High-Achiever science source
+came up empty — every option checked was either already mined to exhaustion,
+grade-mismatched, or a single sample paper with no further years to pull
+from. Going forward, **prefer sources that are genuine multi-year/multi-form
+archives over sources that are one (or a handful of) sample paper(s)** — a
+single sample paper yields one batch and is then permanently exhausted; an
+archive yields many rounds across years/forms/grades from one source
+relationship, which is a better return on the per-source verification and
+extraction-pipeline setup cost.
+
+**High-value (genuine multi-year/multi-form archives — prioritize these):**
+- USA: Texas STAAR (5+ years, multiple grades), NY State Regents/EI archive
+  (decades, broadest subject coverage of any source in this catalog), MCAS
+  (searchable item library, multiple years/grades), CAASPP (multiple years),
+  EngageNY (75%+ of 2015-2021 released tests), SBAC (~500 items)
+- Germany: VERA 3 (multiple years/states), Lernstübchen (5,100+ files),
+  Känguru der Mathematik (15+ years)
+- France: Éduscol (released items since 2003), Kangourou des Mathématiques
+  (2021-2025 confirmed)
+- Sweden: Skolverket + Uppsala (multi-year retired national-test archive)
+- Singapore: testpapersfree.com (~2,000 papers, 2004-2025), sgtestpaper.com
+  (500+/year) — genuine volume, but see the existing licensing caveat in the
+  Singapore section before using
+- Hong Kong: TSA/BCA (`bca.hkeaa.edu.hk`, 2016-2026 archive, multiple forms
+  per year — only one form/year mined so far per the pipeline note, real
+  remaining volume is large)
+- Australia: ACARA NAPLAN past papers (2012-2016, official), AMT (ongoing
+  monthly releases + a full confirmed-free 2019 set)
+- Japan MEXT National Assessment archive (2007-2026 index) — not yet piloted,
+  but structurally a real archive, worth a first pilot round
+- Taiwan NTCU SAA exam release archive (year x grade x subject download grid,
+  ~2018-2026) — not yet piloted, same "worth a first pilot" status as Japan
+
+**Low-value (single or handful of sample papers — deprioritize, treat as a
+one-shot yield, not a source to return to):**
+- India: SOF sample papers, Silverzone "Instant Download", Indian Talent
+  Olympiad samples — each is ~2-3 papers per class/subject, not an archive.
+  Useful for a single small batch per subject, not a repeatable source.
+- Australia ICAS sample tests (5-10 sample questions only, format
+  familiarization rather than real volume)
+- UK KS2 SATs — only the past 3 years (2024-2026) are archived at gov.uk;
+  already substantially mined in early rounds (see README.md round history),
+  effectively close to exhausted for maths specifically
+- Denmark testogprover.com — explicitly "demo/example tests," not a full
+  past-paper archive despite being free and official-adjacent
+
+**Structural dead ends confirmed this round (2026-08-13) — do not re-check
+without new information:** NY State Grade 4 science testing was discontinued
+after 2022 (2019/2021/2022 already mined, no further years exist to pull).
+Texas STAAR 2024+ moved online-only with no downloadable PDF form. California
+CAASPP, Massachusetts MCAS, UK KS2, Australia NAPLAN, France Éduscol, and
+Germany VERA 3 do not test science at a Grade-4-equivalent level at all (they
+either start testing science at grade 5, or don't test science as a separate
+subject at that age). These are genuine ceilings, not under-research — don't
+spend another round re-checking the same combination of (country, subject,
+grade) without a reason to think something changed.
+
+---
+
 ## India
 
 *Updated after deeper pass — found genuine free worksheet sites and, notably, that the olympiad bodies DO publish free sample papers separate from their paid competitions.*

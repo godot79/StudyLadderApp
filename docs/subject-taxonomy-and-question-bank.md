@@ -126,6 +126,32 @@ Likely early content areas:
 
 Do not implement deeply yet unless specifically requested.
 
+### History (decided 2026-08-13)
+
+Planned future subject — **approved as a dedicated subject**, not a fold-in
+to Geography. Decision context: ~10-12 history/politics/civics items had
+accumulated inside `data/seed/geography.json` as an incidental byproduct of
+social-studies sources (all US-specific — colonial settlement, American
+Revolution, government/civics), with no distinguishing topic tag. Explicitly
+decided (see `research/ingestion_pipeline_design.md`'s Open Items) not to
+leave this folded into Geography or deliberately thin.
+
+Not yet implemented: no `data/seed/history.json` exists, it is not in
+`src/app/page.tsx`'s `SUBJECTS` list or `prisma/seed.ts`, and the existing
+~10-12 items have not been migrated out of `geography.json`. Content
+sourcing for this subject must not start in the same session as this scope
+decision — implementation (schema/UI wiring, seed file creation, migrating
+existing items, sourcing a first batch) is separate follow-up work.
+
+Likely early content areas (not yet locked — needs its own level-band
+content-focus pass like the other subjects have below, before sourcing):
+- US founding/colonial history (existing content is entirely US-specific;
+  whether to broaden beyond that is undecided)
+- civics/government structure (branches, elections, representation)
+- major historical figures and events at an age-appropriate level
+
+Do not implement deeply yet unless specifically requested.
+
 ---
 
 ## Level-band taxonomy

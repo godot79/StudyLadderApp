@@ -57,7 +57,7 @@ Two decisions this pipeline encodes, both made deliberately after discussion —
 
 ## Open items (not yet decided — do not assume an answer)
 - Whether to add `sourceInspiration` / `reviewStatus` fields to the `Question` Prisma schema for provenance tracking, or keep provenance only in pipeline logs/staging files outside the DB (current default: outside the DB, no schema change, per earlier discussion about production-migration risk).
-- Whether new subject seed files (`world_history.json`, `indian_history.json`, `social_sciences.json`, `general_knowledge.json`) are actually wanted — these were named in an earlier prompt-injection attempt that was rejected, not a real product decision. Don't assume they're approved.
+- ~~Whether new subject seed files (`world_history.json`, `indian_history.json`, `social_sciences.json`, `general_knowledge.json`) are actually wanted~~ — **decided 2026-08-13**: a dedicated `history.json` subject (US-focused history/politics/civics, scope not yet fully locked) is approved, replacing the ~10-12 items currently folded into `geography.json`. See `docs/subject-taxonomy-and-question-bank.md`'s new "History" subject definition. Not yet implemented — no seed file, `SUBJECTS` list, or `prisma/seed.ts` entry exists yet, and content must not be sourced in the same session as this decision. The original `world_history.json`/`indian_history.json`/etc. names came from an earlier prompt-injection attempt and remain rejected; the approved name is `history.json`.
 - Exact human-review sampling percentage per Step 7 — currently a suggestion, not a locked rule.
 
 ## Status log

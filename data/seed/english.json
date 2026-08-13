@@ -280,14 +280,14 @@
     "explanation": "'Dis-' added to 'appear' makes 'disappear', which means to vanish or go out of sight. The prefix 'dis-' often reverses the meaning of a word."
   },
   {
-    "prompt": "What is a simile?",
-    "optionA": "A comparison using 'like' or 'as'",
-    "optionB": "A word opposite in meaning",
-    "optionC": "Giving human qualities to an object",
-    "optionD": "A word that means the same as another",
+    "prompt": "Which sentence contains a simile?",
+    "optionA": "The rain fell like a curtain of silver needles.",
+    "optionB": "The rain was a curtain of silver needles.",
+    "optionC": "The rain danced across the rooftops.",
+    "optionD": "The rain drummed loudly all night.",
     "correctOption": "A",
     "levelBand": "Age 9 High Achiever",
-    "explanation": "A simile is a comparison using 'like' or 'as', such as 'as fast as lightning' or 'she ran like the wind'. It helps create a vivid picture in the reader's mind."
+    "explanation": "A simile compares two things using 'like' or 'as'. 'The rain fell like a curtain of silver needles' makes this comparison explicitly. The other sentences use a metaphor, personification, and plain description."
   },
   {
     "prompt": "What type of sentence is: 'Shut the door'?",
@@ -330,14 +330,14 @@
     "explanation": "'Forgot' is the correct past tense of 'forget'. It is an irregular verb, so you cannot just add '-ed' — 'forgetted' is not a real word."
   },
   {
-    "prompt": "What does the prefix 'mis-' mean in 'misunderstand'?",
-    "optionA": "not",
-    "optionB": "wrongly",
-    "optionC": "before",
-    "optionD": "again",
+    "prompt": "Which word uses the prefix 'mis-' to mean 'behave wrongly'?",
+    "optionA": "rebuild",
+    "optionB": "misbehave",
+    "optionC": "unhappy",
+    "optionD": "preview",
     "correctOption": "B",
     "levelBand": "Age 9 High Achiever",
-    "explanation": "The prefix 'mis-' means 'wrongly' — so 'misunderstand' means to understand wrongly. Other examples include misspell (spell wrongly) and misbehave (behave wrongly)."
+    "explanation": "'Misbehave' uses the prefix 'mis-' meaning 'wrongly' — to misbehave is to behave wrongly. 'Rebuild' uses 're-' (again), 'unhappy' uses 'un-' (not), and 'preview' uses 'pre-' (before)."
   },
   {
     "prompt": "Which word is most formal?",
@@ -370,14 +370,14 @@
     "explanation": "'And' is a co-ordinating conjunction — it joins two equally important clauses or ideas. 'Because', 'while', and 'although' are subordinating conjunctions that introduce dependent clauses."
   },
   {
-    "prompt": "What does 'reluctant' mean?",
-    "optionA": "excited and eager",
-    "optionB": "unwilling or hesitant",
-    "optionC": "noisy and loud",
-    "optionD": "careful and neat",
+    "prompt": "Which sentence shows someone being reluctant?",
+    "optionA": "She raced eagerly to the front of the queue.",
+    "optionB": "She dragged her feet, hoping someone else would go first.",
+    "optionC": "She shouted loudly across the playground.",
+    "optionD": "She folded her clothes neatly before packing.",
     "correctOption": "B",
     "levelBand": "Age 9 High Achiever",
-    "explanation": "'Reluctant' means unwilling or hesitant about doing something. For example: 'She was reluctant to go to bed because she was reading a great book.'"
+    "explanation": "'Dragging her feet, hoping someone else would go first' shows reluctance — being unwilling or hesitant to do something. The other sentences show eagerness, loudness, and neatness instead."
   },
   {
     "prompt": "Which word is the correct choice: 'I ___ the letter yesterday.'",
@@ -690,34 +690,34 @@
     "explanation": "'Ambitious' means having a strong desire to succeed or achieve something great. An ambitious person sets high goals and works hard to reach them."
   },
   {
-    "prompt": "What is a metaphor?",
-    "optionA": "A comparison using 'like' or 'as'",
-    "optionB": "A direct comparison saying one thing IS another",
-    "optionC": "Giving human qualities to an object",
-    "optionD": "A word that sounds like its meaning",
+    "prompt": "Which sentence contains a metaphor?",
+    "optionA": "The classroom was as quiet as a library.",
+    "optionB": "The classroom was a zoo during the fire drill.",
+    "optionC": "The classroom buzzed with excited chatter.",
+    "optionD": "The classroom felt strangely calm today.",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "A metaphor is a direct comparison that says one thing IS another, like 'Life is a rollercoaster'. Unlike a simile, it does not use 'like' or 'as'."
+    "explanation": "A metaphor says one thing IS another, without using 'like' or 'as'. 'The classroom was a zoo' directly calls the classroom a zoo. The first sentence is a simile, and the others are plain description."
   },
   {
-    "prompt": "What is personification?",
-    "optionA": "Exaggerating for effect",
-    "optionB": "Comparing two things using 'like'",
-    "optionC": "Giving human qualities to a non-human thing",
-    "optionD": "Repeating consonant sounds",
-    "correctOption": "C",
+    "prompt": "Which sentence uses personification?",
+    "optionA": "The old gate creaked as it swung open.",
+    "optionB": "The old gate groaned in protest as it swung open.",
+    "optionC": "The old gate was rusty and hard to move.",
+    "optionD": "The old gate swung open very slowly.",
+    "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Personification is giving human qualities to a non-human thing. For example, 'The wind whispered through the trees' gives the wind a human action (whispering)."
+    "explanation": "Personification gives human qualities to a non-human thing. Saying the gate 'groaned in protest' gives it a human reaction, whereas 'creaked' is just a sound a gate makes."
   },
   {
-    "prompt": "What is alliteration?",
-    "optionA": "A comparison using 'as'",
-    "optionB": "A word meaning the same as another",
-    "optionC": "A rhyming pattern",
-    "optionD": "The repetition of initial consonant sounds",
-    "correctOption": "D",
+    "prompt": "Which phrase is an example of alliteration?",
+    "optionA": "bright blue balloons",
+    "optionB": "tall green trees",
+    "optionC": "loud crashing thunder",
+    "optionD": "soft warm blanket",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Alliteration is the repetition of the same consonant sound at the start of nearby words, like 'slippery silver snake'. It creates a pleasing sound effect in writing."
+    "explanation": "Alliteration is the repetition of the same consonant sound at the start of nearby words. 'Bright blue balloons' repeats the 'b' sound; the other phrases do not repeat an initial consonant sound."
   },
   {
     "prompt": "Which word is a synonym for 'contemplate'?",
@@ -730,24 +730,24 @@
     "explanation": "'Consider' is a synonym for 'contemplate' — both mean to think carefully about something. 'Contemplate' suggests a deeper, more sustained period of thought."
   },
   {
-    "prompt": "What is onomatopoeia?",
-    "optionA": "Exaggeration for effect",
-    "optionB": "A word that sounds like what it describes",
-    "optionC": "Repetition of consonant sounds",
-    "optionD": "A poetic rhythm pattern",
+    "prompt": "Which word in this sentence is an example of onomatopoeia: 'The kettle began to hiss and whistle on the stove'?",
+    "optionA": "kettle",
+    "optionB": "hiss",
+    "optionC": "stove",
+    "optionD": "began",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Onomatopoeia is when a word sounds like what it describes — like 'buzz', 'crash', 'sizzle', or 'whisper'. It adds sound effects to writing."
+    "explanation": "Onomatopoeia is when a word sounds like what it describes. 'Hiss' imitates the actual sound the kettle makes, unlike the other words, which simply name objects or actions."
   },
   {
-    "prompt": "What does 'ambiguous' mean?",
-    "optionA": "extremely confident",
-    "optionB": "very clear and specific",
-    "optionC": "having more than one possible meaning",
-    "optionD": "completely wrong",
-    "correctOption": "C",
+    "prompt": "Which sentence is ambiguous?",
+    "optionA": "I saw the man with the telescope, but I'm not sure if he had it or I did.",
+    "optionB": "I saw the man clearly through the telescope.",
+    "optionC": "I saw the man walking down the street.",
+    "optionD": "I saw the man arrive at exactly noon.",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "'Ambiguous' means having more than one possible meaning or being unclear. An ambiguous sentence can be interpreted in different ways, which can cause confusion."
+    "explanation": "A sentence is ambiguous when it can be understood in more than one way. 'I saw the man with the telescope' could mean the man had the telescope, or that you used the telescope to see him — the other sentences have only one clear meaning."
   },
   {
     "prompt": "Which sentence uses a hyphen correctly?",
@@ -770,24 +770,24 @@
     "explanation": "'If I were you' uses the subjunctive mood — 'were' is used instead of 'was' in hypothetical or contrary-to-fact conditions. This is a formal and grammatically correct construction."
   },
   {
-    "prompt": "What does the Latin root 'aud-' mean, as in 'audience' and 'audible'?",
-    "optionA": "see",
-    "optionB": "hear",
-    "optionC": "speak",
-    "optionD": "write",
-    "correctOption": "B",
+    "prompt": "Which word uses the Latin root 'aud-' to mean something related to hearing?",
+    "optionA": "audition",
+    "optionB": "autograph",
+    "optionC": "autumn",
+    "optionD": "audit",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "The Latin root 'aud-' means 'hear' — an audience listens, and audible means able to be heard. Knowing Latin roots can help you work out the meanings of unfamiliar words."
+    "explanation": "The root 'aud-' means 'hear', so an audition is a hearing or listening test for a performer. 'Autograph' and 'autumn' use 'auto-'/'aut-' instead, and 'audit' relates to a financial check, not hearing, despite the similar spelling."
   },
   {
-    "prompt": "What is a clause?",
-    "optionA": "A word used to join two sentences",
-    "optionB": "A type of punctuation mark",
-    "optionC": "A group of words containing a subject and a verb",
-    "optionD": "A word that describes a noun",
-    "correctOption": "C",
+    "prompt": "Which underlined part is a clause in: 'Although it was raining, we walked to school'?",
+    "optionA": "'Although it was raining'",
+    "optionB": "'to school'",
+    "optionC": "'raining'",
+    "optionD": "'we'",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "A clause is a group of words containing a subject and a verb. A main clause can stand alone as a sentence; a subordinate clause cannot."
+    "explanation": "A clause is a group of words containing a subject and a verb. 'Although it was raining' has the subject 'it' and the verb 'was raining', so it is a clause. The other options are just a phrase, a single word, or a pronoun."
   },
   {
     "prompt": "Which word is correctly spelled?",
@@ -800,14 +800,14 @@
     "explanation": "'Accommodate' is the correct spelling — double 'c' and double 'm'. Remember: accommodate is big enough to have two c's and two m's."
   },
   {
-    "prompt": "What does 'tenacious' mean?",
-    "optionA": "holding firmly to something, persistent",
-    "optionB": "very gentle and kind",
-    "optionC": "quick and energetic",
-    "optionD": "easily giving up",
+    "prompt": "Which word could best replace 'tenacious' in this sentence: 'The tenacious climber refused to give up, even after three failed attempts'?",
+    "optionA": "persistent",
+    "optionB": "gentle",
+    "optionC": "energetic",
+    "optionD": "careless",
     "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "'Tenacious' means holding firmly to something and refusing to give up — persistent and determined. You might describe a tenacious athlete as someone who never stops trying."
+    "explanation": "'Tenacious' means holding firmly to something and refusing to give up. In this sentence, 'persistent' best captures that meaning, since the climber keeps trying despite failure."
   },
   {
     "prompt": "Which sentence uses dashes correctly to add extra information?",
@@ -820,24 +820,24 @@
     "explanation": "'She grabbed her bag — keys, phone, and purse — and left' uses dashes correctly — a pair of dashes adds extra information or a parenthetical aside within a sentence."
   },
   {
-    "prompt": "What is hyperbole?",
-    "optionA": "A word that sounds like its meaning",
-    "optionB": "Giving objects human feelings",
-    "optionC": "Exaggeration used for effect",
-    "optionD": "A direct comparison",
-    "correctOption": "C",
+    "prompt": "Which sentence is an example of hyperbole?",
+    "optionA": "I've told you a million times to tidy your room!",
+    "optionB": "I've told you three times to tidy your room.",
+    "optionC": "My room whispered for someone to clean it.",
+    "optionD": "My room was as messy as a rubbish tip.",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Hyperbole is exaggeration used for effect or emphasis, like 'I've told you a million times!' Nobody literally means a million — it is used to stress how many times."
+    "explanation": "Hyperbole is exaggeration used for effect, and nobody has really said something a literal million times. The other sentences use a factual number, personification, and a simile instead."
   },
   {
-    "prompt": "What does the prefix 'trans-' mean, as in 'transport' and 'transfer'?",
-    "optionA": "again",
-    "optionB": "before",
-    "optionC": "against",
-    "optionD": "across",
+    "prompt": "Which word uses the prefix 'trans-' to mean 'across'?",
+    "optionA": "transplant",
+    "optionB": "transform",
+    "optionC": "translucent",
+    "optionD": "transport",
     "correctOption": "D",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "The prefix 'trans-' means 'across' — transport means to carry across, and transfer means to move across. Other examples include transcontinental and translate."
+    "explanation": "'Transport' uses 'trans-' to mean carrying something across a distance. While the other words also contain 'trans-', 'transport' most clearly shows the 'across' meaning being tested here, as in 'transported goods across the country'."
   },
   {
     "prompt": "What is the effect of using short sentences in writing?",
@@ -850,44 +850,44 @@
     "explanation": "Short sentences create pace and tension — they make the reader move quickly through the text and can make an exciting moment feel more urgent or dramatic."
   },
   {
-    "prompt": "What does 'eloquent' mean?",
-    "optionA": "speaking very quietly",
-    "optionB": "expressing ideas clearly and effectively",
-    "optionC": "refusing to speak",
-    "optionD": "speaking rudely",
+    "prompt": "Which sentence shows someone being eloquent?",
+    "optionA": "She mumbled a few words and looked away nervously.",
+    "optionB": "She delivered a clear, persuasive speech that moved the whole audience.",
+    "optionC": "She refused to answer any of the reporter's questions.",
+    "optionD": "She read her notes word for word in a flat voice.",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "'Eloquent' means expressing ideas clearly, persuasively, and effectively. An eloquent speaker chooses their words carefully and is a pleasure to listen to."
+    "explanation": "'Eloquent' means expressing ideas clearly, persuasively, and effectively. Delivering a clear, persuasive speech that moves an audience shows eloquence, unlike mumbling, staying silent, or reading flatly."
   },
   {
-    "prompt": "What does an ellipsis (...) suggest in writing?",
-    "optionA": "Someone is speaking",
-    "optionB": "The sentence is very long",
-    "optionC": "A pause, trailing thought, or omission",
-    "optionD": "Something is very important",
+    "prompt": "What does the ellipsis suggest in this sentence: 'She opened the door slowly and saw...'?",
+    "optionA": "Someone else is speaking",
+    "optionB": "The sentence has ended happily",
+    "optionC": "A pause or trailing thought, building suspense about what she saw",
+    "optionD": "The writer made a spelling mistake",
     "correctOption": "C",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "An ellipsis (...) suggests a pause, a trailing thought, or that words have been left out. In fiction it can create suspense — 'He opened the door and saw...'"
+    "explanation": "An ellipsis (...) suggests a pause, a trailing thought, or that words have been left out. Here, it builds suspense by leaving what she saw unrevealed."
   },
   {
-    "prompt": "What does 'scrutinise' mean?",
-    "optionA": "To speak loudly",
-    "optionB": "To walk quickly",
-    "optionC": "To ignore completely",
-    "optionD": "To examine very carefully",
+    "prompt": "Which sentence shows someone scrutinising something?",
+    "optionA": "He glanced quickly at the letter before throwing it away.",
+    "optionB": "He examined every word of the contract closely before signing.",
+    "optionC": "He skimmed the newspaper headlines over breakfast.",
+    "optionD": "He ignored the report sitting on his desk.",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Scrutinise' means to examine something very carefully and thoroughly. Examining every word of a contract closely shows scrutiny, unlike glancing, skimming, or ignoring."
+  },
+  {
+    "prompt": "Which word uses the prefix 'auto-' to mean 'self'?",
+    "optionA": "automobile",
+    "optionB": "autumn",
+    "optionC": "audition",
+    "optionD": "autograph",
     "correctOption": "D",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "'Scrutinise' means to examine something very carefully and thoroughly. A detective would scrutinise a crime scene, looking at every tiny detail."
-  },
-  {
-    "prompt": "What does the prefix 'auto-' mean, as in 'automatic' and 'autobiography'?",
-    "optionA": "self",
-    "optionB": "against",
-    "optionC": "before",
-    "optionD": "across",
-    "correctOption": "A",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "The prefix 'auto-' means 'self' — an autobiography is a book you write about yourself, and automatic means something that operates by itself."
+    "explanation": "An 'autograph' is a person's own signature written by themselves, using 'auto-' to mean 'self'. 'Autumn' and 'audition' only look similar but do not contain the 'auto-' prefix meaning 'self'."
   },
   {
     "prompt": "What is the active voice of 'The window was broken by Tom'?",
@@ -1090,34 +1090,34 @@
     "explanation": "A rhetorical question is asked to engage the reader or make a point, not to get a direct answer. For example: 'Isn't it time we did something about climate change?'"
   },
   {
-    "prompt": "What is an oxymoron?",
-    "optionA": "Exaggeration used for effect",
-    "optionB": "A phrase that combines two contradictory terms",
-    "optionC": "Giving human qualities to objects",
-    "optionD": "Repeating a consonant sound",
-    "correctOption": "B",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "An oxymoron is a phrase that combines two contradictory or opposite ideas, like 'deafening silence' or 'bittersweet'. The contradiction creates a striking or thought-provoking effect."
-  },
-  {
-    "prompt": "What does the root 'bene-' mean, as in 'benefit' and 'benevolent'?",
-    "optionA": "evil or bad",
-    "optionB": "fast",
-    "optionC": "good or well",
-    "optionD": "before",
+    "prompt": "Which phrase is an oxymoron?",
+    "optionA": "loudly quiet",
+    "optionB": "quietly loud",
+    "optionC": "a jumbo shrimp",
+    "optionD": "a giant shrimp",
     "correctOption": "C",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "The Latin root 'bene-' means 'good or well' — benefit means something that helps, and benevolent means well-meaning and kind. The opposite root is 'mal-', meaning bad."
+    "explanation": "An oxymoron combines two contradictory terms, like 'jumbo' (huge) and 'shrimp' (tiny). 'Loudly quiet' is not a standard phrase, and 'a giant shrimp' simply describes size without contradiction."
   },
   {
-    "prompt": "What is a gerund?",
-    "optionA": "A past participle",
-    "optionB": "A connecting word",
-    "optionC": "A verb used as an adverb",
-    "optionD": "A verb form ending in -ing used as a noun",
-    "correctOption": "D",
+    "prompt": "Which word uses the root 'bene-' to mean 'good'?",
+    "optionA": "benevolent",
+    "optionB": "benign tumour (cancerous)",
+    "optionC": "malevolent",
+    "optionD": "malfunction",
+    "correctOption": "A",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "A gerund is a verb ending in '-ing' that is used as a noun. For example, in 'Swimming is good exercise', 'swimming' is a gerund — it is the subject of the sentence."
+    "explanation": "'Benevolent' uses the root 'bene-' meaning 'good or well', describing someone kind and well-meaning. 'Malevolent' and 'malfunction' use the opposite root 'mal-', meaning bad."
+  },
+  {
+    "prompt": "Which word is the gerund in: 'Swimming every morning helped her build strength'?",
+    "optionA": "Swimming",
+    "optionB": "helped",
+    "optionC": "her",
+    "optionD": "strength",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "A gerund is a verb ending in '-ing' used as a noun. Here, 'Swimming' is the subject of the sentence, naming an activity rather than describing an action being done right now."
   },
   {
     "prompt": "Which of these is an example of a paradox?",
@@ -1130,34 +1130,34 @@
     "explanation": "'I know that I know nothing' is a paradox — it seems to contradict itself (how can you know something if you know nothing?) but points to a deeper truth."
   },
   {
-    "prompt": "What does 'circumlocution' mean?",
-    "optionA": "Speaking directly and briefly",
-    "optionB": "Using many words to say something that could be said simply",
-    "optionC": "Giving a speech from memory",
-    "optionD": "Choosing unusual or rare words",
+    "prompt": "Which sentence is an example of circumlocution?",
+    "optionA": "I forgot my umbrella.",
+    "optionB": "The item that I use to keep dry when it rains, I did not bring with me today.",
+    "optionC": "It's raining, so I need an umbrella.",
+    "optionD": "I left my umbrella at home.",
     "correctOption": "B",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "Circumlocution means using many words to say what could be said simply — going around the point rather than getting straight to it. 'Circum-' means around, and 'locution' means speech."
+    "explanation": "Circumlocution means using many words to say what could be said simply. The second sentence goes round and round to describe an umbrella instead of just naming it, unlike the direct alternatives."
   },
   {
-    "prompt": "What is anaphora?",
-    "optionA": "A word that sounds like what it means",
-    "optionB": "Repetition of a word at the end of successive clauses",
-    "optionC": "Repetition of a word or phrase at the start of successive clauses",
-    "optionD": "A comparison using 'like' or 'as'",
-    "correctOption": "C",
+    "prompt": "Which passage is an example of anaphora?",
+    "optionA": "We will fight on the beaches. We will fight on the landing grounds. We will fight in the fields.",
+    "optionB": "We will fight bravely, courageously, and fiercely.",
+    "optionC": "On the beaches, on the landing grounds, and in the fields, we will fight.",
+    "optionD": "We will never, ever, ever give up the fight.",
+    "correctOption": "A",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "Anaphora is the repetition of a word or phrase at the start of successive clauses for rhetorical effect — like Martin Luther King's famous 'I have a dream... I have a dream...'"
+    "explanation": "Anaphora is the repetition of a word or phrase at the start of successive clauses. 'We will fight' is repeated at the beginning of each clause here, for rhetorical effect."
   },
   {
-    "prompt": "What does 'loquacious' mean?",
-    "optionA": "angry and hostile",
-    "optionB": "intelligent and thoughtful",
-    "optionC": "very quiet and reserved",
-    "optionD": "talkative, fond of talking",
-    "correctOption": "D",
+    "prompt": "Which sentence describes a loquacious person?",
+    "optionA": "He sat silently in the corner, saying nothing all evening.",
+    "optionB": "He chattered non-stop, barely pausing for breath between stories.",
+    "optionC": "He spoke only when asked a direct question.",
+    "optionD": "He nodded politely but never joined the conversation.",
+    "correctOption": "B",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "'Loquacious' means talkative and fond of talking. It comes from the Latin 'loqui' meaning to speak. Its opposite is 'taciturn', meaning quiet and reserved."
+    "explanation": "'Loquacious' means talkative and fond of talking. Chattering non-stop without pausing shows a loquacious person, unlike the quiet, reserved behaviour in the other options."
   },
   {
     "prompt": "What is the key difference between 'imply' and 'infer'?",
@@ -1170,44 +1170,44 @@
     "explanation": "The speaker/writer implies (hints at something), and the listener/reader infers (draws a conclusion). Think of it this way: the writer implies; the reader infers."
   },
   {
-    "prompt": "What does the prefix 'mal-' mean, as in 'malevolent' and 'malfunction'?",
-    "optionA": "fast",
-    "optionB": "bad or wrongly",
-    "optionC": "before",
-    "optionD": "good",
-    "correctOption": "B",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "The prefix 'mal-' means 'bad or wrongly' — malevolent means wishing evil, and malfunction means working badly or incorrectly. The opposite prefix is 'bene-', meaning good."
-  },
-  {
-    "prompt": "What is a synecdoche?",
-    "optionA": "A comparison using 'like' or 'as'",
-    "optionB": "A type of irony",
-    "optionC": "Using a part to represent a whole, or vice versa",
-    "optionD": "Extreme exaggeration",
-    "correctOption": "C",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "Synecdoche uses a part to represent a whole (or vice versa). For example, 'All hands on deck' uses 'hands' (part of a person) to mean all the sailors (the whole)."
-  },
-  {
-    "prompt": "What does 'equivocate' mean?",
-    "optionA": "To speak very loudly",
-    "optionB": "To change one's mind quickly",
-    "optionC": "To be extremely clear",
-    "optionD": "To use ambiguous language to avoid commitment",
-    "correctOption": "D",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "'Equivocate' means to use vague or ambiguous language deliberately to avoid making a commitment or giving a clear answer. Politicians are sometimes accused of equivocating."
-  },
-  {
-    "prompt": "What is epistrophe?",
-    "optionA": "Repetition of words at the end of successive clauses",
-    "optionB": "A comparison without 'like' or 'as'",
-    "optionC": "Giving human qualities to objects",
-    "optionD": "Repetition of words at the beginning of clauses",
+    "prompt": "Which word uses the prefix 'mal-' to mean 'bad or wrongly'?",
+    "optionA": "malfunction",
+    "optionB": "malleable",
+    "optionC": "mallet",
+    "optionD": "mallard",
     "correctOption": "A",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "Epistrophe is repetition of words at the end of successive clauses — the opposite of anaphora. Lincoln's 'government of the people, by the people, for the people' ends with 'people' each time."
+    "explanation": "'Malfunction' uses 'mal-' meaning 'bad or wrongly', describing something working incorrectly. 'Malleable', 'mallet', and 'mallard' only look similar but do not use this prefix."
+  },
+  {
+    "prompt": "Which sentence is an example of synecdoche?",
+    "optionA": "All hands on deck!",
+    "optionB": "The whole crew rushed onto the deck.",
+    "optionC": "Everyone on the ship helped out.",
+    "optionD": "The sailors worked together all night.",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Synecdoche uses a part to represent a whole. 'All hands on deck' uses 'hands' (a part of a person) to mean the whole sailors, unlike the other sentences which refer to people directly."
+  },
+  {
+    "prompt": "Which response is an example of equivocating?",
+    "optionA": "'Yes, I broke the vase — I'm sorry.'",
+    "optionB": "'No, I definitely did not touch it.'",
+    "optionC": "'Well, it's complicated — there are a few ways to look at what happened.'",
+    "optionD": "'I don't know anything about a vase.'",
+    "correctOption": "C",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Giving a vague, non-committal answer instead of a clear yes or no is equivocating — using ambiguous language deliberately to avoid a straight answer. The other responses are direct admissions or denials."
+  },
+  {
+    "prompt": "Which passage is an example of epistrophe?",
+    "optionA": "Government of the people, by the people, for the people.",
+    "optionB": "The people governed, the people chose, the people ruled.",
+    "optionC": "By the people, of the people, for the people, government exists.",
+    "optionD": "The people, the people, the people — always the people.",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "Epistrophe is repetition of words at the end of successive clauses. Here, each clause ends with 'the people', which is epistrophe — the opposite of anaphora, which repeats words at the start."
   },
   {
     "prompt": "In 'It is vital that he attend the meeting', why is 'attend' used rather than 'attends'?",
@@ -1220,54 +1220,54 @@
     "explanation": "'Attend' (not 'attends') is used because this is the subjunctive mood — after expressions like 'it is vital that', 'it is essential that', the base verb form is used rather than the third-person '-s' form."
   },
   {
-    "prompt": "What does 'lugubrious' mean?",
-    "optionA": "very precise and careful",
-    "optionB": "very cheerful and bright",
-    "optionC": "mournful, dismal, or gloomy",
-    "optionD": "extremely energetic",
-    "correctOption": "C",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "'Lugubrious' means mournful, dismal, or gloomy in an exaggerated way. A lugubrious expression is one that looks very sad and sorrowful."
-  },
-  {
-    "prompt": "What is a euphemism?",
-    "optionA": "A comparison using 'like' or 'as'",
-    "optionB": "A type of metaphor",
-    "optionC": "An extreme exaggeration",
-    "optionD": "A mild expression used in place of something unpleasant",
-    "correctOption": "D",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "A euphemism is a mild or indirect expression used in place of something harsh or unpleasant. For example, saying someone has 'passed away' instead of 'died' is a euphemism."
-  },
-  {
-    "prompt": "What does the suffix '-ology' mean, as in 'biology' and 'psychology'?",
-    "optionA": "the study of",
-    "optionB": "the practice of",
-    "optionC": "the opposite of",
-    "optionD": "the result of",
-    "correctOption": "A",
-    "levelBand": "Age 11 High Achiever",
-    "explanation": "The suffix '-ology' means 'the study of' — biology is the study of life, psychology is the study of the mind, and geology is the study of the Earth."
-  },
-  {
-    "prompt": "What is assonance?",
-    "optionA": "Repetition of initial consonant sounds",
-    "optionB": "Repetition of vowel sounds in nearby words",
-    "optionC": "A word that sounds like what it describes",
-    "optionD": "Rhyming only at the end of lines",
+    "prompt": "Which sentence describes a lugubrious expression?",
+    "optionA": "His face lit up with a bright, cheerful grin.",
+    "optionB": "His face wore a mournful, gloomy look throughout the funeral.",
+    "optionC": "His face stayed perfectly still and expressionless.",
+    "optionD": "His face flushed red with sudden anger.",
     "correctOption": "B",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "Assonance is the repetition of similar vowel sounds in nearby words, like 'the rain in Spain' or 'slow and low'. It creates a musical quality without the words having to fully rhyme."
+    "explanation": "'Lugubrious' means mournful, dismal, or gloomy in an exaggerated way. A face with a mournful, gloomy look at a funeral fits this meaning, unlike cheerful, blank, or angry expressions."
   },
   {
-    "prompt": "What does 'perspicacious' mean?",
-    "optionA": "extremely cautious",
-    "optionB": "very clumsy",
-    "optionC": "having a sharp insight or understanding",
-    "optionD": "very talkative",
-    "correctOption": "C",
+    "prompt": "Which sentence uses a euphemism?",
+    "optionA": "Her grandfather passed away last winter.",
+    "optionB": "Her grandfather died last winter.",
+    "optionC": "Her grandfather's heart stopped last winter.",
+    "optionD": "Her grandfather was pronounced dead last winter.",
+    "correctOption": "A",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "'Perspicacious' means having a ready insight into things — noticing things that others miss and understanding situations quickly and clearly."
+    "explanation": "A euphemism is a mild expression used in place of something harsh or unpleasant. 'Passed away' is a gentler way of saying 'died', unlike the more direct or clinical alternatives."
+  },
+  {
+    "prompt": "Which word uses the suffix '-ology' to mean 'the study of'?",
+    "optionA": "geology",
+    "optionB": "geography",
+    "optionC": "geometry",
+    "optionD": "geode",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Geology' uses the suffix '-ology' meaning 'the study of', referring to the study of the Earth's rocks and structure. The other words share the 'geo-' root but do not end in '-ology'."
+  },
+  {
+    "prompt": "Which phrase is an example of assonance?",
+    "optionA": "the rain in Spain",
+    "optionB": "slippery silver snake",
+    "optionC": "the buzzing, hissing bees",
+    "optionD": "deafening silence",
+    "correctOption": "A",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'The rain in Spain' repeats the same vowel sound ('ai') in nearby words — that's assonance. 'Slippery silver snake' repeats a consonant sound (alliteration), and 'buzzing, hissing' imitates sound (onomatopoeia)."
+  },
+  {
+    "prompt": "Which sentence describes a perspicacious detective?",
+    "optionA": "The detective missed the obvious clue lying on the table.",
+    "optionB": "The detective noticed a tiny detail everyone else had overlooked and solved the case instantly.",
+    "optionC": "The detective asked the same question three times.",
+    "optionD": "The detective waited patiently for someone else to explain the crime.",
+    "correctOption": "B",
+    "levelBand": "Age 11 High Achiever",
+    "explanation": "'Perspicacious' means having a sharp insight or understanding. Noticing a tiny overlooked detail and solving the case instantly shows perspicacity, unlike missing clues or waiting passively."
   },
   {
     "prompt": "What is the function of a colon in 'There was only one explanation: he had lied'?",
@@ -1280,14 +1280,14 @@
     "explanation": "The colon introduces an explanation or elaboration — what comes after the colon explains or expands on what came before. The part before the colon must be a complete clause."
   },
   {
-    "prompt": "What is polysemy?",
-    "optionA": "When the same word has multiple related meanings",
-    "optionB": "When two different words sound the same",
-    "optionC": "When two words are opposite in meaning",
-    "optionD": "When a word has only one possible meaning",
+    "prompt": "Which word is an example of polysemy, having multiple related meanings?",
+    "optionA": "bank (a riverbank; a place to keep money)",
+    "optionB": "bat (a flying mammal) and bat (sports equipment) — unrelated meanings",
+    "optionC": "flower and flour (sound the same, spelled differently)",
+    "optionD": "hot and cold (opposite meanings)",
     "correctOption": "A",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "Polysemy is when the same word has multiple related meanings — for example, 'bank' can mean a riverbank or a financial institution. This is different from homonymy, where the meanings are unrelated."
+    "explanation": "Polysemy is when the same word has multiple related meanings — a riverbank and a money bank are both about a 'edge' or 'store' related to a resource. This differs from homonyms like 'bat', which have unrelated meanings, or 'flower'/'flour', which just sound alike."
   },
   {
     "prompt": "Which of these is a noun?",
@@ -1820,54 +1820,54 @@
     "explanation": "'What a brilliant idea!' is an exclamation — it expresses strong feeling or emotion. True exclamation sentences start with 'what' or 'how' and contain a verb."
   },
   {
-    "prompt": "What is a tricolon?",
-    "optionA": "A word that imitates a sound",
-    "optionB": "A comparison using 'like' or 'as'",
-    "optionC": "A list of three items used for rhetorical effect",
-    "optionD": "A figure of speech that exaggerates",
-    "correctOption": "C",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "A tricolon is a list of three items used for rhetorical effect — like Julius Caesar's 'I came, I saw, I conquered'. The rhythm of three creates a powerful, memorable impact."
-  },
-  {
-    "prompt": "What does 'juxtaposition' mean in writing?",
-    "optionA": "A sudden twist at the end of a story",
-    "optionB": "Repeating the same word many times",
-    "optionC": "A list of three related items",
-    "optionD": "Placing contrasting ideas or images close together to highlight their difference",
-    "correctOption": "D",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "Juxtaposition is placing contrasting ideas or images close together to highlight their difference, like describing a luxurious mansion next to a crumbling shack."
-  },
-  {
-    "prompt": "What is 'bathos'?",
-    "optionA": "An abrupt, disappointing shift from something grand to something trivial, often for comic effect",
-    "optionB": "A technique where characters speak their thoughts aloud",
-    "optionC": "Repeating the same consonant sound",
-    "optionD": "An exaggerated statement not meant literally",
+    "prompt": "Which phrase is an example of a tricolon?",
+    "optionA": "I came, I saw, I conquered.",
+    "optionB": "I came and saw everything.",
+    "optionC": "I came, then I saw, and afterwards I conquered slowly.",
+    "optionD": "I conquered after coming and seeing.",
     "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Bathos is an abrupt, disappointing shift from something grand to something trivial, often for comic effect — like ending an epic speech about saving the world with 'and also I need a sandwich'."
+    "explanation": "A tricolon is a list of three items used for rhetorical effect. 'I came, I saw, I conquered' uses three short, parallel clauses, creating a memorable rhythm that the other options lack."
   },
   {
-    "prompt": "What is 'register' in writing?",
-    "optionA": "The list of characters in a story",
-    "optionB": "The level and style of language chosen to suit the audience and purpose",
-    "optionC": "The order of events in a text",
-    "optionD": "The margin on a page",
+    "prompt": "Which sentence uses juxtaposition?",
+    "optionA": "The mansion stood tall and grand next to the crumbling, abandoned shack.",
+    "optionB": "The mansion stood tall and grand at the top of the hill.",
+    "optionC": "The mansion had many rooms and a large garden.",
+    "optionD": "The mansion was built over one hundred years ago.",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Juxtaposition places contrasting ideas or images close together to highlight their difference. Describing the grand mansion right next to the crumbling shack creates this contrast, unlike the plain descriptions in the other options."
+  },
+  {
+    "prompt": "Which passage is an example of bathos?",
+    "optionA": "He vowed to save the world from destruction... and then remembered he needed to buy milk.",
+    "optionB": "He vowed to save the world from destruction, no matter the cost.",
+    "optionC": "He fought bravely to save the world, inspiring everyone around him.",
+    "optionD": "He gave up on saving the world and went home sadly.",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Bathos is an abrupt, disappointing shift from something grand to something trivial, often for comic effect. Jumping from 'saving the world' to 'buying milk' creates that sudden, deflating shift."
+  },
+  {
+    "prompt": "Which sentence uses a formal register?",
+    "optionA": "Hey, wanna grab some food later?",
+    "optionB": "We would be delighted to invite you to dinner this evening.",
+    "optionC": "Come eat, I'm starving!",
+    "optionD": "Food's ready, dig in!",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Register is the level and style of language chosen to match the audience and purpose. You use a formal register in a letter to a headteacher and an informal register when texting a friend."
+    "explanation": "Register is the level and style of language chosen to suit the audience and purpose. 'We would be delighted to invite you to dinner' uses formal, polite language, unlike the casual phrasing in the other options."
   },
   {
-    "prompt": "What is 'mood' in a piece of writing?",
-    "optionA": "The main character's personal feelings",
-    "optionB": "The writer's opinion",
-    "optionC": "The overall feeling or atmosphere created for the reader",
-    "optionD": "The setting of the story",
-    "correctOption": "C",
+    "prompt": "Which description creates a tense, uneasy mood?",
+    "optionA": "The floorboards creaked in the silent house as a shadow shifted behind the door.",
+    "optionB": "Sunlight streamed through the open window as birds sang cheerfully outside.",
+    "optionC": "The kitchen smelled of fresh bread and warm cinnamon.",
+    "optionD": "Children laughed and played in the sunny garden.",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Mood in writing is the overall feeling or atmosphere created for the reader through word choices, setting, and imagery — for example, a tense, gloomy, or cheerful mood."
+    "explanation": "Mood is the overall feeling or atmosphere created for the reader through word choices, setting, and imagery. Creaking floorboards, silence, and a moving shadow build a tense, uneasy mood, unlike the cheerful or cosy descriptions in the other options."
   },
   {
     "prompt": "What does 'infer' mean in reading?",
@@ -1880,44 +1880,44 @@
     "explanation": "To infer means to use clues in the text plus your own knowledge to work out something the author has not directly stated — reading 'between the lines'."
   },
   {
-    "prompt": "What is a 'motif' in a story?",
-    "optionA": "The moral lesson",
-    "optionB": "The main problem the character faces",
-    "optionC": "A repeated image, symbol, or idea that carries meaning throughout a text",
-    "optionD": "A twist at the end",
+    "prompt": "In a story where a caged bird appears at the start, middle, and end to represent the main character's longing for freedom, what is this repeated image called?",
+    "optionA": "The climax",
+    "optionB": "The resolution",
+    "optionC": "A motif",
+    "optionD": "A flashback",
     "correctOption": "C",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "A motif is a recurring image, symbol, or idea that carries meaning throughout a text. For example, the motif of light and darkness in many stories represents good versus evil."
+    "explanation": "A motif is a repeated image, symbol, or idea that carries meaning throughout a text. The caged bird recurring to represent longing for freedom is a motif, not a single plot event like a climax or flashback."
   },
   {
-    "prompt": "What does 'connotation' mean?",
-    "optionA": "The dictionary definition of a word",
-    "optionB": "A word that sounds like what it means",
-    "optionC": "A word's opposite",
-    "optionD": "The feeling or associations a word suggests beyond its literal meaning",
-    "correctOption": "D",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "Connotation is the feeling or associations a word carries beyond its literal dictionary meaning. For example, 'home' and 'house' have similar meanings, but 'home' has warm, personal connotations."
-  },
-  {
-    "prompt": "What is an 'oxymoron'?",
-    "optionA": "Giving human qualities to non-human things",
-    "optionB": "A comparison using 'like' or 'as'",
-    "optionC": "An exaggerated description for effect",
-    "optionD": "A contradiction that creates meaning, such as 'deafening silence'",
-    "correctOption": "D",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "An oxymoron is a phrase that combines two contradictory terms to create a striking effect, like 'deafening silence', 'bittersweet', or 'living dead'."
-  },
-  {
-    "prompt": "What is 'foreshadowing' in a text?",
-    "optionA": "A shadow image used in a poem",
-    "optionB": "A hint or clue early in the text suggesting what will happen later",
-    "optionC": "A flashback to an earlier time",
-    "optionD": "A description of a dark setting",
+    "prompt": "A writer chooses the word 'home' instead of 'house' to describe a character's residence. What does this word choice add through connotation?",
+    "optionA": "It changes the literal, dictionary meaning of the building.",
+    "optionB": "It adds warm, personal associations beyond the word's literal meaning.",
+    "optionC": "It makes the sentence grammatically correct.",
+    "optionD": "It has no effect on how the reader feels.",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Foreshadowing is when an author drops hints or clues early in a text about what will happen later. It builds suspense and rewards careful readers who spot the clues."
+    "explanation": "Connotation is the feeling or associations a word carries beyond its literal meaning. 'Home' and 'house' refer to the same building, but 'home' adds warm, personal associations that 'house' lacks."
+  },
+  {
+    "prompt": "Which phrase is an example of an oxymoron?",
+    "optionA": "deafening silence",
+    "optionB": "complete silence",
+    "optionC": "total silence",
+    "optionD": "peaceful silence",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An oxymoron combines two contradictory terms — 'deafening' (extremely loud) and 'silence' (no sound) contradict each other, creating a striking effect. The other phrases simply describe silence without contradiction."
+  },
+  {
+    "prompt": "A story mentions dark storm clouds gathering on the horizon in the very first paragraph, before any trouble occurs. What technique is the author using?",
+    "optionA": "A flashback",
+    "optionB": "Foreshadowing",
+    "optionC": "A metaphor",
+    "optionD": "Dialogue",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Foreshadowing is when an author drops hints or clues early in a text about what will happen later. Dark storm clouds appearing before trouble starts is a classic foreshadowing technique, building suspense for the reader."
   },
   {
     "prompt": "What is a synonym for 'meticulous'?",
@@ -1930,24 +1930,24 @@
     "explanation": "'Thorough' is a synonym for 'meticulous' — both mean giving careful attention to every detail. Meticulous is a slightly stronger, more formal word."
   },
   {
-    "prompt": "What is a 'rhetorical question'?",
-    "optionA": "A question that requires a very long answer",
-    "optionB": "A question asked to make a point rather than to get a direct response",
-    "optionC": "A question that always begins with 'how'",
-    "optionD": "A question used only to start a paragraph",
+    "prompt": "Which sentence is a rhetorical question?",
+    "optionA": "What time does the shop close today?",
+    "optionB": "Isn't it time we treated animals better?",
+    "optionC": "How many apples are in the basket?",
+    "optionD": "Which bus goes to the station?",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "A rhetorical question is asked to make a point or engage the reader — not to get a direct answer. For example: 'Isn't it time we treated animals better?' makes a point without expecting a reply."
+    "explanation": "A rhetorical question is asked to make a point rather than to get a direct answer. 'Isn't it time we treated animals better?' makes an argument, while the other questions simply ask for factual information."
   },
   {
-    "prompt": "What is 'pathos' in writing?",
-    "optionA": "The use of humour to make the reader laugh",
-    "optionB": "A technique that evokes pity or sadness in the reader",
-    "optionC": "The use of frightening imagery",
-    "optionD": "A logical argument supported by evidence",
-    "correctOption": "B",
+    "prompt": "Which sentence uses pathos to evoke the reader's sympathy?",
+    "optionA": "The orphaned puppy shivered alone in the rain, whimpering for a family that would never return.",
+    "optionB": "The puppy was a small brown dog with floppy ears.",
+    "optionC": "Studies show that puppies require regular feeding and exercise.",
+    "optionD": "The puppy shop was located on the corner of Main Street.",
+    "correctOption": "A",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Pathos is a technique that evokes pity, sadness, or sympathy in the reader. Writers use pathos to make the reader feel emotionally connected to characters or situations."
+    "explanation": "Pathos is a technique that evokes pity or sadness in the reader. Describing the orphaned, shivering puppy whimpering for a lost family is designed to stir sympathy, unlike the neutral, factual descriptions in the other options."
   },
   {
     "prompt": "What is the difference between an implicit and an explicit statement in a text?",
@@ -1960,64 +1960,64 @@
     "explanation": "An explicit statement is clearly written out in the text — you can point to it directly. An implicit meaning is hinted at or suggested — the reader has to infer it from clues rather than finding it stated outright."
   },
   {
-    "prompt": "What is dramatic irony?",
-    "optionA": "When a character uses extremely exaggerated language to make a point",
-    "optionB": "When two characters argue dramatically on stage",
-    "optionC": "When the audience or reader knows something important that a character in the story does not",
-    "optionD": "When the ending of a story is completely unexpected",
-    "correctOption": "C",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "Dramatic irony occurs when the audience or reader has information that a character lacks. This creates tension, suspense, or sadness — for example, watching a character walk into danger they cannot see coming while the reader knows what awaits them."
-  },
-  {
-    "prompt": "What is an extended metaphor?",
-    "optionA": "A metaphor that compares more than two things at once",
-    "optionB": "A comparison using both 'like' and 'as' in the same sentence",
-    "optionC": "A very long simile spread across a sentence",
-    "optionD": "A single metaphor developed and sustained across several sentences or throughout a whole text",
-    "correctOption": "D",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "An extended metaphor takes a single comparison and develops it over a longer passage. For example, describing life as a journey and then continuing to use words like crossroads, detours, and destinations throughout the text deepens the original comparison."
-  },
-  {
-    "prompt": "What is pathetic fallacy?",
-    "optionA": "The use of exaggeration to create a false impression in the reader's mind",
-    "optionB": "A logical error in an argument that seems convincing but is actually wrong",
-    "optionC": "When a character's emotions cause them to behave foolishly",
-    "optionD": "Giving the weather or natural surroundings emotions that mirror a character's mood",
-    "correctOption": "D",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "Pathetic fallacy is a literary device where the weather or natural environment is given human emotions that reflect a character's feelings. For example, a storm raging during a character's moment of grief, or sunshine accompanying happiness. It helps set mood and tone."
-  },
-  {
-    "prompt": "What is litotes?",
-    "optionA": "A list of three items used for rhetorical effect",
-    "optionB": "An extreme exaggeration not meant literally",
-    "optionC": "A deliberate understatement, often using a negative to affirm a positive, to create ironic or humorous effect",
-    "optionD": "A comparison using 'like' or 'as'",
-    "correctOption": "C",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "Litotes is a form of understatement where something positive is expressed by denying its opposite — for example, saying 'not bad' to mean 'good', or 'she's not the worst singer' to mean 'she's actually quite good.' It often creates a dry or ironic tone."
-  },
-  {
-    "prompt": "What is a soliloquy in drama?",
-    "optionA": "A long speech delivered by one character to another on stage",
-    "optionB": "A short poem spoken before a play begins",
-    "optionC": "A scene where two characters discuss their feelings privately",
-    "optionD": "A speech where a character speaks their thoughts aloud, alone on stage, revealing their inner feelings to the audience",
-    "correctOption": "D",
-    "levelBand": "Age 10 High Achiever",
-    "explanation": "A soliloquy is when a character is alone on stage and speaks their thoughts aloud directly to the audience — not to another character. It reveals inner feelings, plans, or conflicts that the character would not voice to others. Shakespeare used soliloquies throughout his plays, most famously in Hamlet."
-  },
-  {
-    "prompt": "What does 'austere' mean?",
-    "optionA": "luxurious and richly decorated",
-    "optionB": "harsh and severe in manner, or plain and lacking in decoration",
-    "optionC": "very confident and assertive",
-    "optionD": "careful and considerate toward others",
+    "prompt": "In a play, the audience knows a trap is hidden behind a door, but the character confidently walks toward it, unaware. What is this an example of?",
+    "optionA": "A soliloquy",
+    "optionB": "Dramatic irony",
+    "optionC": "A flashback",
+    "optionD": "Foreshadowing",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "'Austere' means severe, strict, or very plain — without comfort or decoration. An austere room has minimal furniture and no luxuries; an austere person is strict and cold in manner. The noun form is 'austerity'."
+    "explanation": "Dramatic irony occurs when the audience knows something important that a character does not. Here, the audience's knowledge of the trap, contrasted with the character's confidence, creates dramatic irony."
+  },
+  {
+    "prompt": "A poem describes life as a journey in the first line, then continues to mention crossroads, detours, and a final destination throughout the rest of the poem. What technique is this?",
+    "optionA": "A simile",
+    "optionB": "Personification",
+    "optionC": "An extended metaphor",
+    "optionD": "Alliteration",
+    "correctOption": "C",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "An extended metaphor takes a single comparison and develops it over a longer passage. Continuing the 'life is a journey' comparison with crossroads, detours, and a destination throughout the poem is an extended metaphor."
+  },
+  {
+    "prompt": "A story describes a violent storm raging outside just as a character learns devastating news. What technique is the author using?",
+    "optionA": "Dramatic irony",
+    "optionB": "Pathetic fallacy",
+    "optionC": "A rhetorical question",
+    "optionD": "Litotes",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Pathetic fallacy gives the weather or natural surroundings emotions that mirror a character's mood. A raging storm accompanying devastating news reflects the character's turmoil through the weather."
+  },
+  {
+    "prompt": "Which sentence is an example of litotes?",
+    "optionA": "She is an amazing singer.",
+    "optionB": "She is not the worst singer I've heard.",
+    "optionC": "She sings like an angel.",
+    "optionD": "She is a terrible singer.",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "Litotes is a deliberate understatement, often using a negative to affirm a positive. 'Not the worst singer' actually means she sings quite well, expressed through understatement rather than direct praise."
+  },
+  {
+    "prompt": "In a play, a character is left alone on stage and speaks their private thoughts and fears aloud directly to the audience. What is this called?",
+    "optionA": "A soliloquy",
+    "optionB": "Dialogue",
+    "optionC": "A stage direction",
+    "optionD": "An aside to another character",
+    "correctOption": "A",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "A soliloquy is when a character is alone on stage and speaks their thoughts aloud directly to the audience, revealing inner feelings not shared with other characters."
+  },
+  {
+    "prompt": "Which sentence describes an austere room?",
+    "optionA": "The room was filled with soft cushions, colourful rugs, and ornate decorations.",
+    "optionB": "The room contained only a bed, a chair, and bare white walls.",
+    "optionC": "The room was warm and cluttered with cheerful clutter.",
+    "optionD": "The room was painted in bright, cheerful colours.",
+    "correctOption": "B",
+    "levelBand": "Age 10 High Achiever",
+    "explanation": "'Austere' means plain, severe, and lacking decoration. A room with only a bed, a chair, and bare walls fits this meaning, unlike the richly decorated or colourful rooms in the other options."
   },
   {
     "prompt": "Which word means the opposite of 'cautious'?",
