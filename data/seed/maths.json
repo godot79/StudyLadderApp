@@ -3591,5 +3591,245 @@
     "optionD": "233",
     "correctOption": "A",
     "explanation": "819 divided by 3 equals 273."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Olivia has 6 sticker sheets. Jordan has 4 times as many sticker sheets as Olivia. How many sticker sheets does Jordan have?",
+    "optionA": "24",
+    "optionB": "10",
+    "optionC": "18",
+    "optionD": "36",
+    "correctOption": "A",
+    "explanation": "To find how many times as many, multiply 6 by 4. 6 × 4 = 24."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Which number makes this fraction equation true? 2/5 = 8/?",
+    "optionA": "13",
+    "optionB": "20",
+    "optionC": "16",
+    "optionD": "24",
+    "correctOption": "B",
+    "explanation": "If 2/5 = 8/?, multiply both numerator and denominator by 4. So 2/5 = 8/20."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A ray creates two angles from a straight angle. One angle measures 65°. The other angle measures how many degrees? (A straight angle = 180°)",
+    "optionA": "90",
+    "optionB": "125",
+    "optionC": "115",
+    "optionD": "145",
+    "correctOption": "C",
+    "explanation": "A straight angle is always 180°. If one part is 65°, the other part is 180° − 65° = 115°."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Which fraction should be added to 3/10 to make 1 whole?",
+    "optionA": "3/10",
+    "optionB": "5/10",
+    "optionC": "9/10",
+    "optionD": "7/10",
+    "correctOption": "D",
+    "explanation": "To make 1 whole (10/10), add 3/10 + 7/10 = 10/10 = 1."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which number rounds to 24,000 when rounded to the nearest thousand?",
+    "optionA": "23,812",
+    "optionB": "23,421",
+    "optionC": "24,519",
+    "optionD": "24,867",
+    "correctOption": "A",
+    "explanation": "23,812 is between 23,500 and 24,500, so it rounds up to 24,000. The others round to 23,000 or 25,000."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A hamster runs 7/10 km each morning. How far does the hamster run in 6 mornings? Express the answer as a fraction in tenths (units: km).",
+    "optionA": "13/10",
+    "optionB": "42/10",
+    "optionC": "42/60",
+    "optionD": "7/60",
+    "correctOption": "B",
+    "explanation": "Multiply 7/10 by 6: (7 × 6) / 10 = 42/10 km."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What is 144 ÷ 8?",
+    "optionA": "16",
+    "optionB": "17",
+    "optionC": "18",
+    "optionD": "20",
+    "correctOption": "C",
+    "explanation": "When you divide 144 into 8 equal groups, each group has 18."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is 5 2/5 − 3 3/5?",
+    "optionA": "2 1/5",
+    "optionB": "2 4/5",
+    "optionC": "3 1/5",
+    "optionD": "1 4/5",
+    "correctOption": "D",
+    "explanation": "Convert to decimals: 5.4 − 3.6 = 1.8, which equals 1 4/5."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "How many tens are in 800?",
+    "optionA": "80",
+    "optionB": "8",
+    "optionC": "40",
+    "optionD": "800",
+    "correctOption": "A",
+    "explanation": "Break 800 into groups of 10. 800 ÷ 10 = 80 tens."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is the value of 3 × 2/5, written as a fraction?",
+    "optionA": "6/15",
+    "optionB": "6/5",
+    "optionC": "3/10",
+    "optionD": "5/6",
+    "correctOption": "B",
+    "explanation": "Multiplying a fraction by a whole number multiplies the numerator: 3 × 2/5 = 6/5. A common mistake is multiplying the denominator too, giving 6/15."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "What is the product of 5 and 1,680?",
+    "optionA": "6,850",
+    "optionB": "7,400",
+    "optionC": "8,400",
+    "optionD": "8,950",
+    "correctOption": "C",
+    "explanation": "When you multiply 5 × 1,680, you get 8,400."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A square playground has a perimeter of 96 meters. What is the length of one side in meters?",
+    "optionA": "20",
+    "optionB": "32",
+    "optionC": "48",
+    "optionD": "24",
+    "correctOption": "D",
+    "explanation": "A square has 4 equal sides. To find one side length, divide the perimeter by 4: 96 ÷ 4 = 24 meters."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A regular octagon (8-sided figure with all sides equal) is drawn. How many lines of symmetry does it have?",
+    "optionA": "8",
+    "optionB": "2",
+    "optionC": "4",
+    "optionD": "6",
+    "correctOption": "A",
+    "explanation": "A regular octagon has 8 lines of symmetry—one through each pair of opposite vertices and one through the middle of each pair of opposite sides."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "A group of 50 students goes on a field trip. Each student pays $5 for transportation and $6 for admission. What is the total cost for all students?",
+    "optionA": "$250",
+    "optionB": "$550",
+    "optionC": "$300",
+    "optionD": "$450",
+    "correctOption": "B",
+    "explanation": "First, find the cost per student: $5 + $6 = $11. Then multiply by 50 students: 50 × $11 = $550."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which comparison is correct?",
+    "optionA": "2/5 > 3/5",
+    "optionB": "1/4 > 1/3",
+    "optionC": "3/4 < 4/5",
+    "optionD": "5/8 = 1/2",
+    "correctOption": "C",
+    "explanation": "To compare 3/4 and 4/5, convert to common denominators: 3/4 = 15/20 and 4/5 = 16/20. Since 15 < 16, we have 3/4 < 4/5."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Use an area model to find 26 × 32. Break 26 into 20 + 6 and 32 into 30 + 2. The partial products are: 20×30=600, 20×2=40, 6×30=180, 6×2=12. What is the total (26 × 32)?",
+    "optionA": "842",
+    "optionB": "834",
+    "optionC": "830",
+    "optionD": "832",
+    "correctOption": "D",
+    "explanation": "Add all the partial products: 600 + 40 + 180 + 12 = 832. This equals 26 × 32."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "What is 2 3/5 written as an improper fraction?",
+    "optionA": "13/5",
+    "optionB": "11/5",
+    "optionC": "8/5",
+    "optionD": "17/5",
+    "correctOption": "A",
+    "explanation": "2 3/5 equals 2 wholes plus 3/5. Each whole is 5/5, so 5/5 + 5/5 + 3/5 = 13/5."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which number below is NOT a factor of 24?",
+    "optionA": "8",
+    "optionB": "9",
+    "optionC": "12",
+    "optionD": "6",
+    "correctOption": "B",
+    "explanation": "The factors of 24 are 1, 2, 3, 4, 6, 8, 12, and 24 — numbers that divide evenly into it. 9 does not divide evenly into 24 (24 ÷ 9 = 2 remainder 6), so 9 is not a factor."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A square with sides of equal length is divided in half by drawing one diagonal line. What type of triangles are formed?",
+    "optionA": "Equilateral triangles",
+    "optionB": "Obtuse triangles",
+    "optionC": "Right isosceles triangles",
+    "optionD": "Scalene triangles",
+    "correctOption": "C",
+    "explanation": "The diagonal of a square divides it into two triangles with a 90° angle and two equal sides. These are right isosceles triangles."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A soccer team earned $280 from a car wash. Soccer balls cost $15 each. What is the greatest number of soccer balls the team can buy?",
+    "optionA": "17",
+    "optionB": "19",
+    "optionC": "20",
+    "optionD": "18",
+    "correctOption": "D",
+    "explanation": "Divide $280 by $15: 280 ÷ 15 = 18.67. Since you cannot buy a partial ball, the team can buy 18 soccer balls (costing $270, with $10 left over)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Use place value to compare these numbers. Which symbol makes this sentence true? 5,348 ___ 5,384",
+    "optionA": "<",
+    "optionB": ">",
+    "optionC": "=",
+    "optionD": "Cannot be determined",
+    "correctOption": "A",
+    "explanation": "Both numbers have the same thousands (5) and hundreds (3), but in the tens place: 4 < 8. So 5,348 < 5,384."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Two expressions: A) 1/5 × 3   B) 2/5 × 4. Which expression has a value greater than 1?",
+    "optionA": "Expression A only",
+    "optionB": "Expression B only",
+    "optionC": "Both A and B",
+    "optionD": "Neither A nor B",
+    "correctOption": "B",
+    "explanation": "Evaluate each: 1/5 × 3 = 3/5 = 0.6 (less than 1), and 2/5 × 4 = 8/5 = 1.6 (greater than 1). Only B is greater than 1."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which statement about a rhombus is true?",
+    "optionA": "All angles are 90°",
+    "optionB": "All sides have different lengths",
+    "optionC": "Opposite sides are parallel",
+    "optionD": "It has no lines of symmetry",
+    "correctOption": "C",
+    "explanation": "In a rhombus, opposite sides are always parallel because a rhombus is a type of parallelogram."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A school has 156 books to pack into storage boxes. Each box holds exactly 8 books. What is the least number of boxes needed to hold all the books?",
+    "optionA": "18",
+    "optionB": "19",
+    "optionC": "22",
+    "optionD": "20",
+    "correctOption": "D",
+    "explanation": "Divide 156 by 8: 156 ÷ 8 = 19.5. You need 20 boxes to hold all books, because 19 boxes hold only 152 books, which is not enough."
   }
 ]
