@@ -1,85 +1,81 @@
 # Notes for the next ingestion round
 
-Written 2026-08-18, later same day, after merging the Smithsonian Point...Click...Activity Sheets batch (19 items: 18→`science.json` 370→388, 1→`space.json` 219→220). Appends to the maths-round notes below (still same-day current) rather than overwriting.
+Written 2026-08-18, after merging the VA SOL World Geography 2007 batch (33 items:
+geography.json 293→326; rivers mentions 14→20, mountains 10→17).
 
 ---
 
-## -1. A blocked site isn't a dead source — check for a legacy mirror before giving up
+## 0. Found a real pipeline-level bug: `rebalance.ts` leaves explanations pointing at stale letters
 
-The prior same-day research round correctly identified that `learninglab.si.edu` (Smithsonian's modern collection UI) is Cloudflare-blocked to any automated fetch, spoofed User-Agent or not, and reported this as "unconfirmed, needs a human browser check." Before accepting that verdict, a follow-up check found the exact same content still live on a completely separate, unprotected legacy domain (`smithsonianeducation.org`) that the modern site's collection had migrated FROM — found via the Wayback Machine's CDX API (`web.archive.org/cdx/search/cdx?url=<domain>/<path>&matchType=prefix`) enumerating every filename ever archived under that path, then testing each against the live current domain with a plain `curl`. This took about 10 minutes and turned a "blocked, needs a human" verdict into a fully automated, confirmed-live source. **Lesson: when a site returns a hard bot-block (403/Cloudflare), before concluding "needs a human browser," check (a) whether the same content exists on a different domain the modern site migrated from, via Wayback CDX prefix search, and (b) whether that legacy domain is itself still live** — old government/institutional sites often keep legacy paths running indefinitely even after a UI migration, unprotected by whatever bot-defense the new site added.
+`rebalance.ts` (Step 5.7) moves each option's TEXT together with its new letter when
+it rebalances answer-position distribution — that part is correct and does what its
+own comment says. But it does **not** touch the `explanation` field, which the
+rewrite subagent wrote referencing the *original* (pre-rebalance) letters — e.g. an
+explanation reading "The ozone layer (B) is different" when option B had since
+become "Acid rain" (the correct answer) and ozone had moved to A. This isn't a
+self-audit-flaggable defect (correctOption itself is right, self-audit's checks
+never fire), so it slipped past 5-6 (verify/dedup) and self-audit cleanly — it was
+only caught by manually re-reading every explanation against the actual option
+lettering during Step 7 human review. This round it hit **19 of 33 items** (58%).
 
-## 0. Age 9 High Achiever science: confirmed the "deeper fact, not harder reasoning" approach works, closes most of the bank's worst single gap
+**This is likely a standing bug affecting every prior batch that used `rebalance.ts`
+and had explanations referencing letters** (i.e. probably most rounds since it was
+added) — not something specific to this batch's source or rewrite agent. Nobody has
+gone back to audit older merged content for this.
 
-Science's Age 9 HA band went 8→19 (more than doubled) in one small batch from a one-shot fact-sheet source (not a deep archive — see the source catalog entry). This confirms the hypothesis from the research round: this band needed genuinely rare/surprising-but-comprehensible facts (giant squid eye size, ant strength-to-weight ratio and why a human-sized ant couldn't work the same way, more microbes in a spoonful of soil than people on Earth, zebra stripe-confusion camouflage) rather than harder multi-step reasoning borrowed from an older grade — a structurally different sourcing problem from the Age-11-tier gaps closed in recent rounds, and it needed a structurally different kind of source (a children's-science-facts sheet, not a test archive) to solve. **If this band or its analogues in other subjects (space/geography/english's own youngest-HA bands, if any are ever this thin) come up again, look for "fun facts for kids" style institutional/museum content first, not another test archive.**
+**Recommended fix for the next round or a dedicated cleanup pass:** either (a) have
+`rebalance.ts` also rewrite/strip letter references in `explanation` when it moves
+options, or (b) instruct rewrite agents to never write letter-referencing
+explanations in the first place (describe wrong answers by content, not by letter
+position) so rebalancing can't desync them. Option (b) is simpler and removes the
+failure mode entirely — add it to the round template's Step 2-3 instructions.
+**Do not skip the "re-read every explanation" pass in Step 7 until this is fixed at
+the script level** — self-audit will not catch it.
 
-Two real fact-accuracy issues were caught by the fact-check step (not the initial extraction) and fixed before staging: an anomalocarid size claim ("3 feet") that's contested in current paleontology (fixed by removing the specific number, keeping only the well-supported "small but still apex predator" lesson), and a giant-squid "largest eyes of any animal" superlative that's actually disputed in favor of the colossal squid (softened to "some of the largest"). Neither fix affected which option was correct — both were about tightening an overclaim in the prompt/explanation, not correcting a wrong answer. This is the same "confirmed but check the specific superlative/exact-number claims separately from the core lesson" pattern documented in README.md's Colorado Springs/Seattle solar caveat precedent — worth continuing to apply skepticism to precise numbers and superlatives ("the biggest," "the only," exact measurements) even when the core fact is solid.
+## 1. VA SOL World Geography: a genuine multi-year archive exists behind Wayback Machine, not just the one 2012 snapshot
 
-**Source is now exhausted** — it yielded 6 rich science-relevant sheets (ants, cats, predators, soil, squid, zebras) plus 1 thin one (apollo, mostly common-knowledge content). Remaining sheets checked (artcount, book, food, collecting, bicycles, invention, go) were judged not-science, too-thin, or duplicate. Don't re-run this exact source expecting more — it was a one-shot ~19-item yield as predicted going in, not a repeatable archive.
+Earlier research (documented in `source_catalog.md`) treated the 2012 edition as
+"a single sample paper, not a confirmed multi-year archive" because VDOE's live
+site (`doe.virginia.gov`) 403s all automated fetches. That verdict was incomplete:
+the **Wayback Machine's CDX API is not blocked**, even though the live site is, and
+querying it (`web.archive.org/cdx/search/cdx?url=doe.virginia.gov&matchType=domain&filter=original:.*geog.*`)
+surfaced 4 more years/editions never checked: 2003 (10 items, mostly usable, small),
+Fall 2011 "sample items" (7 items, mostly map/graph-dependent, low yield), Spring
+2007 (60 items, same tier as 2012, good yield — used this round), and a 2013/2014
+"item set" (56-page PDF that extracted almost no text — likely scanned/image-based,
+not attempted this round, would need OCR to be usable).
 
----
+**Lesson for any future source where the live site 403s but the catalog only checked
+one snapshot:** always try the CDX API for the domain/path before concluding "single
+sample paper" — same pattern as the Smithsonian legacy-mirror find two rounds ago,
+now confirmed twice. **Remaining unexploited lead:** the 2013/2014 item-set PDF, if
+someone builds an OCR step or finds a text-based mirror of it.
 
-## 0. Duplicate-correct-answer defect struck a THIRD time — this is now a pattern, not a one-off
+## 2. Geography sourcing for rivers/mountains/capitals at native grade 3-5: still a real structural gap
 
-A "which number has the digit 8 worth 10x the value" item had two options (128.34 and 348.2) that both genuinely have 8 in the ones place — both mathematically correct. This is the same failure mode as the 2026-08-17 maths round's "1/4<1/3 vs 3/4<4/5" comparison item, and it slipped past the batch agent's own explicit "verify all four options" check *again*, despite that check being written into this exact round's briefing. Caught only on an independent third-party re-derivation (computing each option's ones-digit from scratch, not trusting the agent's stated verification).
+Confirmed again this round (see `source_catalog.md`'s 2026-08-18 addendum): no US
+state or national system runs a standalone, released, elementary-grade (3-5)
+physical-geography exam archive. This round closed the gap a different way —
+borrowing the (already-partially-mined) VA SOL high-school archive's *other* years,
+plus a small set of independently-written original items for well-known river/
+mountain facts not tied to any single copyrighted source. International Geography
+Bee was checked and ruled out (quiz-bowl difficulty even for "Elementary" division,
+plus all-rights-reserved private IP). TeachersPayTeachers' free geography worksheets
+remain unpiloted as an actual ingestion source — still just a category-browse
+verification, not an actual per-item extraction test.
 
-**This is no longer an occasional gotcha — three rounds in a row have needed a human to independently recompute every option's value/truth from first principles, not just read the agent's claim that it checked.** The instruction "verify all four options" is evidently not sufficient on its own; agents doing this check are prone to confirming the labeled answer and pattern-matching the others as "obviously different" without literally recomputing each one. **Recommendation for the next template revision:** for any item type where options are computed/derived values (place-value extraction, unit conversion, "which of these equals X"), require the reviewing step to write out each option's derivation as a literal computation (not a truth-value judgment) before accepting the item — e.g. "A: ones digit of 128.34 is 8 → value 8. B: ones digit of 0.84 is 0 → value 0. C: ..." This forces the mechanical check that keeps getting skipped in practice.
+## 3. Current geography.json counts (2026-08-18, post-merge)
 
-Also fixed in the same pass: one borderline-ambiguous distractor (a "partially correct" option in a fraction-misconception critique item that was arguably also defensible as true, though not as clear-cut a duplicate as the digit-place item) — tightened to an unambiguously false statement rather than leaving it for interpretation.
+Total 326. Age 9=80, Age 9 HA=47, Age 10=77, Age 10 HA=50, Age 11=43, Age 11 HA=29.
+Rivers mentions=20, mountains=17, capitals=64 (still the largest single theme, but
+the gap has narrowed). Age 11/Age 11 HA remain untouched this round, per the
+standing strategic pivot — do not target them.
 
-## 1. NY Regents Math: Grade 5 confirmed viable, same borrow-a-harder-grade pattern works a second time
+## 4. Standing rules still apply
 
-Grade 5 Math (Spring 2025 admin) was live, full item text + answer key present, first try (no fallback to Grade 6/7/8 needed). 25 of 28 released items usable (3 deferred: two image-only geometry figures, one line-plot-only item). Doubled the bank's Age 11 High Achiever content in one batch (24→35 pre-existing + this batch's own count), following the same "borrow one grade up, rewrite vocabulary not difficulty" pattern now confirmed three times (science round 7, Virginia geography, this round). NY Regents Math is confirmed to have real remaining volume at Grade 6/7/8 too, untouched — natural next lever if maths needs another round.
-
----
-
-## 1. New defect class: self-answering option text ("giveaway parentheticals") — check for this on every batch now
-
-The Haiku Step 2-3 subagent, writing this batch's geography items, had a strong habit of appending a clarifying/justifying parenthetical directly onto option text — e.g. `"West Africa (the world's largest cocoa producer)"` as the CORRECT option, or `"Manufacturing in factories (factories are built on relatively small pieces of land)"` for a wrong one explaining why it's wrong. This isn't a factual error — it's a format defect that converts a knowledge-recall item into a reading-comprehension/keyword-matching item, because the parenthetical states the very fact the question is supposed to be testing. **13 of 32 items in this batch had this pattern**; roughly 9 were severe enough to require a full option rewrite (stripping to bare answer text) before staging. One instance evaded a simple `'(' in option` scan entirely: a South America item phrased all four options as full sentences ("Peru has a long Pacific coastline" / "Brazil faces the Atlantic Ocean instead of the Pacific") rather than country names, letting a student answer via "which one says Atlantic" keyword-matching instead of geography knowledge — caught only on a full human read, not the automated scan.
-
-**Not every parenthetical is this defect** — some are legitimate vocabulary scaffolding (e.g. defining an unfamiliar term like "orientation (meaning compass direction)" for a vocabulary-matching item) where the definitions don't single out which specific option is correct. Judgment call each time: does the added text tell you WHICH option is right/wrong, or does it just define a word neutrally across all four options equally? The former is a defect, the latter is fine (and sometimes necessary for genuinely unfamiliar Age-11 vocabulary).
-
-**Action for future rounds:** add an explicit instruction to Step 2-3 subagent prompts: "options must stand alone as plausible answers — do not append a parenthetical or clause that states why an option is correct or incorrect; that defeats the purpose of a knowledge-recall item." And for human review: don't rely on a `grep '('` scan alone (it misses full-sentence-option formats like the South America item) — read every option's phrasing for whether it's giving away the reasoning it should be testing.
-
-## 2. Virginia SOL World Geography: viable one-shot source, confirms the "borrow a harder grade for HA content" pattern works for geography too
-
-Piloted the lead found in the prior round's dedicated source-research pass (see `research/source_catalog.md`'s "USA — Geography-specific research" section). 2012 Grade 9-10 World Geography released test, accessed via a third-party mirror (solpass.org) since VDOE's own site blocks automated access. Extraction, rewrite-down-to-Age-9-11-vocabulary, and difficulty recalibration worked well: 32 of the source's ~60 scored MC items were usable and successfully rewritten to Age 10/Age 11/Age 11 HA difficulty (21 Age 11, 7 Age 11 HA, 4 Age 10, deliberately none forced into Age 9) — following the same precedent as the earlier science round that borrowed Grade 8 content for the HA band, rewriting vocabulary down without diluting the underlying reasoning. This is confirmation that the "source one grade-level up, simplify language not concept" pattern generalizes beyond science.
-
-**Caveats, unchanged from the source-research findings:** treat as a single sample paper, not a repeatable archive — only one year is confirmed accessible, and VDOE's own site (which might have more years) returned HTTP 403 to every automated access attempt tried across two separate rounds now. If a future round wants more from this specific source, it needs an actual browser-session check of `doe.virginia.gov`'s released-tests page, not another automated-fetch attempt (already tried twice, same result both times — don't try a third time the same way).
-
-**44% topic concentration in "economic-geography"** was flagged by self-audit's topic-concentration check (non-blocking) — a reflection of the source's own emphasis (the VA course covers economic geography extensively), not a batch construction problem. Worth knowing if a future round pulls a second batch from a similar source: the topic mix will skew economic/political geography rather than physical geography unless deliberately balanced.
-
-## 3. All 32 fact claims independently verified (9 via WebSearch, 23 against established encyclopedic knowledge) — all confirmed, no caveats needed
-
-Followed the fact-check protocol per README.md. The 9 WebSearched (infant-mortality causation, cocoa production share, Timbuktu trade route, Kurdistan's extent, Chad's economy, urbanization/development correlation, polders, OPEC's founding purpose, EU single-market benefits) all confirmed cleanly; a couple (Angola/Botswana infant mortality, Chad's economy) have real-world multi-causal nuance similar to the previously-documented Colorado Springs/Seattle solar caveat, but the labeled answer remains the best available explanation among the four options given, not a misleading distractor situation — no caveat-driven rejections this round.
-
-## 4. Standing defect-class reminder (from the 2026-08-17 maths round, re-applied successfully this round): verify ALL FOUR options' truth value
-
-Applied this check across every "which of these is/is not true"-style item in the geography batch (there were several: cultural-region classification, factor-style "which country lacks X" items). No double-true-answer defect found this time, but the check is now a standing part of review for any batch with this item format — see the maths-round notes (folded into this file's history) for the original defect this check was built to catch.
-
-## 5. Current subject/band state (checked 2026-08-18, post-Smithsonian-merge, all five subjects freshly re-counted)
-
-- **maths**: 409 items (Age 9: 112, Age 9 HA: 57, Age 10: 104, Age 10 HA: 52, Age 11: 49, Age 11 HA: 35).
-- **english**: 288 items (Age 9: 88, Age 9 HA: 43, Age 10: 61, Age 10 HA: 44, Age 11: 27, Age 11 HA: 25).
-- **geography**: 293 items (Age 9: 72, Age 9 HA: 43, Age 10: 63, Age 10 HA: 43, Age 11: 43, Age 11 HA: 29).
-- **science**: 388 items (Age 9: 128, Age 9 HA: 19, Age 10: 155, Age 10 HA: 25, Age 11: 40, Age 11 HA: 21) — Age 9 HA's severe 8-item outlier is resolved (now 19, in line with other subjects' thinnest cells); **Age 11 HA (21) is now science's own thinnest band**.
-- **space**: 220 items (Age 9: 54, Age 9 HA: 38, Age 10: 42, Age 10 HA: 42, Age 11: 23, Age 11 HA: 21) — unchanged this round except +1 Apollo fact; **Age 11 (23) and Age 11 HA (21) are space's thinnest, and tied for the bank's thinnest overall alongside science's Age 11 HA.**
-
-**Next natural rebalancing target:** space and science both now share the bank's thinnest single cell (Age 11 HA: 21 each), with space's Age 11 (23) close behind. Space has never had a source built specifically for it — its content has only ever grown as a byproduct of classifying Earth-and-Space items out of general science tests (see `research/pipeline/README.md`'s round history) — so the natural move is a science-grade-above-4 source (NY Regents Science, following the maths/geography "borrow harder grade" pattern) with EXPLICIT instructions to route Earth-and-Space content to `space.json`'s Age 11/Age 11 HA bands specifically, rather than a space-only source hunt (the source catalog has already confirmed no dedicated space-content source exists anywhere).
-
-## 6. Standing gaps carried forward, still unresolved
-
-- History/politics/civics subject-scope decision: still approved in principle, still not implemented (no seed file, no `SUBJECTS` entry, no `prisma/seed.ts` wiring, ~10-12 items still sitting unmigrated inside `geography.json`). Also now relevant to a confirmed-dead-end source: NY Regents Grade 8 Social Studies (see the archived section below) would become usable if this is ever implemented. Not sourced further until scoped as its own task.
-- Reading-comprehension batches still need manual verify/dedup and a hand-rebuilt `staging.json` (`stage.ts` strips `passage`/`passageId`, `verify.ts`/`dedup.ts` have no passage-item path). Will recur on the next english/reading round.
-- No automated Step 3 similarity gate (source-closeness check for rewrites).
-- Fraction verification only handles four basic operations on simple fractions/mixed numbers; no `floor`/`ceil`/comparison operators in `checkExpression`.
-- Self-audit's difficulty heuristic is maths-shaped digit-counting — false-positives on non-numeric reasoning content (reading comprehension, geography/fact items — this round's batch had 29 of 32 items flagged this way, all correctly overridden on human review) AND can under-flag genuinely-hard multi-step interpretation problems as "too easy" even within maths. Treat all its age-band flags as a prompt to look closer, not a verdict either way.
-- **New this round:** no automated check for "self-answering option text" (section 1 above) — a `grep '('` scan catches some instances but misses full-sentence-option formats. Still requires human read-through; no script fix proposed yet.
-- Geography via NY Regents Social Studies (any grade) and Hong Kong General Studies are confirmed dead ends for geography specifically (history/civics-flavored, not geography) — don't re-check either without new information. Virginia SOL World Geography is a confirmed-viable but single-year source (see section 2) — don't attempt VDOE's own site again via automated fetch, it's been blocked twice.
-
----
-
-## Archive: prior rounds' notes (superseded but kept for reference until next overwrite)
-
-**Maths round (2026-08-17):** First Math admin ever mined from NY Regents archive (Grade 4, 2024) — 24 items, 360→384. Found a two-correct-answer defect (a comparison item where two options were both mathematically true) that slipped past both the subagent and an initial human check — caught only on a fully independent second read where every option's truth value was computed from scratch, not just the labeled one. This check is now standing practice (see section 4 above). Also hit a `floor()`/`ceil()`-in-`checkExpression` format gap in `verify.ts`, same root cause as the earlier units-parsing gap (STAAR/MCAS Math rounds) — worked around by hand, not fixed generally.
-
-**Geography dead-end round (2026-08-17, no batch produced):** NY Regents Social Studies confirmed structurally unsuitable for geography — Grade 4 SS doesn't exist in the archive; Grade 5 SS (geography-flavored) already fully mined; Grade 8 SS is NY's "US History and Government" course by curriculum design, not geography (44/45 sampled items were history/civics). Full reasoning: `research/pipeline/ny-g8-socialstudies-2010/01-source-note.json`.
+No Prisma schema changes without asking first (still includes the parked map-image
+feature). No new subject files or schema fields without explicit prior approval.
+Never run `merge.ts` from inside a batch agent — human review is always the
+blocking step between staging and merge. Independently re-verify agent-reported
+checks rather than trusting the report at face value — this round's rebalance-letter
+bug (item 0 above) was caught exactly this way, not by any automated check.

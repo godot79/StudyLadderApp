@@ -2928,5 +2928,335 @@
     "optionD": "Landlocked countries",
     "correctOption": "D",
     "explanation": "Countries with no ocean access cannot use ships, so they depend on trucks and trains to move goods across land to neighboring countries."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Burning coal and oil in power plants and factories releases gases that harm the air, water, and plants. This is an example of which kind of problem?",
+    "optionA": "Pollution of the environment",
+    "optionB": "Loss of jobs in industry",
+    "optionC": "Decrease in soil quality",
+    "optionD": "Growth of new cities",
+    "correctOption": "A",
+    "explanation": "When coal and oil are burned for energy, they release harmful gases and particles into the air and water. This pollution affects living things and the environment — not jobs, soil quality, or city growth directly."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Which two countries share a common language that most people there speak at home?",
+    "optionA": "France and Colombia",
+    "optionB": "Portugal and Brazil",
+    "optionC": "Germany and Egypt",
+    "optionD": "Italy and Cambodia",
+    "correctOption": "B",
+    "explanation": "Portugal is in Europe and Brazil is in South America, but they share Portuguese as their primary language. France speaks French, Germany speaks German, Italy speaks Italian, Colombia speaks Spanish, Egypt speaks Arabic, and Cambodia speaks Khmer. Only Portugal and Brazil share a common language."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Satellites use cameras and sensors high above Earth to gather information. Which of these can remote sensing actually help geographers do?",
+    "optionA": "Count the exact number of babies born in a city",
+    "optionB": "Measure how fast birds migrate each season",
+    "optionC": "Watch for changes in glaciers and ice sheets",
+    "optionD": "Know how much food a family buys each week",
+    "correctOption": "C",
+    "explanation": "Satellites can take pictures of Earth's surface to track changes over time, like whether glaciers are melting. Remote sensing cannot see inside buildings to count babies, cannot track individual birds in flight, and cannot know about private family shopping. It works best for large-scale features visible from space."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In the 1960s, farmers in India and other parts of Asia started growing new varieties of rice and wheat that produced much larger crops. What is this major change in farming called?",
+    "optionA": "The greenhouse effect",
+    "optionB": "Crop rotation system",
+    "optionC": "The green market",
+    "optionD": "The Green Revolution",
+    "correctOption": "D",
+    "explanation": "The Green Revolution was the introduction of new farming methods and crop varieties that greatly increased food supply in Asia during the 1960s-1970s. This was not about selling at markets, rotating where crops grow, or the greenhouse effect, which is about climate change."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Scientists use special equipment to detect movements deep inside the Earth. This helps them warn people and reduce harm from which type of natural disaster?",
+    "optionA": "Earthquakes",
+    "optionB": "Tornadoes",
+    "optionC": "Hurricanes",
+    "optionD": "Severe floods",
+    "correctOption": "A",
+    "explanation": "Seismic monitoring stations measure vibrations and movements in the Earth's crust that indicate earthquakes. This allows scientists to detect and track earthquakes. Tornadoes, hurricanes, and floods are detected using different methods (weather stations, radar), not seismic equipment."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In eastern Canada, smoke and gases from factories in the air mixed with rain and created a harmful liquid that damaged trees, fish, and buildings. What is this type of pollution called?",
+    "optionA": "Ozone depletion",
+    "optionB": "Acid rain",
+    "optionC": "The greenhouse effect",
+    "optionD": "Mercury poisoning",
+    "correctOption": "B",
+    "explanation": "Factory pollution creates acids that fall as rain or snow, harming forests, water, and buildings across eastern Canada. This is acid rain — different from ozone depletion, the greenhouse effect (which causes climate warming), or mercury poisoning (a different type of pollution)."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "After major earthquakes or floods, volunteers from many countries want to help people quickly. Which organization was formed specifically to organize this kind of emergency help?",
+    "optionA": "The United Nations",
+    "optionB": "The European Union",
+    "optionC": "The Red Cross and Red Crescent",
+    "optionD": "The Commonwealth of Nations",
+    "correctOption": "C",
+    "explanation": "The Red Cross/Red Crescent societies specifically exist to help people during emergencies and disasters. The UN handles broader global issues, the EU focuses on European trade and politics, and the Commonwealth is for former British territories."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Some countries have lots of oil and metals while others have lots of forests or good farmland. How do countries share these unevenly distributed resources?",
+    "optionA": "By forcing weaker countries to share",
+    "optionB": "Through ancient barter systems only",
+    "optionC": "Resources are never shared between nations",
+    "optionD": "Through international world trade",
+    "correctOption": "D",
+    "explanation": "Countries buy and sell resources through international trade. A country with lots of oil can export it to get food or technology it needs. Forcing weaker countries to share is not how modern economics works, and pure barter is ancient history — trade between nations happens constantly today."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Pittsburgh, Pennsylvania became a wealthy and busy city in the 1800s and 1900s because it was a center for making which product?",
+    "optionA": "Steel",
+    "optionB": "Airplanes",
+    "optionC": "Computer chips",
+    "optionD": "Automobiles",
+    "correctOption": "A",
+    "explanation": "Pittsburgh's location near coal and iron ore made it the perfect place for steel mills. Steel from Pittsburgh was shipped worldwide for building and construction. While some airplanes and cars were made there, steel was the main industry that built the city."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "If you sailed a boat along the Seine River, traveling downstream through Paris and beyond, which country would you be traveling through?",
+    "optionA": "Spain",
+    "optionB": "France",
+    "optionC": "Italy",
+    "optionD": "Poland",
+    "correctOption": "B",
+    "explanation": "The Seine is a major river in France and runs through Paris. Spain has different rivers, Italy has the Tiber and Po, and Poland has the Vistula. If you sailed on the Seine, you would be in France the whole way."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Brazil has the world's biggest tropical rainforest. The government tries to stop people from cutting down these forests. What type of natural area is this rainforest?",
+    "optionA": "A desert ecosystem",
+    "optionB": "A grassland ecosystem",
+    "optionC": "A rain forest ecosystem",
+    "optionD": "A arctic tundra",
+    "correctOption": "C",
+    "explanation": "The Amazon rainforest is called a rainforest because it gets huge amounts of rain and is filled with thick green plants. It is not a desert, grassland, or arctic tundra. The rainforest is one of Earth's most important ecosystems."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The countries of Europe formed the European Union to do what as their main purpose?",
+    "optionA": "To have a shared military to defend against all wars",
+    "optionB": "To force all countries to speak the same language",
+    "optionC": "To compete with the United States for global power",
+    "optionD": "To make it easier for countries to buy and sell goods to each other",
+    "correctOption": "D",
+    "explanation": "The EU allows goods, money, and people to move freely between countries, making trade easier. While EU countries do discuss shared defense, they don't all speak one language, and competing with the US was never their main goal. The core purpose was always economic cooperation."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "In mountainous regions of Southeast Asia, farmers have adapted steep hillsides for growing crops by building flat steps into the slopes. What is this farming method called?",
+    "optionA": "Terrace farming",
+    "optionB": "Levee construction",
+    "optionC": "Crop rotation",
+    "optionD": "Contour cultivation",
+    "correctOption": "A",
+    "explanation": "Farmers in Asia build terraces like stairs on mountains to farm on slopes. Levees are river barriers, crop rotation is changing what you plant, and contour cultivation is plowing around hills rather than building steps. Terraces are the actual flat platforms built on slopes."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "High in the Andes Mountains of South America, there are the ruins of an ancient Incan city that was hidden by jungle until explorers found it in the early 1900s. What is this famous city called?",
+    "optionA": "Chichen Itza",
+    "optionB": "Machu Picchu",
+    "optionC": "Tenochtitlan",
+    "optionD": "Teotihuacan",
+    "correctOption": "B",
+    "explanation": "Machu Picchu is a famous archaeological site in the Peruvian Andes. The other options are important ancient American sites, but they are Maya or Aztec cities in Mexico, not Incan cities in the Andes."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which modern technology has made it possible for people all over the world to buy things from other countries, work together online, and stay in touch instantly?",
+    "optionA": "Airline security systems",
+    "optionB": "Electronic investigations",
+    "optionC": "Internet communications",
+    "optionD": "Computerized assembly lines",
+    "correctOption": "C",
+    "explanation": "The Internet is the key technology that allows instant communication between people across the world. Airline security systems, investigations, and assembly lines do not directly connect people globally for trade and communication."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Geographers count the birth rate, death rate, and immigration to figure out how many people live in a country. Which of these is NOT used to calculate total population?",
+    "optionA": "Birth rate",
+    "optionB": "Death rate",
+    "optionC": "Immigration",
+    "optionD": "Marriage rate",
+    "correctOption": "D",
+    "explanation": "Population = births + immigrants - deaths - emigrants. While marriage may lead to births later, marriage rate itself is not a direct demographic factor in calculating current population. Birth rate, death rate, and immigration/emigration all directly change population numbers."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "The chernozem found in parts of Russia is known for being dark and very fertile for growing crops. What is chernozem?",
+    "optionA": "A type of soil",
+    "optionB": "A traditional Russian dance",
+    "optionC": "A type of mineral",
+    "optionD": "A cultural festival",
+    "correctOption": "A",
+    "explanation": "Chernozem (black earth) is a highly fertile soil formed in grassland regions. It is rich in organic matter, making it perfect for farming. The word is Russian, but it refers to a soil type, not a dance or festival."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "The Aral Sea in Central Asia has become much smaller and shallower over the last 50 years. What human activity is the main cause of this shrinking?",
+    "optionA": "Too much ocean erosion",
+    "optionB": "Using river water for farming irrigation",
+    "optionC": "Industrial pollution dumped into the water",
+    "optionD": "Glaciers melting and adding sediment",
+    "correctOption": "B",
+    "explanation": "Farmers draw water from the rivers flowing into the Aral Sea to irrigate cotton and other crops. With less water flowing in, the sea has shrunk. Erosion, pollution, and glacial melt are not the main cause of the Aral Sea's decline."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Istanbul is a city that sits between Europe and Asia on a waterway called the Bosphorus. Why was this location historically important for controlling trade?",
+    "optionA": "It was the only bridge across the Mediterranean",
+    "optionB": "It had the only ports for European countries",
+    "optionC": "It allowed ships to control passage between the Black Sea and the Mediterranean",
+    "optionD": "It blocked all Arab ships from entering Europe",
+    "correctOption": "C",
+    "explanation": "Ships traveling between the Black Sea and Mediterranean must pass through the narrow Bosphorus at Istanbul. Controlling this strait meant controlling the flow of trade goods between these two important water regions. The other options are historically inaccurate."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The Mississippi River is one of the longest rivers in North America. Where does the Mississippi River start, and where does it end?",
+    "optionA": "It starts in Missouri and ends in Minnesota",
+    "optionB": "It starts in Chicago and ends in Canada",
+    "optionC": "It starts in Louisiana and ends in the Rocky Mountains",
+    "optionD": "It starts in Minnesota and ends in the Gulf of Mexico",
+    "correctOption": "D",
+    "explanation": "Lake Itasca in northern Minnesota is the source of the Mississippi. The river flows south through many states and finally enters the Gulf of Mexico near New Orleans, Louisiana. This is the correct path of the river from start to finish."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The U.S. regions of Indiana, Ohio, Pennsylvania, and Michigan were once filled with factories and mills that manufactured heavy goods. Because many of these factories have closed in recent decades, what nickname do people use for this region?",
+    "optionA": "The Rust Belt",
+    "optionB": "The Sun Belt",
+    "optionC": "The Wheat Belt",
+    "optionD": "The Cotton Belt",
+    "correctOption": "A",
+    "explanation": "The 'Rust Belt' got its name because closed factories and rusting machinery mark the landscape of this former industrial region. The Sun Belt is the warm South, the Wheat Belt is the Great Plains, and the Cotton Belt is the South. Only the Rust Belt describes this Midwest/Northeast industrial area."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Notre Dame is a massive cathedral in Paris, France that took hundreds of years to build. It is one of the most famous examples of which religion's places of worship?",
+    "optionA": "Hinduism",
+    "optionB": "Christianity",
+    "optionC": "Judaism",
+    "optionD": "Buddhism",
+    "correctOption": "B",
+    "explanation": "Notre Dame means 'Our Lady' in French and is dedicated to Mary, the mother of Jesus in Christian tradition. Cathedrals are Christian places of worship. The other religions have different types of sacred buildings (temples, synagogues, pagodas)."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Spain and Portugal together occupy a large piece of land that sticks out into the ocean on the western edge of Europe. What is this peninsula called?",
+    "optionA": "The Italian Peninsula",
+    "optionB": "The Jutland Peninsula",
+    "optionC": "The Iberian Peninsula",
+    "optionD": "The Scandinavian Peninsula",
+    "correctOption": "C",
+    "explanation": "Spain and Portugal together make up the Iberian Peninsula in southwestern Europe. The Italian Peninsula is further east, Jutland is in Denmark, and Scandinavia includes Sweden and Norway. Only the Iberian Peninsula is correct for Spain and Portugal."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "The Netherlands is a small country in northwestern Europe where much of the land lies below sea level. Engineers built dikes and pumps to push seawater out and created new land to farm and live on. What is this human-made reclaimed land called?",
+    "optionA": "A canal system",
+    "optionB": "A beach barrier",
+    "optionC": "A water terminal",
+    "optionD": "A polder",
+    "correctOption": "D",
+    "explanation": "The Dutch built an engineering system of dikes and pumps to keep the ocean out and create new farmland from what used to be underwater. These reclaimed land areas are called polders. They are unique to the Netherlands and a remarkable example of human engineering."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which river is the longest in the world, flowing through several countries before emptying into the Mediterranean Sea?",
+    "optionA": "The Nile River",
+    "optionB": "The Amazon River",
+    "optionC": "The Yangtze River",
+    "optionD": "The Mississippi River",
+    "correctOption": "A",
+    "explanation": "The Nile flows through Egypt and several other African countries for over 4,000 miles, making it the longest river on Earth. The Amazon carries more water but is shorter in length. The Yangtze is long but is in Asia, and the Mississippi is long but shorter than the Nile."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "The Thames River flows through a major European capital city. Which city has the Thames River running through it?",
+    "optionA": "Paris, France",
+    "optionB": "London, England",
+    "optionC": "Berlin, Germany",
+    "optionD": "Amsterdam, Netherlands",
+    "correctOption": "B",
+    "explanation": "The Thames is the most famous river in England and passes right through London's center. Paris has the Seine, Berlin has the Spree, and Amsterdam has canals plus the Amstel — but London's river is the Thames."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which river carries more water than any other river in the world, flowing mostly through South America into the Atlantic Ocean?",
+    "optionA": "The Nile River",
+    "optionB": "The Yangtze River",
+    "optionC": "The Amazon River",
+    "optionD": "The Ganges River",
+    "correctOption": "C",
+    "explanation": "The Amazon is not the longest river but discharges the most water because it rains heavily in the rainforest. The Nile is longest, the Yangtze is in Asia, and the Ganges is in India. For volume of water, the Amazon is unmatched."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Ganges River in India holds special meaning for Hindus, who consider it sacred and holy. This river flows through India into which body of water?",
+    "optionA": "The Pacific Ocean",
+    "optionB": "The Arabian Sea",
+    "optionC": "The Caspian Sea",
+    "optionD": "The Bay of Bengal",
+    "correctOption": "D",
+    "explanation": "The Ganges flows eastward through India and enters the Bay of Bengal. The Arabian Sea is west of India, and the Pacific and Caspian are far from India. The Bay of Bengal is the correct body of water into which the Ganges flows."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Mount Everest is the tallest mountain in the world. It is located in which mountain range?",
+    "optionA": "The Himalaya Mountains",
+    "optionB": "The Rocky Mountains",
+    "optionC": "The Andes Mountains",
+    "optionD": "The Sierra Nevada",
+    "correctOption": "A",
+    "explanation": "Mount Everest is in the Himalayas, the tallest mountain range in the world. The Rocky Mountains are in North America, the Andes are in South America, and the Sierra Nevada is in California. The Himalayas in Asia contain Everest."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which mountain range forms the longest continental mountain chain on Earth, running along the western coast of South America?",
+    "optionA": "The Rocky Mountains",
+    "optionB": "The Andes Mountains",
+    "optionC": "The Himalayas",
+    "optionD": "The Atlas Mountains",
+    "correctOption": "B",
+    "explanation": "The Andes run the entire length of South America's west coast, making it the longest mountain range on a single continent. The Rockies are in North America, the Himalayas are in Asia, and the Atlas Mountains are in Africa. None are as long as the Andes."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "The Alps mountain range stretches across multiple European countries. Which of these countries is NOT crossed by the Alps?",
+    "optionA": "Switzerland",
+    "optionB": "France",
+    "optionC": "Poland",
+    "optionD": "Austria",
+    "correctOption": "C",
+    "explanation": "The Alps are located in south-central Europe, crossing Switzerland, France, Italy, and Austria. Poland is to the northeast, beyond the Alps' range. The other three countries all have Alpine peaks within their borders."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "The Ural Mountains in Russia have long served an important purpose: they form a natural boundary between two continents. Which two continents do the Urals divide?",
+    "optionA": "North America and South America",
+    "optionB": "Africa and Europe",
+    "optionC": "Australia and Asia",
+    "optionD": "Europe and Asia",
+    "correctOption": "D",
+    "explanation": "Geographers use the Ural Mountains to mark where Europe ends and Asia begins. This mountain range runs through Russia north to south. The other boundaries (A, B, D) are formed by water or other features, not the Urals."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Mount Kilimanjaro in Tanzania is unusual because it has snow and ice at its peak, even though it is very close to the equator where it is hot. Why is the mountaintop cold enough for snow?",
+    "optionA": "It is so high that the air temperature is much colder at the top",
+    "optionB": "Ocean currents bring cold water nearby",
+    "optionC": "The equator receives no sunlight at night",
+    "optionD": "Volcanic activity keeps it frozen",
+    "correctOption": "A",
+    "explanation": "As you climb higher on any mountain, the air gets colder. Kilimanjaro is so tall that even near the hot equator, its peak stays below freezing and has snow. Ocean currents are not the cause, the equator does get sunlight, and there is no significant volcanic warming."
   }
 ]
