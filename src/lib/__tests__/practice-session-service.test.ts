@@ -9,7 +9,7 @@ const mockPrisma = {
   shownQuestion: { findMany: vi.fn(), createMany: vi.fn() },
   practiceSession: { create: vi.fn(), update: vi.fn(), findUnique: vi.fn(), findFirst: vi.fn(), findMany: vi.fn() },
   sessionQuestion: { create: vi.fn(), update: vi.fn() },
-  subjectProgress: { upsert: vi.fn(), findFirst: vi.fn() },
+  subjectProgress: { upsert: vi.fn(), findFirst: vi.fn(), update: vi.fn() },
   $transaction: vi.fn((cb: (tx: typeof mockPrisma) => Promise<unknown>) =>
     cb(mockPrisma)
   ),
@@ -84,6 +84,7 @@ beforeEach(() => {
   mockPrisma.practiceSession.findMany.mockResolvedValue([]); // no recent sessions by default
   mockPrisma.subjectProgress.upsert.mockResolvedValue({});
   mockPrisma.subjectProgress.findFirst.mockResolvedValue(null);
+  mockPrisma.subjectProgress.update.mockResolvedValue({});
   mockPrisma.shownQuestion.createMany.mockResolvedValue({ count: 10 });
   mockPrisma.shownQuestion.findMany.mockResolvedValue([]);
 });
@@ -335,6 +336,71 @@ describe("completePracticeSession", () => {
         unansweredCount: 0,
       }),
     });
+  });
+
+  it("promotes after 3 qualifying sessions at the current band", async () => {
+    const session = makeSession({ levelBand: "Age 9 High Achiever" });
+    mockPrisma.practiceSession.findUnique.mockResolvedValue(session);
+    mockPrisma.subjectProgress.findFirst.mockResolvedValue({ levelBand: "Age 9 High Achiever" });
+    // 3 prior qualifying sessions already completed at the current band, plus
+    // this one (10/10) makes the query's "most recent 3" all pass.
+    mockPrisma.practiceSession.findMany.mockResolvedValue([
+      { correctCount: 8, totalQuestions: 10 },
+      { correctCount: 9, totalQuestions: 10 },
+      { correctCount: 7, totalQuestions: 10 },
+    ]);
+
+    const answers = session.questions.map((sq: { id: string }) => ({
+      sessionQuestionId: sq.id,
+      selectedOption: "A",
+    }));
+    const result = await completePracticeSession("session-1", answers);
+
+    expect(result.progression).toEqual({
+      promoted: true,
+      previousBand: "Age 9 High Achiever",
+      newBand: "Age 10",
+    });
+    expect(mockPrisma.subjectProgress.update).toHaveBeenCalledWith({
+      where: { childId_subject: { childId: "child-001", subject: "maths" } },
+      data: { levelBand: "Age 10" },
+    });
+  });
+
+  it("does not let sessions from before a promotion count toward the next one", async () => {
+    // Regression test: the recent-sessions query used to filter only on
+    // childId/subject/status, not levelBand — so 2 old sessions from a band
+    // the child was already promoted out of, plus 1 new session at the new
+    // band, could look like "3 qualifying sessions at the new band" and
+    // trigger a second promotion after a single session in the new band.
+    const session = makeSession({ levelBand: "Age 10" });
+    mockPrisma.practiceSession.findUnique.mockResolvedValue(session);
+    mockPrisma.subjectProgress.findFirst.mockResolvedValue({ levelBand: "Age 10" });
+
+    // Simulate the query being correctly scoped to levelBand: "Age 10" —
+    // only 1 session exists at the new band (this one), so it must not
+    // promote yet regardless of how many old-band sessions exist.
+    mockPrisma.practiceSession.findMany.mockImplementation((args: { where?: { levelBand?: string } }) => {
+      if (args?.where?.levelBand === "Age 10") return Promise.resolve([]);
+      return Promise.resolve([
+        { correctCount: 9, totalQuestions: 10 },
+        { correctCount: 8, totalQuestions: 10 },
+      ]);
+    });
+
+    const answers = session.questions.map((sq: { id: string }) => ({
+      sessionQuestionId: sq.id,
+      selectedOption: "A",
+    }));
+    const result = await completePracticeSession("session-1", answers);
+
+    expect(result.progression.promoted).toBe(false);
+    expect(mockPrisma.practiceSession.findMany).toHaveBeenCalledWith(
+      expect.objectContaining({
+        where: expect.objectContaining({ levelBand: "Age 10" }),
+      })
+    );
+    expect(mockPrisma.subjectProgress.update).not.toHaveBeenCalled();
   });
 });
 

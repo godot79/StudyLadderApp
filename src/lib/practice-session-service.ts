@@ -212,21 +212,29 @@ export async function completePracticeSession(
 
   // Progression check — runs after the main transaction so the just-completed session
   // is included in the recent-sessions query.
-  const [currentProgress, recentCompletedSessions] = await Promise.all([
-    prisma.subjectProgress.findFirst({
-      where: { childId: session.childId, subject: session.subject },
-      select: { levelBand: true },
-    }),
-    prisma.practiceSession.findMany({
-      where: { childId: session.childId, subject: session.subject, status: "completed" },
-      orderBy: { completedAt: "desc" },
-      take: 3,
-      select: { correctCount: true, totalQuestions: true },
-    }),
-  ]);
+  const currentProgress = await prisma.subjectProgress.findFirst({
+    where: { childId: session.childId, subject: session.subject },
+    select: { levelBand: true },
+  });
 
   // Use the band stored on the session at creation; fall back to "Age 9" for old sessions.
   const currentBand = currentProgress?.levelBand ?? session.levelBand ?? "Age 9";
+
+  // Only sessions completed AT the current band count toward the next promotion —
+  // otherwise sessions from before a promotion could carry over and trigger a
+  // second promotion after just one session in the new band.
+  const recentCompletedSessions = await prisma.practiceSession.findMany({
+    where: {
+      childId: session.childId,
+      subject: session.subject,
+      status: "completed",
+      levelBand: currentBand,
+    },
+    orderBy: { completedAt: "desc" },
+    take: 3,
+    select: { correctCount: true, totalQuestions: true },
+  });
+
   const { newBand, promoted } = computeProgressedBand(recentCompletedSessions, currentBand);
 
   if (promoted) {
