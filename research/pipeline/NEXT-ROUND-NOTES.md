@@ -1,6 +1,20 @@
 # Notes for the next ingestion round
 
-Written 2026-08-18 after merging Virginia SOL World Geography 2012 (32 items, 261→293 geography). Overwrites the previous version — its content is folded in below where still relevant (sections 3-5), superseded where not.
+Written 2026-08-18, later same day, after merging NY State Regents Grade 5 Mathematics Spring 2025 (25 items, 384→409 maths). Appends to the geography-round notes below (still same-day current) rather than overwriting.
+
+---
+
+## 0. Duplicate-correct-answer defect struck a THIRD time — this is now a pattern, not a one-off
+
+A "which number has the digit 8 worth 10x the value" item had two options (128.34 and 348.2) that both genuinely have 8 in the ones place — both mathematically correct. This is the same failure mode as the 2026-08-17 maths round's "1/4<1/3 vs 3/4<4/5" comparison item, and it slipped past the batch agent's own explicit "verify all four options" check *again*, despite that check being written into this exact round's briefing. Caught only on an independent third-party re-derivation (computing each option's ones-digit from scratch, not trusting the agent's stated verification).
+
+**This is no longer an occasional gotcha — three rounds in a row have needed a human to independently recompute every option's value/truth from first principles, not just read the agent's claim that it checked.** The instruction "verify all four options" is evidently not sufficient on its own; agents doing this check are prone to confirming the labeled answer and pattern-matching the others as "obviously different" without literally recomputing each one. **Recommendation for the next template revision:** for any item type where options are computed/derived values (place-value extraction, unit conversion, "which of these equals X"), require the reviewing step to write out each option's derivation as a literal computation (not a truth-value judgment) before accepting the item — e.g. "A: ones digit of 128.34 is 8 → value 8. B: ones digit of 0.84 is 0 → value 0. C: ..." This forces the mechanical check that keeps getting skipped in practice.
+
+Also fixed in the same pass: one borderline-ambiguous distractor (a "partially correct" option in a fraction-misconception critique item that was arguably also defensible as true, though not as clear-cut a duplicate as the digit-place item) — tightened to an unambiguously false statement rather than leaving it for interpretation.
+
+## 1. NY Regents Math: Grade 5 confirmed viable, same borrow-a-harder-grade pattern works a second time
+
+Grade 5 Math (Spring 2025 admin) was live, full item text + answer key present, first try (no fallback to Grade 6/7/8 needed). 25 of 28 released items usable (3 deferred: two image-only geometry figures, one line-plot-only item). Doubled the bank's Age 11 High Achiever content in one batch (24→35 pre-existing + this batch's own count), following the same "borrow one grade up, rewrite vocabulary not difficulty" pattern now confirmed three times (science round 7, Virginia geography, this round). NY Regents Math is confirmed to have real remaining volume at Grade 6/7/8 too, untouched — natural next lever if maths needs another round.
 
 ---
 
@@ -28,14 +42,14 @@ Followed the fact-check protocol per README.md. The 9 WebSearched (infant-mortal
 
 Applied this check across every "which of these is/is not true"-style item in the geography batch (there were several: cultural-region classification, factor-style "which country lacks X" items). No double-true-answer defect found this time, but the check is now a standing part of review for any batch with this item format — see the maths-round notes (folded into this file's history) for the original defect this check was built to catch.
 
-## 5. Current subject/band state (checked 2026-08-18, post-merge)
+## 5. Current subject/band state (checked 2026-08-18, post-maths-merge)
 
-- **geography**: 293 items (Age 9: 72, Age 9 HA: 43, Age 10: 63, Age 10 HA: 43, Age 11: 43, Age 11 HA: 29) — just targeted this round; Age 11 went 22→43, Age 11 HA went 22→29, no longer the thinnest bands in the subject (Age 11 HA is now geography's own thinnest band, but no longer tied for the bank's thinnest overall).
-- **maths**: 384 items (Age 9: 112, Age 9 HA: 57, Age 10: 100, Age 10 HA: 50, Age 11: 41, Age 11 HA: 24) — targeted two rounds ago; Age 11 HA (24) is now the thinnest single band bank-wide.
-- **english**: 288 items — targeted three rounds ago, not re-checked this round.
-- **science, space**: not re-checked this round — see `data/seed/*.json` directly before picking a next target.
+- **maths**: 409 items (Age 9: 112, Age 9 HA: 57, Age 10: 104, Age 10 HA: 52, Age 11: 49, Age 11 HA: 35) — just targeted this round; Age 11 HA went 24→35, no longer the bank's thinnest band.
+- **geography**: 293 items (Age 9: 72, Age 9 HA: 43, Age 10: 63, Age 10 HA: 43, Age 11: 43, Age 11 HA: 29) — targeted the round before this one; Age 11 HA (29) is geography's own thinnest band.
+- **english**: 288 items (Age 9: 88, Age 9 HA: 43, Age 10: 61, Age 10 HA: 44, Age 11: 27, Age 11 HA: 25) — targeted two rounds ago, not re-checked this round; Age 11 (27) and Age 11 HA (25) are its thinnest.
+- **science, space**: not re-checked in several rounds — re-count from `data/seed/*.json` directly before picking a next target; these had heavy attention several rounds back and may or may not still be the thinnest overall.
 
-**Next natural rebalancing target: maths' Age 11 High Achiever (24 items)** — now the single thinnest band across the entire bank. The NY Regents archive has Math un-mined at every grade except the Grade 4 2024 admin already pulled — a different grade (e.g. Grade 5, 6, 7, or 8 Math, deliberately one level up per the now-twice-confirmed "borrow harder content, simplify vocabulary" pattern) would be a natural way to target Age 11 HA specifically, same approach as this round's geography source and the earlier science-round precedent.
+**Next natural rebalancing target:** re-run the count across all five subjects' Age 11 / Age 11 HA bands before picking — after three consecutive rounds targeting maths→geography→maths again, english's Age 11 (27) and Age 11 HA (25) are now close contenders, and science/space haven't been checked in a while. Don't assume maths again by default; verify which band is genuinely thinnest bank-wide first.
 
 ## 6. Standing gaps carried forward, still unresolved
 

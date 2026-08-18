@@ -3831,5 +3831,255 @@
     "optionD": "20",
     "correctOption": "D",
     "explanation": "Divide 156 by 8: 156 ÷ 8 = 19.5. You need 20 boxes to hold all books, because 19 boxes hold only 152 books, which is not enough."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A librarian needs to arrange 1,728 books equally across 16 shelves in the school library. How many books should go on each shelf?",
+    "optionA": "108",
+    "optionB": "98",
+    "optionC": "118",
+    "optionD": "128",
+    "correctOption": "A",
+    "explanation": "To find how many books per shelf, we divide the total books by the number of shelves: 1,728 ÷ 16 = 108. Each shelf gets 108 books."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which number has a 2 in the tens place?",
+    "optionA": "0.23",
+    "optionB": "521.7",
+    "optionC": "2.04",
+    "optionD": "302.9",
+    "correctOption": "B",
+    "explanation": "In the number 521.7, the digits from left to right are: 5 in the hundreds place, 2 in the tens place, 1 in the ones place, and 7 in the tenths place. The 2 is in the tens place."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Which expression is equivalent to 2/3 × 9?",
+    "optionA": "2 ÷ 9 ÷ 3",
+    "optionB": "2 × 3 ÷ 9",
+    "optionC": "2 × 9 ÷ 3",
+    "optionD": "2 × 9 × 3",
+    "correctOption": "C",
+    "explanation": "Multiplying a fraction by a whole number means multiplying the numerator by the whole number and keeping the denominator. So 2/3 × 9 = (2 × 9) / 3 = 2 × 9 ÷ 3."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A storage box is built from unit cubes. The bottom layer contains 20 cubes arranged in a rectangle. The completed box is 5 layers tall. What is the total volume in cubic units?",
+    "optionA": "25",
+    "optionB": "40",
+    "optionC": "125",
+    "optionD": "100",
+    "correctOption": "D",
+    "explanation": "Volume is found by multiplying the area of the base layer by the number of layers. The base has 20 cubic units, and there are 5 layers, so the total volume is 20 × 5 = 100 cubic units."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A carpenter has 1/3 of a sheet of plywood. She cuts it equally into 4 pieces for a project. What fraction of the whole sheet is each piece?",
+    "optionA": "1/12",
+    "optionB": "1/3",
+    "optionC": "3/4",
+    "optionD": "1/4",
+    "correctOption": "A",
+    "explanation": "When we divide 1/3 by 4, we calculate 1/3 ÷ 4 = 1/3 × 1/4 = 1/12. Each piece is 1/12 of the whole sheet."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A recipe calls for 3 1/4 cups of flour. To make 2 1/2 times the recipe, how many cups of flour are needed in total?",
+    "optionA": "6 1/2",
+    "optionB": "8 1/8",
+    "optionC": "7 1/8",
+    "optionD": "9 3/4",
+    "correctOption": "B",
+    "explanation": "First, convert mixed numbers to improper fractions: 3 1/4 = 13/4 and 2 1/2 = 5/2. Then multiply: 13/4 × 5/2 = 65/8. Convert back to a mixed number: 65/8 = 8 1/8 cups."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "What is the sum of 45/100 + 3/10?",
+    "optionA": "48/100",
+    "optionB": "15/10",
+    "optionC": "75/100",
+    "optionD": "8/10",
+    "correctOption": "C",
+    "explanation": "To add these fractions, convert them to a common denominator. 3/10 = 30/100, so 45/100 + 30/100 = 75/100."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Which of these shapes always has both pairs of opposite sides equal in length?",
+    "optionA": "Trapezoid",
+    "optionB": "Kite",
+    "optionC": "Triangle",
+    "optionD": "Parallelogram",
+    "correctOption": "D",
+    "explanation": "A parallelogram is defined as a quadrilateral where both pairs of opposite sides are equal in length and parallel to each other. This is the defining property that makes it a parallelogram."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is 48.2756 rounded to the nearest hundredth?",
+    "optionA": "48.28",
+    "optionB": "48.27",
+    "optionC": "48.3",
+    "optionD": "48.275",
+    "correctOption": "A",
+    "explanation": "To round to the nearest hundredth, look at the thousandths digit, which is 5. Since 5 rounds up, 48.2756 becomes 48.28."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A jug contains 2 liters of juice. If 750 milliliters are drunk, how many milliliters remain? (Note: 1 liter = 1,000 milliliters)",
+    "optionA": "1,000",
+    "optionB": "1,250",
+    "optionC": "1,500",
+    "optionD": "1,750",
+    "correctOption": "B",
+    "explanation": "First convert liters to milliliters: 2 liters = 2,000 milliliters. Then subtract the amount drunk: 2,000 - 750 = 1,250 milliliters remaining."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A chef uses 18 pounds of cheese to make 30 identical pizzas, with the same amount of cheese on each. What is the amount of cheese, in pounds, on each pizza?",
+    "optionA": "1/6",
+    "optionB": "5",
+    "optionC": "3/5",
+    "optionD": "6",
+    "correctOption": "C",
+    "explanation": "Divide the total cheese by the number of pizzas: 18 ÷ 30 = 18/30. Simplify by dividing both numerator and denominator by 6: 18/30 = 3/5 pound per pizza."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A student reads 2 1/4 pages in the morning and 3/8 of a page in the afternoon. What is the total number of pages read?",
+    "optionA": "2 3/8",
+    "optionB": "2 7/12",
+    "optionC": "3 1/8",
+    "optionD": "2 5/8",
+    "correctOption": "D",
+    "explanation": "Convert 2 1/4 to eighths: 2 1/4 = 2 2/8 = 18/8. Add 3/8: 18/8 + 3/8 = 21/8 = 2 5/8 pages."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "In the number 217.86, the digit 8 represents a value of 0.8 (eight tenths). In which number does the digit 8 represent a value that is 10 times greater (a value of 8)?",
+    "optionA": "128.34",
+    "optionB": "0.84",
+    "optionC": "812.3",
+    "optionD": "84.3",
+    "correctOption": "A",
+    "explanation": "We need to find where the digit 8 sits in the ones place, giving it a value of 8 - ten times bigger than 0.8. In 128.34, the 8 is in the ones place, so it represents a value of 8."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A theater buys chairs to set up rows of seating. If 2,205 chairs cost $63 per chair, how many chairs did they buy?",
+    "optionA": "30",
+    "optionB": "35",
+    "optionC": "39",
+    "optionD": "42",
+    "correctOption": "B",
+    "explanation": "To find the number of chairs, divide the total cost by the cost per chair: 2,205 ÷ 63 = 35 chairs."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A gardener mixes 3 quarts of water and 4 pints of fertilizer solution to make plant food. If 1 quart = 4 cups and 1 pint = 2 cups, how many cups of plant food total?",
+    "optionA": "16",
+    "optionB": "24",
+    "optionC": "20",
+    "optionD": "28",
+    "correctOption": "C",
+    "explanation": "Convert quarts to cups: 3 quarts = 3 × 4 = 12 cups. Convert pints to cups: 4 pints = 4 × 2 = 8 cups. Total: 12 + 8 = 20 cups."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Which expression is equivalent to 2 3/8 - 1/3, rewritten using a common denominator of 24?",
+    "optionA": "20/24 - 1/24",
+    "optionB": "38/12 - 4/12",
+    "optionC": "76/32 - 8/32",
+    "optionD": "57/24 - 8/24",
+    "correctOption": "D",
+    "explanation": "Convert 2 3/8 to an improper fraction: 19/8. Find a common denominator for 19/8 and 1/3: the LCD is 24. So 19/8 = 57/24 and 1/3 = 8/24. The equivalent expression is 57/24 - 8/24."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A store owner buys 8 notebooks at $1.25 each and pays with a $20 bill. How much change does she get?",
+    "optionA": "$10.00",
+    "optionB": "$8.00",
+    "optionC": "$11.75",
+    "optionD": "$12.50",
+    "correctOption": "A",
+    "explanation": "First, find the total cost: 8 × $1.25 = $10.00. Then subtract from the amount paid: $20.00 - $10.00 = $10.00 in change."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Which statement about rectangles is true?",
+    "optionA": "All rectangles are squares.",
+    "optionB": "All rectangles are quadrilaterals.",
+    "optionC": "All rectangles have four sides of equal length.",
+    "optionD": "All rectangles are rhombuses.",
+    "correctOption": "B",
+    "explanation": "A quadrilateral is any four-sided shape. A rectangle is defined as a four-sided shape, so all rectangles are quadrilaterals by definition. Squares are special rectangles, but not all rectangles are squares."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A rectangular storage box has a length of 8 feet and a height of 4 feet. If the volume is 256 cubic feet, what is the width in feet?",
+    "optionA": "6",
+    "optionB": "10",
+    "optionC": "8",
+    "optionD": "12",
+    "correctOption": "C",
+    "explanation": "Use the volume formula: Volume = length × width × height. Substitute: 256 = 8 × width × 4. Simplify: 256 = 32 × width. Divide: width = 256 ÷ 32 = 8 feet."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Last month, Zoe studied for 9 1/2 hours. This month she studied for 3/4 of that time. How many hours did she study this month?",
+    "optionA": "6 3/4",
+    "optionB": "8 1/4",
+    "optionC": "9 1/8",
+    "optionD": "7 1/8",
+    "correctOption": "D",
+    "explanation": "Convert 9 1/2 to an improper fraction: 19/2. Multiply by 3/4: (19/2) × (3/4) = 57/8. Convert back to a mixed number: 57/8 = 7 1/8 hours."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A shopkeeper has 8 meters of fabric. She cuts it into pieces that are each 1/4 meter long. How many pieces can she cut?",
+    "optionA": "32",
+    "optionB": "2",
+    "optionC": "8",
+    "optionD": "16",
+    "correctOption": "A",
+    "explanation": "To find how many pieces, divide the total length by the length of each piece: 8 ÷ (1/4) = 8 × 4 = 32 pieces."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A rectangular garden has dimensions 2 1/3 meters by 1 3/4 meters. What is its area in square meters?",
+    "optionA": "3 2/3",
+    "optionB": "4 1/12",
+    "optionC": "5 1/4",
+    "optionD": "6 1/6",
+    "correctOption": "B",
+    "explanation": "Convert mixed numbers to improper fractions: 2 1/3 = 7/3 and 1 3/4 = 7/4. Multiply: (7/3) × (7/4) = 49/12 = 4 1/12 square meters."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Which comparison is correct for the numbers 243.607 and 243.670?",
+    "optionA": "243.607 > 243.670",
+    "optionB": "243.607 = 243.670",
+    "optionC": "243.607 < 243.670",
+    "optionD": "Cannot be compared",
+    "correctOption": "C",
+    "explanation": "Looking at each place value from left to right: both have 2, 4, 3 in the same places. At the tenths place, both have 6. At the hundredths place, one has 0 and the other has 7. Since 0 < 7, we have 243.607 < 243.670."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A student is asked to calculate 6 × 5/5. The student claims the answer must be less than 6 because any fraction is less than a whole number. Which statement about the student's reasoning is correct?",
+    "optionA": "The student is correct; the answer must be less than 6.",
+    "optionB": "The student is correct; a fraction can never equal 1.",
+    "optionC": "The student is correct only because 6 is an even number.",
+    "optionD": "The student is incorrect; 5/5 equals 1, and multiplying by 1 does not change the value.",
+    "correctOption": "D",
+    "explanation": "The student has a misconception. While some fractions are less than 1, not all fractions are. The fraction 5/5 equals 1. When you multiply any number by 1, the product stays the same. So 6 × 5/5 = 6 × 1 = 6. The student's reasoning is incorrect."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "A cyclist tracks her distance: Week 1 she cycles 15.4 miles. Week 2 she cycles 2 times as many miles as Week 1. Week 3 she cycles 28.6 more miles than Week 1. What is the total distance cycled across all three weeks?",
+    "optionA": "90.2",
+    "optionB": "60.2",
+    "optionC": "75.6",
+    "optionD": "106.4",
+    "correctOption": "A",
+    "explanation": "Week 1: 15.4 miles. Week 2: 2 × 15.4 = 30.8 miles. Week 3: 15.4 + 28.6 = 44 miles. Total: 15.4 + 30.8 + 44 = 90.2 miles."
   }
 ]
