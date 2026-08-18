@@ -2608,5 +2608,325 @@
     "optionD": "In my opinion, video games are the most fun activity anyone can do",
     "correctOption": "D",
     "explanation": "An opinion is a belief or judgment that can differ from person to person. The first three sentences state facts that can be observed and verified. The last sentence beginning with 'In my opinion' is clearly a personal judgment that not everyone would agree with."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "When flying from North America across the Arctic to Asia, airline pilots need special maps. Why do they use polar projection maps for these routes instead of regular classroom maps?",
+    "optionA": "Polar projection maps show polar areas correctly without distortion, revealing the shortest flight path",
+    "optionB": "Regular maps show the Arctic more stretched out, making the shortest route hard to see",
+    "optionC": "Satellite images from space are more detailed than any map",
+    "optionD": "City street maps are the best tool for international navigation",
+    "correctOption": "A",
+    "explanation": "Airplanes flying over the North Pole need special maps that show polar areas correctly, because regular classroom maps distort the Arctic."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A monsoon is a powerful seasonal wind pattern that brings heavy rain for several months, then shifts to bring dry season. Where on Earth do monsoons occur most frequently?",
+    "optionA": "Arctic regions of Canada and Russia",
+    "optionB": "Coastal and inland areas of India, Pakistan, Bangladesh, and Southeast Asia",
+    "optionC": "Desert regions of North Africa",
+    "optionD": "Island regions of the South Pacific",
+    "correctOption": "B",
+    "explanation": "Monsoons happen most often in southern Asia because of how ocean winds and warm land interact during different seasons, creating this predictable pattern."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "The Prime Meridian is an imaginary line running from the North Pole to the South Pole, dividing Earth into Eastern and Western hemispheres. Which of these cities sits closest to this 0° longitude line?",
+    "optionA": "Montreal, Canada",
+    "optionB": "Moscow, Russia",
+    "optionC": "London, England",
+    "optionD": "Stockholm, Sweden",
+    "correctOption": "C",
+    "explanation": "The Prime Meridian is marked at Greenwich in London, so London is right on it—the closest major city to this important imaginary line."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Low-latitude regions are located near the equator. What is the typical weather pattern in low-latitude countries throughout the year?",
+    "optionA": "Very hot summers and very cold winters with big seasonal changes",
+    "optionB": "Cool summers and very cold winters",
+    "optionC": "Very cold all year",
+    "optionD": "Warm year-round with little temperature change between seasons",
+    "correctOption": "D",
+    "explanation": "Near the equator, the sun stays high in the sky all year, so temperatures stay warm instead of having freezing winters like places far from the equator."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Using a map with latitude and longitude lines, you locate the point 30°N (30 degrees north of the equator) and 120°E (120 degrees east of the Prime Meridian). Which continent contains this coordinate?",
+    "optionA": "Asia",
+    "optionB": "Europe",
+    "optionC": "Australia",
+    "optionD": "North America",
+    "correctOption": "A",
+    "explanation": "Using latitude and longitude lines together, you can pinpoint any location on Earth. This particular intersection falls in China, which is in Asia."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "A geographer wants to learn about how people in a village celebrate holidays, what foods they eat, and how families spend time together. Which method would provide the most accurate, detailed information?",
+    "optionA": "Looking at satellite pictures of the village from space",
+    "optionB": "Going to the village to observe and speak directly with the people living there",
+    "optionC": "Reading a world map or globe",
+    "optionD": "Examining maps showing the height and shape of the land",
+    "correctOption": "B",
+    "explanation": "You can't learn about people's traditions and customs from pictures or maps—you need to visit the place and talk to the people directly to understand their culture."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Peru, Chile, and Ecuador are South American countries with coastlines on the Pacific Ocean. Which one of these South American countries does NOT have a Pacific coast?",
+    "optionA": "Peru",
+    "optionB": "Chile",
+    "optionC": "Brazil",
+    "optionD": "Ecuador",
+    "correctOption": "C",
+    "explanation": "Brazil is on the eastern side of South America facing the Atlantic Ocean. Peru, Chile, and Ecuador are all on the western side facing the Pacific."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Globes are spheres just like Earth, while maps are flat pieces of paper. Why is it impossible to create a flat map that shows Earth with zero distortion?",
+    "optionA": "Computer technology is not advanced enough yet",
+    "optionB": "Earth's population keeps changing, making maps outdated quickly",
+    "optionC": "Weather patterns change constantly and are hard to show on paper",
+    "optionD": "You cannot flatten a sphere without stretching or squeezing some parts of the surface",
+    "correctOption": "D",
+    "explanation": "It's impossible to flatten a ball completely without distorting some parts—that's why all flat maps have some distortion, while globes stay accurate."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Geographers use special terms to classify different areas of Earth. The Amazon Rainforest is an area where it is hot and wet year-round with dense forest. What do geographers call such an area that is united by shared physical characteristics?",
+    "optionA": "A region",
+    "optionB": "A location",
+    "optionC": "An orientation",
+    "optionD": "A perception",
+    "correctOption": "A",
+    "explanation": "A region is a larger area where the geography, climate, plants, or culture have things in common—like a rainforest region or a desert region."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Different religions have sacred cities where their followers travel for prayer and worship. Which city contains important religious monuments and sites for Christians, Muslims, and Jews—believers of three different religions?",
+    "optionA": "Istanbul, Turkey",
+    "optionB": "Jerusalem, Israel",
+    "optionC": "Rome, Italy",
+    "optionD": "Mecca, Saudi Arabia",
+    "correctOption": "B",
+    "explanation": "Jerusalem is holy to three major religions—Christians, Muslims, and Jews all consider it a sacred city with important sites for their faiths."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "If you looked at a world map and colored in all the regions where Islam is the main religion practiced by most people, which parts of the world would you shade?",
+    "optionA": "Southern India and Nepal",
+    "optionB": "East Asia including China and Thailand",
+    "optionC": "North Africa, the Middle East, and parts of Western Asia",
+    "optionD": "Europe and North America",
+    "correctOption": "C",
+    "explanation": "Islam is the most common religion practiced by people in North Africa and the Middle East, making it widespread across these regions."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Kurdistan is a cultural region in the Middle East where Kurdish people live, speaking the Kurdish language and sharing the same traditions and history. However, Kurdistan is not a single country—it spans parts of Turkey, Iraq, Syria, and Iran. What type of cultural region is Kurdistan?",
+    "optionA": "An economic region based on trade and industry",
+    "optionB": "A political region based on government borders",
+    "optionC": "A language region based only on a single spoken language",
+    "optionD": "An ethnic region where people share ancestry, language, and culture",
+    "correctOption": "D",
+    "explanation": "An ethnic region is an area where people share the same ancestors, language, and way of life—that makes Kurdistan a cultural region even without being its own country."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "A mosque is a building where people gather to pray and worship. Which religion's followers pray together in mosques?",
+    "optionA": "Islam",
+    "optionB": "Christianity",
+    "optionC": "Buddhism",
+    "optionD": "Hinduism",
+    "correctOption": "A",
+    "explanation": "Muslims are followers of Islam, and they gather to pray together in buildings called mosques."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Kangaroos and koalas live only in Australia and are found nowhere else in the world naturally. Why do these animals exist only in Australia and not in other parts of the world?",
+    "optionA": "Australia has more varieties of plants than other continents",
+    "optionB": "Australia has been an isolated island continent for millions of years, separated from other landmasses",
+    "optionC": "Australia has more mountains and rough terrain than other places",
+    "optionD": "Australia has a warm tropical climate that no other continent has",
+    "correctOption": "B",
+    "explanation": "Because Australia was cut off from other continents, animals there evolved in their own unique way. Animals couldn't move between continents to mix and share species."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Geographers classify regions in different ways. A cultural region is an area where people share a way of life, language, or traditions. A physical region is defined by climate or landforms like mountains and deserts. A political region is a country with borders. Which list contains ONLY cultural regions?",
+    "optionA": "The Sahara Desert, Japan, and North America",
+    "optionB": "The Amazon Rainforest, the Sunbelt, and the Middle East",
+    "optionC": "Chinatowns, Francophone regions, and the Wheat Belt",
+    "optionD": "The Great Plains, the Low Countries, and Scandinavia",
+    "correctOption": "C",
+    "explanation": "Chinatowns, Francophone regions, and the Wheat Belt are all defined by human culture and way of life—not by maps, borders, climate, or landforms."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Wealthy, developed countries usually have many large cities with millions of people living close together. Poorer, less-developed countries usually have more people spread out in villages. What is the connection between a country's development level and where its population lives?",
+    "optionA": "A country's climate determines how wealthy or poor it will become",
+    "optionB": "The language a country speaks affects its economic development",
+    "optionC": "A country's main religion decides whether it will be rich or poor",
+    "optionD": "More developed countries have higher urbanization—more of their people living in cities",
+    "correctOption": "D",
+    "explanation": "Developed countries usually have most of their people living in cities where there are factories, businesses, and jobs. Less developed countries have more people in villages."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "In the Netherlands, people have built dikes (walls) to block ocean water from flooding low-lying areas. They then drained the water and created farmland on this reclaimed land called polders. Which type of landform are polders most likely to be found in?",
+    "optionA": "Lowlands",
+    "optionB": "Deserts",
+    "optionC": "Plateaus",
+    "optionD": "Highlands and mountains",
+    "correctOption": "A",
+    "explanation": "Polders only make sense in flat, low areas right next to the ocean. Mountains and deserts are too far from the sea or too high up to need this protection."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Before factories and modern transportation, people had to live close to natural resources like forests, rivers, and mines just to survive. Now we have factories, trucks, ships, and electricity. How has industrialization changed where people can live?",
+    "optionA": "It prevents people from living in cold or hot climates",
+    "optionB": "It allows people to live far from natural resources because goods and materials can be transported to them",
+    "optionC": "It forces everyone to move to farms and rural areas",
+    "optionD": "It causes cities to shrink as people move away to the countryside",
+    "correctOption": "B",
+    "explanation": "With factories, trains, and ships, people don't need to live right next to the forest or river anymore—the wood, water, and food can all be brought to them."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Angola and Botswana are both countries in Africa. More babies die before age one in Angola than in Botswana (Angola has higher infant mortality). Which of these best explains why Angola's infant mortality is higher?",
+    "optionA": "Botswana has more people overall, which makes it a richer country",
+    "optionB": "Teenage boys in Angola can read and write better than those in Botswana",
+    "optionC": "In Angola, fewer babies are born with doctors or nurses helping deliver them",
+    "optionD": "Botswana has many elderly women over age 50, which makes it healthier",
+    "correctOption": "C",
+    "explanation": "When babies are born with help from trained doctors or nurses, they are more likely to survive and be healthy. Angola has fewer trained medical professionals, so more babies don't survive."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Great Plains is a region of the United States known for farming and growing wheat and corn. Which weather disaster would be most dangerous to crops in this region?",
+    "optionA": "Earthquakes",
+    "optionB": "Heavy flooding from seasonal rains",
+    "optionC": "Volcanoes erupting",
+    "optionD": "Drought",
+    "correctOption": "D",
+    "explanation": "The Great Plains needs regular rain to grow crops. Long dry periods without rain—droughts—cause the biggest problems for farmers there. Earthquakes and volcanoes don't happen in that region."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Oil is valuable because almost every country in the world needs it for fuel and energy. Several countries that produce lots of oil formed a group called OPEC. Why did these oil-producing countries decide to work together as a group?",
+    "optionA": "To coordinate and control world oil prices fairly instead of competing against each other",
+    "optionB": "To find and drill for more oil under the ocean floor",
+    "optionC": "To decide to earn less money from the oil they sell",
+    "optionD": "To require that each country produce as much oil as possible",
+    "correctOption": "A",
+    "explanation": "OPEC countries work together to control oil prices and make sure they get fair value for the oil they sell—instead of all competing against each other."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Timbuktu is a city in Mali, West Africa. Hundreds of years ago, it became very wealthy and important because of its geographic location. Based on geography and ancient trade routes, why was Timbuktu such an important city?",
+    "optionA": "It was a manufacturing center on the Asian Silk Road",
+    "optionB": "It was located on important trade routes across the Sahara Desert where gold, salt, and other goods were bought and sold",
+    "optionC": "It was a shipping center and the only land bridge between Africa and Europe",
+    "optionD": "It was a transportation hub between two major rivers in the Middle East",
+    "correctOption": "B",
+    "explanation": "Timbuktu became rich and powerful because it was on the main trade routes across the Sahara Desert, where merchants traded gold, salt, and other valuable goods."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Ghost towns are settlements that were once full of people but are now abandoned and empty. What economic lesson do ghost towns teach us about where people choose to live?",
+    "optionA": "As towns grow bigger and more crowded, they need fewer government services",
+    "optionB": "Better farming techniques cause villages to disappear",
+    "optionC": "When valuable natural resources run out, people leave to find work and opportunities elsewhere",
+    "optionD": "When cities spread out into new areas, there is no farmland left in the countryside",
+    "correctOption": "C",
+    "explanation": "Ghost towns show us that people settle where there are jobs and resources. When the mines close or the timber runs out, people leave to find work somewhere new."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "In many large cities around the world, there are neighborhoods called Chinatowns where Chinese immigrants and their descendants live close together. These neighborhoods have Chinese restaurants, shops, temples, and people speak Chinese languages. What explains why Chinatowns develop as separate neighborhoods?",
+    "optionA": "Religious beliefs require Chinese people to have separate religious buildings",
+    "optionB": "Living there is cheaper than living anywhere else in the city",
+    "optionC": "The government required Chinese people to live in those specific neighborhoods",
+    "optionD": "People who share the same language, food traditions, and culture choose to live near each other",
+    "correctOption": "D",
+    "explanation": "Chinatowns form because people who share the same culture, language, and traditions prefer to live near each other, creating neighborhoods with Chinese businesses and culture."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Imagine you are a company owner deciding where to build a new factory. You need to consider many different factors about location. Which of these would be LEAST important to your decision about where to put your factory?",
+    "optionA": "Whether there are good schools nearby for factory workers' children",
+    "optionB": "Where workers and customers are located (population distribution)",
+    "optionC": "What the local zoning laws allow (whether factories are even permitted in that area)",
+    "optionD": "Whether there are roads, highways, and railroads to bring materials in and finished products out",
+    "correctOption": "A",
+    "explanation": "Companies care most about getting raw materials in and finished products out, having workers nearby, and following local laws. School quality matters to workers but is not the main reason factories choose a location."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Industrialization is when factories and machines replace hand-crafts and home-based production. Before the Industrial Revolution, most things were made at home or on farms. What was the most direct change caused by industrialization?",
+    "optionA": "Farms changed from selling their food to only growing food for their own families",
+    "optionB": "People moved from making things at home to working in factories with machines and many workers",
+    "optionC": "Factories stopped making everyday items and only produced weapons and military goods",
+    "optionD": "People stopped using trains and trucks and switched to only using airplanes",
+    "correctOption": "B",
+    "explanation": "Before factories, people made cloth, tools, and goods by hand at home. Industrialization moved production to large factories with machines and many workers."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Different types of economic activities use different amounts of land. Consider a factory building, a farm, an oil field, and a store. Which economic activity needs the largest total area of land to operate?",
+    "optionA": "Manufacturing in factories",
+    "optionB": "Oil drilling",
+    "optionC": "Commercial agriculture",
+    "optionD": "Retail stores",
+    "correctOption": "C",
+    "explanation": "Farms need huge areas to grow crops and raise animals. Factories, oil wells, and stores are all built on much smaller pieces of land."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Computers and the internet have changed how businesses operate and how people work together. What has most directly increased as a result of computer technology in the workplace?",
+    "optionA": "The need for workers with little training or skills",
+    "optionB": "How far people need to travel to their workplace each day",
+    "optionC": "How expensive it is to call people in other countries",
+    "optionD": "How fast information and messages can be sent between people and businesses",
+    "correctOption": "D",
+    "explanation": "Computers let people send information instantly through email and the internet, so communication that used to take days now takes seconds."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Some countries are wealthy and developed with many factories and service businesses everywhere. Other countries are less developed and most people work in farming, fishing, mining, or forestry. Which country here has an economy based mainly on these primary activities rather than on manufacturing and services?",
+    "optionA": "Chad",
+    "optionB": "Jamaica",
+    "optionC": "Belgium",
+    "optionD": "Liechtenstein",
+    "correctOption": "A",
+    "explanation": "Chad is in Africa and most people work as farmers or herders, while Jamaica, Belgium, and Liechtenstein are more developed countries with factories and service businesses."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Chocolate is made from cocoa beans. Which region of the world grows the most cocoa beans used to make chocolate?",
+    "optionA": "South America",
+    "optionB": "West Africa",
+    "optionC": "Central America",
+    "optionD": "Southeast Asia",
+    "correctOption": "B",
+    "explanation": "More cocoa is grown in West Africa than anywhere else in the world, making it the main source of chocolate around the globe."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "The European Union is a group of 27 European countries that cooperate and work together. How has EU membership most helped these countries become more successful and prosperous?",
+    "optionA": "By sharing the cost of maintaining a joint military for defense",
+    "optionB": "By requiring all EU countries to speak the same language",
+    "optionC": "By allowing goods, money, and people to move freely between member countries without border walls and taxes on trade",
+    "optionD": "By giving money specifically for schools and education",
+    "correctOption": "C",
+    "explanation": "The EU's biggest advantage is that countries can trade with each other without extra taxes (tariffs), and people can travel between countries freely—like having no borders between them."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Some countries have ocean coastlines where ships can bring goods in and out through ports. Landlocked countries have no coastline and cannot use ships for international trade. Which type of country must depend on roads and trains to trade with other countries?",
+    "optionA": "Coastal countries",
+    "optionB": "Island countries",
+    "optionC": "Tropical countries",
+    "optionD": "Landlocked countries",
+    "correctOption": "D",
+    "explanation": "Countries with no ocean access cannot use ships, so they depend on trucks and trains to move goods across land to neighboring countries."
   }
 ]
