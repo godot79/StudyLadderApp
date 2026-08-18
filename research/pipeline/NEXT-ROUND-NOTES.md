@@ -1,6 +1,20 @@
 # Notes for the next ingestion round
 
-Written 2026-08-18, later same day, after merging NY State Regents Grade 5 Mathematics Spring 2025 (25 items, 384→409 maths). Appends to the geography-round notes below (still same-day current) rather than overwriting.
+Written 2026-08-18, later same day, after merging the Smithsonian Point...Click...Activity Sheets batch (19 items: 18→`science.json` 370→388, 1→`space.json` 219→220). Appends to the maths-round notes below (still same-day current) rather than overwriting.
+
+---
+
+## -1. A blocked site isn't a dead source — check for a legacy mirror before giving up
+
+The prior same-day research round correctly identified that `learninglab.si.edu` (Smithsonian's modern collection UI) is Cloudflare-blocked to any automated fetch, spoofed User-Agent or not, and reported this as "unconfirmed, needs a human browser check." Before accepting that verdict, a follow-up check found the exact same content still live on a completely separate, unprotected legacy domain (`smithsonianeducation.org`) that the modern site's collection had migrated FROM — found via the Wayback Machine's CDX API (`web.archive.org/cdx/search/cdx?url=<domain>/<path>&matchType=prefix`) enumerating every filename ever archived under that path, then testing each against the live current domain with a plain `curl`. This took about 10 minutes and turned a "blocked, needs a human" verdict into a fully automated, confirmed-live source. **Lesson: when a site returns a hard bot-block (403/Cloudflare), before concluding "needs a human browser," check (a) whether the same content exists on a different domain the modern site migrated from, via Wayback CDX prefix search, and (b) whether that legacy domain is itself still live** — old government/institutional sites often keep legacy paths running indefinitely even after a UI migration, unprotected by whatever bot-defense the new site added.
+
+## 0. Age 9 High Achiever science: confirmed the "deeper fact, not harder reasoning" approach works, closes most of the bank's worst single gap
+
+Science's Age 9 HA band went 8→19 (more than doubled) in one small batch from a one-shot fact-sheet source (not a deep archive — see the source catalog entry). This confirms the hypothesis from the research round: this band needed genuinely rare/surprising-but-comprehensible facts (giant squid eye size, ant strength-to-weight ratio and why a human-sized ant couldn't work the same way, more microbes in a spoonful of soil than people on Earth, zebra stripe-confusion camouflage) rather than harder multi-step reasoning borrowed from an older grade — a structurally different sourcing problem from the Age-11-tier gaps closed in recent rounds, and it needed a structurally different kind of source (a children's-science-facts sheet, not a test archive) to solve. **If this band or its analogues in other subjects (space/geography/english's own youngest-HA bands, if any are ever this thin) come up again, look for "fun facts for kids" style institutional/museum content first, not another test archive.**
+
+Two real fact-accuracy issues were caught by the fact-check step (not the initial extraction) and fixed before staging: an anomalocarid size claim ("3 feet") that's contested in current paleontology (fixed by removing the specific number, keeping only the well-supported "small but still apex predator" lesson), and a giant-squid "largest eyes of any animal" superlative that's actually disputed in favor of the colossal squid (softened to "some of the largest"). Neither fix affected which option was correct — both were about tightening an overclaim in the prompt/explanation, not correcting a wrong answer. This is the same "confirmed but check the specific superlative/exact-number claims separately from the core lesson" pattern documented in README.md's Colorado Springs/Seattle solar caveat precedent — worth continuing to apply skepticism to precise numbers and superlatives ("the biggest," "the only," exact measurements) even when the core fact is solid.
+
+**Source is now exhausted** — it yielded 6 rich science-relevant sheets (ants, cats, predators, soil, squid, zebras) plus 1 thin one (apollo, mostly common-knowledge content). Remaining sheets checked (artcount, book, food, collecting, bicycles, invention, go) were judged not-science, too-thin, or duplicate. Don't re-run this exact source expecting more — it was a one-shot ~19-item yield as predicted going in, not a repeatable archive.
 
 ---
 
@@ -42,14 +56,15 @@ Followed the fact-check protocol per README.md. The 9 WebSearched (infant-mortal
 
 Applied this check across every "which of these is/is not true"-style item in the geography batch (there were several: cultural-region classification, factor-style "which country lacks X" items). No double-true-answer defect found this time, but the check is now a standing part of review for any batch with this item format — see the maths-round notes (folded into this file's history) for the original defect this check was built to catch.
 
-## 5. Current subject/band state (checked 2026-08-18, post-maths-merge)
+## 5. Current subject/band state (checked 2026-08-18, post-Smithsonian-merge, all five subjects freshly re-counted)
 
-- **maths**: 409 items (Age 9: 112, Age 9 HA: 57, Age 10: 104, Age 10 HA: 52, Age 11: 49, Age 11 HA: 35) — just targeted this round; Age 11 HA went 24→35, no longer the bank's thinnest band.
-- **geography**: 293 items (Age 9: 72, Age 9 HA: 43, Age 10: 63, Age 10 HA: 43, Age 11: 43, Age 11 HA: 29) — targeted the round before this one; Age 11 HA (29) is geography's own thinnest band.
-- **english**: 288 items (Age 9: 88, Age 9 HA: 43, Age 10: 61, Age 10 HA: 44, Age 11: 27, Age 11 HA: 25) — targeted two rounds ago, not re-checked this round; Age 11 (27) and Age 11 HA (25) are its thinnest.
-- **science, space**: not re-checked in several rounds — re-count from `data/seed/*.json` directly before picking a next target; these had heavy attention several rounds back and may or may not still be the thinnest overall.
+- **maths**: 409 items (Age 9: 112, Age 9 HA: 57, Age 10: 104, Age 10 HA: 52, Age 11: 49, Age 11 HA: 35).
+- **english**: 288 items (Age 9: 88, Age 9 HA: 43, Age 10: 61, Age 10 HA: 44, Age 11: 27, Age 11 HA: 25).
+- **geography**: 293 items (Age 9: 72, Age 9 HA: 43, Age 10: 63, Age 10 HA: 43, Age 11: 43, Age 11 HA: 29).
+- **science**: 388 items (Age 9: 128, Age 9 HA: 19, Age 10: 155, Age 10 HA: 25, Age 11: 40, Age 11 HA: 21) — Age 9 HA's severe 8-item outlier is resolved (now 19, in line with other subjects' thinnest cells); **Age 11 HA (21) is now science's own thinnest band**.
+- **space**: 220 items (Age 9: 54, Age 9 HA: 38, Age 10: 42, Age 10 HA: 42, Age 11: 23, Age 11 HA: 21) — unchanged this round except +1 Apollo fact; **Age 11 (23) and Age 11 HA (21) are space's thinnest, and tied for the bank's thinnest overall alongside science's Age 11 HA.**
 
-**Next natural rebalancing target:** re-run the count across all five subjects' Age 11 / Age 11 HA bands before picking — after three consecutive rounds targeting maths→geography→maths again, english's Age 11 (27) and Age 11 HA (25) are now close contenders, and science/space haven't been checked in a while. Don't assume maths again by default; verify which band is genuinely thinnest bank-wide first.
+**Next natural rebalancing target:** space and science both now share the bank's thinnest single cell (Age 11 HA: 21 each), with space's Age 11 (23) close behind. Space has never had a source built specifically for it — its content has only ever grown as a byproduct of classifying Earth-and-Space items out of general science tests (see `research/pipeline/README.md`'s round history) — so the natural move is a science-grade-above-4 source (NY Regents Science, following the maths/geography "borrow harder grade" pattern) with EXPLICIT instructions to route Earth-and-Space content to `space.json`'s Age 11/Age 11 HA bands specifically, rather than a space-only source hunt (the source catalog has already confirmed no dedicated space-content source exists anywhere).
 
 ## 6. Standing gaps carried forward, still unresolved
 

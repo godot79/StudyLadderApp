@@ -2188,5 +2188,15 @@
     "optionD": "The Moon",
     "correctOption": "D",
     "explanation": "The Moon seems to change shape night to night because we see different amounts of its lit side as it orbits Earth. This pattern of changing shapes is called the lunar cycle."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Astronauts in the Apollo space program had to eat while floating in zero gravity. What was something special about the food they ate?",
+    "optionA": "They only drank liquids because solid food would float away and be lost",
+    "optionB": "They did not eat anything during space missions because food was too dangerous in space",
+    "optionC": "They ate specially packaged foods, like fruitcake, that were engineered to survive the journey and work in zero gravity",
+    "optionD": "They ate the same fresh bread and milk as people on Earth",
+    "correctOption": "C",
+    "explanation": "Regular food would float away in space, so NASA scientists had to invent special foods that could survive the journey and be eaten while floating. Fruitcake was actually a good choice because it is sturdy and does not crumble into floating pieces."
   }
 ]

@@ -3698,5 +3698,185 @@
     "optionD": "Bears come in different colors",
     "correctOption": "B",
     "explanation": "'Bears are scary' is an opinion because it's a personal feeling—some people think bears are frightening while others might not. 'Bears have fur' is a fact you can prove by looking at a bear."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "An ant discovers a cookie crumb that weighs exactly as much as the ant itself. How many crumbs like that could the ant probably carry at one time?",
+    "optionA": "About 20 crumbs",
+    "optionB": "About 100 crumbs",
+    "optionC": "Just one crumb",
+    "optionD": "About 5 crumbs",
+    "correctOption": "A",
+    "explanation": "Ants are incredibly strong for their size. A real ant can lift and carry about 20 times what it weighs, which is why even a tiny ant can move objects that seem huge compared to its own body."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Imagine a scientist used magic to grow an ant up to the size of a human. The regular ant can lift 20 times its own weight. Would the giant ant be able to do the same?",
+    "optionA": "Yes, it would be even stronger than a person",
+    "optionB": "No, its legs and muscles would not be strong enough to support its own massive new weight",
+    "optionC": "Maybe, it would depend on the ant's mood",
+    "optionD": "Yes, but only if it trained hard enough",
+    "correctOption": "B",
+    "explanation": "This is surprising but true: just because an ant is strong does not mean a giant ant would be. As things get bigger, they get much heavier much faster than they get stronger. The giant ant would probably crush itself."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A lion roars across the grassland. A zebra is drinking water at a watering hole several miles away. What would probably happen?",
+    "optionA": "Sound cannot travel that far, so the zebra would hear nothing",
+    "optionB": "Only baby zebras can hear lion roars",
+    "optionC": "The zebra would hear the roar and might become scared or alert",
+    "optionD": "The roar would make all animals stop and freeze instantly",
+    "correctOption": "C",
+    "explanation": "A lion's roar is amazingly loud and carries a very long distance. The sound can travel several miles, which means animals far away can still hear it and know a lion is nearby."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "You are watching big cats climb and move through a rainforest. Which of these big cats can actually hang upside-down from tree branches?",
+    "optionA": "Lion",
+    "optionB": "Tiger",
+    "optionC": "Cheetah",
+    "optionD": "Clouded leopard",
+    "correctOption": "D",
+    "explanation": "The clouded leopard is special because it has amazing flexibility and super strong limbs. Unlike other big cats, it can grip branches and hang upside-down, almost like a monkey. It hunts in rainforest trees where this skill helps it catch prey."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which animal is the fastest runner on land?",
+    "optionA": "Cheetah",
+    "optionB": "Gazelle",
+    "optionC": "Ostrich",
+    "optionD": "Horse",
+    "correctOption": "A",
+    "explanation": "Cheetahs are built for speed with long, thin bodies and powerful back legs. They can run faster than any other land animal, zooming across the grassland at over 65 miles per hour when chasing prey."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The killer whale is the most powerful hunter in today's ocean. Which of these facts about killer whales is true?",
+    "optionA": "They are fish, just like sharks",
+    "optionB": "They are mammals that breathe air through a blowhole on top of their head",
+    "optionC": "They are reptiles that lay eggs to have babies",
+    "optionD": "They have gills and get oxygen from water",
+    "correctOption": "B",
+    "explanation": "Even though killer whales live in the ocean, they are actually mammals just like you and me. They need to come up to breathe air through their blowhole, and mothers give birth to baby whales instead of laying eggs."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A mosasaur was the scariest predator in the ocean roughly 65 to 92 million years ago. Which of these facts about mosasaurs is correct?",
+    "optionA": "They were fish that got oxygen from water using gills",
+    "optionB": "They lived on land and only came to the water to hunt",
+    "optionC": "They were reptiles that breathed air at the ocean surface, like whales do today",
+    "optionD": "They lived before any dinosaurs existed on Earth",
+    "correctOption": "C",
+    "explanation": "Mosasaurs were huge ancient reptiles that hunted in the ocean, but they had to come up to the surface to breathe air. This makes them similar to modern whales and crocodiles, which are also air-breathers that live in water."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Over 500 million years ago, the most dangerous predator in the ocean was a creature called an anomalocarid, no bigger than a large dog. What interesting lesson does this teach us about predators?",
+    "optionA": "Every top predator in history was bigger than a whale",
+    "optionB": "Small predators have never been dangerous to anything",
+    "optionC": "All ancient creatures were smaller than modern ones",
+    "optionD": "Being the top predator of your time just means being the biggest threat in your ecosystem, not being the biggest animal",
+    "correctOption": "D",
+    "explanation": "The anomalocarid was small compared to today's ocean predators, but it had special clawed limbs that made it the king of its ocean. This shows that sometimes the most dangerous hunter is not the biggest creature around - it is just the one that is best at hunting everything else."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is the main difference between real soil and regular dirt?",
+    "optionA": "Soil is a mixture of minerals, water, air, decaying matter, and living organisms, but dirt is just crumbled rock with no living part",
+    "optionB": "They are exactly the same thing, people just use different words",
+    "optionC": "Soil is just crumbled rock, but dirt also contains living organisms",
+    "optionD": "Soil is found in gardens and dirt is found in pots",
+    "correctOption": "A",
+    "explanation": "Real soil is alive with bacteria and other tiny creatures, and it has bits of dead plants and animals mixed in. Dirt is mostly just broken-up rock. Living soil is what plants need to grow."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A scientist looks at just one tiny spoonful of soil under a powerful microscope and counts all the bacteria and other living organisms. What does she discover?",
+    "optionA": "There are only a few hundred tiny creatures",
+    "optionB": "There are more living creatures in that spoonful than there are people on the entire planet",
+    "optionC": "There are thousands of living organisms",
+    "optionD": "There are exactly 1 million organisms",
+    "correctOption": "B",
+    "explanation": "This is mind-blowing, but it is true. Soil is packed with invisible life—billions of tiny bacteria and other microscopic creatures live in just a tiny handful of soil. There are way, way more of them than all the humans on Earth."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Some of the medicines that doctors use to treat infections come from which of these places?",
+    "optionA": "Deep caves where no light has ever reached",
+    "optionB": "From deep inside hot ocean vents",
+    "optionC": "From tiny living creatures in soil",
+    "optionD": "They are all made in laboratories using chemicals",
+    "correctOption": "C",
+    "explanation": "Soil is full of helpful bacteria and other tiny organisms. Some of these creatures naturally make antibiotics to protect themselves from other germs. Scientists discovered this and learned how to use these soil organisms to make powerful medicines for people."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "If you imagined Earth as a thick apple, what would the layer of soil covering all the land be like?",
+    "optionA": "As thick as the entire apple",
+    "optionB": "As thick as the apple's core",
+    "optionC": "Thicker than the apple itself",
+    "optionD": "About as thick as the apple's skin or even thinner",
+    "correctOption": "D",
+    "explanation": "Earth is massive—thousands of miles thick—but all the soil that lets plants grow is incredibly thin, just a few feet deep in most places. It is like our planet has a paper-thin skin of life on top, and everything depends on it."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "A giant squid hunts in the dark deep ocean. It has some of the largest eyes of any animal on Earth. About how big are these giant eyes?",
+    "optionA": "The size of a human head",
+    "optionB": "The size of a grape",
+    "optionC": "The size of a basketball",
+    "optionD": "The size of a beach ball",
+    "correctOption": "A",
+    "explanation": "Imagine eyes as big as your head. That is roughly how big a giant squid's eyes are. With such huge eyes, the squid can catch tiny bits of light in the dark deep ocean where it lives, helping it hunt and survive."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Giant squids are real animals that can grow up to 60 feet long. Scientists have known about them for a very long time. When was the first photograph of a live giant squid in its natural ocean habitat finally taken?",
+    "optionA": "In the 1800s when cameras were first invented",
+    "optionB": "In 2004, much more recently than most people would guess",
+    "optionC": "In the 1950s during the early years of deep-sea exploration",
+    "optionD": "We still do not have any photographs of live giant squids",
+    "correctOption": "B",
+    "explanation": "Giant squids live so deep and hide so well that we did not get a photo of a live one until 2004. That is only a few years ago. It shows how mysterious the deep ocean still is, even to modern scientists."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Giant squids live so deep in the ocean that the water there is almost completely dark. About how deep down do giant squids usually live?",
+    "optionA": "About as deep as a tall building is high",
+    "optionB": "Just below where most ocean fish live",
+    "optionC": "Between 650 and 3,300 feet down, much deeper than most submarines explore",
+    "optionD": "On the ocean floor at the very bottom",
+    "correctOption": "C",
+    "explanation": "The ocean gets colder and darker as you go down. Giant squids prefer the zone between 650 and 3,300 feet deep where it is extremely dark and cold. This deep zone is hard for humans to explore and study."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "How does a giant squid push itself through the water to swim?",
+    "optionA": "By wiggling its body side to side like a fish",
+    "optionB": "By paddling with its eight arms as if swimming",
+    "optionC": "By pushing against the ocean floor like a person walking",
+    "optionD": "By squirting water forcefully out through a funnel-like opening to create thrust",
+    "correctOption": "D",
+    "explanation": "A giant squid works like an underwater rocket. It sucks water into its body, then shoots it out through a small opening to create forward thrust. This jet-propulsion system helps it move quickly through the water."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Each zebra has its own special pattern of stripes that no other zebra has. What is this similar to in humans?",
+    "optionA": "Our fingerprints, everyone's are different",
+    "optionB": "Our hair color",
+    "optionC": "Our shoe size",
+    "optionD": "Our voice",
+    "correctOption": "A",
+    "explanation": "Just like no two people have the same fingerprints, no two zebras have the exact same stripe pattern. This means each zebra is one of a kind, and if scientists look at stripes, they can tell individual zebras apart."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "When many zebras stand close together in a tight herd, something interesting happens to their stripes. What does this probably help the zebras do?",
+    "optionA": "It makes them look much bigger so predators get scared",
+    "optionB": "The stripes blend together visually, making it harder for a predator to pick out and focus on just one zebra to chase",
+    "optionC": "It makes them completely invisible to all predators",
+    "optionD": "It lets all the zebras communicate with each other instantly",
+    "correctOption": "B",
+    "explanation": "When many striped zebras bunch up, their stripes mix together and create a confusing pattern. A hungry predator that is chasing one zebra can suddenly lose track of which one it was following. This is a clever defense that helps zebras stay alive."
   }
 ]
