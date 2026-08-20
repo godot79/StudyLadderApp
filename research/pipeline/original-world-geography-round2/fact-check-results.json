@@ -1,0 +1,134 @@
+[
+  {
+    "prompt": "Look at this map of Central Europe. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, on the Iberian Peninsula in southwestern Europe. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of West Africa. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of western South America. One country is shaded in green, along the Pacific coast. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one long, narrow country shaded in green, high up near the Arctic Circle in Northern Europe. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of East Asia. One country is shaded in green, occupying the southern half of a peninsula. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "What is the longest river in Europe?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: the Volga, ~3,740km, flows through western Russia to the Caspian Sea.",
+    "source": "WebSearch (Britannica)"
+  },
+  {
+    "prompt": "What is the longest river in Australia?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Geoscience Australia/worldatlas: the Murray is Australia's longest single river at 2,508km (the Darling River system incl. tributaries is fractionally longer as a waterway, but the Murray is the longest single river).",
+    "source": "WebSearch (Geoscience Australia, worldatlas.com)"
+  },
+  {
+    "prompt": "The Rhine is one of Europe's most important rivers for trade and transport. Which of these countries does the Rhine flow through?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/worldatlas: the Rhine begins in the Swiss Alps and flows through Switzerland, Germany, France, and the Netherlands.",
+    "source": "WebSearch (Britannica, worldatlas.com)"
+  },
+  {
+    "prompt": "Which river is the second-largest river in the world by the amount of water it carries, flowing through the rainforests of central Africa?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Congo is the world's second-largest river by discharge after the Amazon, and the world's deepest river.",
+    "source": "WebSearch (worldatlas.com, Britannica)"
+  },
+  {
+    "prompt": "The Mississippi River's name comes from a Native American language. What does the original name mean?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple sources: 'Mississippi' derives from the Ojibwe 'misi-ziibi', meaning 'great river'.",
+    "source": "WebSearch (iere.org, Wikipedia)"
+  },
+  {
+    "prompt": "What is the tallest mountain in mainland Australia?",
+    "verdict": "confirmed",
+    "note": "Confirmed via PeakVisor/Britannica: Mount Kosciuszko, 2,228m, is the tallest peak on mainland Australia (a volcano on Australian-owned Heard Island near Antarctica is taller but is not on the mainland).",
+    "source": "WebSearch (PeakVisor, Britannica)"
+  },
+  {
+    "prompt": "What is the tallest mountain in Antarctica?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/National Geographic: Mount Vinson (part of the Vinson Massif), 4,892m, is Antarctica's highest peak.",
+    "source": "WebSearch (Britannica, National Geographic)"
+  },
+  {
+    "prompt": "Denali, the tallest mountain in North America, is part of which mountain range?",
+    "verdict": "confirmed",
+    "note": "Confirmed: Denali is part of the Alaska Range.",
+    "source": "Hand-verified (uncontested)"
+  },
+  {
+    "prompt": "In 1883, a huge eruption from this volcanic island in Indonesia was heard thousands of kilometres away and caused a giant tsunami. What is the name of this volcano?",
+    "verdict": "confirmed",
+    "note": "Confirmed: Krakatoa's 1883 eruption is one of the most powerful/deadly in recorded history, causing a tsunami and a sound heard thousands of km away.",
+    "source": "WebSearch (multiple historical/geology sources)"
+  },
+  {
+    "prompt": "A huge horseshoe-shaped area around the edge of the Pacific Ocean is home to about 75% of the world's active volcanoes and most of its earthquakes. What is this area commonly called?",
+    "verdict": "confirmed",
+    "note": "Confirmed via NOAA/National Geographic: the Ring of Fire hosts ~75% of active volcanoes and ~90% of earthquakes.",
+    "source": "WebSearch (NOAA, National Geographic)"
+  },
+  {
+    "prompt": "Which African country is home to the Namib Desert, believed to be the oldest desert in the world?",
+    "verdict": "confirmed",
+    "note": "Confirmed via National Geographic/SafariBookings: the Namib Desert runs along Namibia's Atlantic coast and is considered the world's oldest desert.",
+    "source": "WebSearch (National Geographic, SafariBookings)"
+  },
+  {
+    "prompt": "The Arabian Desert is one of the largest deserts in the world. On which peninsula is it mostly located?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Arabian Desert covers most of the Arabian Peninsula.",
+    "source": "Hand-verified (uncontested)"
+  },
+  {
+    "prompt": "The Indo-Gangetic Plain is one of the most fertile farming regions in the world. Which river helped form this plain, along with the Indus and Brahmaputra?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple geography sources: formed by sediment from the Indus, Ganges, and Brahmaputra rivers.",
+    "source": "WebSearch (Britannica Kids, EBSCO)"
+  },
+  {
+    "prompt": "Which countries share the fertile Indo-Gangetic Plain, one of the most densely populated regions in the world?",
+    "verdict": "confirmed",
+    "note": "Confirmed: spans northern India, eastern Pakistan, and almost all of Bangladesh.",
+    "source": "WebSearch (careerindia.com, EBSCO)"
+  },
+  {
+    "prompt": "Which large country is mostly covered by wide, flat, grassy plains and is home to the Great Plains, one of the world's biggest farming regions?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The Great Dividing Range separates Australia's flat interior plains from a narrower strip of land. What lies on the other side of the range, along most of Australia's east coast?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Great Dividing Range runs along Australia's east coast, with a narrow coastal plain (where most Australians live) between the range and the coast.",
+    "source": "Hand-verified (uncontested)"
+  }
+]

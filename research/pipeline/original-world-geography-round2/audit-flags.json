@@ -1,0 +1,27 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"This map shows one long, narrow country shaded in green, high up near the Arctic Circle in Northern Europe. Which country is it?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map of East Asia. One country is shaded in green, occupying the southern half of a peninsula. What is its capital city?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Mississippi River's name comes from a Native American language. What does the original name mean?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Arabian Desert is one of the largest deserts in the world. On which peninsula is it mostly located?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Great Dividing Range separates Australia's flat interior plains from a narrower strip of land. What lies on the other side of the range, along most of Australia's east coast?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]
