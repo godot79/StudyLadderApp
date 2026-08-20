@@ -1,0 +1,37 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map. One long, narrow country shaded in green runs down the western edge of South America. What is its capital city?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"This map shows one island country shaded in green, southeast of Australia, made up of two main islands. Which country is it?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Most people assume the Mississippi is North America's longest river, but a different river that joins it is actually slightly longer. Which river is it?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Tigris and Euphrates rivers flow through the region often called the 'cradle of civilisation'. Which present-day country do they mostly flow through?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Which desert, located in southern South America, is considered the largest desert in the Americas?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Mount Everest has the highest elevation above sea level, but the summit of a different mountain is actually the farthest point on Earth from the planet's centre. Which mountain?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Danakil Depression, in a part of East Africa, is often called the hottest place on Earth by average temperature. Which country is it in?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]

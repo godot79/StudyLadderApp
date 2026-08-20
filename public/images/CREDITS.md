@@ -28,13 +28,19 @@ license on its file page — no image is used on an assumed or guessed license.
 | `geography/map-shaded-peru.png` | [Peru (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Peru_(orthographic_projection).svg) | Addicted04, Connormah | CC BY-SA 3.0 / GFDL |
 | `geography/map-shaded-norway.png` | [Norway (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Norway_(orthographic_projection).svg) | MSClaudiu | Public domain |
 | `geography/map-shaded-southkorea.png` | [South Korea (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:South_Korea_(orthographic_projection).svg) | Ksiom | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-china.png` | [People's Republic of China (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:People%27s_Republic_of_China_(orthographic_projection).svg) | Ssolbergj | CC BY-SA / GFDL |
+| `geography/map-shaded-turkey.png` | [Turkey (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Turkey_(orthographic_projection).svg) | The Emirr | CC BY / GFDL |
+| `geography/map-shaded-saudiarabia.png` | [Saudi Arabia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Saudi_Arabia_(orthographic_projection).svg) | Keepscases, perlshaper | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-indonesia.png` | [Indonesia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Indonesia_(orthographic_projection).svg) | Addicted04 | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-chile.png` | [Chile (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Chile_(orthographic_projection).svg) | Addicted04 | CC BY 3.0 / CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-newzealand.png` | [New Zealand (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:New_Zealand_(orthographic_projection).svg) | Connormah | CC BY / GFDL |
 
 Only the CC BY-SA 3.0 files (the continents map and the country maps so
 licensed) legally require attribution on redistribution; the public-domain
 and CC0 files don't, but are credited here anyway for transparency. No
 image has been modified from the original.
 
-The 18 orthographic-projection country maps are all part of the same
+The 24 orthographic-projection country maps are all part of the same
 Wikimedia Commons file series used across Wikipedia's own country infobox
 maps; each carries CC BY / CC BY-SA / dual GFDL licensing requiring
 attribution, which this table provides. France's and Norway's versions are

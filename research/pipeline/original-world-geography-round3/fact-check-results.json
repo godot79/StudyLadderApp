@@ -1,0 +1,128 @@
+[
+  {
+    "prompt": "This map shows one huge country shaded in green, in East Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map. One country is shaded in green, straddling both Europe and Asia. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one large country shaded in green, covering most of a peninsula in the Middle East. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, made up of thousands of islands in Southeast Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map. One long, narrow country shaded in green runs down the western edge of South America. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one island country shaded in green, southeast of Australia, made up of two main islands. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which mountain range runs through the western United States and Canada, and includes many famous national parks?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which country's flat, grassy interior region is known as the Prairies, an important area for growing wheat?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Victoria Falls, one of the largest waterfalls in the world, is formed by which African river?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: Victoria Falls is formed by the Zambezi River on the Zambia-Zimbabwe border.",
+    "source": "WebSearch (Britannica, victoriafallstourism.org)"
+  },
+  {
+    "prompt": "Which mountain range stretches across the northern part of Africa, through countries including Morocco, Algeria, and Tunisia?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which major river flows through Pakistan, giving the country its name?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The giant saguaro cactus, famous from cowboy movies, grows wild in only one desert in the world. Which desert is it?",
+    "verdict": "confirmed",
+    "note": "Confirmed via USGS: the saguaro grows wild only in the Sonoran Desert (Arizona, California, Sonora).",
+    "source": "WebSearch (USGS)"
+  },
+  {
+    "prompt": "Which famous active volcano, located on the island of Sicily, is one of the most active volcanoes in the world?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark/mountain range), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The Llanos are wide tropical grassland plains in northern South America. Which two countries share the Llanos?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: the Llanos span western Venezuela and northeastern Colombia, east of the Andes.",
+    "source": "WebSearch (Britannica)"
+  },
+  {
+    "prompt": "The Andes mountain range runs along the western edge of South America, passing through seven countries. Which of these countries does the Andes NOT pass through?",
+    "verdict": "confirmed",
+    "note": "Confirmed via worldatlas/multiple sources: the Andes pass through Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina — not Brazil.",
+    "source": "WebSearch (worldatlas.com et al.)"
+  },
+  {
+    "prompt": "The West Siberian Plain, in Russia, is considered the largest unbroken lowland region in the world. Roughly what fraction of it sits below 100 metres in elevation?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Wikipedia/Britannica: more than 50% of the West Siberian Plain sits below 100m elevation, ~2.6 million sq km, described as the world's largest unbroken lowland.",
+    "source": "WebSearch (Wikipedia, Britannica)"
+  },
+  {
+    "prompt": "Most people assume the Mississippi is North America's longest river, but a different river that joins it is actually slightly longer. Which river is it?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple sources (USGS-cited reporting): the Missouri River is ~100-200 miles longer than the Mississippi, making it North America's longest single river.",
+    "source": "WebSearch (geographyworlds.com, history.com, citing USGS)"
+  },
+  {
+    "prompt": "The Tigris and Euphrates rivers flow through the region often called the 'cradle of civilisation'. Which present-day country do they mostly flow through?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Tigris and Euphrates flow mostly through modern Iraq, historically Mesopotamia.",
+    "source": "Hand-verified (uncontested)"
+  },
+  {
+    "prompt": "Which desert, located in southern South America, is considered the largest desert in the Americas?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple geography sources: the Patagonian Desert, in southern Argentina, is the largest desert in the Americas by area (the Atacama is drier but smaller).",
+    "source": "WebSearch (multiple desert-geography sources)"
+  },
+  {
+    "prompt": "Mount Everest has the highest elevation above sea level, but the summit of a different mountain is actually the farthest point on Earth from the planet's centre. Which mountain?",
+    "verdict": "confirmed",
+    "note": "Confirmed via NOAA/Wikipedia: Chimborazo's summit is ~2.1km farther from Earth's centre than Everest's, due to the equatorial bulge, despite being over 2,500m lower above sea level.",
+    "source": "WebSearch (NOAA, Wikipedia)"
+  },
+  {
+    "prompt": "The Danakil Depression, in a part of East Africa, is often called the hottest place on Earth by average temperature. Which country is it in?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple sources: the Danakil Depression is in northern Ethiopia and is commonly described as the hottest inhabited place on Earth by average temperature.",
+    "source": "WebSearch (allthatsinteresting.com, everything-everywhere.com)"
+  }
+]
