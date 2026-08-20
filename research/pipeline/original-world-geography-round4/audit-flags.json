@@ -1,0 +1,27 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map of the Iberian Peninsula. One country is shaded in green, along the Atlantic coast. What is its capital city?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"This map shows one island country shaded in green, in the North Atlantic Ocean, known for volcanoes and glaciers. Which country is it?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Orinoco River is one of South America's longest rivers. In which country does it flow for most of its length?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Great Victoria Desert is Australia's largest desert. In which part of Australia is it mostly located?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"K2 is the world's second-tallest mountain, but climbers consider it far more dangerous than Everest. Roughly how does its death rate compare to Everest's?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (1) — check it isn't too easy for this band."
+  }
+]

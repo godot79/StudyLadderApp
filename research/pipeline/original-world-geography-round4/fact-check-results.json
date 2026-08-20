@@ -1,0 +1,104 @@
+[
+  {
+    "prompt": "This map shows one S-shaped country shaded in green, in Southeast Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, on the flat North European Plain between Germany and Ukraine. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of northern South America. One country is shaded in green, bordering both the Caribbean Sea and the Pacific Ocean. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of the Horn of Africa. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of the Iberian Peninsula. One country is shaded in green, along the Atlantic coast. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one island country shaded in green, in the North Atlantic Ocean, known for volcanoes and glaciers. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which river carved out the Grand Canyon in the United States over millions of years?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which flat-topped mountain overlooks the city of Cape Town in South Africa?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: Table Mountain, flat-topped, overlooks Cape Town.",
+    "source": "WebSearch (Britannica)"
+  },
+  {
+    "prompt": "The Nullarbor Plain in southern Australia gets its name from Latin words meaning 'no trees'. What is unusual about the train line that crosses it?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Wikipedia/Guinness World Records: the Trans-Australian railway's 478km straight section across the Nullarbor is the longest straight railway in the world.",
+    "source": "WebSearch (Wikipedia, Guinness World Records)"
+  },
+  {
+    "prompt": "The Niger River is the main river of West Africa. Besides Nigeria, which of these countries does it also flow through?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/worldatlas: the Niger rises in Guinea and flows through Mali and Niger before Nigeria.",
+    "source": "WebSearch (Britannica, worldatlas.com)"
+  },
+  {
+    "prompt": "Which desert, spanning parts of Mexico and the southwestern United States, is the largest desert in North America?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/NPS: the Chihuahuan Desert, spanning northern Mexico and the southwest US, is North America's largest desert.",
+    "source": "WebSearch (Britannica, NPS)"
+  },
+  {
+    "prompt": "All 14 of the world's mountains taller than 8,000 metres are found in just two connected mountain ranges. Which two ranges?",
+    "verdict": "confirmed",
+    "note": "Confirmed: all 14 eight-thousanders are in the Himalayas and Karakoram ranges.",
+    "source": "WebSearch (multiple mountaineering sources)"
+  },
+  {
+    "prompt": "The Eurasian Steppe is a huge belt of grassland stretching across Central Asia. Historically, it was famous as a route for which kind of large-scale movement?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Eurasian Steppe was historically a corridor for horse-mounted migrations/invasions, notably the Mongol Empire.",
+    "source": "Hand-verified (uncontested world-history fact)"
+  },
+  {
+    "prompt": "Annapurna I, in the Himalayas, was the first mountain over 8,000 metres ever climbed, in 1950 — but it is also known for being unusually dangerous. What makes it stand out among the world's 8,000m peaks?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple mountaineering sources: Annapurna I has the highest fatality-to-summit ratio (~30%) of the 8,000m peaks.",
+    "source": "WebSearch (multiple mountaineering sources)"
+  },
+  {
+    "prompt": "The Orinoco River is one of South America's longest rivers. In which country does it flow for most of its length?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Orinoco flows mostly through Venezuela.",
+    "source": "Hand-verified (uncontested)"
+  },
+  {
+    "prompt": "The Great Victoria Desert is Australia's largest desert. In which part of Australia is it mostly located?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Great Victoria Desert spans the south-central/southwest interior across Western Australia and South Australia.",
+    "source": "Hand-verified (uncontested)"
+  },
+  {
+    "prompt": "K2 is the world's second-tallest mountain, but climbers consider it far more dangerous than Everest. Roughly how does its death rate compare to Everest's?",
+    "verdict": "confirmed",
+    "note": "Confirmed via mountaineering sources: K2's fatality rate is roughly 1 in 4 vs Everest's roughly 1 in 100.",
+    "source": "WebSearch (multiple mountaineering sources)"
+  }
+]
