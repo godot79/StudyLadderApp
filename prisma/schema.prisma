@@ -34,6 +34,8 @@ model Question {
   explanation   String?
   passage       String?
   passageId     String?
+  image         String?
+  imageAlt      String?
   isActive      Boolean  @default(true)
   createdAt     DateTime @default(now())
   updatedAt     DateTime @updatedAt

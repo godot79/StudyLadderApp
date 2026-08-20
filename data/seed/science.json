@@ -596,7 +596,7 @@
     "optionB": "Using memories stored in the legs to recall where lions attacked in the past",
     "optionC": "Using memories stored in the hooves to choose paths with the most grass",
     "optionD": "Using memories stored in the heart to avoid grasslands with many trees",
-    "correctOption": "D",
+    "correctOption": "A",
     "explanation": "The zebras' brains store memories of past encounters with lions, allowing them to recognize and avoid dangerous territory. Memory storage in the brain—not in body parts—enables this decision."
   },
   {
@@ -987,7 +987,9 @@
     "optionC": "Sharks receive energy directly from the fish that eat the smaller animals",
     "optionD": "Water plants get energy from the shellfish and fish",
     "correctOption": "C",
-    "explanation": "In a food chain or food pyramid, energy flows upward one level at a time. Each consumer eats the level below it and is eaten by the level above. Energy doesn't skip levels."
+    "explanation": "In a food chain or food pyramid, energy flows upward one level at a time. Each consumer eats the level below it and is eaten by the level above. Energy doesn't skip levels.",
+    "image": "/images/science/food-chain-diagram.svg",
+    "imageAlt": "Two example ocean and land food chains shown as stacked pictures connected by upward arrows. In the ocean chain (bottom to top): plankton, then small fish and crab, then tuna, then dolphin, then shark. Each arrow points from the animal that gets eaten up to the animal that eats it, showing energy flowing upward one step at a time."
   },
   {
     "levelBand": "Age 9",
@@ -1760,7 +1762,7 @@
     "explanation": "Plants use energy from the sun to make food from carbon dioxide and water. Animals can't do this - they must eat other organisms to get energy."
   },
   {
-    "levelBand": "Age 10 High Achiever",
+    "levelBand": "Age 10",
     "prompt": "In a forest food web, deer eat plants, and both coyotes and mountain lions eat deer. But coyotes also eat small animals. What kind of eater is a coyote that eats many different food sources?",
     "optionA": "A herbivore (plant-eater only)",
     "optionB": "A carnivore (meat-eater only)",
@@ -1772,10 +1774,10 @@
   {
     "levelBand": "Age 11 High Achiever",
     "prompt": "In a forest ecosystem, mountain lions are the top predators. Which path shows energy flowing from plants all the way up to a mountain lion?",
-    "optionA": "Grass → deer → birds → mountain lion (skipping a step)",
-    "optionB": "Grass → deer → coyote → mountain lion (complete path)",
-    "optionC": "Grass → grasshopper → frog → mountain lion (wrong connection)",
-    "optionD": "Grass → grasshopper → bird → mountain lion (wrong connection)",
+    "optionA": "Grass → deer → birds → mountain lion",
+    "optionB": "Grass → deer → coyote → mountain lion",
+    "optionC": "Grass → grasshopper → frog → mountain lion",
+    "optionD": "Grass → grasshopper → bird → mountain lion",
     "correctOption": "B",
     "explanation": "In this chain, energy flows: plants make food, deer eat plants, coyotes eat deer, and mountain lions eat coyotes. Every step represents one organism eating another."
   },
@@ -1832,10 +1834,10 @@
   {
     "levelBand": "Age 10 High Achiever",
     "prompt": "A famous comet was seen closest to the Sun in these years: 1759, 1835, 1910, and 1986. Based on this pattern, when would we expect to see it next?",
-    "optionA": "Around 2022 (too soon)",
-    "optionB": "Around 2043 (closer but still wrong)",
-    "optionC": "Around 2061 (correct prediction)",
-    "optionD": "Around 2136 (too far away)",
+    "optionA": "Around 2022",
+    "optionB": "Around 2043",
+    "optionC": "Around 2061",
+    "optionD": "Around 2136",
     "correctOption": "C",
     "explanation": "The time between visits is about 76 years: 1759→1835 (76 years), 1835→1910 (75 years), 1910→1986 (76 years). So 1986+76 ≈ 2061."
   },
@@ -2130,7 +2132,7 @@
     "explanation": "Migration is when animals travel to a different place during certain seasons. Birds fly south in fall to find food and warmth, then return in spring."
   },
   {
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "prompt": "When threatened by predators, a porcupine raises its quills to make itself look larger and more dangerous. This action is an example of",
     "optionA": "attracting a mate",
     "optionB": "finding food",
@@ -2160,7 +2162,7 @@
     "explanation": "Animals need to control their body temperature to survive. When a moose gets too hot, standing in cool water helps lower its body temperature."
   },
   {
-    "levelBand": "Age 10 High Achiever",
+    "levelBand": "Age 10",
     "prompt": "Which of these shows the correct order of energy flow in a food chain?",
     "optionA": "sun → grass → mouse → owl",
     "optionB": "mouse → grass → owl → sun",
@@ -2170,7 +2172,7 @@
     "explanation": "Energy flows from the sun to plants, which are eaten by animals, which may be eaten by other animals. Plants get energy from the sun first."
   },
   {
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "prompt": "When a moose detects danger, it creates a loud splash by slapping the water with its tail. This action is an example of an animal using a body part to",
     "optionA": "build a home",
     "optionB": "find a mate",
@@ -2327,7 +2329,7 @@
     "optionC": "Shadow about 8.1m long, casting toward the west",
     "optionD": "Shadow about 1.9m long, casting toward the west",
     "correctOption": "A",
-    "explanation": "At 3:45pm, the sun is in the west and moving toward the horizon, making shadows longer than at midday. The shadow at 3:45pm falls between the measurements at 2:30pm (3.5m) and 5:00pm (12.8m). Since 3:45pm is approximately halfway between 2:30pm and 5:00pm, the shadow length would be roughly halfway between 3.5m and 12.8m, which is about 5.8-6.5m. Shadows always point away from the sun — when the sun is in the west, the shadow points east."
+    "explanation": "At 3:45pm, the sun is in the west and moving toward the horizon, making shadows longer than at midday. Shadow length doesn't grow at a steady rate through the afternoon — it grows faster and faster as the sun gets lower and closer to the horizon, which is why the jump from 2:30pm to 5:00pm (3.5m to 12.8m) is so much bigger than earlier jumps. Since most of that growth happens later in the interval, the shadow at 3:45pm (halfway in time between 2:30pm and 5:00pm) should be noticeably less than the halfway point in length (which would be 8.15m) — about 5.8m fits that accelerating pattern. Shadows always point away from the sun — when the sun is in the west, the shadow points east."
   },
   {
     "levelBand": "Age 10",
@@ -3070,7 +3072,7 @@
     "explanation": "Growth is the increase in size and mass of an organism. Development is the change and maturation of body structures and functions. Together, growth and development explain how a baby becomes an adult."
   },
   {
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "prompt": "A sunflower starts as a tiny seed in the soil. It sprouts and grows into a young plant with leaves. The plant continues to grow taller and develops a large yellow flower head — this is the mature plant stage. After the flower is pollinated by insects, it produces new seeds inside the flower head. These new seeds can then grow into new sunflower plants. What is the correct order of these stages in a plant's life cycle, starting from seed?",
     "optionA": "Mature plant, then young plant, then seed, then fruit",
     "optionB": "Seed, then young sprouting plant, then mature plant, then fruit with seeds",

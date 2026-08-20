@@ -7,7 +7,9 @@
     "optionD": "8",
     "correctOption": "A",
     "levelBand": "Age 9",
-    "explanation": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Try counting them on a map!"
+    "explanation": "There are 7 continents: Africa, Antarctica, Asia, Australia, Europe, North America, and South America. Try counting them on a map!",
+    "image": "/images/geography/world-continents-map.png",
+    "imageAlt": "A world map where each continent is shaded a different color: North America (green), South America (dark green), Europe (dark red), Africa (yellow), Asia (orange), and Australia/Oceania (pink). Antarctica (blue) is shown separately in a small circle in the bottom-left corner."
   },
   {
     "prompt": "What is the largest ocean?",
@@ -1387,7 +1389,9 @@
     "optionD": "The tide cycle",
     "correctOption": "B",
     "levelBand": "Age 9",
-    "explanation": "The water cycle is the continuous process where water evaporates, forms clouds, and falls back to Earth as rain or snow. The same water is recycled again and again."
+    "explanation": "The water cycle is the continuous process where water evaporates, forms clouds, and falls back to Earth as rain or snow. The same water is recycled again and again.",
+    "image": "/images/geography/water-cycle-diagram.png",
+    "imageAlt": "A labeled diagram of the water cycle showing arrows looping between the ocean, mountains, and clouds: evaporation from the ocean rises into water storage in the atmosphere, condensation forms clouds, precipitation falls as rain and snow, and water flows back downhill as surface runoff and groundwater until it reaches the ocean again."
   },
   {
     "prompt": "What does a map key (or legend) show?",
@@ -1490,14 +1494,14 @@
     "explanation": "A waterfall is a natural landform, formed when a river flows over a cliff or steep drop. Canals, harbours, and railways are all built by people."
   },
   {
-    "prompt": "What is a delta?",
-    "optionA": "A mountain pass",
-    "optionB": "A fan-shaped area where a river splits into branches before meeting the sea",
-    "optionC": "A high, flat area of land",
-    "optionD": "A deep crack in the Earth's surface",
+    "prompt": "What is an estuary?",
+    "optionA": "A tropical rainforest",
+    "optionB": "A place where a river meets the sea and ocean water mixes with fresh river water",
+    "optionC": "A flat plain covered with water",
+    "optionD": "A deep gorge cut by a river",
     "correctOption": "B",
     "levelBand": "Age 9 High Achiever",
-    "explanation": "A delta is the fan-shaped area at the mouth of a river, where it slows down and splits into smaller channels before reaching the sea."
+    "explanation": "An estuary is an area where a river meets the sea and river water mixes with salty ocean water. It is home to unique plants and animals adapted to this environment."
   },
   {
     "prompt": "What is a tributary?",
@@ -1530,16 +1534,6 @@
     "explanation": "A plateau is a large, flat-topped area of high land. The Tibetan Plateau is the largest in the world, sometimes called 'the roof of the world'."
   },
   {
-    "prompt": "What is an estuary?",
-    "optionA": "A mountain peak",
-    "optionB": "A fast-flowing section of a river",
-    "optionC": "A lake formed behind a dam",
-    "optionD": "Where a river meets the sea, influenced by tides",
-    "correctOption": "D",
-    "levelBand": "Age 9 High Achiever",
-    "explanation": "An estuary is where a river meets the sea and is influenced by tides. The river becomes wider and its water becomes salty near the sea."
-  },
-  {
     "prompt": "What do contour lines on a map show?",
     "optionA": "Rivers",
     "optionB": "Roads",
@@ -1550,14 +1544,14 @@
     "explanation": "Contour lines on a map show the height and shape of the land. Lines that are close together show a steep slope."
   },
   {
-    "prompt": "What is deforestation?",
-    "optionA": "Planting new trees in a cleared area",
-    "optionB": "A type of erosion caused by water",
-    "optionC": "The freezing of a river in winter",
-    "optionD": "The clearing of forests by cutting or burning trees",
-    "correctOption": "D",
+    "prompt": "What is habitat loss?",
+    "optionA": "The pollution of river water",
+    "optionB": "When animals migrate to new areas",
+    "optionC": "The destruction or reduction of natural environments where plants and animals live",
+    "optionD": "The global increase in animal populations",
+    "correctOption": "C",
     "levelBand": "Age 9 High Achiever",
-    "explanation": "Deforestation is the clearing of forests by cutting or burning trees. It is a serious environmental problem that destroys habitats and affects the climate."
+    "explanation": "Habitat loss occurs when natural environments are destroyed or reduced, often through deforestation or urban development, threatening the plants and animals that live there."
   },
   {
     "prompt": "What is a glacier?",
@@ -1610,14 +1604,14 @@
     "explanation": "A rainforest is a dense, tropical forest that receives very high rainfall throughout the year, supporting an incredible variety of life."
   },
   {
-    "prompt": "What is urbanisation?",
-    "optionA": "The growth of farms in the countryside",
-    "optionB": "The building of parks in city centres",
-    "optionC": "A type of farming",
-    "optionD": "The increase in the proportion of people living in cities",
-    "correctOption": "D",
+    "prompt": "What does migration mean in geography?",
+    "optionA": "The building of new cities",
+    "optionB": "The movement of people from one place to another",
+    "optionC": "The flow of rivers",
+    "optionD": "The spread of disease",
+    "correctOption": "B",
     "levelBand": "Age 9 High Achiever",
-    "explanation": "Urbanisation is the increase in the proportion of people living in cities, as more people move from the countryside to urban areas."
+    "explanation": "Migration is the permanent or semi-permanent movement of people from one place to another. It can be caused by seeking better opportunities, fleeing war, or natural disasters."
   },
   {
     "prompt": "What is the main source of energy that drives Earth's weather systems?",
@@ -1760,14 +1754,14 @@
     "explanation": "Globalisation is the process of countries across the world becoming more connected through trade, communication, and travel."
   },
   {
-    "prompt": "What do we call the continuous movement of water through evaporation, condensation, and precipitation?",
-    "optionA": "The rock cycle",
-    "optionB": "The carbon cycle",
-    "optionC": "The tide cycle",
-    "optionD": "The water cycle",
-    "correctOption": "D",
+    "prompt": "What is evaporation?",
+    "optionA": "Water forming clouds",
+    "optionB": "The process where water turns from a liquid into a vapour and rises into the atmosphere",
+    "optionC": "Water falling as rain",
+    "optionD": "Water freezing into ice",
+    "correctOption": "B",
     "levelBand": "Age 10",
-    "explanation": "The water cycle is the continuous movement of water through evaporation, condensation, and precipitation. The same water is recycled over and over again."
+    "explanation": "Evaporation is the process where liquid water from oceans, lakes, and rivers turns into water vapour and rises into the atmosphere when warmed by the Sun."
   },
   {
     "prompt": "What is a tsunami?",
@@ -1940,14 +1934,14 @@
     "explanation": "Irrigation is the system of supplying water to farmland through pipes, ditches, or channels, so that crops can grow even in dry areas."
   },
   {
-    "prompt": "What is the greenhouse effect?",
-    "optionA": "The process of growing plants in a greenhouse",
-    "optionB": "The cooling of Earth's surface by clouds",
-    "optionC": "The way glaciers reflect sunlight back into space",
-    "optionD": "The trapping of heat in Earth's atmosphere by gases such as CO₂",
-    "correctOption": "D",
+    "prompt": "What is global warming?",
+    "optionA": "The breaking down of the ozone layer",
+    "optionB": "The long-term rise in Earth's average temperature due to increased greenhouse gases",
+    "optionC": "A sudden increase in ocean temperature",
+    "optionD": "The melting of all polar ice caps",
+    "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "The greenhouse effect is when gases like CO₂ trap heat in the Earth's atmosphere, keeping the planet warm — just like the glass of a greenhouse."
+    "explanation": "Global warming is the long-term rise in Earth's average temperature, primarily caused by the increase in greenhouse gases like carbon dioxide trapping heat in the atmosphere."
   },
   {
     "prompt": "What is a cyclone?",
@@ -1970,24 +1964,24 @@
     "explanation": "The Prime Meridian marks 0° longitude and passes through Greenwich in London. It divides the Earth into the Eastern and Western Hemispheres."
   },
   {
-    "prompt": "What is deposition and where does it typically occur?",
-    "optionA": "The wearing away of rock by weathering",
-    "optionB": "The process where eroded material is laid down in a new location, such as a river bend or river mouth",
-    "optionC": "The formation of new mountains",
-    "optionD": "The breaking down of rock by frost action",
+    "prompt": "What is weathering?",
+    "optionA": "The laying down of material in a new location",
+    "optionB": "The breaking down and wearing away of rock by wind, water, and weather",
+    "optionC": "The movement of material downhill",
+    "optionD": "The formation of new mountains",
     "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Deposition is when eroded material is dropped in a new location, typically at river bends, floodplains, or river mouths where the water slows right down."
+    "explanation": "Weathering is the process by which rock is broken down and worn away by wind, water, ice, and chemical processes. It is the first stage in the erosion cycle."
   },
   {
-    "prompt": "What is the water cycle?",
-    "optionA": "The process of treating water for domestic use",
-    "optionB": "How glaciers form over thousands of years",
-    "optionC": "The flow of rivers to the sea",
-    "optionD": "The continuous movement of water through evaporation, condensation, and precipitation",
-    "correctOption": "D",
+    "prompt": "What is condensation in the water cycle?",
+    "optionA": "Water sinking into the soil",
+    "optionB": "Water vapour cooling and turning into water droplets that form clouds",
+    "optionC": "Water breaking apart into hydrogen and oxygen",
+    "optionD": "Water flowing downhill in streams",
+    "correctOption": "B",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "The water cycle is the continuous movement of water — it evaporates from oceans, forms clouds through condensation, and returns to Earth as precipitation."
+    "explanation": "Condensation is the process where water vapour in the atmosphere cools and turns back into liquid water droplets, which gather to form clouds."
   },
   {
     "prompt": "What are pull factors in migration?",
@@ -2090,16 +2084,6 @@
     "levelBand": "Age 9"
   },
   {
-    "prompt": "Which ocean is the largest in the world?",
-    "optionA": "Atlantic",
-    "optionB": "Indian",
-    "optionC": "Pacific",
-    "optionD": "Arctic",
-    "correctOption": "C",
-    "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more area than all of Earth's land combined.",
-    "levelBand": "Age 9"
-  },
-  {
     "prompt": "Singapore is located on which continent?",
     "optionA": "Africa",
     "optionB": "Asia",
@@ -2107,37 +2091,7 @@
     "optionD": "Australia",
     "correctOption": "B",
     "explanation": "Singapore is an island city-state in Southeast Asia.",
-    "levelBand": "Age 9 High Achiever"
-  },
-  {
-    "prompt": "The Eiffel Tower is located in which city?",
-    "optionA": "London",
-    "optionB": "Paris",
-    "optionC": "Rome",
-    "optionD": "Berlin",
-    "correctOption": "B",
-    "explanation": "The Eiffel Tower is a famous iron tower located in Paris, France, built in 1889.",
-    "levelBand": "Age 9 High Achiever"
-  },
-  {
-    "prompt": "What is the capital of Germany?",
-    "optionA": "Munich",
-    "optionB": "Frankfurt",
-    "optionC": "Berlin",
-    "optionD": "Hamburg",
-    "correctOption": "C",
-    "explanation": "Berlin is the capital and largest city of Germany.",
-    "levelBand": "Age 10"
-  },
-  {
-    "prompt": "Which mountain range separates Europe from Asia?",
-    "optionA": "Alps",
-    "optionB": "Andes",
-    "optionC": "Ural Mountains",
-    "optionD": "Himalayas",
-    "correctOption": "C",
-    "explanation": "The Ural Mountains in Russia form part of the traditional boundary between the continents of Europe and Asia.",
-    "levelBand": "Age 10"
+    "levelBand": "Age 9"
   },
   {
     "prompt": "What is the currency used in both Germany and France?",
@@ -2177,7 +2131,7 @@
     "optionD": "Arizona",
     "correctOption": "C",
     "explanation": "Florida is nicknamed the 'Sunshine State' for its warm, sunny climate year-round.",
-    "levelBand": "Age 10 High Achiever"
+    "levelBand": "Age 10"
   },
   {
     "prompt": "Which desert is located in northern India and Pakistan?",
@@ -2190,13 +2144,13 @@
     "levelBand": "Age 11"
   },
   {
-    "prompt": "What is the longest river in the world?",
-    "optionA": "Amazon",
-    "optionB": "Nile",
-    "optionC": "Yangtze",
-    "optionD": "Mississippi",
-    "correctOption": "B",
-    "explanation": "The Nile, flowing through northeastern Africa, is traditionally recognised as the longest river in the world at around 6,650km.",
+    "prompt": "Which is the longest river in South America?",
+    "optionA": "The Amazon",
+    "optionB": "The Paraná",
+    "optionC": "The Orinoco",
+    "optionD": "The Rio de la Plata",
+    "correctOption": "A",
+    "explanation": "The Amazon is the longest river in South America, stretching about 6,400 km across the continent and flowing through Brazil and other countries.",
     "levelBand": "Age 11"
   },
   {
@@ -2207,16 +2161,6 @@
     "optionD": "Iceland",
     "correctOption": "B",
     "explanation": "Norway's coastline is famous for its dramatic fjords, carved by glaciers during the last Ice Age.",
-    "levelBand": "Age 11 High Achiever"
-  },
-  {
-    "prompt": "Which of these is the smallest country in the world by area?",
-    "optionA": "Monaco",
-    "optionB": "Vatican City",
-    "optionC": "San Marino",
-    "optionD": "Liechtenstein",
-    "correctOption": "B",
-    "explanation": "Vatican City, at about 0.49 km², is the smallest country in the world — smaller than Monaco, San Marino, or Liechtenstein.",
     "levelBand": "Age 11 High Achiever"
   },
   {
@@ -2301,26 +2245,6 @@
   },
   {
     "levelBand": "Age 9",
-    "prompt": "The music people listen to, the clothes they wear, the holidays they celebrate, and the foods they prepare are all examples of a group's:",
-    "optionA": "government",
-    "optionB": "culture",
-    "optionC": "climate",
-    "optionD": "natural resources",
-    "correctOption": "B",
-    "explanation": "Culture includes all the shared beliefs, customs, and practices of a group, including their art, music, clothing, holidays, and food traditions."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Families often pass down stories, recipes, and skills from grandparents to parents to children. This sharing of traditions from one generation to the next happens mainly through:",
-    "optionA": "television and social media",
-    "optionB": "public schools and teachers",
-    "optionC": "family stories and direct teaching",
-    "optionD": "government laws and rules",
-    "correctOption": "C",
-    "explanation": "While modern media can share information, traditions and cultural knowledge have historically been passed down primarily through family members telling stories, demonstrating skills, and sharing experiences directly with younger generations."
-  },
-  {
-    "levelBand": "Age 9",
     "prompt": "Kenya and Egypt are both large countries located on the continent of:",
     "optionA": "Africa",
     "optionB": "Asia",
@@ -2371,226 +2295,6 @@
   },
   {
     "levelBand": "Age 9",
-    "prompt": "When someone works at a job and receives money in return for their work, that payment is called a:",
-    "optionA": "tax",
-    "optionB": "profit",
-    "optionC": "wage",
-    "optionD": "savings",
-    "correctOption": "C",
-    "explanation": "A wage is payment given to a worker in exchange for performing work or providing labor."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Which elected official is responsible for running a city government and making important decisions for the city?",
-    "optionA": "Governor",
-    "optionB": "President",
-    "optionC": "Mayor",
-    "optionD": "Senator",
-    "correctOption": "C",
-    "explanation": "A mayor is the chief elected official of a city who leads the city government and makes decisions for local residents."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Local governments, such as city councils and town boards, are important because they make decisions that affect the:",
-    "optionA": "local community and town",
-    "optionB": "entire country",
-    "optionC": "whole world",
-    "optionD": "state government only",
-    "correctOption": "A",
-    "explanation": "Local governments make decisions about local issues like schools, roads, parks, and services that directly affect the people who live in that community or town."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "In traditional Haudenosaunee (Iroquois) village government, different people had different roles: Clan Mothers selected the leaders, Council Leaders made the plans, Elders provided guidance, and all Village Members were allowed to attend meetings and express their ideas. Based on this system, what was one power that regular village members had?",
-    "optionA": "They could select the council leaders",
-    "optionB": "They could propose ideas and speak at the council",
-    "optionC": "They could approve all decisions",
-    "optionD": "They could remove the clan mothers",
-    "correctOption": "B",
-    "explanation": "All village members could attend council meetings and had the right to speak and share their ideas, allowing them to participate in community decisions."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "During the 1500s, European explorers sailed across the Atlantic Ocean to North America. One of their main goals was to:",
-    "optionA": "establish permanent farming settlements",
-    "optionB": "discover gold and valuable metals",
-    "optionC": "find a faster ocean route to trade with Asia",
-    "optionD": "learn about Native American cultures",
-    "correctOption": "C",
-    "explanation": "European explorers sought a shorter water route to Asia to increase trade and profits. This search for a western passage to Asia motivated much of the early exploration of North America."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Haudenosaunee (Iroquois) villages in what is now New York were typically built near:",
-    "optionA": "large forests only",
-    "optionB": "rivers and streams",
-    "optionC": "the ocean coast",
-    "optionD": "high mountain peaks",
-    "correctOption": "B",
-    "explanation": "Haudenosaunee villages were located near rivers and streams that provided fresh water, food sources like fish, and transportation routes."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "What style of house did the Haudenosaunee (Iroquois) people traditionally build to live in?",
-    "optionA": "Teepees made of animal hide",
-    "optionB": "Dome-shaped igloos made of ice",
-    "optionC": "Large wooden structures called longhouses",
-    "optionD": "Single-room log cabins",
-    "correctOption": "C",
-    "explanation": "Longhouses were large communal homes made of wood frames and bark that housed entire families and groups of related families."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "What is the term for a land area that is controlled and ruled by another, distant country?",
-    "optionA": "A nation",
-    "optionB": "A colony",
-    "optionC": "A region",
-    "optionD": "A territory",
-    "correctOption": "B",
-    "explanation": "A colony is a territory settled and controlled by people from another country. The settlers remain subjects of their home country's government."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "Which of these people was a leading political figure during the American Revolution, wrote important documents including the Declaration of Independence, and later served as President of the United States?",
-    "optionA": "Benjamin Franklin",
-    "optionB": "Thomas Jefferson",
-    "optionC": "John Adams",
-    "optionD": "George Washington",
-    "correctOption": "B",
-    "explanation": "Thomas Jefferson was the principal author of the Declaration of Independence, a key Revolutionary leader, and later became the third President of the United States."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "Large numbers of African people came to the early English colonies in North America primarily because:",
-    "optionA": "They were forced to come as enslaved people to work on farms and plantations",
-    "optionB": "They were searching for religious freedom",
-    "optionC": "They wanted to escape wars in Africa",
-    "optionD": "They were invited by colonial leaders to start their own settlements",
-    "correctOption": "A",
-    "explanation": "Africans were brought to the colonies against their will as enslaved people. They were forced to provide labor, particularly on southern plantations growing tobacco and rice."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "The Dutch established a colony called New Amsterdam in the early 1600s, in what is now New York City. Most of the early settlers in New Amsterdam came from:",
-    "optionA": "England",
-    "optionB": "France",
-    "optionC": "The Netherlands (Holland)",
-    "optionD": "Spain",
-    "correctOption": "C",
-    "explanation": "The Dutch colony of New Amsterdam was settled primarily by people from the Netherlands, which is why it was named New Amsterdam after Amsterdam, a major Dutch city."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "Study this timeline of events during the American Revolution and early United States: In 1775, the Revolutionary War began. In 1776, the Declaration of Independence was signed. In 1777, New York adopted its own state constitution and the Articles of Confederation were written. In 1781, the Articles of Confederation were finally approved by all 13 states and the British surrendered. In 1783, a peace treaty was signed. In 1787, the new United States Constitution was written. In 1788, the Constitution was approved by all states. In 1789, the new government officially began. In 1791, the Bill of Rights was added to the Constitution. Based on this timeline, in which year did New York adopt its state constitution?",
-    "optionA": "1777",
-    "optionB": "1781",
-    "optionC": "1787",
-    "optionD": "1789",
-    "correctOption": "A",
-    "explanation": "According to the timeline, New York adopted its state constitution in 1777, the same year the Articles of Confederation were written."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "Review this timeline of the Revolutionary War and early United States government: 1775—Revolutionary War starts; 1776—Declaration of Independence signed; 1777—New York's state constitution adopted and Articles of Confederation written; 1781—Articles of Confederation approved by all states and British surrender; 1783—Peace treaty signed ending the war; 1787—United States Constitution written; 1788—Constitution approved; 1789—New government begins; 1791—Bill of Rights added. Which statement about the order of these events is true?",
-    "optionA": "The peace treaty was signed before the United States Constitution was written",
-    "optionB": "The Bill of Rights was part of the original Constitution when it was first written",
-    "optionC": "The Declaration of Independence was signed before the Revolutionary War began",
-    "optionD": "The Articles of Confederation and the Constitution were approved in the same year",
-    "correctOption": "A",
-    "explanation": "According to the timeline, the peace treaty was signed in 1783, which comes before 1787 when the Constitution was written. The other statements are false based on the timeline."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Which of these actions would help save New York's natural resources and reduce waste?",
-    "optionA": "Using electric lights all day and night",
-    "optionB": "Taking short showers instead of long baths",
-    "optionC": "Running the air conditioner on the coldest setting all summer",
-    "optionD": "Leaving water running while brushing teeth",
-    "correctOption": "B",
-    "explanation": "Taking shorter showers conserves water, which is an important natural resource. All the other options waste resources."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "In the early 1800s, New York built a canal connecting the Hudson River to the Great Lakes. This 363-mile waterway was important because it:",
-    "optionA": "made it possible for ships to avoid the dangerous Atlantic Ocean",
-    "optionB": "allowed goods to be transported cheaply and quickly between the Great Lakes and New York City",
-    "optionC": "created the first transportation route to the West",
-    "optionD": "was used only for passenger travel",
-    "correctOption": "B",
-    "explanation": "The canal (known as the Erie Canal) provided a direct water route that made shipping goods much faster, easier, and cheaper between inland areas and the Atlantic coast, boosting New York's economy."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "Which sequence shows the correct order in which major types of transportation were first developed and used in New York State?",
-    "optionA": "Steamboats, railroads, automobiles, airplanes",
-    "optionB": "Railroads, steamboats, automobiles, airplanes",
-    "optionC": "Automobiles, steamboats, airplanes, railroads",
-    "optionD": "Steamboats, automobiles, railroads, airplanes",
-    "correctOption": "A",
-    "explanation": "Steamboats were developed first (early 1800s), followed by railroads (mid-1800s), then automobiles (late 1800s-early 1900s), and finally practical airplanes (early 1900s)."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "The United States flag has 13 horizontal stripes. What do these stripes represent?",
-    "optionA": "The 13 original states that formed the United States",
-    "optionB": "The 13 months of a special calendar used by early Americans",
-    "optionC": "The 13 European countries that helped America gain independence",
-    "optionD": "The 13 major rivers in the United States",
-    "correctOption": "A",
-    "explanation": "The 13 stripes on the American flag represent the 13 original states that declared independence from Great Britain and formed the United States of America."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Which national holiday honors and remembers soldiers and veterans who died while serving in the United States military?",
-    "optionA": "Veterans Day",
-    "optionB": "Memorial Day",
-    "optionC": "Independence Day",
-    "optionD": "Thanksgiving",
-    "correctOption": "B",
-    "explanation": "Memorial Day, observed in May, is dedicated to honoring and remembering those who died in military service to the United States."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Every ten years, the United States conducts a census. What is the primary purpose of taking a census?",
-    "optionA": "To measure how tall people are",
-    "optionB": "To count the population and gather information about people",
-    "optionC": "To record people's favorite foods and customs",
-    "optionD": "To count how many cars people own",
-    "correctOption": "B",
-    "explanation": "A census is a count of all the people living in the country. The information gathered helps determine how to divide government resources and representation."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "Which court is the highest and most powerful in the United States, with the final say on the nation's laws?",
-    "optionA": "The New York State Court of Appeals",
-    "optionB": "The United States District Court",
-    "optionC": "The United States Supreme Court",
-    "optionD": "The Criminal Court of New York City",
-    "correctOption": "C",
-    "explanation": "The United States Supreme Court is the highest court in the country and has final authority over interpreting the Constitution and federal laws."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Saluting the flag, learning about American history, and participating in July 4th celebrations are all examples of:",
-    "optionA": "learning history lessons",
-    "optionB": "following government rules",
-    "optionC": "showing patriotism and love for one's country",
-    "optionD": "religious practices",
-    "correctOption": "C",
-    "explanation": "Patriotism is love, respect, and devotion to one's country. These actions show appreciation for and loyalty to the United States."
-  },
-  {
-    "levelBand": "Age 10",
-    "prompt": "The United States has a representative government, which means that citizens choose leaders to make decisions on their behalf. What is the main role of citizens in this type of government?",
-    "optionA": "To make all decisions themselves without any leaders",
-    "optionB": "To have no role in government decisions",
-    "optionC": "To elect government officials who represent them and make decisions",
-    "optionD": "To serve as judges and enforce all laws",
-    "correctOption": "C",
-    "explanation": "In a representative government, citizens participate by voting for and electing officials who make laws and decisions on their behalf."
-  },
-  {
-    "levelBand": "Age 9",
     "prompt": "Look at a world map. Which two continents are located completely south of the equator?",
     "optionA": "Africa and South America",
     "optionB": "South America and Asia",
@@ -2598,16 +2302,6 @@
     "optionD": "Europe and Australia",
     "correctOption": "C",
     "explanation": "The equator is an imaginary line that divides Earth into the Northern and Southern hemispheres. Australia and Antarctica are the only two continents located entirely south of the equator."
-  },
-  {
-    "levelBand": "Age 9",
-    "prompt": "Read this passage: 'Video games are a form of entertainment that many people enjoy. They often involve solving puzzles and completing challenges. Players need to use strategy and quick thinking to succeed. In my opinion, video games are the most fun activity anyone can do.' Which sentence from this passage is an opinion rather than a fact?",
-    "optionA": "Video games are a form of entertainment that many people enjoy",
-    "optionB": "They often involve solving puzzles and completing challenges",
-    "optionC": "Players need to use strategy and quick thinking to succeed",
-    "optionD": "In my opinion, video games are the most fun activity anyone can do",
-    "correctOption": "D",
-    "explanation": "An opinion is a belief or judgment that can differ from person to person. The first three sentences state facts that can be observed and verified. The last sentence beginning with 'In my opinion' is clearly a personal judgment that not everyone would agree with."
   },
   {
     "levelBand": "Age 11 High Achiever",
@@ -3171,16 +2865,16 @@
   },
   {
     "levelBand": "Age 9",
-    "prompt": "Which river is the longest in the world, flowing through several countries before emptying into the Mediterranean Sea?",
-    "optionA": "The Nile River",
-    "optionB": "The Amazon River",
-    "optionC": "The Yangtze River",
-    "optionD": "The Mississippi River",
+    "prompt": "How long is the Nile River approximately?",
+    "optionA": "About 6,650 km",
+    "optionB": "About 4,000 km",
+    "optionC": "About 3,000 km",
+    "optionD": "About 8,000 km",
     "correctOption": "A",
-    "explanation": "The Nile flows through Egypt and several other African countries for over 4,000 miles, making it the longest river on Earth. The Amazon carries more water but is shorter in length. The Yangtze is long but is in Asia, and the Mississippi is long but shorter than the Nile."
+    "explanation": "The Nile is approximately 6,650 km long, making it the world's longest river. It flows through eleven countries before reaching the Mediterranean Sea."
   },
   {
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "prompt": "The Thames River flows through a major European capital city. Which city has the Thames River running through it?",
     "optionA": "Paris, France",
     "optionB": "London, England",
@@ -3247,7 +2941,7 @@
     "optionC": "Australia and Asia",
     "optionD": "Europe and Asia",
     "correctOption": "D",
-    "explanation": "Geographers use the Ural Mountains to mark where Europe ends and Asia begins. This mountain range runs through Russia north to south. The other boundaries (A, B, D) are formed by water or other features, not the Urals."
+    "explanation": "Geographers use the Ural Mountains to mark where Europe ends and Asia begins. This mountain range runs through Russia north to south. The other boundaries (A, B, C) are formed by water or other features, not the Urals."
   },
   {
     "levelBand": "Age 10 High Achiever",

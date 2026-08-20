@@ -11,6 +11,8 @@ type QuestionData = {
   optionD: string;
   passage?: string | null;
   passageId?: string | null;
+  image?: string | null;
+  imageAlt?: string | null;
 };
 
 type SessionQuestion = {
@@ -201,6 +203,16 @@ export default function SessionClient({ sessionId, sessionQuestions }: Props) {
           >
             {question.passage}
           </div>
+        )}
+
+        {/* Question image — diagram/map that the prompt refers to */}
+        {question.image && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={question.image}
+            alt={question.imageAlt ?? ""}
+            className="max-h-64 w-full rounded-3xl bg-white object-contain shadow-sm ring-1 ring-indigo-100"
+          />
         )}
 
         {/* Question card */}

@@ -37,6 +37,8 @@ export default async function SessionPage({
       optionD: sq.question.optionD,
       passage: sq.question.passage,
       passageId: sq.question.passageId,
+      image: sq.question.image,
+      imageAlt: sq.question.imageAlt,
     },
   }));
 

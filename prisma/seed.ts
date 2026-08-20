@@ -4,6 +4,7 @@ import englishQuestions from "../data/seed/english.json";
 import geographyQuestions from "../data/seed/geography.json";
 import spaceQuestions from "../data/seed/space.json";
 import scienceQuestions from "../data/seed/science.json";
+import generalKnowledgeQuestions from "../data/seed/generalKnowledge.json";
 
 const prisma = new PrismaClient();
 
@@ -18,6 +19,8 @@ type QuestionInput = {
   explanation?: string;
   passage?: string;
   passageId?: string;
+  image?: string;
+  imageAlt?: string;
 };
 
 // Seed questions for one subject safely.
@@ -76,6 +79,8 @@ async function seedSubject(subject: string, questions: QuestionInput[]) {
         explanation: q.explanation ?? null,
         passage: q.passage ?? null,
         passageId: q.passageId ?? null,
+        image: q.image ?? null,
+        imageAlt: q.imageAlt ?? null,
         isActive: true,
       })),
     });
@@ -129,6 +134,7 @@ async function main() {
   await seedSubject("geography", geographyQuestions);
   await seedSubject("space", spaceQuestions);
   await seedSubject("science", scienceQuestions);
+  await seedSubject("generalKnowledge", generalKnowledgeQuestions);
 }
 
 main()

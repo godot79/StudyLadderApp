@@ -185,6 +185,19 @@ original design" below).
      is correct) — this path has no computable check, see step 5 below.
    Every item also needs: `subject`, `topic`, `levelBand`, `prompt`,
    `optionA`-`optionD`, `correctOption`, `explanation`.
+
+   Optional fields, both now carried through by `stage.ts`/`merge.ts` end to
+   end (added 2026-08-19): `passage` + `passageId` for shared reading-
+   comprehension text (see `data/seed/english.json` for the pattern — several
+   consecutive items share one `passageId`); `image` + `imageAlt` for a
+   simple diagram/map stored under `public/images/<subject>/` (see
+   `public/images/README.md`). Image scope is deliberately narrow for
+   now — simple labeled diagrams/maps only, not photographs or anything
+   without a clear reuse license — so most of the image-dependent items this
+   pipeline has historically deferred (topographic maps, H-R diagrams,
+   weather maps, moon-phase diagrams, etc.) should still be deferred unless
+   they're genuinely simple enough to fit that scope; use judgment per item
+   rather than assuming the backlog is now unblocked.
 4. Run the deterministic half in one command:
    ```
    npx tsx research/pipeline/scripts/run-batch.ts <batch-dir> <subject> "<source name>"
@@ -293,16 +306,15 @@ correctness IS now checked, but only if you actually run Step 5 below —
   files). `data/seed/science.json` was added, but only after asking and
   getting an explicit yes — don't assume the same answer applies to a future
   new subject.
-- **Passage-based reading comprehension has no destination format yet.**
-  The round-3 UK KS2 English Reading batch is blocked on this, not on
-  content quality — see `research/pipeline/uk-ks2-english-reading-2025/`.
-  `data/seed/english.json` only supports standalone grammar/vocabulary
-  items (no `passage` field, no way to group several questions under one
-  shared text). Design for adding this is being scoped separately (see
-  `docs/passage-support-design.md` once it exists) — do not invent a
-  workaround field on `02-transformed.json` and stage it without that
-  design being settled first; a subagent did exactly this on the UK batch
-  and it was correctly not carried forward into staging.
+- **Passage-based reading comprehension is now supported (resolved
+  2026-08-19).** `data/seed/english.json` supports `passage` + `passageId`
+  end to end (schema, `stage.ts`/`merge.ts`, and the session UI all handle
+  it — see the optional-fields note above). The round-3 UK KS2 English
+  Reading batch (`research/pipeline/uk-ks2-english-reading-2025/`) was
+  blocked on this and can now be revisited, subject to its separate
+  known issue: the source passages themselves are third-party copyrighted
+  and excluded from the gov.uk OGL license (see the licensing note below) —
+  that still needs wholly original passages, not the source's own text.
 - **Sources whose passages/texts are third-party copyrighted, distinct from
   the test questions' own license, are a real and recurring risk** — not
   just a Singapore/HK aggregator problem as the source catalog originally

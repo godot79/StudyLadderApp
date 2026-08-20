@@ -40,6 +40,13 @@ const SUBJECTS = [
     playable: true,
     headerClass: "bg-gradient-to-br from-lime-500 to-green-600",
   },
+  {
+    key: "generalKnowledge",
+    label: "General Knowledge",
+    emoji: "🧠",
+    playable: true,
+    headerClass: "bg-gradient-to-br from-amber-400 to-orange-500",
+  },
 ] as const;
 
 const MEDAL_TIERS = [

@@ -13,6 +13,8 @@ export type Question = {
   isActive: boolean;
   passage?: string | null;
   passageId?: string | null;
+  image?: string | null;
+  imageAlt?: string | null;
 };
 
 export type SessionQuestionOutcome = {

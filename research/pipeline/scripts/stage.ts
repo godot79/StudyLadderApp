@@ -29,6 +29,10 @@ type QuestionOut = {
   optionD: string;
   correctOption: string;
   explanation?: string;
+  passage?: string;
+  passageId?: string;
+  image?: string;
+  imageAlt?: string;
 };
 
 function readJsonIfExists<T>(path: string, fallback: T): T {
@@ -62,6 +66,8 @@ function main() {
     optionD: item.optionD,
     correctOption: item.correctOption,
     explanation: item.explanation,
+    ...(item.passage ? { passage: item.passage, passageId: item.passageId } : {}),
+    ...(item.image ? { image: item.image, imageAlt: item.imageAlt } : {}),
   }));
 
   writeFileSync(join(batchDir, "staging.json"), JSON.stringify(staging, null, 2));

@@ -167,7 +167,9 @@
     "optionD": "Mars, Earth, Venus, Mercury",
     "correctOption": "B",
     "levelBand": "Age 9",
-    "explanation": "The correct order starting from the Sun is Mercury, Venus, Earth, Mars. A helpful way to remember is 'My Very Excellent Mother Just Served Us Noodles'."
+    "explanation": "The correct order starting from the Sun is Mercury, Venus, Earth, Mars. A helpful way to remember is 'My Very Excellent Mother Just Served Us Noodles'.",
+    "image": "/images/space/solar-system-diagram.png",
+    "imageAlt": "A labeled diagram of the solar system showing the Sun on the left, followed in order by Mercury, Venus, Earth (with its Moon), Mars, the asteroid belt, Jupiter, Saturn, Uranus, Neptune, and finally Pluto and other small icy objects in the Kuiper Belt on the far right."
   },
   {
     "prompt": "What do we call a rock from space that burns up as a streak of light in Earth's atmosphere?",
@@ -620,14 +622,14 @@
     "explanation": "Orion is the constellation with three bright stars in a row forming 'Orion's Belt'. Orion is one of the most easily recognised constellations in the night sky."
   },
   {
-    "prompt": "What keeps Earth in its orbit around the Sun?",
-    "optionA": "Earth's magnetic field",
-    "optionB": "The Sun's gravitational pull",
-    "optionC": "Solar wind",
-    "optionD": "Earth's rotation speed",
-    "correctOption": "B",
+    "prompt": "Why do astronauts in space appear to float?",
+    "optionA": "There is no gravity in space",
+    "optionB": "Earth's atmosphere is thinner there",
+    "optionC": "They are in free fall, falling around Earth at the same speed as the spacecraft",
+    "optionD": "Gravity is only for stars, not planets",
+    "correctOption": "C",
     "levelBand": "Age 10",
-    "explanation": "The Sun's gravitational pull keeps Earth in its orbit. Without it, Earth would travel in a straight line out into deep space."
+    "explanation": "Astronauts appear to float because they and their spacecraft are in free fall together, falling toward Earth while moving forward fast enough to orbit it. They experience weightlessness, not zero gravity."
   },
   {
     "prompt": "What is the outermost visible layer of the Sun, seen as a glowing halo during a total solar eclipse?",
@@ -1136,7 +1138,7 @@
     "optionC": "The Schwarzschild radius",
     "optionD": "The singularity",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever",
+    "levelBand": "Age 11",
     "explanation": "The singularity is the point of theoretically infinite density at the centre of a black hole, where our current understanding of physics breaks down."
   },
   {
@@ -1246,7 +1248,7 @@
     "optionC": "Apogee",
     "optionD": "Aphelion",
     "correctOption": "D",
-    "levelBand": "Age 11 High Achiever",
+    "levelBand": "Age 11",
     "explanation": "Aphelion is the point in Earth's orbit when it is farthest from the Sun. Earth reaches aphelion in early July, during the Northern Hemisphere's summer."
   },
   {
@@ -1430,14 +1432,14 @@
     "explanation": "Neptune is the farthest planet from the Sun, at about 30 AU (30 times the Earth-Sun distance). It takes 165 years to complete one orbit."
   },
   {
-    "prompt": "What causes a solar eclipse?",
-    "optionA": "Earth passes between the Sun and Moon",
-    "optionB": "The Moon passes between the Earth and Sun, blocking sunlight",
-    "optionC": "The Sun disappears behind a cloud",
-    "optionD": "Earth's shadow falls on the Sun",
+    "prompt": "What is the main difference between a solar eclipse and a lunar eclipse?",
+    "optionA": "A solar eclipse is when the Sun blocks the Moon's light; a lunar eclipse is when the Moon blocks the Sun's light",
+    "optionB": "A solar eclipse is when the Moon passes between Earth and the Sun; a lunar eclipse is when Earth's shadow falls on the Moon",
+    "optionC": "A solar eclipse is bigger than a lunar eclipse",
+    "optionD": "They are the same event but occur at different times of day",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever",
-    "explanation": "A solar eclipse occurs when the Moon passes between Earth and the Sun, blocking sunlight. For a brief time it can become dark in the middle of the day."
+    "levelBand": "Age 9",
+    "explanation": "In a solar eclipse, the Moon passes between Earth and the Sun, blocking the Sun's light. In a lunar eclipse, Earth's shadow falls on the Moon, blocking sunlight from reaching the Moon's surface."
   },
   {
     "prompt": "On which planet would you weigh the most, due to its very strong gravitational pull?",
@@ -1800,14 +1802,14 @@
     "explanation": "The Goldilocks zone is the region around a star that is not too hot and not too cold for liquid water to exist on a planet's surface — just right for life as we know it."
   },
   {
-    "prompt": "What is stellar parallax used to measure?",
-    "optionA": "The temperature of nearby stars",
-    "optionB": "The size of distant galaxies",
-    "optionC": "Distances to nearby stars, using their apparent shift in position as Earth orbits the Sun",
-    "optionD": "The speed at which stars drift across the sky",
+    "prompt": "What determines the colour of a star?",
+    "optionA": "The distance of the star from Earth",
+    "optionB": "The amount of dust around the star",
+    "optionC": "The star's temperature — hotter stars appear blue, cooler stars appear red",
+    "optionD": "The brightness of the star",
     "correctOption": "C",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "Stellar parallax is used to measure distances to nearby stars by observing how much a star appears to shift against the background of distant stars as Earth moves around the Sun."
+    "explanation": "A star's colour reveals its temperature. The hottest stars appear blue, while cooler stars appear red or orange. Our Sun is a yellow star because it has a medium temperature."
   },
   {
     "prompt": "Approximately how many kilometres is one light-year?",
@@ -1930,23 +1932,23 @@
     "explanation": "A comet's tail is made of gas and dust released as solar radiation and the solar wind heat the comet's icy nucleus. The tail always points away from the Sun, not behind the comet's direction of travel — because it is pushed outward by solar wind pressure. A comet can actually have two tails: an ion tail and a dust tail."
   },
   {
-    "prompt": "How many planets are in our solar system?",
-    "optionA": "7",
-    "optionB": "8",
-    "optionC": "9",
-    "optionD": "10",
-    "correctOption": "B",
-    "explanation": "There are 8 planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto was reclassified as a dwarf planet in 2006.",
+    "prompt": "How many moons does Jupiter have?",
+    "optionA": "16",
+    "optionB": "32",
+    "optionC": "48",
+    "optionD": "64",
+    "correctOption": "A",
+    "explanation": "Jupiter has 16 known moons (as of recent counts). The four largest are called the Galilean moons: Io, Europa, Ganymede, and Callisto.",
     "levelBand": "Age 9"
   },
   {
-    "prompt": "Which planet is the largest in our solar system?",
-    "optionA": "Saturn",
-    "optionB": "Jupiter",
-    "optionC": "Neptune",
-    "optionD": "Uranus",
-    "correctOption": "B",
-    "explanation": "Jupiter is the largest planet in our solar system — more than 11 times wider than Earth.",
+    "prompt": "What is the second-largest planet in our solar system?",
+    "optionA": "Neptune",
+    "optionB": "Uranus",
+    "optionC": "Saturn",
+    "optionD": "Mars",
+    "correctOption": "C",
+    "explanation": "Saturn is the second-largest planet in our solar system after Jupiter. It is famous for its spectacular rings made of ice and rock.",
     "levelBand": "Age 9"
   },
   {
@@ -1990,13 +1992,13 @@
     "levelBand": "Age 10"
   },
   {
-    "prompt": "How long does it take Earth to orbit the Sun once?",
-    "optionA": "24 hours",
-    "optionB": "1 month",
-    "optionC": "1 year",
-    "optionD": "10 years",
-    "correctOption": "C",
-    "explanation": "Earth takes approximately 365.25 days — one year — to complete one orbit around the Sun.",
+    "prompt": "How long does it take Mercury to orbit the Sun?",
+    "optionA": "88 Earth days",
+    "optionB": "225 Earth days",
+    "optionC": "365 Earth days",
+    "optionD": "687 Earth days",
+    "correctOption": "A",
+    "explanation": "Mercury takes about 88 Earth days to orbit the Sun once, making it the fastest-orbiting planet because it is closest to the Sun.",
     "levelBand": "Age 10"
   },
   {
@@ -2050,13 +2052,13 @@
     "levelBand": "Age 11"
   },
   {
-    "prompt": "Approximately how long does light from the Sun take to reach Earth?",
-    "optionA": "8 seconds",
-    "optionB": "8 minutes",
-    "optionC": "8 hours",
-    "optionD": "8 days",
-    "correctOption": "B",
-    "explanation": "Light travels from the Sun to Earth in about 8 minutes and 20 seconds, covering roughly 150 million km.",
+    "prompt": "Approximately how far away is the Sun from Earth?",
+    "optionA": "150,000 km",
+    "optionB": "15 million km",
+    "optionC": "150 million km",
+    "optionD": "1.5 billion km",
+    "correctOption": "C",
+    "explanation": "The Sun is approximately 150 million km from Earth. This distance is called an astronomical unit (AU) and is used to measure distances within our solar system.",
     "levelBand": "Age 11"
   },
   {
@@ -2067,7 +2069,7 @@
     "optionD": "Accretion disk",
     "correctOption": "B",
     "explanation": "The event horizon is the boundary around a black hole beyond which the escape velocity exceeds the speed of light, so nothing — not even light — can escape.",
-    "levelBand": "Age 11 High Achiever"
+    "levelBand": "Age 11"
   },
   {
     "levelBand": "Age 9",
@@ -2121,13 +2123,13 @@
   },
   {
     "levelBand": "Age 9",
-    "prompt": "If you observe the patterns of stars in the night sky from the same place on Earth throughout an entire year, you notice the star patterns shift and change. At the end of the year, the same stars appear in the same positions again. How long does it take for Earth to complete one full orbit around the Sun?",
-    "optionA": "one week",
-    "optionB": "one year",
-    "optionC": "one month",
-    "optionD": "one day",
+    "prompt": "How long does it take Earth to rotate once on its axis?",
+    "optionA": "One week",
+    "optionB": "One day (24 hours)",
+    "optionC": "One month",
+    "optionD": "One year",
     "correctOption": "B",
-    "explanation": "Earth takes one full year (approximately 365 days) to travel completely around the Sun and return to the same position in its orbit."
+    "explanation": "Earth takes about 24 hours to rotate once on its axis, which is why we have day and night. This is different from one full orbit around the Sun."
   },
   {
     "levelBand": "Age 9",
@@ -2171,13 +2173,13 @@
   },
   {
     "levelBand": "Age 9",
-    "prompt": "Every year, Earth completes one full trip around the Sun and returns to the same place in space. How long does this one complete orbit take?",
-    "optionA": "One month",
-    "optionB": "One week",
-    "optionC": "One year",
-    "optionD": "30 days",
-    "correctOption": "C",
-    "explanation": "Earth is constantly moving in a big circle around the Sun. One complete trip around the Sun takes exactly one year—that's why we have calendars that mark the yearly cycle."
+    "prompt": "How long does it take Venus to orbit the Sun?",
+    "optionA": "88 Earth days",
+    "optionB": "225 Earth days",
+    "optionC": "365 Earth days",
+    "optionD": "687 Earth days",
+    "correctOption": "B",
+    "explanation": "Venus takes about 225 Earth days to orbit the Sun once. Interestingly, Venus spins so slowly that one day on Venus is longer than one year on Venus!"
   },
   {
     "levelBand": "Age 9",
@@ -2190,7 +2192,7 @@
     "explanation": "The Moon seems to change shape night to night because we see different amounts of its lit side as it orbits Earth. This pattern of changing shapes is called the lunar cycle."
   },
   {
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "prompt": "Astronauts in the Apollo space program had to eat while floating in zero gravity. What was something special about the food they ate?",
     "optionA": "They only drank liquids because solid food would float away and be lost",
     "optionB": "They did not eat anything during space missions because food was too dangerous in space",

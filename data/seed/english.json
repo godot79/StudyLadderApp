@@ -780,7 +780,7 @@
     "explanation": "The root 'aud-' means 'hear', so an audition is a hearing or listening test for a performer. 'Autograph' and 'autumn' use 'auto-'/'aut-' instead, and 'audit' relates to a financial check, not hearing, despite the similar spelling."
   },
   {
-    "prompt": "Which underlined part is a clause in: 'Although it was raining, we walked to school'?",
+    "prompt": "Which part of this sentence is a clause: 'Although it was raining, we walked to school'?",
     "optionA": "'Although it was raining'",
     "optionB": "'to school'",
     "optionC": "'raining'",
@@ -830,14 +830,14 @@
     "explanation": "Hyperbole is exaggeration used for effect, and nobody has really said something a literal million times. The other sentences use a factual number, personification, and a simile instead."
   },
   {
-    "prompt": "Which word uses the prefix 'trans-' to mean 'across'?",
-    "optionA": "transplant",
+    "prompt": "Which word uses the prefix 'trans-' to mean carrying something across a physical distance?",
+    "optionA": "transcend",
     "optionB": "transform",
-    "optionC": "translucent",
+    "optionC": "transaction",
     "optionD": "transport",
     "correctOption": "D",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "'Transport' uses 'trans-' to mean carrying something across a distance. While the other words also contain 'trans-', 'transport' most clearly shows the 'across' meaning being tested here, as in 'transported goods across the country'."
+    "explanation": "'Transport' means to carry something across a physical distance, as in 'transported goods across the country'. 'Transcend' means to go beyond a limit (not physical movement), 'transform' means to change shape or form, and 'transaction' means a business exchange — none involve carrying something across a distance."
   },
   {
     "prompt": "What is the effect of using short sentences in writing?",
@@ -881,13 +881,13 @@
   },
   {
     "prompt": "Which word uses the prefix 'auto-' to mean 'self'?",
-    "optionA": "automobile",
+    "optionA": "authority",
     "optionB": "autumn",
     "optionC": "audition",
     "optionD": "autograph",
     "correctOption": "D",
     "levelBand": "Age 10 High Achiever",
-    "explanation": "An 'autograph' is a person's own signature written by themselves, using 'auto-' to mean 'self'. 'Autumn' and 'audition' only look similar but do not contain the 'auto-' prefix meaning 'self'."
+    "explanation": "An 'autograph' is a person's own signature written by themselves, using 'auto-' to mean 'self'. 'Authority', 'autumn', and 'audition' only look similar but do not contain the 'auto-' prefix meaning 'self'."
   },
   {
     "prompt": "What is the active voice of 'The window was broken by Tom'?",
@@ -1102,12 +1102,12 @@
   {
     "prompt": "Which word uses the root 'bene-' to mean 'good'?",
     "optionA": "benevolent",
-    "optionB": "benign tumour (cancerous)",
+    "optionB": "exhale",
     "optionC": "malevolent",
     "optionD": "malfunction",
     "correctOption": "A",
     "levelBand": "Age 11 High Achiever",
-    "explanation": "'Benevolent' uses the root 'bene-' meaning 'good or well', describing someone kind and well-meaning. 'Malevolent' and 'malfunction' use the opposite root 'mal-', meaning bad."
+    "explanation": "'Benevolent' uses the root 'bene-' meaning 'good or well', describing someone kind and well-meaning. 'Exhale' uses the prefix 'ex-' (out), while 'malevolent' and 'malfunction' use the opposite root 'mal-', meaning bad."
   },
   {
     "prompt": "Which word is the gerund in: 'Swimming every morning helped her build strength'?",
@@ -1626,7 +1626,7 @@
     "optionC": "nervous",
     "optionD": "quiet",
     "correctOption": "B",
-    "levelBand": "Age 9 High Achiever",
+    "levelBand": "Age 9",
     "explanation": "'Reckless' is the antonym (opposite) of 'cautious'. Cautious means careful and avoiding risks; reckless means acting without thinking about the consequences."
   },
   {
@@ -2110,7 +2110,7 @@
     "levelBand": "Age 10"
   },
   {
-    "prompt": "Which sentence contains a simile?",
+    "prompt": "Which of these sentences compares the moon to something else using 'like' or 'as'?",
     "optionA": "The moon is a lamp in the sky.",
     "optionB": "The moon was as bright as a lamp.",
     "optionC": "The moon lit up the sky.",
@@ -2467,7 +2467,7 @@
   },
   {
     "levelBand": "Age 10",
-    "prompt": "Which underlined word could be left out of this sentence without changing the meaning? Most cats have soft fur but some have short fur, coarse or wiry fur.",
+    "prompt": "Which word could be left out of this sentence without changing the meaning? Most cats have soft fur but some have short fur, coarse or wiry fur.",
     "optionA": "soft",
     "optionB": "coarse",
     "optionC": "fur",
@@ -2517,7 +2517,7 @@
   },
   {
     "levelBand": "Age 10",
-    "prompt": "Which underlined word tells when an action happens? The bell rang loudly. We will call you tomorrow. They ran downstairs. They walked away.",
+    "prompt": "Which word tells when an action happens? The bell rang loudly. We will call you tomorrow. They ran downstairs. They walked away.",
     "optionA": "away",
     "optionB": "tomorrow",
     "optionC": "loudly",
@@ -2553,7 +2553,9 @@
     "optionC": "8 pm",
     "optionD": "11 pm",
     "correctOption": "B",
-    "explanation": "The menu header says 'Open daily: 8 am - 8 pm', so opening time is 8 am."
+    "explanation": "The menu header says 'Open daily: 8 am - 8 pm', so opening time is 8 am.",
+    "passage": "Ocean Diner\nOpen daily: 8 am - 8 pm\n\nBreakfast\nPancakes with honey - $14\nPancakes with fruit - $16\nRice porridge with egg - $13\n\nLunch\nVegetable soup - $18\nGrilled fish - $30\nChicken curry - $26\n\nDrinks\nOrange juice - $8\nMilk tea - $7\n\nDesserts\nMango pudding - $12\nApple pie - $17\n\nBuy 3 drinks and get 1 dessert free!",
+    "passageId": "hk-tsa-bca-p3-passage-1"
   },
   {
     "levelBand": "Age 9",
@@ -2563,7 +2565,9 @@
     "optionC": "two",
     "optionD": "three",
     "correctOption": "C",
-    "explanation": "Only two breakfast items are pancakes; the rice porridge is not a pancake."
+    "explanation": "Only two breakfast items are pancakes; the rice porridge is not a pancake.",
+    "passage": "Ocean Diner\nOpen daily: 8 am - 8 pm\n\nBreakfast\nPancakes with honey - $14\nPancakes with fruit - $16\nRice porridge with egg - $13\n\nLunch\nVegetable soup - $18\nGrilled fish - $30\nChicken curry - $26\n\nDrinks\nOrange juice - $8\nMilk tea - $7\n\nDesserts\nMango pudding - $12\nApple pie - $17\n\nBuy 3 drinks and get 1 dessert free!",
+    "passageId": "hk-tsa-bca-p3-passage-1"
   },
   {
     "levelBand": "Age 9",
@@ -2573,7 +2577,9 @@
     "optionC": "Pancakes with fruit",
     "optionD": "Mango pudding",
     "correctOption": "A",
-    "explanation": "Only 'Grilled fish' appears under the Lunch heading in the passage."
+    "explanation": "Only 'Grilled fish' appears under the Lunch heading in the passage.",
+    "passage": "Ocean Diner\nOpen daily: 8 am - 8 pm\n\nBreakfast\nPancakes with honey - $14\nPancakes with fruit - $16\nRice porridge with egg - $13\n\nLunch\nVegetable soup - $18\nGrilled fish - $30\nChicken curry - $26\n\nDrinks\nOrange juice - $8\nMilk tea - $7\n\nDesserts\nMango pudding - $12\nApple pie - $17\n\nBuy 3 drinks and get 1 dessert free!",
+    "passageId": "hk-tsa-bca-p3-passage-1"
   },
   {
     "levelBand": "Age 9",
@@ -2583,7 +2589,9 @@
     "optionC": "$26",
     "optionD": "$30",
     "correctOption": "C",
-    "explanation": "The passage states chicken curry costs $26."
+    "explanation": "The passage states chicken curry costs $26.",
+    "passage": "Ocean Diner\nOpen daily: 8 am - 8 pm\n\nBreakfast\nPancakes with honey - $14\nPancakes with fruit - $16\nRice porridge with egg - $13\n\nLunch\nVegetable soup - $18\nGrilled fish - $30\nChicken curry - $26\n\nDrinks\nOrange juice - $8\nMilk tea - $7\n\nDesserts\nMango pudding - $12\nApple pie - $17\n\nBuy 3 drinks and get 1 dessert free!",
+    "passageId": "hk-tsa-bca-p3-passage-1"
   },
   {
     "levelBand": "Age 9",
@@ -2593,7 +2601,9 @@
     "optionC": "a bowl of soup",
     "optionD": "a dessert",
     "correctOption": "D",
-    "explanation": "The promotion at the bottom of the menu gives a free dessert for buying 3 drinks."
+    "explanation": "The promotion at the bottom of the menu gives a free dessert for buying 3 drinks.",
+    "passage": "Ocean Diner\nOpen daily: 8 am - 8 pm\n\nBreakfast\nPancakes with honey - $14\nPancakes with fruit - $16\nRice porridge with egg - $13\n\nLunch\nVegetable soup - $18\nGrilled fish - $30\nChicken curry - $26\n\nDrinks\nOrange juice - $8\nMilk tea - $7\n\nDesserts\nMango pudding - $12\nApple pie - $17\n\nBuy 3 drinks and get 1 dessert free!",
+    "passageId": "hk-tsa-bca-p3-passage-1"
   },
   {
     "levelBand": "Age 9",
@@ -2603,7 +2613,9 @@
     "optionC": "Chicken curry",
     "optionD": "Vegetable soup",
     "correctOption": "A",
-    "explanation": "Comparing all prices on the menu, $30 for grilled fish is the highest."
+    "explanation": "Comparing all prices on the menu, $30 for grilled fish is the highest.",
+    "passage": "Ocean Diner\nOpen daily: 8 am - 8 pm\n\nBreakfast\nPancakes with honey - $14\nPancakes with fruit - $16\nRice porridge with egg - $13\n\nLunch\nVegetable soup - $18\nGrilled fish - $30\nChicken curry - $26\n\nDrinks\nOrange juice - $8\nMilk tea - $7\n\nDesserts\nMango pudding - $12\nApple pie - $17\n\nBuy 3 drinks and get 1 dessert free!",
+    "passageId": "hk-tsa-bca-p3-passage-1"
   },
   {
     "levelBand": "Age 9",
@@ -2613,7 +2625,9 @@
     "optionC": "a cousin",
     "optionD": "Grandpa",
     "correctOption": "D",
-    "explanation": "The greeting 'Dear Grandpa' and the closing show the letter is addressed to Grandpa."
+    "explanation": "The greeting 'Dear Grandpa' and the closing show the letter is addressed to Grandpa.",
+    "passage": "3rd March 20XX\n\nDear Grandpa,\n\nIt has been raining all week, so I stayed at your house after school every day.\n\nWhen I could not solve my maths problems, you always sat with me and explained them slowly. My spelling is not very good, but you never got cross.\n\nSometimes I felt bored because I could not play outside. You taught me to fold paper birds and we planted seeds in your garden together. We watered them every morning to help them grow.\n\nThank you, Grandpa!\n\nLove,\nLeo",
+    "passageId": "hk-tsa-bca-p3-passage-2"
   },
   {
     "levelBand": "Age 9",
@@ -2623,7 +2637,9 @@
     "optionC": "school was closed",
     "optionD": "it was raining all week",
     "correctOption": "D",
-    "explanation": "The first paragraph gives the reason: rain all week."
+    "explanation": "The first paragraph gives the reason: rain all week.",
+    "passage": "3rd March 20XX\n\nDear Grandpa,\n\nIt has been raining all week, so I stayed at your house after school every day.\n\nWhen I could not solve my maths problems, you always sat with me and explained them slowly. My spelling is not very good, but you never got cross.\n\nSometimes I felt bored because I could not play outside. You taught me to fold paper birds and we planted seeds in your garden together. We watered them every morning to help them grow.\n\nThank you, Grandpa!\n\nLove,\nLeo",
+    "passageId": "hk-tsa-bca-p3-passage-2"
   },
   {
     "levelBand": "Age 9",
@@ -2633,7 +2649,9 @@
     "optionC": "drawing",
     "optionD": "gardening",
     "correctOption": "B",
-    "explanation": "The second paragraph names spelling directly."
+    "explanation": "The second paragraph names spelling directly.",
+    "passage": "3rd March 20XX\n\nDear Grandpa,\n\nIt has been raining all week, so I stayed at your house after school every day.\n\nWhen I could not solve my maths problems, you always sat with me and explained them slowly. My spelling is not very good, but you never got cross.\n\nSometimes I felt bored because I could not play outside. You taught me to fold paper birds and we planted seeds in your garden together. We watered them every morning to help them grow.\n\nThank you, Grandpa!\n\nLove,\nLeo",
+    "passageId": "hk-tsa-bca-p3-passage-2"
   },
   {
     "levelBand": "Age 9",
@@ -2643,7 +2661,9 @@
     "optionC": "bored",
     "optionD": "excited",
     "correctOption": "C",
-    "explanation": "The passage names the feeling word directly: bored."
+    "explanation": "The passage names the feeling word directly: bored.",
+    "passage": "3rd March 20XX\n\nDear Grandpa,\n\nIt has been raining all week, so I stayed at your house after school every day.\n\nWhen I could not solve my maths problems, you always sat with me and explained them slowly. My spelling is not very good, but you never got cross.\n\nSometimes I felt bored because I could not play outside. You taught me to fold paper birds and we planted seeds in your garden together. We watered them every morning to help them grow.\n\nThank you, Grandpa!\n\nLove,\nLeo",
+    "passageId": "hk-tsa-bca-p3-passage-2"
   },
   {
     "levelBand": "Age 9",
@@ -2653,7 +2673,9 @@
     "optionC": "1 and 3",
     "optionD": "2 and 4",
     "correctOption": "C",
-    "explanation": "Only folding paper birds and planting seeds are described in the passage."
+    "explanation": "Only folding paper birds and planting seeds are described in the passage.",
+    "passage": "3rd March 20XX\n\nDear Grandpa,\n\nIt has been raining all week, so I stayed at your house after school every day.\n\nWhen I could not solve my maths problems, you always sat with me and explained them slowly. My spelling is not very good, but you never got cross.\n\nSometimes I felt bored because I could not play outside. You taught me to fold paper birds and we planted seeds in your garden together. We watered them every morning to help them grow.\n\nThank you, Grandpa!\n\nLove,\nLeo",
+    "passageId": "hk-tsa-bca-p3-passage-2"
   },
   {
     "levelBand": "Age 9",
@@ -2663,7 +2685,9 @@
     "optionC": "the maths problems",
     "optionD": "the paper birds",
     "correctOption": "A",
-    "explanation": "Only living things (the seeds) can grow, so 'them' refers to the seeds."
+    "explanation": "Only living things (the seeds) can grow, so 'them' refers to the seeds.",
+    "passage": "3rd March 20XX\n\nDear Grandpa,\n\nIt has been raining all week, so I stayed at your house after school every day.\n\nWhen I could not solve my maths problems, you always sat with me and explained them slowly. My spelling is not very good, but you never got cross.\n\nSometimes I felt bored because I could not play outside. You taught me to fold paper birds and we planted seeds in your garden together. We watered them every morning to help them grow.\n\nThank you, Grandpa!\n\nLove,\nLeo",
+    "passageId": "hk-tsa-bca-p3-passage-2"
   },
   {
     "levelBand": "Age 9",
@@ -2673,7 +2697,9 @@
     "optionC": "cats",
     "optionD": "dogs",
     "correctOption": "B",
-    "explanation": "The first sentence lists the animals Mia loves and names spiders as the one she fears."
+    "explanation": "The first sentence lists the animals Mia loves and names spiders as the one she fears.",
+    "passage": "Mia and the Spiders\n\nMia loves cats, dogs and rabbits, but she is afraid of spiders.\n\nOne weekend, she visits Uncle Wing's greenhouse. It is warm and full of tall green plants. Uncle Wing points to a corner and shows Mia a large web. Mia sees a spider sitting in the middle of it and jumps back with a shout. Everyone in the greenhouse turns to look.\n\nUncle Wing laughs gently and says, \"Spiders are helpful. They catch the little bugs that eat my plants.\" He picks up a leaf with tiny holes in it. \"Without spiders, these bugs would eat every leaf,\" he explains. He gives Mia a magnifying glass so she can look at the web safely from a distance.\n\nNow Mia understands that spiders protect the plants by eating pests. They are a gardener's helpers, not monsters. She visits Uncle Wing's greenhouse every month now, and each time she looks for the spiders first.",
+    "passageId": "hk-tsa-bca-p3-passage-3"
   },
   {
     "levelBand": "Age 9",
@@ -2683,7 +2709,9 @@
     "optionC": "a school",
     "optionD": "a park",
     "correctOption": "B",
-    "explanation": "The second paragraph names the setting directly: a greenhouse."
+    "explanation": "The second paragraph names the setting directly: a greenhouse.",
+    "passage": "Mia and the Spiders\n\nMia loves cats, dogs and rabbits, but she is afraid of spiders.\n\nOne weekend, she visits Uncle Wing's greenhouse. It is warm and full of tall green plants. Uncle Wing points to a corner and shows Mia a large web. Mia sees a spider sitting in the middle of it and jumps back with a shout. Everyone in the greenhouse turns to look.\n\nUncle Wing laughs gently and says, \"Spiders are helpful. They catch the little bugs that eat my plants.\" He picks up a leaf with tiny holes in it. \"Without spiders, these bugs would eat every leaf,\" he explains. He gives Mia a magnifying glass so she can look at the web safely from a distance.\n\nNow Mia understands that spiders protect the plants by eating pests. They are a gardener's helpers, not monsters. She visits Uncle Wing's greenhouse every month now, and each time she looks for the spiders first.",
+    "passageId": "hk-tsa-bca-p3-passage-3"
   },
   {
     "levelBand": "Age 9",
@@ -2693,7 +2721,9 @@
     "optionC": "a long sleep",
     "optionD": "a quiet whisper",
     "correctOption": "A",
-    "explanation": "Given the surprise and fear in the scene, 'shout' fits a loud cry rather than the other options."
+    "explanation": "Given the surprise and fear in the scene, 'shout' fits a loud cry rather than the other options.",
+    "passage": "Mia and the Spiders\n\nMia loves cats, dogs and rabbits, but she is afraid of spiders.\n\nOne weekend, she visits Uncle Wing's greenhouse. It is warm and full of tall green plants. Uncle Wing points to a corner and shows Mia a large web. Mia sees a spider sitting in the middle of it and jumps back with a shout. Everyone in the greenhouse turns to look.\n\nUncle Wing laughs gently and says, \"Spiders are helpful. They catch the little bugs that eat my plants.\" He picks up a leaf with tiny holes in it. \"Without spiders, these bugs would eat every leaf,\" he explains. He gives Mia a magnifying glass so she can look at the web safely from a distance.\n\nNow Mia understands that spiders protect the plants by eating pests. They are a gardener's helpers, not monsters. She visits Uncle Wing's greenhouse every month now, and each time she looks for the spiders first.",
+    "passageId": "hk-tsa-bca-p3-passage-3"
   },
   {
     "levelBand": "Age 9",
@@ -2703,7 +2733,9 @@
     "optionC": "They grow into new plants.",
     "optionD": "They keep the leaves shiny.",
     "correctOption": "B",
-    "explanation": "The passage gives this exact reason in Uncle Wing's explanation."
+    "explanation": "The passage gives this exact reason in Uncle Wing's explanation.",
+    "passage": "Mia and the Spiders\n\nMia loves cats, dogs and rabbits, but she is afraid of spiders.\n\nOne weekend, she visits Uncle Wing's greenhouse. It is warm and full of tall green plants. Uncle Wing points to a corner and shows Mia a large web. Mia sees a spider sitting in the middle of it and jumps back with a shout. Everyone in the greenhouse turns to look.\n\nUncle Wing laughs gently and says, \"Spiders are helpful. They catch the little bugs that eat my plants.\" He picks up a leaf with tiny holes in it. \"Without spiders, these bugs would eat every leaf,\" he explains. He gives Mia a magnifying glass so she can look at the web safely from a distance.\n\nNow Mia understands that spiders protect the plants by eating pests. They are a gardener's helpers, not monsters. She visits Uncle Wing's greenhouse every month now, and each time she looks for the spiders first.",
+    "passageId": "hk-tsa-bca-p3-passage-3"
   },
   {
     "levelBand": "Age 9",
@@ -2713,7 +2745,9 @@
     "optionC": "a jar",
     "optionD": "a magnifying glass",
     "correctOption": "D",
-    "explanation": "This detail is stated directly in the third paragraph."
+    "explanation": "This detail is stated directly in the third paragraph.",
+    "passage": "Mia and the Spiders\n\nMia loves cats, dogs and rabbits, but she is afraid of spiders.\n\nOne weekend, she visits Uncle Wing's greenhouse. It is warm and full of tall green plants. Uncle Wing points to a corner and shows Mia a large web. Mia sees a spider sitting in the middle of it and jumps back with a shout. Everyone in the greenhouse turns to look.\n\nUncle Wing laughs gently and says, \"Spiders are helpful. They catch the little bugs that eat my plants.\" He picks up a leaf with tiny holes in it. \"Without spiders, these bugs would eat every leaf,\" he explains. He gives Mia a magnifying glass so she can look at the web safely from a distance.\n\nNow Mia understands that spiders protect the plants by eating pests. They are a gardener's helpers, not monsters. She visits Uncle Wing's greenhouse every month now, and each time she looks for the spiders first.",
+    "passageId": "hk-tsa-bca-p3-passage-3"
   },
   {
     "levelBand": "Age 9",
@@ -2723,7 +2757,9 @@
     "optionC": "the spiders",
     "optionD": "Mia and Uncle Wing",
     "correctOption": "C",
-    "explanation": "Leaves, people, and plants cannot be called 'a gardener's helpers' in this context -- only the spiders fit."
+    "explanation": "Leaves, people, and plants cannot be called 'a gardener's helpers' in this context -- only the spiders fit.",
+    "passage": "Mia and the Spiders\n\nMia loves cats, dogs and rabbits, but she is afraid of spiders.\n\nOne weekend, she visits Uncle Wing's greenhouse. It is warm and full of tall green plants. Uncle Wing points to a corner and shows Mia a large web. Mia sees a spider sitting in the middle of it and jumps back with a shout. Everyone in the greenhouse turns to look.\n\nUncle Wing laughs gently and says, \"Spiders are helpful. They catch the little bugs that eat my plants.\" He picks up a leaf with tiny holes in it. \"Without spiders, these bugs would eat every leaf,\" he explains. He gives Mia a magnifying glass so she can look at the web safely from a distance.\n\nNow Mia understands that spiders protect the plants by eating pests. They are a gardener's helpers, not monsters. She visits Uncle Wing's greenhouse every month now, and each time she looks for the spiders first.",
+    "passageId": "hk-tsa-bca-p3-passage-3"
   },
   {
     "topic": "reading comprehension - vocabulary in context",
