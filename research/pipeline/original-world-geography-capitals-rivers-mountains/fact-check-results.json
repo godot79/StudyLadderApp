@@ -1,0 +1,206 @@
+[
+  {
+    "prompt": "Look at this map of Western Europe. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, off the eastern coast of Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one huge country shaded in green, stretching across Europe and Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, covering most of northern North America. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of North Africa and the Middle East. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of East Africa. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of South America. One country is shaded in green, covering nearly half the continent. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of North America. One country is shaded in green, just south of the United States. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, with a distinctive boot-shaped peninsula. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one country shaded in green, at the very southern tip of Africa. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of South Asia. One country is shaded in green, forming a large peninsula. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of Oceania. One country is shaded in green, surrounded entirely by ocean. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "What is the longest river in Africa?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "What is the longest river in Asia?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which major river flows through Egypt and is closely linked to its ancient civilisation?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which major river flows through India and is considered sacred by Hindus?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The Danube River flows through many European countries before reaching the Black Sea. Which of these countries does the Danube flow through?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/worldatlas: Danube begins in Germany.",
+    "source": "WebSearch (Britannica, worldatlas.com)"
+  },
+  {
+    "prompt": "Which river flows through more countries than any other river in the world?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/worldatlas: Danube flows through ~10 countries, more than any other river.",
+    "source": "WebSearch (Britannica, worldatlas.com)"
+  },
+  {
+    "prompt": "The Amazon River in South America was named after a group of legendary warriors described in an ancient myth. Where does the name 'Amazon' originally come from?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica and multiple sources: Francisco de Orellana, 1542, named the river after Greek mythological Amazons following reported battles with female warriors.",
+    "source": "WebSearch (Britannica et al.)"
+  },
+  {
+    "prompt": "What is the tallest mountain in Africa?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "What is the tallest mountain in South America?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "What is the tallest mountain in North America?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "What is the tallest mountain in Europe?",
+    "verdict": "confirmed",
+    "note": "Confirmed: Mount Elbrus (5,642m) exceeds Mont Blanc (4,808m) under the conventional Europe/Asia boundary at the Caucasus.",
+    "source": "WebSearch (multiple mountaineering/geography sources)"
+  },
+  {
+    "prompt": "Which of these is a mountain range in Asia that contains K2, the world's second-tallest mountain?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Mount Fuji is a famous mountain that is also an active volcano. Which country is it in?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "In 79 AD, an eruption from this volcano buried the Roman city of Pompeii in ash. What is the name of this volcano?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which of these is the largest active volcano in the world?",
+    "verdict": "confirmed",
+    "note": "Confirmed via USGS: Mauna Loa is Earth's largest active volcano by volume (~40,000 cubic km).",
+    "source": "WebSearch (USGS)"
+  },
+  {
+    "prompt": "Which desert is often called the driest place on Earth, receiving almost no rainfall?",
+    "verdict": "confirmed",
+    "note": "Confirmed via ESA and HowStuffWorks: Atacama Desert, Chile, is the driest non-polar place on Earth.",
+    "source": "WebSearch (ESA, HowStuffWorks)"
+  },
+  {
+    "prompt": "Which continent is the Kalahari Desert located on?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which of these is actually the largest desert in the world, even though it is covered in ice rather than sand?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The Great Plains are a large, flat region of grassland used for farming. Which country are they mostly located in?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The Pampas are wide, flat grassy plains in South America, well known for cattle ranching. In which two countries are the Pampas mostly located?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "The Serengeti is a famous plain in East Africa known for huge herds of migrating animals like wildebeest and zebra. Which two countries share the Serengeti?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/UNESCO: Serengeti grasslands straddle the Tanzania-Kenya border.",
+    "source": "WebSearch (Britannica, UNESCO)"
+  },
+  {
+    "prompt": "The North European Plain is a large flat lowland stretching across much of northern Europe. Which of these countries lies mostly on this plain?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, longest river/tallest mountain per continent, well-known desert/plain), hand-verified against general knowledge — consistent with prior rounds' precedent for claims not requiring WebSearch dispatch (e.g. va-sol-worldgeo-2007/fact-check-results.json).",
+    "source": "Hand-verified"
+  }
+]
