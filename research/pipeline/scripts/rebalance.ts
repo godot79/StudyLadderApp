@@ -42,6 +42,36 @@ type Item = Record<string, unknown> & {
   correctOption: string;
 };
 
+// Remaps letter references in explanation text (e.g. "(B)", "Option B") from
+// their pre-rebalance letter to their post-rebalance letter. Only handles the
+// two forms observed in practice — a parenthetical letter and "Option X" —
+// not free-form prose like "as B states", which is a known residual gap.
+function remapLetterReferences(
+  explanation: string | undefined,
+  oldToNew: Partial<Record<Letter, Letter>>
+): string | undefined {
+  if (!explanation) return explanation;
+
+  // Two-pass placeholder swap avoids A->B->C style double-remapping when
+  // old and new letters overlap (e.g. old B becomes new C, old C becomes new B).
+  let result = explanation;
+  for (const oldLetter of LETTERS) {
+    const newLetter = oldToNew[oldLetter];
+    if (!newLetter || newLetter === oldLetter) continue;
+    const placeholder = `__REBALANCE_${oldLetter}__`;
+    result = result
+      .replace(new RegExp(`\\(${oldLetter}\\)`, "g"), `(${placeholder})`)
+      .replace(new RegExp(`\\bOption\\s+${oldLetter}\\b`, "gi"), `Option ${placeholder}`);
+  }
+  for (const oldLetter of LETTERS) {
+    const newLetter = oldToNew[oldLetter];
+    if (!newLetter || newLetter === oldLetter) continue;
+    const placeholder = `__REBALANCE_${oldLetter}__`;
+    result = result.split(placeholder).join(newLetter);
+  }
+  return result;
+}
+
 function main() {
   const [, , inputPath, outputDir] = process.argv;
   if (!inputPath || !outputDir) {
@@ -58,15 +88,28 @@ function main() {
       throw new Error(`Item ${i} has invalid correctOption "${item.correctOption}": ${item.prompt}`);
     }
     const correctText = currentOptions[correctIndex];
+    const distractorOldLetters = LETTERS.filter((_, idx) => idx !== correctIndex);
     const distractors = currentOptions.filter((_, idx) => idx !== correctIndex);
 
     const targetLetter = LETTERS[i % 4];
     const newOptions: string[] = new Array(4);
+    // Tracks where every old letter ends up, so any letter references inside
+    // `explanation` can be remapped too (see header comment — a prior ad-hoc
+    // rebalance left explanations pointing at pre-rebalance letters).
+    const oldToNew: Partial<Record<Letter, Letter>> = {};
     let d = 0;
     for (let slot = 0; slot < 4; slot++) {
-      if (LETTERS[slot] === targetLetter) newOptions[slot] = correctText;
-      else newOptions[slot] = distractors[d++];
+      if (LETTERS[slot] === targetLetter) {
+        newOptions[slot] = correctText;
+        oldToNew[LETTERS[correctIndex]] = targetLetter;
+      } else {
+        newOptions[slot] = distractors[d];
+        oldToNew[distractorOldLetters[d]] = LETTERS[slot];
+        d++;
+      }
     }
+
+    const explanation = remapLetterReferences(item.explanation as string | undefined, oldToNew);
 
     return {
       ...item,
@@ -75,6 +118,7 @@ function main() {
       optionC: newOptions[2],
       optionD: newOptions[3],
       correctOption: targetLetter,
+      ...(explanation !== undefined ? { explanation } : {}),
     };
   });
 
