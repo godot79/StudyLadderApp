@@ -1,0 +1,37 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map of Central Europe. One small, mountainous, landlocked country is shaded in green, famous for the Alps and for staying neutral in wars. What is its capital city?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"This map shows one densely populated country shaded in green, sitting mostly on a river delta in South Asia. Which country is it?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Sahara Desert stretches across North Africa. Roughly how many separate countries does it spread across?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Sahel is a band of dry grassland stretching across Africa, forming a transition between two very different regions. Which two regions does it lie between?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Mount Ararat, in eastern Turkey, is famous in religious tradition as the resting place of Noah's Ark. What kind of mountain is it, geologically?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Death Valley, in the United States, holds two extreme records for North America. What are they?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Nile River is actually formed by two major rivers joining together in Sudan. What are they called?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]

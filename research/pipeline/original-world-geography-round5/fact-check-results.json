@@ -1,0 +1,116 @@
+[
+  {
+    "prompt": "Look at this map of mainland Southeast Asia. One country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one Scandinavian country shaded in green, next to Norway and Finland. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of Central Europe. One landlocked country is shaded in green, famous for the Alps. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one huge, landlocked country shaded in green, in Central Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Look at this map of Central Europe. One small, mountainous, landlocked country is shaded in green, famous for the Alps and for staying neutral in wars. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "This map shows one densely populated country shaded in green, sitting mostly on a river delta in South Asia. Which country is it?",
+    "verdict": "confirmed",
+    "note": "Standard, uncontested encyclopedic geography fact (national capital, well-known landmark), hand-verified against general knowledge — consistent with prior rounds' precedent.",
+    "source": "Hand-verified"
+  },
+  {
+    "prompt": "Which mountain range forms a natural border between France and Spain?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/worldatlas: the Pyrenees stretch along the France-Spain border from the Mediterranean to the Atlantic.",
+    "source": "WebSearch (Britannica, worldatlas.com)"
+  },
+  {
+    "prompt": "Which desert in central Australia is famous for its long, red sand dunes?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/Wikipedia: the Simpson Desert's red dunes are colored by iron oxide.",
+    "source": "WebSearch (Britannica, Wikipedia)"
+  },
+  {
+    "prompt": "In 1980, this volcano in Washington State, USA, erupted so violently that it blew off the top of the mountain and caused the largest landslide ever recorded. What is its name?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Wikipedia/Britannica: Mount St. Helens erupted May 18, 1980, killing 57 and causing the largest landslide on record.",
+    "source": "WebSearch (Wikipedia, Britannica)"
+  },
+  {
+    "prompt": "The Yukon River flows through which two places on its way to the Bering Sea?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: the Yukon River flows through Yukon, Canada and Alaska, USA to the Bering Sea.",
+    "source": "WebSearch (Britannica)"
+  },
+  {
+    "prompt": "Which volcano in Hawaii is considered the most continuously active volcano on Earth?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/NPS/USGS: Kilauea has erupted almost continuously for ~200 years.",
+    "source": "WebSearch (Britannica, NPS, USGS)"
+  },
+  {
+    "prompt": "The Mekong River is one of Southeast Asia's most important rivers. Roughly how many countries does it flow through?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/worldatlas: the Mekong flows through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam.",
+    "source": "WebSearch (Britannica, worldatlas.com)"
+  },
+  {
+    "prompt": "In South Africa, wide open grassland plains on the high plateau are known by an Afrikaans word meaning 'field'. What is this word?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: 'Veld' (Afrikaans for 'field') refers to South Africa's open grassland/plateau regions.",
+    "source": "WebSearch (Britannica)"
+  },
+  {
+    "prompt": "The Zagros Mountains are a long mountain range in the Middle East. Which country do they mostly run through?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Zagros Mountains run mostly through western/southwestern Iran.",
+    "source": "Hand-verified (uncontested)"
+  },
+  {
+    "prompt": "The Sahara Desert stretches across North Africa. Roughly how many separate countries does it spread across?",
+    "verdict": "confirmed",
+    "note": "Confirmed via multiple sources (count varies 10-11 depending on inclusion of Western Sahara): roughly 10 countries.",
+    "source": "WebSearch (livescience.com, geographyworlds.com et al.)"
+  },
+  {
+    "prompt": "The Sahel is a band of dry grassland stretching across Africa, forming a transition between two very different regions. Which two regions does it lie between?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: the Sahel is the transition zone between the Sahara and humid savannas, from Senegal to Sudan.",
+    "source": "WebSearch (Britannica)"
+  },
+  {
+    "prompt": "Mount Ararat, in eastern Turkey, is famous in religious tradition as the resting place of Noah's Ark. What kind of mountain is it, geologically?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica: Mount Ararat is a dormant stratovolcano, Turkey's tallest peak.",
+    "source": "WebSearch (Britannica, geologyscience.com)"
+  },
+  {
+    "prompt": "Death Valley, in the United States, holds two extreme records for North America. What are they?",
+    "verdict": "confirmed",
+    "note": "Confirmed via Britannica/NPS: Badwater Basin is North America's lowest point; the 1913 134°F reading is the hottest reliably recorded air temperature (its full reliability has some scientific debate, noted as officially recognized).",
+    "source": "WebSearch (Britannica, NPS)"
+  },
+  {
+    "prompt": "The Nile River is actually formed by two major rivers joining together in Sudan. What are they called?",
+    "verdict": "confirmed",
+    "note": "Confirmed: the Blue Nile and White Nile meet at Khartoum, Sudan.",
+    "source": "Hand-verified (uncontested)"
+  }
+]

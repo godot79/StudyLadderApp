@@ -3952,5 +3952,207 @@
     "optionD": "No one has ever died attempting K2",
     "correctOption": "A",
     "explanation": "K2 has a much higher fatality rate than Everest — roughly 1 in 4 climbers who attempt its summit die, compared to about 1 in 100 on Everest, due to its extreme technical difficulty and unpredictable weather."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of mainland Southeast Asia. One country is shaded in green. What is its capital city?",
+    "optionA": "Bangkok",
+    "optionB": "Chiang Mai",
+    "optionC": "Phuket",
+    "optionD": "Pattaya",
+    "correctOption": "A",
+    "explanation": "The shaded country is Thailand, in mainland Southeast Asia. Its capital city is Bangkok.",
+    "image": "/images/geography/map-shaded-thailand.png",
+    "imageAlt": "An orthographic globe view centered on mainland Southeast Asia, with Thailand shaded dark green between Myanmar, Laos, and Cambodia."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "This map shows one Scandinavian country shaded in green, next to Norway and Finland. Which country is it?",
+    "optionA": "Denmark",
+    "optionB": "Sweden",
+    "optionC": "Estonia",
+    "optionD": "Latvia",
+    "correctOption": "B",
+    "explanation": "The shaded country is Sweden, the largest of the Scandinavian countries, sharing borders with Norway and Finland.",
+    "image": "/images/geography/map-shaded-sweden.png",
+    "imageAlt": "An orthographic globe view centered on Scandinavia, with Sweden shaded dark green between Norway and the Baltic Sea, next to Finland."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Look at this map of Central Europe. One landlocked country is shaded in green, famous for the Alps. What is its capital city?",
+    "optionA": "Salzburg",
+    "optionB": "Graz",
+    "optionC": "Vienna",
+    "optionD": "Innsbruck",
+    "correctOption": "C",
+    "explanation": "The shaded country is Austria, a landlocked Alpine country in Central Europe. Its capital city is Vienna.",
+    "image": "/images/geography/map-shaded-austria.png",
+    "imageAlt": "An orthographic globe view centered on Central Europe, with Austria shaded dark green, landlocked between Germany, Switzerland, Italy, and several other countries."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "This map shows one huge, landlocked country shaded in green, in Central Asia. Which country is it?",
+    "optionA": "Mongolia",
+    "optionB": "Uzbekistan",
+    "optionC": "Turkmenistan",
+    "optionD": "Kazakhstan",
+    "correctOption": "D",
+    "explanation": "The shaded country is Kazakhstan, the world's largest landlocked country, located in Central Asia.",
+    "image": "/images/geography/map-shaded-kazakhstan.png",
+    "imageAlt": "An orthographic globe view centered on Central Asia, with Kazakhstan shaded dark green as a huge landlocked country between Russia and Uzbekistan."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Look at this map of Central Europe. One small, mountainous, landlocked country is shaded in green, famous for the Alps and for staying neutral in wars. What is its capital city?",
+    "optionA": "Bern",
+    "optionB": "Zurich",
+    "optionC": "Geneva",
+    "optionD": "Basel",
+    "correctOption": "A",
+    "explanation": "The shaded country is Switzerland. Its capital city is Bern — Zurich is Switzerland's largest and best-known city, but it is not the capital.",
+    "image": "/images/geography/map-shaded-switzerland.png",
+    "imageAlt": "An orthographic globe view centered on Central Europe, with Switzerland shaded dark green, landlocked and surrounded by France, Germany, Austria, and Italy."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "This map shows one densely populated country shaded in green, sitting mostly on a river delta in South Asia. Which country is it?",
+    "optionA": "Myanmar",
+    "optionB": "Bangladesh",
+    "optionC": "Sri Lanka",
+    "optionD": "Nepal",
+    "correctOption": "B",
+    "explanation": "The shaded country is Bangladesh, one of the most densely populated countries in the world, sitting mostly on the delta formed by the Ganges and Brahmaputra rivers.",
+    "image": "/images/geography/map-shaded-bangladesh.png",
+    "imageAlt": "An orthographic globe view centered on South Asia, with Bangladesh shaded dark green, surrounded by India and bordering Myanmar, at the mouth of the Ganges-Brahmaputra delta."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which mountain range forms a natural border between France and Spain?",
+    "optionA": "Alps",
+    "optionB": "Apennines",
+    "optionC": "Pyrenees",
+    "optionD": "Carpathians",
+    "correctOption": "C",
+    "explanation": "The Pyrenees mountain range stretches along the border between France and Spain, from the Mediterranean Sea to the Atlantic Ocean."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which desert in central Australia is famous for its long, red sand dunes?",
+    "optionA": "Sonoran Desert",
+    "optionB": "Gobi Desert",
+    "optionC": "Thar Desert",
+    "optionD": "Simpson Desert",
+    "correctOption": "D",
+    "explanation": "The Simpson Desert, in central Australia, is known for its long, parallel red sand dunes, coloured by iron oxide in the sand."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "In 1980, this volcano in Washington State, USA, erupted so violently that it blew off the top of the mountain and caused the largest landslide ever recorded. What is its name?",
+    "optionA": "Mount St. Helens",
+    "optionB": "Mount Rainier",
+    "optionC": "Mount Hood",
+    "optionD": "Mount Shasta",
+    "correctOption": "A",
+    "explanation": "Mount St. Helens, in Washington State, erupted catastrophically on May 18, 1980, killing 57 people and triggering the largest landslide ever recorded."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "The Yukon River flows through which two places on its way to the Bering Sea?",
+    "optionA": "Alaska and Russia",
+    "optionB": "Alaska and Canada",
+    "optionC": "Canada and Greenland",
+    "optionD": "Russia and Canada",
+    "correctOption": "B",
+    "explanation": "The Yukon River begins in Canada's Yukon territory and flows through Alaska before reaching the Bering Sea."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which volcano in Hawaii is considered the most continuously active volcano on Earth?",
+    "optionA": "Mauna Loa",
+    "optionB": "Mauna Kea",
+    "optionC": "Kilauea",
+    "optionD": "Haleakala",
+    "correctOption": "C",
+    "explanation": "Kilauea, on the island of Hawaii, has been erupting almost continuously for around 200 years, making it the most continuously active volcano on Earth."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Mekong River is one of Southeast Asia's most important rivers. Roughly how many countries does it flow through?",
+    "optionA": "Two",
+    "optionB": "Four",
+    "optionC": "Ten",
+    "optionD": "Six",
+    "correctOption": "D",
+    "explanation": "The Mekong River flows through six countries — China, Myanmar, Laos, Thailand, Cambodia, and Vietnam — before reaching the sea through the Mekong Delta."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "In South Africa, wide open grassland plains on the high plateau are known by an Afrikaans word meaning 'field'. What is this word?",
+    "optionA": "Veld",
+    "optionB": "Kraal",
+    "optionC": "Koppie",
+    "optionD": "Vlei",
+    "correctOption": "A",
+    "explanation": "The Veld (from the Afrikaans word for 'field') refers to the open grassland plains and plateaus of South Africa, including the high-altitude Highveld."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "The Zagros Mountains are a long mountain range in the Middle East. Which country do they mostly run through?",
+    "optionA": "Saudi Arabia",
+    "optionB": "Iran",
+    "optionC": "Iraq",
+    "optionD": "Turkey",
+    "correctOption": "B",
+    "explanation": "The Zagros Mountains run mostly through western and southwestern Iran, forming a natural barrier between Iran and the plains of Mesopotamia."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "The Sahara Desert stretches across North Africa. Roughly how many separate countries does it spread across?",
+    "optionA": "About 3",
+    "optionB": "About 5",
+    "optionC": "About 10",
+    "optionD": "About 25",
+    "correctOption": "C",
+    "explanation": "The Sahara Desert spreads across roughly 10 countries, including Algeria, Libya, Egypt, Mali, Mauritania, Niger, Chad, and Sudan."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "The Sahel is a band of dry grassland stretching across Africa, forming a transition between two very different regions. Which two regions does it lie between?",
+    "optionA": "The Atlantic Ocean and the Indian Ocean",
+    "optionB": "The Atlas Mountains and the Nile Valley",
+    "optionC": "The rainforest and the Mediterranean coast",
+    "optionD": "The Sahara Desert and the humid savannas to the south",
+    "correctOption": "D",
+    "explanation": "The Sahel is a semi-arid band stretching across Africa from Senegal to Sudan, forming a transition zone between the Sahara Desert to the north and humid savanna grasslands to the south."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Mount Ararat, in eastern Turkey, is famous in religious tradition as the resting place of Noah's Ark. What kind of mountain is it, geologically?",
+    "optionA": "A dormant volcano",
+    "optionB": "A fold mountain",
+    "optionC": "A block mountain",
+    "optionD": "A limestone plateau",
+    "correctOption": "A",
+    "explanation": "Mount Ararat is a dormant stratovolcano, Turkey's tallest mountain at about 5,137 metres, located near the borders with Iran and Armenia."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Death Valley, in the United States, holds two extreme records for North America. What are they?",
+    "optionA": "The wettest and highest point",
+    "optionB": "The lowest and hottest point",
+    "optionC": "The coldest and flattest point",
+    "optionD": "The windiest and driest point",
+    "correctOption": "B",
+    "explanation": "Death Valley is home to both the lowest point in North America (Badwater Basin, 86 metres below sea level) and the hottest reliably recorded air temperature on Earth (134°F / 57°C, in 1913)."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "The Nile River is actually formed by two major rivers joining together in Sudan. What are they called?",
+    "optionA": "The Upper Nile and Lower Nile",
+    "optionB": "The Great Nile and Little Nile",
+    "optionC": "The Blue Nile and White Nile",
+    "optionD": "The East Nile and West Nile",
+    "correctOption": "C",
+    "explanation": "The Blue Nile (starting in Ethiopia) and the White Nile (starting near the Uganda-DR Congo border) meet in Khartoum, Sudan, to form the Nile River that flows on into Egypt."
   }
 ]
