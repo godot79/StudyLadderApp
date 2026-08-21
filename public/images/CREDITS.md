@@ -46,13 +46,20 @@ license on its file page — no image is used on an assumed or guessed license.
 | `geography/map-shaded-kazakhstan.png` | [Kazakhstan (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Kazakhstan_(orthographic_projection).svg) | Turkish Flame, Ssolbergj | GFDL |
 | `geography/map-shaded-switzerland.png` | [Switzerland (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Switzerland_(orthographic_projection).svg) | Marcos Elias de Oliveira Júnior | Public domain |
 | `geography/map-shaded-bangladesh.png` | [Bangladesh (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Bangladesh_(orthographic_projection).svg) | Shahid Parvez, Ssolbergj | GFDL |
+| `geography/map-shaded-nepal.png` | [Nepal (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Nepal_(orthographic_projection).svg) | Ssolbergj, M.Bitton | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-mongolia.png` | [Mongolia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Mongolia_(orthographic_projection).svg) | ASDFGHJ, M.Bitton | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-ghana.png` | [Ghana (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Ghana_(orthographic_projection).svg) | Martin23230, Marcos Elias de Oliveira Júnior | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-jordan.png` | [Jordan (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Jordan_(orthographic_projection).svg) | Rob984, M.Bitton | CC BY-SA 4.0 / GFDL |
+| `geography/map-shaded-bolivia.png` | [Bolivia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Bolivia_(orthographic_projection).svg) | Connormah, Denniss | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-uganda.png` | [Uganda (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Uganda_(orthographic_projection).svg) | Marcos Elias de Oliveira Júnior, M.Bitton | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-srilanka.png` | [Sri Lanka (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Sri_Lanka_(orthographic_projection).svg) | Connormah, M.Bitton | CC BY-SA 3.0 / GFDL |
 
 Only the CC BY-SA 3.0 files (the continents map and the country maps so
 licensed) legally require attribution on redistribution; the public-domain
 and CC0 files don't, but are credited here anyway for transparency. No
 image has been modified from the original.
 
-The 36 orthographic-projection country maps are all part of the same
+The 43 orthographic-projection country maps are all part of the same
 Wikimedia Commons file series used across Wikipedia's own country infobox
 maps; each carries CC BY / CC BY-SA / dual GFDL licensing requiring
 attribution, which this table provides. France's, Norway's, Austria's, and

@@ -1,0 +1,122 @@
+[
+  {
+    "prompt": "Look at this map of South Asia. One narrow country is shaded in green, squeezed into the Himalayas between two much bigger neighbours. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Nepal's capital is Kathmandu; Nepal is a narrow Himalayan country between India and China. Well-established encyclopedic fact.",
+    "source": "General geographic knowledge (national capital, uncontested)"
+  },
+  {
+    "prompt": "Look at this map of West Africa. One country is shaded in green, right where the Greenwich Prime Meridian meets the coast. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Ghana's capital is Accra. The Prime Meridian passes through Ghana near Tema, one of the few countries it crosses on land.",
+    "source": "General geographic knowledge (national capital, Prime Meridian route, uncontested)"
+  },
+  {
+    "prompt": "Look at this map of Central Asia. One large, landlocked country is shaded in green, wedged between two much bigger neighbours to its north and south. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Mongolia's capital is Ulaanbaatar; Mongolia is landlocked between Russia and China.",
+    "source": "General geographic knowledge (national capital, uncontested)"
+  },
+  {
+    "prompt": "Look at this map of the Middle East. One country is shaded in green, with almost no coastline except for a tiny outlet on the Red Sea. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Jordan's capital is Amman; Jordan's only coastline is the short stretch at Aqaba on the Red Sea.",
+    "source": "General geographic knowledge (national capital and coastline, uncontested)"
+  },
+  {
+    "prompt": "Look at this map of the Indian Ocean. One teardrop-shaped island country is shaded in green, just off the southern tip of a much larger neighbour. Which country is shaded?",
+    "verdict": "confirmed",
+    "note": "Sri Lanka is commonly described as teardrop-shaped and sits just off the southern tip of India.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "Look at this map of East Africa. One landlocked country is shaded in green, sitting on the equator right next to one of the world's largest lakes. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Uganda's capital is Kampala; Uganda is landlocked, straddles the equator, and borders Lake Victoria.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "Look at this map of South America. One landlocked country is shaded in green, high in the Andes mountains, with two official capital cities instead of one. Which country is shaded?",
+    "verdict": "confirmed",
+    "note": "Bolivia is landlocked, in the Andes, with Sucre as constitutional capital and La Paz as seat of government.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "The Congo River in Africa is famous for being extremely deep in places, deeper than any other river in the world. Which ocean does the Congo River flow into?",
+    "verdict": "confirmed",
+    "note": "Web search confirms the Congo is widely cited as the world's deepest river, with measured depths around 220m (720ft), and it empties into the Atlantic Ocean.",
+    "source": "https://www.worldatlas.com/rivers/the-congo-river-the-world-s-deepest-river.html ; https://www.livescience.com/congo-river.html"
+  },
+  {
+    "prompt": "The Volga is the longest river entirely within Europe. Unlike many major rivers, it flows from start to finish without ever crossing a border. Which single country does the Volga River flow through?",
+    "verdict": "confirmed",
+    "note": "Web search confirms the Volga is Europe's longest river, flows entirely within Russia, and empties into the Caspian Sea.",
+    "source": "https://www.britannica.com/place/Volga-River ; https://www.nasa.gov/image-article/volga-river-flows-into-caspian-sea/"
+  },
+  {
+    "prompt": "The Canterbury Plains are the largest area of flat farmland in New Zealand, important for sheep and cattle. Which of New Zealand's two main islands are they found on?",
+    "verdict": "confirmed",
+    "note": "The Canterbury Plains are on New Zealand's South Island, its largest flat area, well documented.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "The Kalahari is sometimes called a 'semi-desert' because it gets more rain and supports more plants and animals than a true desert like the Sahara. Which country contains most of the Kalahari?",
+    "verdict": "confirmed",
+    "note": "Most of the Kalahari Desert lies within Botswana; it is commonly described as a semi-desert due to higher rainfall/vegetation than true deserts.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "Mount Kosciuszko, mainland Australia's tallest mountain, is so gentle a slope that most fit adults can walk to its summit in a day, unlike Everest or Kilimanjaro. Which mountain range is Mount Kosciuszko part of?",
+    "verdict": "confirmed",
+    "note": "Web search confirms Mount Kosciuszko is on the Main Range of the Snowy Mountains, part of the Australian Alps, which is part of the wider Great Dividing Range.",
+    "source": "https://en.wikipedia.org/wiki/Mount_Kosciuszko ; https://peakvisor.com/peak/mount-kosciuszko.html"
+  },
+  {
+    "prompt": "The Murray River is part of Australia's longest river system and forms a natural border for much of its length. Which two Australian states does it separate along most of its course?",
+    "verdict": "confirmed",
+    "note": "The Murray River forms the NSW-Victoria border for most of its length before entering South Australia. Well-established.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "The Irrawaddy River is the most important river in Myanmar (also called Burma), used for centuries to transport goods and people. Which sea does the Irrawaddy River flow into?",
+    "verdict": "confirmed",
+    "note": "Web search confirms the Irrawaddy delta empties into the Andaman Sea (via the Gulf of Martaban, itself part of the Andaman Sea).",
+    "source": "http://www.geol.lsu.edu/WDD/ASIAN/Irrawaddy/irrawaddy.htm ; https://en.wikipedia.org/wiki/Gulf_of_Martaban"
+  },
+  {
+    "prompt": "Mount Logan is Canada's tallest mountain, second in North America only to Denali. It belongs to a mountain range that crosses an international border. Which Canadian territory and US state does this range connect?",
+    "verdict": "confirmed",
+    "note": "Web search confirms Mount Logan is in the Saint Elias Mountains in Yukon, less than 40km from the Alaska border; the range straddles Yukon and Alaska.",
+    "source": "https://peakvisor.com/peak/mount-logan.html ; https://www.britannica.com/place/Saint-Elias-Mountains"
+  },
+  {
+    "prompt": "The Karakum Desert covers most of the land area of one Central Asian country, its name meaning 'black sand' in the local language. Which country is mostly covered by the Karakum Desert?",
+    "verdict": "confirmed",
+    "note": "Web search confirms the Karakum Desert covers about 70% of Turkmenistan's land area, name meaning 'black sand'.",
+    "source": "https://en.wikipedia.org/wiki/Karakum_Desert ; https://www.worldatlas.com/articles/where-is-the-karakum-desert.html"
+  },
+  {
+    "prompt": "The Zambezi River flows through several southern African countries, forming Victoria Falls along the way, before finally reaching the Indian Ocean. In which country does the Zambezi meet the ocean?",
+    "verdict": "confirmed",
+    "note": "The Zambezi forms Victoria Falls on the Zambia-Zimbabwe border and reaches the Indian Ocean through a delta in Mozambique. Well-established.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "Cotopaxi, in Ecuador, is one of the highest active volcanoes in the world and a striking, near-perfect cone shape. Which mountain range is Cotopaxi part of?",
+    "verdict": "confirmed",
+    "note": "Cotopaxi is a stratovolcano in the Andes mountain range in Ecuador; among the highest active volcanoes in the world. Well-established.",
+    "source": "General geographic knowledge, uncontested"
+  },
+  {
+    "prompt": "Puncak Jaya, in Indonesia, is the tallest mountain in Oceania — taller than any peak in Australia. Despite sitting near the equator, it is unusual for having what at its summit?",
+    "verdict": "confirmed",
+    "note": "Web search confirms Puncak Jaya has (rapidly shrinking) permanent equatorial glaciers, a well-documented unique feature, though they may disappear within a decade or two.",
+    "source": "https://eos.org/articles/the-eternity-glaciers-are-almost-gone ; https://earthobservatory.nasa.gov/IOTD/view.php?id=79084"
+  },
+  {
+    "prompt": "The Manchurian Plain is a major farming region in northeastern China, hemmed in by mountains on most sides. Which large country lies immediately to the north of the Manchurian Plain?",
+    "verdict": "confirmed",
+    "note": "Web search confirms the Manchurian/Northeast Plain region is bounded by Russia to the north/northwest/east, per Britannica.",
+    "source": "https://www.britannica.com/place/Manchuria ; https://www.britannica.com/place/Northeast-Plain"
+  }
+]

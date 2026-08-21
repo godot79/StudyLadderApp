@@ -1,0 +1,32 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map of East Africa. One landlocked country is shaded in green, sitting on the equator right next to one of the world's largest lakes. What is its capital city?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map of South America. One landlocked country is shaded in green, high in the Andes mountains, with two official capital cities instead of one. Which country is shaded?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Zambezi River flows through several southern African countries, forming Victoria Falls along the way, before finally reaching the Indian Ocean. In which country does the Zambezi meet the ocean?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Cotopaxi, in Ecuador, is one of the highest active volcanoes in the world and a striking, near-perfect cone shape. Which mountain range is Cotopaxi part of?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Puncak Jaya, in Indonesia, is the tallest mountain in Oceania — taller than any peak in Australia. Despite sitting near the equator, it is unusual for having what at its summit?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"The Manchurian Plain is a major farming region in northeastern China, hemmed in by mountains on most sides. Which large country lies immediately to the north of the Manchurian Plain?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  }
+]
