@@ -1,0 +1,42 @@
+[
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"This map shows a small country in Northern Europe shaded in green, joined to the rest of the continent by only a narrow land border with Germany. Which country is it?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Look at this map of the Caribbean Sea. One long, narrow island nation is shaded in green, just south of Florida. Which country is it?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Only a couple of countries in the world are completely surrounded by a single other country. Which small African country sits entirely inside South Africa's borders?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Most major rivers cross the equator once, if at all. Which African river is unusual because its course crosses the equator twice on its journey to the Atlantic Ocean?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Measured from its base on the ocean floor to its peak, this Hawaiian mountain is actually taller than Mount Everest, though most of its height lies underwater. Which mountain is it?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Which desert lies along the border between India and Pakistan, and is sometimes called the Great Indian Desert?\") assigned Age 11 High Achiever but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "warn",
+    "check": "age-band-mismatch",
+    "detail": "Q? (\"Which flat valley in California, lying between the Sierra Nevada and the Coast Ranges, produces a large share of all the fruit and vegetables grown in the United States?\") assigned Age 11 but has a low difficulty-heuristic score (0) — check it isn't too easy for this band."
+  },
+  {
+    "severity": "info",
+    "check": "topic-concentration",
+    "detail": "Topic \"capitals and countries\" is 45% of this batch (9/20)."
+  }
+]

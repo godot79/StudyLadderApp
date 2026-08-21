@@ -4368,5 +4368,219 @@
     "optionD": "Russia",
     "correctOption": "D",
     "explanation": "The Manchurian Plain lies in China's northeast, bordered to the north by Russia, with mountain ranges enclosing it on its other sides."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of South Asia. One country, next to India, is shaded in dark green. Which country is it?",
+    "optionA": "Pakistan",
+    "optionB": "Afghanistan",
+    "optionC": "Bangladesh",
+    "optionD": "Nepal",
+    "correctOption": "A",
+    "explanation": "The shaded country is Pakistan, in South Asia, bordering India, Afghanistan, Iran, and China.",
+    "image": "/images/geography/map-shaded-pakistan.png",
+    "imageAlt": "An orthographic globe view centered on South Asia, with Pakistan shaded dark green next to India, Afghanistan, and Iran."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which river forms much of the border between the United States and Mexico?",
+    "optionA": "Colorado River",
+    "optionB": "Rio Grande",
+    "optionC": "Mississippi River",
+    "optionD": "Columbia River",
+    "correctOption": "B",
+    "explanation": "The Rio Grande forms a large part of the border between the United States and Mexico, flowing from Colorado to the Gulf of Mexico."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which mountain is the tallest peak in the Alps, located on the border of France and Italy?",
+    "optionA": "Matterhorn",
+    "optionB": "Eiger",
+    "optionC": "Mont Blanc",
+    "optionD": "Jungfrau",
+    "correctOption": "C",
+    "explanation": "Mont Blanc, on the France-Italy border, is the tallest peak in the Alps at 4,808 metres."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which mountain range runs along the western side of North America, stretching from Canada down through the United States?",
+    "optionA": "Andes",
+    "optionB": "Alps",
+    "optionC": "Ural Mountains",
+    "optionD": "Rocky Mountains",
+    "correctOption": "D",
+    "explanation": "The Rocky Mountains stretch over 3,000 miles from British Columbia, Canada, down through the western United States."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which major Chinese river is nicknamed 'China's Sorrow' because of its long history of devastating floods?",
+    "optionA": "Yellow River",
+    "optionB": "Yangtze River",
+    "optionC": "Pearl River",
+    "optionD": "Mekong River",
+    "correctOption": "A",
+    "explanation": "The Yellow River (Huang He) has been nicknamed 'China's Sorrow' because of centuries of catastrophic flooding along its course."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "This map shows a large country in Eastern Europe shaded in green, north of the Black Sea. Which country is it?",
+    "optionA": "Belarus",
+    "optionB": "Ukraine",
+    "optionC": "Romania",
+    "optionD": "Poland",
+    "correctOption": "B",
+    "explanation": "The shaded country is Ukraine, a large country in Eastern Europe bordering the Black Sea to the south.",
+    "image": "/images/geography/map-shaded-ukraine.png",
+    "imageAlt": "An orthographic globe view centered on Eastern Europe, with Ukraine shaded dark green north of the Black Sea."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is the largest hot desert in the world, covering much of North Africa?",
+    "optionA": "Gobi Desert",
+    "optionB": "Kalahari Desert",
+    "optionC": "Sahara Desert",
+    "optionD": "Arabian Desert",
+    "correctOption": "C",
+    "explanation": "The Sahara Desert is the largest hot desert in the world, covering most of North Africa at about 9.2 million square kilometers."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which river flows through the Congo Rainforest and is the second-longest river in Africa?",
+    "optionA": "Niger River",
+    "optionB": "Zambezi River",
+    "optionC": "Nile River",
+    "optionD": "Congo River",
+    "correctOption": "D",
+    "explanation": "The Congo River is the second-longest river in Africa (after the Nile) and flows through the dense Congo Rainforest."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "This map shows an island nation in Southeast Asia shaded in green, made up of thousands of islands. Which country is it?",
+    "optionA": "Philippines",
+    "optionB": "Indonesia",
+    "optionC": "Malaysia",
+    "optionD": "Japan",
+    "correctOption": "A",
+    "explanation": "The shaded country is the Philippines, an archipelago nation in Southeast Asia made up of over 7,000 islands.",
+    "image": "/images/geography/map-shaded-philippines.png",
+    "imageAlt": "An orthographic globe view centered on Southeast Asia, with the Philippines' island chain shaded dark green."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "What is the capital of Jordan?",
+    "optionA": "Beirut",
+    "optionB": "Amman",
+    "optionC": "Damascus",
+    "optionD": "Baghdad",
+    "correctOption": "B",
+    "explanation": "Amman is the capital of Jordan and its largest city."
+  },
+  {
+    "levelBand": "Age 9 High Achiever",
+    "prompt": "Look at this map of North Africa. The largest country in Africa by land area is shaded in green. Which country is it?",
+    "optionA": "Libya",
+    "optionB": "Morocco",
+    "optionC": "Algeria",
+    "optionD": "Egypt",
+    "correctOption": "C",
+    "explanation": "The shaded country is Algeria, which became Africa's largest country by area after South Sudan split from Sudan in 2011.",
+    "image": "/images/geography/map-shaded-algeria.png",
+    "imageAlt": "An orthographic globe view centered on North Africa, with Algeria shaded dark green."
+  },
+  {
+    "levelBand": "Age 10 High Achiever",
+    "prompt": "Look at this map of Northern Europe. One long, narrow country is shaded in green, with much of its northern territory inside the Arctic Circle. Which country is it?",
+    "optionA": "Sweden",
+    "optionB": "Norway",
+    "optionC": "Estonia",
+    "optionD": "Finland",
+    "correctOption": "D",
+    "explanation": "The shaded country is Finland, a Nordic country whose northern region, Lapland, lies within the Arctic Circle.",
+    "image": "/images/geography/map-shaded-finland.png",
+    "imageAlt": "An orthographic globe view centered on Northern Europe, with Finland shaded dark green, its northern tip reaching into the Arctic Circle."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "This map shows a small country in Northern Europe shaded in green, joined to the rest of the continent by only a narrow land border with Germany. Which country is it?",
+    "optionA": "Denmark",
+    "optionB": "Netherlands",
+    "optionC": "Belgium",
+    "optionD": "Sweden",
+    "correctOption": "A",
+    "explanation": "The shaded country is Denmark, whose only land border is with Germany - the rest of the country is surrounded by sea.",
+    "image": "/images/geography/map-shaded-denmark.png",
+    "imageAlt": "An orthographic globe view centered on Northern Europe, with Denmark shaded dark green just north of Germany."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Look at this map of the Caribbean Sea. One long, narrow island nation is shaded in green, just south of Florida. Which country is it?",
+    "optionA": "Jamaica",
+    "optionB": "Cuba",
+    "optionC": "Haiti",
+    "optionD": "Dominican Republic",
+    "correctOption": "B",
+    "explanation": "The shaded country is Cuba, the largest island in the Caribbean, lying just south of Florida.",
+    "image": "/images/geography/map-shaded-cuba.png",
+    "imageAlt": "An orthographic globe view centered on the Caribbean and southeastern North America, with Cuba shaded dark green south of Florida."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Only a couple of countries in the world are completely surrounded by a single other country. Which small African country sits entirely inside South Africa's borders?",
+    "optionA": "Eswatini",
+    "optionB": "Malawi",
+    "optionC": "Lesotho",
+    "optionD": "Botswana",
+    "correctOption": "C",
+    "explanation": "Lesotho is an enclave nation, meaning it is completely surrounded by a single other country - in its case, South Africa."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Most major rivers cross the equator once, if at all. Which African river is unusual because its course crosses the equator twice on its journey to the Atlantic Ocean?",
+    "optionA": "Nile River",
+    "optionB": "Niger River",
+    "optionC": "Zambezi River",
+    "optionD": "Congo River",
+    "correctOption": "D",
+    "explanation": "The Congo River is unusual among major rivers because it crosses the equator twice, since its basin lies on both sides of it."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Measured from its base on the ocean floor to its peak, this Hawaiian mountain is actually taller than Mount Everest, though most of its height lies underwater. Which mountain is it?",
+    "optionA": "Mauna Kea",
+    "optionB": "Mauna Loa",
+    "optionC": "Kilimanjaro",
+    "optionD": "Denali",
+    "correctOption": "A",
+    "explanation": "Mauna Kea, measured from its base on the Pacific Ocean floor to its summit, is over 10,000 meters tall - taller than Mount Everest - but only its peak above sea level counts toward official mountain height rankings."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "This famous pyramid-shaped peak on the Swiss-Italian border is one of the most photographed mountains in the world, yet it was one of the last major Alpine summits to be climbed, first reached only in 1865. Which mountain is it?",
+    "optionA": "Mont Blanc",
+    "optionB": "Matterhorn",
+    "optionC": "Eiger",
+    "optionD": "Jungfrau",
+    "correctOption": "B",
+    "explanation": "The Matterhorn, on the border between Switzerland and Italy, was not successfully climbed until 1865, later than many other major Alpine peaks, partly because of its steep, near-vertical faces."
+  },
+  {
+    "levelBand": "Age 11 High Achiever",
+    "prompt": "Which desert lies along the border between India and Pakistan, and is sometimes called the Great Indian Desert?",
+    "optionA": "Gobi Desert",
+    "optionB": "Arabian Desert",
+    "optionC": "Thar Desert",
+    "optionD": "Kalahari Desert",
+    "correctOption": "C",
+    "explanation": "The Thar Desert, also called the Great Indian Desert, stretches across the border region of northwestern India and eastern Pakistan."
+  },
+  {
+    "levelBand": "Age 11",
+    "prompt": "Which flat valley in California, lying between the Sierra Nevada and the Coast Ranges, produces a large share of all the fruit and vegetables grown in the United States?",
+    "optionA": "Great Plains",
+    "optionB": "Willamette Valley",
+    "optionC": "Snake River Plain",
+    "optionD": "Central Valley",
+    "correctOption": "D",
+    "explanation": "California's Central Valley, a long flat plain between the Sierra Nevada and Coast Ranges, produces a large share of the fruits and vegetables grown in the United States due to its fertile soil, irrigation, and long growing season."
   }
 ]

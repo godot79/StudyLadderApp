@@ -53,6 +53,13 @@ license on its file page — no image is used on an assumed or guessed license.
 | `geography/map-shaded-bolivia.png` | [Bolivia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Bolivia_(orthographic_projection).svg) | Connormah, Denniss | CC BY-SA 3.0 / GFDL |
 | `geography/map-shaded-uganda.png` | [Uganda (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Uganda_(orthographic_projection).svg) | Marcos Elias de Oliveira Júnior, M.Bitton | CC BY-SA 3.0 / GFDL |
 | `geography/map-shaded-srilanka.png` | [Sri Lanka (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Sri_Lanka_(orthographic_projection).svg) | Connormah, M.Bitton | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-pakistan.png` | [Pakistan (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Pakistan_(orthographic_projection).svg) | Atin Bhattacharya, Turkish Flame | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-ukraine.png` | [Ukraine (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Ukraine_(orthographic_projection).svg) | M.Bitton | CC BY-SA 4.0 |
+| `geography/map-shaded-algeria.png` | [Algeria (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Algeria_(orthographic_projection).svg) | L'Américain | Public domain |
+| `geography/map-shaded-philippines.png` | [Philippines (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Philippines_(orthographic_projection).svg) | Addicted04 | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-finland.png` | [Finland (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Finland_(orthographic_projection).svg) | Fjat | CC0 |
+| `geography/map-shaded-denmark.png` | [Denmark (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Denmark_(orthographic_projection).svg) | Scouten, The Emirr, Rob984 | Public domain |
+| `geography/map-shaded-cuba.png` | [Cuba (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Cuba_(orthographic_projection).svg) | Connormah, Ssolbergj | CC BY-SA 3.0 / GFDL |
 
 Only the CC BY-SA 3.0 files (the continents map and the country maps so
 licensed) legally require attribution on redistribution; the public-domain
