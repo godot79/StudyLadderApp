@@ -1,0 +1,122 @@
+[
+  {
+    "prompt": "Look at this map of Southeastern Europe. One country is shaded in green, home to the Carpathian Mountains. What is this country called?",
+    "verdict": "confirmed",
+    "note": "Romania is in southeastern/central Europe and roughly 50% of the Carpathian Mountains lie within its borders.",
+    "source": "https://en.wikipedia.org/wiki/Carpathian_Mountains, https://www.romanianfriend.com/blog/carpathian-mountains-romania"
+  },
+  {
+    "prompt": "Look at this map of Central Europe. One small landlocked country is shaded in green. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "The Czech Republic is landlocked in Central Europe and its capital is Prague.",
+    "source": "https://www.britannica.com/place/Prague"
+  },
+  {
+    "prompt": "Look at this map of southwestern Africa. One country is shaded in green, with a long coastline on the Atlantic Ocean. What is this country called?",
+    "verdict": "confirmed",
+    "note": "Angola is on the southwestern coast of Africa with about a 1,600 km Atlantic coastline.",
+    "source": "https://en.wikipedia.org/wiki/Geography_of_Angola"
+  },
+  {
+    "prompt": "Look at this map of South America. One small country is shaded in green, sitting right on the equator. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Ecuador is named for the equator, which passes through the country; its capital is Quito.",
+    "source": "https://en.wikipedia.org/wiki/Quito, https://mytrip2ecuador.com/why-is-ecuador-named-ecuador/"
+  },
+  {
+    "prompt": "Look at this map of northwestern Europe. One low-lying country is shaded in green, famous for windmills and tulip fields. What is this country called?",
+    "verdict": "confirmed",
+    "note": "The Netherlands is a low-lying northwestern European country known for windmills, tulip fields, and land reclaimed from the sea (polders).",
+    "source": "https://classroom.ricksteves.com/videos/the-netherlands-creating-land-from-the-sea-and-tulips"
+  },
+  {
+    "prompt": "Look at this map of South America. One landlocked country is shaded in green, bordered by Argentina, Brazil, and Bolivia. What is its capital city?",
+    "verdict": "confirmed",
+    "note": "Paraguay is landlocked, bordered by Bolivia, Brazil, and Argentina, with its capital at Asunción.",
+    "source": "https://www.britannica.com/place/Paraguay"
+  },
+  {
+    "prompt": "Look at this map of southern Africa. One landlocked country is shaded in green. It shares one of the world's largest waterfalls with the country on its southern border. What is this country called?",
+    "verdict": "confirmed",
+    "note": "Zambia is landlocked in south-central Africa and shares Victoria Falls with Zimbabwe along the Zambezi River border.",
+    "source": "https://www.victoriafalls-guide.net/crossing-victoria-falls-border.html"
+  },
+  {
+    "prompt": "Which river is the longest river in South Africa?",
+    "verdict": "confirmed",
+    "note": "The Orange River is confirmed as South Africa's longest river; length is commonly cited around 2,200 km although sources vary between roughly 2,090 km and 2,432 km depending on measurement method. The 'about 2,200 km' figure used in the explanation falls within this commonly cited range.",
+    "source": "https://en.wikipedia.org/wiki/Orange_River, https://smartwatermagazine.com/q-a/what-longest-river-south-africa"
+  },
+  {
+    "prompt": "Which river is the longest river in Italy?",
+    "verdict": "confirmed",
+    "note": "The Po River is Italy's longest river at 652 km, flowing into the Adriatic Sea.",
+    "source": "https://www.britannica.com/place/Po-River"
+  },
+  {
+    "prompt": "Which of these rivers flows through Russia and empties into the Arctic Ocean?",
+    "verdict": "confirmed",
+    "note": "The Yenisei flows through Siberia (Russia) into the Kara Sea, part of the Arctic Ocean.",
+    "source": "https://www.britannica.com/place/Yenisey-River"
+  },
+  {
+    "prompt": "Which river is the longest river in Canada, flowing north into the Arctic Ocean?",
+    "verdict": "confirmed",
+    "note": "The Mackenzie River (and its river system) is described as Canada's longest river, flowing north into the Arctic Ocean via the Beaufort Sea.",
+    "source": "https://www.britannica.com/place/Mackenzie-River"
+  },
+  {
+    "prompt": "What is the tallest mountain in the United Kingdom?",
+    "verdict": "confirmed",
+    "note": "Ben Nevis in Scotland is confirmed as the UK's tallest mountain at 1,345 m.",
+    "source": "https://en.wikipedia.org/wiki/Ben_Nevis"
+  },
+  {
+    "prompt": "The Blue Mountains, named for a blue haze created by eucalyptus trees, are located in which country?",
+    "verdict": "confirmed",
+    "note": "The Blue Mountains are in Australia (New South Wales) and are named for the blue haze from eucalyptus oil droplets.",
+    "source": "https://bluemountainstoursydney.com.au/blog/why-are-blue-mountains-blue/"
+  },
+  {
+    "prompt": "The Ruwenzori Mountains, nicknamed the 'Mountains of the Moon,' sit on the border between which two African countries?",
+    "verdict": "confirmed",
+    "note": "The Rwenzori/Ruwenzori Mountains straddle the Uganda-DR Congo border and are historically called the Mountains of the Moon.",
+    "source": "https://en.wikipedia.org/wiki/Rwenzori_Mountains"
+  },
+  {
+    "prompt": "The Great Sandy Desert is located in which country?",
+    "verdict": "confirmed",
+    "note": "The Great Sandy Desert is in northwestern Australia (Western Australia/Northern Territory).",
+    "source": "https://en.wikipedia.org/wiki/Great_Sandy_Desert"
+  },
+  {
+    "prompt": "The Taklamakan Desert, one of the world's largest sandy deserts, is located in which country?",
+    "verdict": "confirmed",
+    "note": "The Taklamakan Desert is in Xinjiang, northwestern China, and is the largest desert in China / one of the largest sandy deserts in the world.",
+    "source": "https://www.topchinatravel.com/china-guide/the-largest-desert-in-china.htm"
+  },
+  {
+    "prompt": "The Syrian Desert stretches across parts of Syria, Jordan, and which other two countries?",
+    "verdict": "confirmed",
+    "note": "The Syrian Desert covers parts of Syria, Jordan, northern Saudi Arabia, and western Iraq.",
+    "source": "https://en.wikipedia.org/wiki/Syrian_Desert"
+  },
+  {
+    "prompt": "The North China Plain, one of the most densely populated regions on Earth, was formed by sediment from which river?",
+    "verdict": "confirmed",
+    "note": "The North China Plain is an alluvial lowland formed by sediment deposited by the Yellow River (Huang He) and is densely populated.",
+    "source": "https://geographyworlds.com/blog/north-china-plain-geography/"
+  },
+  {
+    "prompt": "The Po Valley, a large flat plain used for farming, is located in which country?",
+    "verdict": "confirmed",
+    "note": "The Po Valley is Italy's largest, most fertile plain, formed by the Po River, and a major farming region.",
+    "source": "https://www.britannica.com/place/Po-Valley"
+  },
+  {
+    "prompt": "The Ganges Plain, one of the most fertile farming regions in the world, stretches across northern India and which other country?",
+    "verdict": "confirmed",
+    "note": "The Ganges Plain is a fertile alluvial lowland spanning northern India and Bangladesh.",
+    "source": "https://fiveable.me/world-geography/key-terms/ganges-plain"
+  }
+]

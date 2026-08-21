@@ -60,13 +60,20 @@ license on its file page — no image is used on an assumed or guessed license.
 | `geography/map-shaded-finland.png` | [Finland (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Finland_(orthographic_projection).svg) | Fjat | CC0 |
 | `geography/map-shaded-denmark.png` | [Denmark (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Denmark_(orthographic_projection).svg) | Scouten, The Emirr, Rob984 | Public domain |
 | `geography/map-shaded-cuba.png` | [Cuba (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Cuba_(orthographic_projection).svg) | Connormah, Ssolbergj | CC BY-SA 3.0 / GFDL |
+| `geography/map-shaded-romania.png` | [Romania (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Romania_(orthographic_projection).svg) | Luciandrei, Ssolbergj | CC BY-SA 3.0 |
+| `geography/map-shaded-czechrepublic.png` | [Czech Republic (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Czech_Republic_(orthographic_projection).svg) | Rob984 | CC BY-SA 4.0 |
+| `geography/map-shaded-angola.png` | [Angola (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Angola_(orthographic_projection).svg) | L'Américain | CC BY-SA 3.0 |
+| `geography/map-shaded-ecuador.png` | [Ecuador (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Ecuador_(orthographic_projection).svg) | Connormah | CC BY-SA 3.0 |
+| `geography/map-shaded-netherlands.png` | [Netherlands (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Netherlands_(orthographic_projection).svg) | Rob984 | CC BY-SA 3.0 |
+| `geography/map-shaded-paraguay.png` | [Paraguay (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Paraguay_(orthographic_projection).svg) | Connormah | CC BY-SA 3.0 |
+| `geography/map-shaded-zambia.png` | [Zambia (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Zambia_(orthographic_projection).svg) | Marcos Elias de Oliveira Júnior | CC BY-SA |
 
 Only the CC BY-SA 3.0 files (the continents map and the country maps so
 licensed) legally require attribution on redistribution; the public-domain
 and CC0 files don't, but are credited here anyway for transparency. No
 image has been modified from the original.
 
-The 43 orthographic-projection country maps are all part of the same
+The 50 orthographic-projection country maps are all part of the same
 Wikimedia Commons file series used across Wikipedia's own country infobox
 maps; each carries CC BY / CC BY-SA / dual GFDL licensing requiring
 attribution, which this table provides. France's, Norway's, Austria's, and

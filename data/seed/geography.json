@@ -4582,5 +4582,219 @@
     "optionD": "Central Valley",
     "correctOption": "D",
     "explanation": "California's Central Valley, a long flat plain between the Sierra Nevada and Coast Ranges, produces a large share of the fruits and vegetables grown in the United States due to its fertile soil, irrigation, and long growing season."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of Southeastern Europe. One country is shaded in green, home to the Carpathian Mountains. What is this country called?",
+    "optionA": "Romania",
+    "optionB": "Bulgaria",
+    "optionC": "Hungary",
+    "optionD": "Serbia",
+    "correctOption": "A",
+    "explanation": "The shaded country is Romania, home to the Carpathian Mountains in southeastern Europe.",
+    "image": "/images/geography/map-shaded-romania.png",
+    "imageAlt": "An orthographic globe view centered on Europe, with Romania shaded dark green in southeastern Europe, north of Bulgaria and south of Ukraine."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of Central Europe. One small landlocked country is shaded in green. What is its capital city?",
+    "optionA": "Vienna",
+    "optionB": "Prague",
+    "optionC": "Warsaw",
+    "optionD": "Bratislava",
+    "correctOption": "B",
+    "explanation": "The shaded country is the Czech Republic, and its capital city is Prague.",
+    "image": "/images/geography/map-shaded-czechrepublic.png",
+    "imageAlt": "An orthographic globe view centered on Europe, with the Czech Republic shaded dark green in Central Europe, surrounded by Germany, Poland, Austria, and Slovakia."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of southwestern Africa. One country is shaded in green, with a long coastline on the Atlantic Ocean. What is this country called?",
+    "optionA": "Namibia",
+    "optionB": "Zambia",
+    "optionC": "Angola",
+    "optionD": "Mozambique",
+    "correctOption": "C",
+    "explanation": "The shaded country is Angola, which has a long coastline along the Atlantic Ocean in southwestern Africa.",
+    "image": "/images/geography/map-shaded-angola.png",
+    "imageAlt": "An orthographic globe view centered on Africa, with Angola shaded dark green on the southwestern Atlantic coast, above Namibia."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of South America. One small country is shaded in green, sitting right on the equator. What is its capital city?",
+    "optionA": "Bogotá",
+    "optionB": "Lima",
+    "optionC": "Caracas",
+    "optionD": "Quito",
+    "correctOption": "D",
+    "explanation": "The shaded country is Ecuador, named for the equator that runs through it. Its capital city is Quito.",
+    "image": "/images/geography/map-shaded-ecuador.png",
+    "imageAlt": "An orthographic globe view centered on South America, with Ecuador shaded dark green on the northwestern coast, straddling the equator line drawn across the globe."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of northwestern Europe. One low-lying country is shaded in green, famous for windmills and tulip fields. What is this country called?",
+    "optionA": "Netherlands",
+    "optionB": "Belgium",
+    "optionC": "Denmark",
+    "optionD": "Ireland",
+    "correctOption": "A",
+    "explanation": "The shaded country is the Netherlands, well known for its windmills, tulip fields, and land reclaimed from the sea.",
+    "image": "/images/geography/map-shaded-netherlands.png",
+    "imageAlt": "An orthographic globe view centered on Europe, with the Netherlands shaded dark green on the northwestern coast, next to Belgium and Germany."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Look at this map of South America. One landlocked country is shaded in green, bordered by Argentina, Brazil, and Bolivia. What is its capital city?",
+    "optionA": "Montevideo",
+    "optionB": "Asunción",
+    "optionC": "La Paz",
+    "optionD": "Santiago",
+    "correctOption": "B",
+    "explanation": "The shaded country is Paraguay, a landlocked country bordered by Argentina, Brazil, and Bolivia. Its capital city is Asunción.",
+    "image": "/images/geography/map-shaded-paraguay.png",
+    "imageAlt": "An orthographic globe view centered on South America, with Paraguay shaded dark green, a small landlocked country between Argentina, Brazil, and Bolivia."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Look at this map of southern Africa. One landlocked country is shaded in green. It shares one of the world's largest waterfalls with the country on its southern border. What is this country called?",
+    "optionA": "Zimbabwe",
+    "optionB": "Malawi",
+    "optionC": "Zambia",
+    "optionD": "Botswana",
+    "correctOption": "C",
+    "explanation": "The shaded country is Zambia, a landlocked country in southern Africa. Zambia shares Victoria Falls, one of the world's largest waterfalls, with Zimbabwe along their shared border.",
+    "image": "/images/geography/map-shaded-zambia.png",
+    "imageAlt": "An orthographic globe view centered on Africa, with Zambia shaded dark green, a landlocked country in southern Africa bordered by Zimbabwe to the south."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which river is the longest river in South Africa?",
+    "optionA": "Nile",
+    "optionB": "Limpopo",
+    "optionC": "Zambezi",
+    "optionD": "Orange River",
+    "correctOption": "D",
+    "explanation": "The Orange River is the longest river in South Africa, flowing about 2,200 km from the Drakensberg mountains to the Atlantic Ocean."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "Which river is the longest river in Italy?",
+    "optionA": "Po",
+    "optionB": "Tiber",
+    "optionC": "Rhine",
+    "optionD": "Arno",
+    "correctOption": "A",
+    "explanation": "The Po River is the longest river in Italy, flowing about 652 km across northern Italy into the Adriatic Sea."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which of these rivers flows through Russia and empties into the Arctic Ocean?",
+    "optionA": "Danube",
+    "optionB": "Yenisei",
+    "optionC": "Amazon",
+    "optionD": "Nile",
+    "correctOption": "B",
+    "explanation": "The Yenisei River flows through Siberia in Russia and empties into the Arctic Ocean. It is one of the longest rivers in the world."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "Which river is the longest river in Canada, flowing north into the Arctic Ocean?",
+    "optionA": "Mississippi",
+    "optionB": "Yukon",
+    "optionC": "Mackenzie",
+    "optionD": "Colorado",
+    "correctOption": "C",
+    "explanation": "The Mackenzie River is the longest river in Canada, flowing north into the Arctic Ocean."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "What is the tallest mountain in the United Kingdom?",
+    "optionA": "Snowdon",
+    "optionB": "Scafell Pike",
+    "optionC": "Helvellyn",
+    "optionD": "Ben Nevis",
+    "correctOption": "D",
+    "explanation": "Ben Nevis, located in Scotland, is the tallest mountain in the United Kingdom, at 1,345 meters."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Blue Mountains, named for a blue haze created by eucalyptus trees, are located in which country?",
+    "optionA": "Australia",
+    "optionB": "New Zealand",
+    "optionC": "South Africa",
+    "optionD": "Canada",
+    "correctOption": "A",
+    "explanation": "The Blue Mountains are a mountain range in Australia, named for the blue haze produced by oil droplets released from eucalyptus trees."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Ruwenzori Mountains, nicknamed the 'Mountains of the Moon,' sit on the border between which two African countries?",
+    "optionA": "Kenya and Tanzania",
+    "optionB": "Uganda and DR Congo",
+    "optionC": "Egypt and Sudan",
+    "optionD": "Nigeria and Cameroon",
+    "correctOption": "B",
+    "explanation": "The Ruwenzori Mountains lie on the border between Uganda and the Democratic Republic of the Congo and are nicknamed the 'Mountains of the Moon.'"
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The Great Sandy Desert is located in which country?",
+    "optionA": "USA",
+    "optionB": "China",
+    "optionC": "Australia",
+    "optionD": "Mongolia",
+    "correctOption": "C",
+    "explanation": "The Great Sandy Desert is located in northwestern Australia and is one of the largest deserts in the country."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Taklamakan Desert, one of the world's largest sandy deserts, is located in which country?",
+    "optionA": "Mongolia",
+    "optionB": "Kazakhstan",
+    "optionC": "Iran",
+    "optionD": "China",
+    "correctOption": "D",
+    "explanation": "The Taklamakan Desert is located in northwestern China and is one of the largest sandy deserts in the world."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Syrian Desert stretches across parts of Syria, Jordan, and which other two countries?",
+    "optionA": "Iraq and Saudi Arabia",
+    "optionB": "Egypt and Libya",
+    "optionC": "Iran and Turkey",
+    "optionD": "Lebanon and Israel",
+    "correctOption": "A",
+    "explanation": "The Syrian Desert extends across parts of Syria, Jordan, Iraq, and Saudi Arabia."
+  },
+  {
+    "levelBand": "Age 9",
+    "prompt": "The North China Plain, one of the most densely populated regions on Earth, was formed by sediment from which river?",
+    "optionA": "Yangtze River",
+    "optionB": "Yellow River",
+    "optionC": "Mekong River",
+    "optionD": "Amur River",
+    "correctOption": "B",
+    "explanation": "The North China Plain was formed by sediment from the Yellow River and is one of the most densely populated regions in the world."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Po Valley, a large flat plain used for farming, is located in which country?",
+    "optionA": "France",
+    "optionB": "Spain",
+    "optionC": "Italy",
+    "optionD": "Germany",
+    "correctOption": "C",
+    "explanation": "The Po Valley is a large plain in northern Italy formed by the Po River, and it is an important farming region."
+  },
+  {
+    "levelBand": "Age 10",
+    "prompt": "The Ganges Plain, one of the most fertile farming regions in the world, stretches across northern India and which other country?",
+    "optionA": "Pakistan",
+    "optionB": "Nepal",
+    "optionC": "Myanmar",
+    "optionD": "Bangladesh",
+    "correctOption": "D",
+    "explanation": "The Ganges Plain stretches across northern India and Bangladesh and is one of the most fertile and densely populated farming regions in the world."
   }
 ]
